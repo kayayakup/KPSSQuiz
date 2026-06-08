@@ -1,0 +1,3267 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 1,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 1,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 1,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 1,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 1,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 1,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 1,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 1,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 0",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 62,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 1",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 63,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 2",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 64,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 3",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 65,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 4",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 66,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 2,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 5",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 67,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 6",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 68,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 7",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 69,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 8",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 70,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 9",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 71,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 10",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 72,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 11",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 73,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 2,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 12",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 74,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 13",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 75,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 14",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 76,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 15",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 77,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 2,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 16",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 78,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 17",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 79,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 2,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 18",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 80,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 19",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 81,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 2,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 1,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 1,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 2,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 1,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 2,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 2,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 1,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 1,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 1,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 1,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 1,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 3,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 3,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 3,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 1,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 1,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 3,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 3,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 3,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 1,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 1,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 2,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 1,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 1,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 3,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 3,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 3,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 3,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 3,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 1,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 1,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  }
+]

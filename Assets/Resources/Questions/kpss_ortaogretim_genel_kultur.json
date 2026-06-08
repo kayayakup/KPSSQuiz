@@ -1,0 +1,4252 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir?",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir?",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır?",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir?",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 6)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 7)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 8)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 9)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 10)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 11)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 12)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 13)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 14)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 15)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 16)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 17)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 18)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 19)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 20)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 21)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 22)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 1,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 23)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 24)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 25)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 26)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 27)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 28)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 29)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 30)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 31)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 32)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 33)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 34)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 35)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 36)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 37)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 38)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 39)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 40)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 41)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 42)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 43)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 44)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 45)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 46)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 47)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 48)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 49)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 50)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 51)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 52)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 1,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 53)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 54)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 1,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 55)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 56)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 57)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 58)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 59)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 60)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 61)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 62,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 62)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 63,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 63)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 64,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 64)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 65,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 65)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 66,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 66)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 67,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 67)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 68,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 1,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 68)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 69,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 69)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 70,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 70)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 71,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 71)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 72,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 72)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 73,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 1,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 73)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 74,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 74)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 75,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 75)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 76,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 76)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 77,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 77)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 78,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 78)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 79,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 79)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 80,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 80)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 81,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 81)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 82)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 83)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 84)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 3,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 85)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 86)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 87)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 88)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 89)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 90)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 91)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 92)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 93)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 94)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 95)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 96)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 97)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 1,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 98)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 99)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 100)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 101)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 102)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 1,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 103)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 104)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 1,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 105)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'hükümdar' anlamına gelen unvanlardan biri değildir? (Soru 106)",
+    "answers": [
+      "Kağan",
+      "Han",
+      "Şah",
+      "İlteriş"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Şah unvanı daha çok İran/Fars geleneğinde ve Selçuklu sonrası bazı dönemlerde kullanılmıştır. Eski Türklerde Kağan, Han, İdikut, İlteriş gibi unvanlar vardır."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Devleti Kuruluş",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'Sultan' unvanını kullanan ilk padişah aşağıdakilerden hangisidir? (Soru 107)",
+    "answers": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murad",
+      "Yıldırım Bayezid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Orhan Bey, Osmanlı tarihinde Sultan unvanını kullanan ilk hükümdardır."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği savaş aşağıdakilerden hangisidir? (Soru 108)",
+    "answers": [
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz",
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi) sırasında bu tarihi emir verilmiştir."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü Divan-ı Hümayun hangi padişah döneminde Sadrazam başkanlığında toplanmaya başlamıştır? (Soru 109)",
+    "answers": [
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Mahmud",
+      "I. Selim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fatih Sultan Mehmet döneminden itibaren Divan'a sadrazamlar başkanlık etmeye başlamıştır."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Türk İslam Tarihi",
+    "difficulty": 2,
+    "questionText": "Karahanlılar döneminde yazılan ve 'mutluluk veren bilgi' anlamına gelen ilk Türk-İslam edebi eseri aşağıdakilerden hangisidir? (Soru 110)",
+    "answers": [
+      "Divan-ı Lügati't-Türk",
+      "Atabetü'l Hakayık",
+      "Kutadgu Bilig",
+      "Divan-ı Hikmet"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kutadgu Bilig, Yusuf Has Hacib tarafından yazılmıştır."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir?",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 2,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir?",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır?",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 2,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir?",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 5)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 6)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 7)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 1,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 8)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 9)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 2,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 10)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 11)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 2,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 12)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 13)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 14)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 15)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 3,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 16)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 17)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 3,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 18)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 19)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 3,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 20)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 21)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 22)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 23)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 3,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 24)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 25)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 3,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 26)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 27)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 3,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 28)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 29)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 30)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 31)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 3,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 32)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 33)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 34)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 35)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 1,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 36)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 37)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 3,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 38)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 39)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 3,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 40)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 41)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 42)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 43)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 1,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 44)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 45)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 2,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 46)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 47)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 2,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 48)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 49)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 50)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 51)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 1,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 52)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 53)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 2,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 54)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 55)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 1,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 56)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 57)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 58)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 59)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 3,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 60)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 61)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 62)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 63)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 3,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 64)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 65)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 1,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 66)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 67)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 1,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 68)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 69)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 2,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 70)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 71)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Nüfus ve Yerleşme",
+    "difficulty": 2,
+    "questionText": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir? (Soru 72)",
+    "answers": [
+      "İç Anadolu",
+      "Ege",
+      "Marmara",
+      "Akdeniz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sanayileşme ve ulaşım avantajları nedeniyle Marmara Bölgesi en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Fiziki Özellikleri",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir? (Soru 73)",
+    "answers": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağları"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ağrı Dağı 5137 metre ile Türkiye'nin en yüksek zirvesidir."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin İklimi",
+    "difficulty": 2,
+    "questionText": "Türkiye'de 'mikroklima' alanı olarak bilinen ve zeytin yetiştiriciliği yapılan Doğu Karadeniz şehri hangisidir? (Soru 74)",
+    "answers": [
+      "Rize",
+      "Artvin",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Artvin (Yusufeli) ve çevresi mikroklima özelliği göstererek zeytin yetişmesine olanak sağlar."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Ekonomik Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki yer altı kaynaklarından hangisi bakımından Türkiye dünyada ilk sırada yer almaktadır? (Soru 75)",
+    "answers": [
+      "Linyit",
+      "Bor",
+      "Demir",
+      "Mermer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dünya bor rezervlerinin yaklaşık %70'inden fazlası Türkiye'dedir."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 2,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar?",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir?",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 4)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 5)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 6)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 1,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 7)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 8)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 9)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 10)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 1,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 11)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 12)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 1,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 13)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 1,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 14)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 15)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 201,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 1,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 16)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 202,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 17)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 203,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 18)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 204,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 2,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 19)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 205,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 20)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 206,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 21)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 207,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 22)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 208,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 1,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 23)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 209,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 24)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 210,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 2,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 25)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 211,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 1,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 26)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 212,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 27)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 213,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 28)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 214,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 1,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 29)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 215,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 30)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 216,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 31)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 217,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 32)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 218,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 33)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 219,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 34)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 220,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 35)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 221,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 36)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 222,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 37)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 223,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 1,
+    "questionText": "1982 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılır? (Soru 38)",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2017 değişikliği ile birlikte Cumhurbaşkanlığı ve TBMM seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 224,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "İdare Hukuku",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip değildir? (Soru 39)",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Kaymakamlıklar"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Anayasa'ya göre Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kaymakamlık tek başına genel yönetmelik çıkaramaz."
+  },
+  {
+    "id": 225,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 1,
+    "questionText": "Hukukta 'hak ehliyeti' ne zaman başlar? (Soru 40)",
+    "answers": [
+      "Ergin olunca",
+      "18 yaşını doldurunca",
+      "Tam ve sağ doğumla",
+      "Ana rahmine düşünce"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hak ehliyeti tam ve sağ doğumla başlar, ancak ana rahmine düştüğü andan itibaren kazanılır (sağ doğmak şartıyla). En temel cevap tam ve sağ doğumdur."
+  },
+  {
+    "id": 226,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir?",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  },
+  {
+    "id": 227,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Kültürel Miras",
+    "difficulty": 1,
+    "questionText": "UNESCO Dünya Miras Listesi'ne Türkiye'den en son eklenen (2025/2026 civarı varsayımı) veya önemli kültürel varlık hangisidir?",
+    "answers": [
+      "Gordion",
+      "Arslantepe Höyüğü",
+      "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+      "Göbeklitepe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Son yıllarda (2023) Gordion ve Ahşap Hipostil Camiler listeye eklenmiştir."
+  },
+  {
+    "id": 228,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 1,
+    "questionText": "Türk Devletleri Teşkilatı'nın genel merkezi nerededir?",
+    "answers": [
+      "Ankara",
+      "İstanbul",
+      "Bakü",
+      "Semerkant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TDT Genel Sekreterliği İstanbul'dadır."
+  },
+  {
+    "id": 229,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir? (Soru 4)",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  },
+  {
+    "id": 230,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Kültürel Miras",
+    "difficulty": 1,
+    "questionText": "UNESCO Dünya Miras Listesi'ne Türkiye'den en son eklenen (2025/2026 civarı varsayımı) veya önemli kültürel varlık hangisidir? (Soru 5)",
+    "answers": [
+      "Gordion",
+      "Arslantepe Höyüğü",
+      "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+      "Göbeklitepe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Son yıllarda (2023) Gordion ve Ahşap Hipostil Camiler listeye eklenmiştir."
+  },
+  {
+    "id": 231,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 1,
+    "questionText": "Türk Devletleri Teşkilatı'nın genel merkezi nerededir? (Soru 6)",
+    "answers": [
+      "Ankara",
+      "İstanbul",
+      "Bakü",
+      "Semerkant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TDT Genel Sekreterliği İstanbul'dadır."
+  },
+  {
+    "id": 232,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir? (Soru 7)",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  },
+  {
+    "id": 233,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Kültürel Miras",
+    "difficulty": 1,
+    "questionText": "UNESCO Dünya Miras Listesi'ne Türkiye'den en son eklenen (2025/2026 civarı varsayımı) veya önemli kültürel varlık hangisidir? (Soru 8)",
+    "answers": [
+      "Gordion",
+      "Arslantepe Höyüğü",
+      "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+      "Göbeklitepe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Son yıllarda (2023) Gordion ve Ahşap Hipostil Camiler listeye eklenmiştir."
+  },
+  {
+    "id": 234,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 3,
+    "questionText": "Türk Devletleri Teşkilatı'nın genel merkezi nerededir? (Soru 9)",
+    "answers": [
+      "Ankara",
+      "İstanbul",
+      "Bakü",
+      "Semerkant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TDT Genel Sekreterliği İstanbul'dadır."
+  },
+  {
+    "id": 235,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir? (Soru 10)",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  },
+  {
+    "id": 236,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Kültürel Miras",
+    "difficulty": 1,
+    "questionText": "UNESCO Dünya Miras Listesi'ne Türkiye'den en son eklenen (2025/2026 civarı varsayımı) veya önemli kültürel varlık hangisidir? (Soru 11)",
+    "answers": [
+      "Gordion",
+      "Arslantepe Höyüğü",
+      "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+      "Göbeklitepe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Son yıllarda (2023) Gordion ve Ahşap Hipostil Camiler listeye eklenmiştir."
+  },
+  {
+    "id": 237,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 3,
+    "questionText": "Türk Devletleri Teşkilatı'nın genel merkezi nerededir? (Soru 12)",
+    "answers": [
+      "Ankara",
+      "İstanbul",
+      "Bakü",
+      "Semerkant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TDT Genel Sekreterliği İstanbul'dadır."
+  },
+  {
+    "id": 238,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir? (Soru 13)",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  },
+  {
+    "id": 239,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Kültürel Miras",
+    "difficulty": 2,
+    "questionText": "UNESCO Dünya Miras Listesi'ne Türkiye'den en son eklenen (2025/2026 civarı varsayımı) veya önemli kültürel varlık hangisidir? (Soru 14)",
+    "answers": [
+      "Gordion",
+      "Arslantepe Höyüğü",
+      "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+      "Göbeklitepe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Son yıllarda (2023) Gordion ve Ahşap Hipostil Camiler listeye eklenmiştir."
+  },
+  {
+    "id": 240,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 2,
+    "questionText": "Türk Devletleri Teşkilatı'nın genel merkezi nerededir? (Soru 15)",
+    "answers": [
+      "Ankara",
+      "İstanbul",
+      "Bakü",
+      "Semerkant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TDT Genel Sekreterliği İstanbul'dadır."
+  },
+  {
+    "id": 241,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir? (Soru 16)",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  },
+  {
+    "id": 242,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Kültürel Miras",
+    "difficulty": 1,
+    "questionText": "UNESCO Dünya Miras Listesi'ne Türkiye'den en son eklenen (2025/2026 civarı varsayımı) veya önemli kültürel varlık hangisidir? (Soru 17)",
+    "answers": [
+      "Gordion",
+      "Arslantepe Höyüğü",
+      "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+      "Göbeklitepe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Son yıllarda (2023) Gordion ve Ahşap Hipostil Camiler listeye eklenmiştir."
+  },
+  {
+    "id": 243,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 2,
+    "questionText": "Türk Devletleri Teşkilatı'nın genel merkezi nerededir? (Soru 18)",
+    "answers": [
+      "Ankara",
+      "İstanbul",
+      "Bakü",
+      "Semerkant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TDT Genel Sekreterliği İstanbul'dadır."
+  },
+  {
+    "id": 244,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir? (Soru 19)",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  },
+  {
+    "id": 245,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Kültürel Miras",
+    "difficulty": 3,
+    "questionText": "UNESCO Dünya Miras Listesi'ne Türkiye'den en son eklenen (2025/2026 civarı varsayımı) veya önemli kültürel varlık hangisidir? (Soru 20)",
+    "answers": [
+      "Gordion",
+      "Arslantepe Höyüğü",
+      "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+      "Göbeklitepe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Son yıllarda (2023) Gordion ve Ahşap Hipostil Camiler listeye eklenmiştir."
+  },
+  {
+    "id": 246,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 3,
+    "questionText": "Türk Devletleri Teşkilatı'nın genel merkezi nerededir? (Soru 21)",
+    "answers": [
+      "Ankara",
+      "İstanbul",
+      "Bakü",
+      "Semerkant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TDT Genel Sekreterliği İstanbul'dadır."
+  },
+  {
+    "id": 247,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir? (Soru 22)",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  },
+  {
+    "id": 248,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Kültürel Miras",
+    "difficulty": 2,
+    "questionText": "UNESCO Dünya Miras Listesi'ne Türkiye'den en son eklenen (2025/2026 civarı varsayımı) veya önemli kültürel varlık hangisidir? (Soru 23)",
+    "answers": [
+      "Gordion",
+      "Arslantepe Höyüğü",
+      "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+      "Göbeklitepe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Son yıllarda (2023) Gordion ve Ahşap Hipostil Camiler listeye eklenmiştir."
+  },
+  {
+    "id": 249,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 2,
+    "questionText": "Türk Devletleri Teşkilatı'nın genel merkezi nerededir? (Soru 24)",
+    "answers": [
+      "Ankara",
+      "İstanbul",
+      "Bakü",
+      "Semerkant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TDT Genel Sekreterliği İstanbul'dadır."
+  },
+  {
+    "id": 250,
+    "examType": "kpss_secondary",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "2026 Kış Olimpiyatları hangi ülkede düzenlenecektir? (Soru 25)",
+    "answers": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Avusturya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2026 Kış Olimpiyatları İtalya'nın Milano ve Cortina d'Ampezzo şehirlerinde yapılacaktır."
+  }
+]

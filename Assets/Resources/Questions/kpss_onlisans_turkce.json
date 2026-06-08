@@ -1,0 +1,3432 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 62,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 63,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 64,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 65,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 66,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 67,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 68,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 69,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 70,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 71,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 72,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 73,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 74,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 75,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 76,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 77,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Modern çağın en büyük paradokslarından biri, bilgiye erişimin bu denli kolaylaşmasına rağmen derinlikli düşünme eyleminin giderek zayıflamasıdır. Dijital platformların sunduğu parçalı ve hızlı içerik tüketimi, zihnimizi sürekli bir uyarılma halinde tutarken, bir konuyu enine boyuna irdeleme yetimizi köreltiyor. Nicholas Carr’ın 'Sığlık' adlı eserinde belirttiği gibi, internet sadece bir araç değil, aynı zamanda düşünme biçimimizi yeniden şekillendiren bir ekosistemdir. Okuma eyleminin dijitalleşmesiyle birlikte 'derin okuma' (deep reading) becerisinin yerini 'tarama' (scanning) almıştır. Bu durum, sadece akademik başarıyı değil, bireyin dünyayı anlamlandırma kapasitesini de doğrudan etkilemektedir.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 78,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Sanatın toplumsal bir sorumluluğu olup olmadığı tartışması, edebiyat tarihinin en kadim meselelerinden biridir. 'Sanat sanat içindir' anlayışını savunanlar, estetik değerin herhangi bir ideolojik kalıba sığdırılamayacağını iddia ederken; karşı saftakiler sanatın toplumdan bağımsız bir fildişi kulede var olamayacağını savunur. Ancak bugün geldiğimiz noktada, bu iki keskin ayrımın ortasında bir sentezden söz etmek mümkündür. Bir eser, hem yüksek bir estetik nitelik taşıyıp hem de ait olduğu toplumun sancılarını, değişimlerini ve umutlarını yansıtabilir. Asıl olan, sanatın bir propaganda aracına dönüşmeden, insanın varoluşsal hakikatlerine ışık tutabilmesidir.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 79,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kuantum fiziği ile klasik fizik arasındaki temel fark, evrenin işleyişine dair sundukları deterministik ve olasılıksal yaklaşımlardır. Newtonyen evrende her etkinin bir tepkisi, her nedenin bir sonucu varken; kuantum dünyasında gözlemcinin varlığı, deneyin sonucunu değiştirebilmektedir. Bu durum, sadece bilim dünyasında değil, felsefede de 'objektif gerçeklik' kavramının sorgulanmasına yol açmıştır. Eğer gerçeklik gözlemden bağımsız değilse, evrenin mutlak bir bilgisinden söz edebilir miyiz? Bu soru, modern düşüncenin temellerini sarsarken, teknolojide kuantum bilgisayarlar gibi devrim niteliğinde gelişmelere kapı aralamaktadır.\n\nBu parçanın yazarına göre 'derin okuma' becerisinin zayıflamasının temel nedeni nedir?",
+    "answers": [
+      "Bilginin kalitesizleşmesi",
+      "Dijital platformların sunduğu hızlı ve parçalı içerik tüketimi",
+      "Akademik eğitim yetersizliği",
+      "Kitap fiyatlarının artması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metinde dijital platformların hızı ve parçalı içeriğinin derinlikli düşünme yetisini körelttiği açıkça belirtilmiştir."
+  },
+  {
+    "id": 80,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Nörobilim alanındaki son keşifler, beynin yetişkinlik döneminde de yeni sinaptik bağlar kurabildiğini, yani 'nöroplastisite' özelliğini koruduğunu göstermektedir. Eskiden beyin hücrelerinin yenilenmediğine dair var olan yanlış kanı, artık yerini dinamik ve sürekli öğrenen bir beyin modeline bırakmıştır. Fiziksel egzersizden yeni bir dil öğrenmeye, meditasyondan sosyal etkileşimlere kadar pek çok aktivite beynin yapısını fiziksel olarak değiştirebilmektedir. Bu durum, yaşlanma ile gelen zihinsel gerilemenin sadece genetik bir kader olmadığını, yaşam tarzı seçimlerinin bilişsel sağlığımız üzerinde ne denli belirleyici olduğunu kanıtlamaktadır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "answers": [
+      "Betimleme",
+      "Tartışmacı Anlatım",
+      "Öyküleme",
+      "Düşsel Anlatım"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yazar, yerleşik bir kanıyı (dijitalleşmenin sadece araç olduğu) sorgulamakta ve kendi görüşünü savunmaktadır."
+  },
+  {
+    "id": 81,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Bir eleştirmen, eseri değerlendirirken yazarın kimliğini bir kenara bırakmalıdır.\" cümlesinden çıkarılabilecek en kesin yargı hangisidir?",
+    "answers": [
+      "Eleştiri tarafsız olmalıdır.",
+      "Yazarlar eleştirmenleri sevmez.",
+      "Her eser mutlaka eleştirilmelidir.",
+      "Yazarın hayatı esere yansır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yazarın kimliğinin bırakılması nesnelliği/tarafsızlığı ifade eder."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'ince' sözcüğü mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "İnce bir kağıda not aldı.",
+      "Bu konuda çok ince davranışlar sergiledi.",
+      "İnce daldan bir elma kopardı.",
+      "İnce kumaşlı bir ceket giydi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "B seçeneğinde 'zarif, düşünceli' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtili isim tamlaması' vardır?",
+    "answers": [
+      "Kapı kolu kırılmış.",
+      "Evin duvarı boyandı.",
+      "Mavi gömlek yakışmış.",
+      "Hızlı tren geldi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evin (tamlayan) duvarı (tamlanan) -> Belirtili isim tamlamasıdır."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D kişileri bir sınavda 1, 2, 3 ve 4. olmuşlardır. A, B'den daha başarılıdır. C sonuncu değildir. D, A'nın hemen arkasındadır. Buna göre kesinlikle doğru olan hangisidir?",
+    "answers": [
+      "A birinci olmuştur.",
+      "B sonuncu olmuştur.",
+      "C birinci olmuştur.",
+      "D üçüncü olmuştur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama C-A-D-B şeklindedir."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Onu hergün görüyorum.",
+      "Birkaç soru çözdüm.",
+      "Hiçbir zaman vazgeçme.",
+      "Vatan Caddesi'nde buluştuk."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hergün' değil, 'Her gün' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Eve geldim, yemeğimi yedim.",
+        "Genç, adama bir şeyler sordu.",
+        "Dün, onu görmeye gittim.",
+        "Kırmızı, büyük bir araba aldı."
+      ]
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Özne ile yüklem arasına giren gereksiz zarflardan sonra tek başına virgül kullanılmaz (Vurgu amacı yoksa)."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde deyim yanlışı vardır?",
+    "answers": [
+      [
+        "Onun gelişiyle içime su serpildi.",
+        "Gözden düşmek için çok çalıştı.",
+        "Ayaklarına kara sular indi.",
+        "Ağzına geleni söyledi."
+      ]
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Gözden düşmek' olumsuz bir durumdur, 'çalışmak' ile amaçlanmaz."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde deyim yanlışı vardır?",
+    "answers": [
+      [
+        "Onun gelişiyle içime su serpildi.",
+        "Gözden düşmek için çok çalıştı.",
+        "Ayaklarına kara sular indi.",
+        "Ağzına geleni söyledi."
+      ]
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Gözden düşmek' olumsuz bir durumdur, 'çalışmak' ile amaçlanmaz."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde deyim yanlışı vardır?",
+    "answers": [
+      [
+        "Onun gelişiyle içime su serpildi.",
+        "Gözden düşmek için çok çalıştı.",
+        "Ayaklarına kara sular indi.",
+        "Ağzına geleni söyledi."
+      ]
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Gözden düşmek' olumsuz bir durumdur, 'çalışmak' ile amaçlanmaz."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde deyim yanlışı vardır?",
+    "answers": [
+      [
+        "Onun gelişiyle içime su serpildi.",
+        "Gözden düşmek için çok çalıştı.",
+        "Ayaklarına kara sular indi.",
+        "Ağzına geleni söyledi."
+      ]
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Gözden düşmek' olumsuz bir durumdur, 'çalışmak' ile amaçlanmaz."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_associate",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde deyim yanlışı vardır?",
+    "answers": [
+      [
+        "Onun gelişiyle içime su serpildi.",
+        "Gözden düşmek için çok çalıştı.",
+        "Ayaklarına kara sular indi.",
+        "Ağzına geleni söyledi."
+      ]
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Gözden düşmek' olumsuz bir durumdur, 'çalışmak' ile amaçlanmaz."
+  }
+]

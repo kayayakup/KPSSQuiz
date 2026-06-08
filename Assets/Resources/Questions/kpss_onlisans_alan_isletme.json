@@ -1,0 +1,3402 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 1)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 1)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 2)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 2)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 3)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 3)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 4)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 4)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 5)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 5)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 6)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 6)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 7)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 7)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 8)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 8)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 9)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 9)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 10)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 10)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 11)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 11)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 12)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 12)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 13)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 13)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 14)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 14)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 15)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 15)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 16)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 16)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 17)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 17)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 18)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 18)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 19)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 19)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 20)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 20)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 21)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 21)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 22)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 22)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 23)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 23)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 24)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 24)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 25)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 25)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 26)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 26)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 27)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 27)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 28)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 28)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 29)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 29)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 30)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 30)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 31)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 62,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 31)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 63,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 32)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 64,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 32)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 65,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 33)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 66,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 33)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 67,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 34)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 68,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 34)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 69,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 35)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 70,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 35)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 71,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 36)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 72,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 36)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 73,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 37)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 74,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 37)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 75,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 38)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 76,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 38)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 77,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 39)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 78,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 39)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 79,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 40)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 80,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 40)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 81,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 41)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 41)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 42)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 42)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 43)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 43)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 44)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 44)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 45)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 45)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 46)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 46)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 47)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 47)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 48)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 48)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 49)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 49)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 50)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 50)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 51)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 51)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 52)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 52)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 53)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 53)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 54)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 54)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 55)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 55)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 56)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 56)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 57)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 57)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 58)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 58)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 59)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 59)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 60)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 60)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 61)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 61)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 62)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 62)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 63)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 63)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 64)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 64)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 65)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 65)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 66)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 66)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 67)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 67)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 68)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 68)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 69)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 69)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 70)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 70)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 71)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 71)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 72)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 72)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 73)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 73)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 74)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 74)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 75)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 75)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 76)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 76)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 77)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 77)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 78)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 78)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 79)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 79)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 80)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 80)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 81)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 81)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 82)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 82)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 83)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 83)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 84)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 84)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 85)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 85)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 86)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 86)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 87)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 87)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 88)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 88)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 89)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 89)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 90)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 90)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 91)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 91)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 92)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 92)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 93)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 93)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 94)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 94)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 95)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 95)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 96)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 96)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 97)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 97)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 98)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 98)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 99)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 99)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Yönetim ve Organizasyon",
+    "topic": "Yönetim Fonksiyonları",
+    "difficulty": 3,
+    "questionText": "Planlanan hedefler ile gerçekleşen sonuçların karşılaştırılıp sapmaların düzeltilmesi hangi fonksiyonun gereğidir? (Soru Varyasyonu 100)",
+    "answers": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Denetim (Kontrol), sürecin sonunda veya içinde geri bildirim alarak düzeltme yapmayı sağlar."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_a_group",
+    "subject": "isletme",
+    "subcategory": "Finansal Yönetim",
+    "topic": "Sermaye Maliyeti",
+    "difficulty": 3,
+    "questionText": "Bir işletmenin yatırımlarından elde etmesi gereken en düşük getiri oranına ne ad verilir? (Soru Varyasyonu 100)",
+    "answers": [
+      "Kâr marjı",
+      "Sermaye maliyeti",
+      "İç verim oranı",
+      "Likidite oranı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sermaye maliyeti, kaynakların kullanım bedeli olup yatırımın kabulü için asgari sınırdır."
+  }
+]

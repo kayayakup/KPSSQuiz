@@ -1,0 +1,3402 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 1)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 1)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 2)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 2)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 3)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 3)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 4)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 4)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 5)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 5)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 6)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 6)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 7)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 7)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 8)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 8)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 9)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 9)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 10)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 10)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 11)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 11)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 12)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 12)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 13)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 13)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 14)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 14)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 15)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 15)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 16)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 16)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 17)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 17)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 18)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 18)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 19)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 19)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 20)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 20)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 21)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 21)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 22)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 22)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 23)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 23)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 24)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 24)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 25)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 25)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 26)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 26)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 27)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 27)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 28)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 28)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 29)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 29)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 30)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 30)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 31)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 62,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 31)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 63,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 32)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 64,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 32)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 65,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 33)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 66,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 33)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 67,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 34)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 68,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 34)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 69,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 35)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 70,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 35)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 71,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 36)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 72,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 36)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 73,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 37)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 74,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 37)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 75,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 38)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 76,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 38)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 77,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 39)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 78,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 39)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 79,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 40)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 80,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 40)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 81,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 41)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 41)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 42)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 42)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 43)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 43)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 44)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 44)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 45)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 45)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 46)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 46)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 47)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 47)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 48)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 48)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 49)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 49)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 50)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 50)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 51)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 51)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 52)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 52)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 53)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 53)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 54)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 54)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 55)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 55)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 56)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 56)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 57)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 57)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 58)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 58)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 59)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 59)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 60)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 60)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 61)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 61)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 62)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 62)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 63)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 63)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 64)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 64)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 65)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 65)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 66)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 66)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 67)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 67)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 68)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 68)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 69)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 69)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 70)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 70)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 71)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 71)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 72)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 72)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 73)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 73)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 74)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 74)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 75)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 75)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 76)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 76)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 77)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 77)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 78)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 78)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 79)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 79)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 80)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 80)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 81)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 81)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 82)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 82)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 83)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 83)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 84)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 84)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 85)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 85)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 86)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 86)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 87)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 87)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 88)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 88)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 89)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 89)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 90)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 90)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 91)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 91)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 92)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 92)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 93)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 93)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 94)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 94)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 95)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 95)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 96)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 96)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 97)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 97)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 98)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 98)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 99)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 99)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Maliye Teorisi",
+    "topic": "Kamu Malları",
+    "difficulty": 3,
+    "questionText": "Tüketiminde rekabet olmayan ve dışlanamayan mallara ne ad verilir? (Soru Varyasyonu 100)",
+    "answers": [
+      "Özel mallar",
+      "Tam kamusal mallar",
+      "Yarı kamusal mallar",
+      "Erdemli mallar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tam kamusal mallar bölünemez, rekabet edilemez ve kimse dışlanamaz (Örn: Milli Savunma)."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_a_group",
+    "subject": "maliye",
+    "subcategory": "Vergi Hukuku",
+    "topic": "Vergi Borcu",
+    "difficulty": 3,
+    "questionText": "Vergi borcunu ortadan kaldıran en yaygın neden aşağıdakilerden hangisidir? (Soru Varyasyonu 100)",
+    "answers": [
+      "Zamanaşımı",
+      "Ödeme",
+      "Terkin",
+      "Tahakkuk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vergi borcu en doğal ve yaygın şekilde ödeme (ifa) ile sona erer."
+  }
+]

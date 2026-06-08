@@ -1,0 +1,3402 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 1)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 1)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 2)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 2)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 3)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 3)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 4)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 4)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 5)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 5)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 6)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 6)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 7)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 7)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 8)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 8)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 9)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 9)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 10)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 10)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 11)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 11)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 12)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 12)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 13)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 13)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 14)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 14)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 15)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 15)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 16)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 16)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 17)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 17)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 18)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 18)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 19)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 19)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 20)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 20)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 21)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 21)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 22)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 22)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 23)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 23)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 24)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 24)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 25)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 25)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 26)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 26)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 27)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 27)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 28)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 28)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 29)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 29)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 30)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 30)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 31)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 62,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 31)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 63,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 32)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 64,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 32)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 65,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 33)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 66,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 33)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 67,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 34)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 68,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 34)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 69,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 35)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 70,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 35)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 71,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 36)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 72,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 36)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 73,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 37)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 74,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 37)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 75,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 38)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 76,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 38)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 77,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 39)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 78,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 39)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 79,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 40)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 80,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 40)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 81,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 41)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 41)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 42)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 42)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 43)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 43)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 44)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 44)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 45)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 45)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 46)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 46)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 47)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 47)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 48)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 48)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 49)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 49)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 50)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 50)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 51)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 51)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 52)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 52)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 53)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 53)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 54)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 54)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 55)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 55)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 56)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 56)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 57)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 57)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 58)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 58)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 59)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 59)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 60)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 60)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 61)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 61)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 62)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 62)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 63)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 63)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 64)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 64)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 65)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 65)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 66)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 66)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 67)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 67)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 68)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 68)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 69)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 69)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 70)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 70)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 71)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 71)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 72)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 72)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 73)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 73)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 74)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 74)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 75)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 75)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 76)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 76)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 77)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 77)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 78)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 78)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 79)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 79)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 80)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 80)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 81)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 81)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 82)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 82)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 83)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 83)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 84)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 84)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 85)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 85)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 86)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 86)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 87)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 87)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 88)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 88)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 89)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 89)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 90)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 90)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 91)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 91)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 92)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 92)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 93)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 93)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 94)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 94)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 95)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 95)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 96)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 96)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 97)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 97)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 98)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 98)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 99)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 99)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Siyaset Bilimi",
+    "topic": "Devlet Biçimleri",
+    "difficulty": 3,
+    "questionText": "Egemenliğin tek bir merkezde toplandığı, hukuk birliğinin olduğu devlet yapısına ne ad verilir? (Soru Varyasyonu 100)",
+    "answers": [
+      "Federal Devlet",
+      "Üniter Devlet",
+      "Konfederasyon",
+      "Sosyal Devlet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Üniter devlette yasama, yürütme ve yargı yetkileri tek bir merkezde toplanır."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_a_group",
+    "subject": "kamu_yonetimi",
+    "subcategory": "Yönetim Bilimi",
+    "topic": "Bürokrasi",
+    "difficulty": 3,
+    "questionText": "Bürokrasiyi 'ideal tip' olarak tanımlayan ve rasyonel-yasal otorite üzerinde duran düşünür kimdir? (Soru Varyasyonu 100)",
+    "answers": [
+      "Karl Marx",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Max Weber, bürokrasiyi rasyonellik ve liyakat temelli bir organizasyon olarak tanımlamıştır."
+  }
+]

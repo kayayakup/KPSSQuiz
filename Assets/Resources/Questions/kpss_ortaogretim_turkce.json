@@ -1,0 +1,3462 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 62,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 63,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 64,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 65,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 66,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 67,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 68,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 69,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 70,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 71,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 72,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 73,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 74,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 75,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 76,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Yapay zekâ teknolojilerinin hızla gelişmesi, insanlık tarihinin en büyük dönüşümlerinden birini tetikliyor. Eskiden sadece bilim kurgu filmlerinde gördüğümüz, kendi kendine karar verebilen sistemler artık günlük hayatımızın bir parçası haline geldi. Akıllı telefonlarımızdaki asistanlardan, karmaşık tıbbi teşhisleri saniyeler içinde koyabilen algoritmalara kadar geniş bir yelpazede bu teknolojiyi kullanıyoruz. Ancak bu gelişim, beraberinde ciddi etik soruları da getiriyor. Veri gizliliği, algoritmik önyargılar ve otomasyonun iş gücü üzerindeki etkisi gibi konular bugün devletlerin ve uluslararası kuruluşların öncelikli gündem maddesi olmuş durumda. Teknolojinin hızı, hukuki düzenlemelerin hızını geçtiği için bireylerin bu yeni dünyada nasıl korunacağı hala belirsizliğini koruyor.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 77,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "İklim değişikliği artık uzak bir gelecek sorunu değil, bugünün yakıcı bir gerçeğidir. Son on yılda kaydedilen sıcaklık rekorları, eriyen buzullar ve artan aşırı hava olayları, ekosistemin dengesinin ne kadar hassas olduğunu bir kez daha gözler önüne seriyor. Bilim insanları, küresel ısınmayı 1.5 derece ile sınırlandırmak için fosil yakıtlardan hızla vazgeçmemiz gerektiğini savunsa da, ekonomik çıkarlar ve siyasi atalet bu geçişi yavaşlatıyor. Deniz seviyelerinin yükselmesi özellikle kıyı şeridindeki metropolleri tehdit ederken, tarım arazilerinin verimsizleşmesi küresel bir gıda krizinin habercisi olarak değerlendiriliyor. Sürdürülebilir enerji kaynaklarına yapılacak yatırımlar sadece çevreyi korumakla kalmayacak, aynı zamanda yeni bir yeşil ekonomi yaratma potansiyelini de taşıyacaktır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 78,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Dijitalleşme süreciyle birlikte bilgiye erişim hızı devasa boyutlara ulaştı. Ancak bilginin bu kadar 'bol' olması, kalitesini ve doğruluğunu da tartışmalı hale getirdi. Sosyal medya platformları, bireylerin kendi görüşlerini destekleyen bilgilerle kuşatıldığı 'yankı odaları' oluşturarak toplumsal kutuplaşmayı derinleştiriyor. Dezenformasyon ve mezenformasyon, yani yalan bilginin kasıtlı veya kasıtsız yayılması, demokratik süreçleri ve halk sağlığını tehdit eden bir unsur haline geldi. Bir zamanlar bilginin demokratikleşmesi olarak kutlanan internet, bugün manipülasyon araçlarının en güçlüsü olarak karşımıza çıkabiliyor. Bu noktada medya okuryazarlığı eğitimi, bireylerin doğruyu yanlıştan ayırt edebilmesi için hayati bir önem kazanmış durumdadır.\n\nBu parçanın anlatımında aşağıdakilerin hangisinden yararlanılmamıştır?",
+    "answers": [
+      "Örneklendirme",
+      "Açıklama",
+      "Karşılaştırma",
+      "Tanık Gösterme"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Metinde bir uzmanın sözüne doğrudan yer verilmediği için tanık gösterme yoktur."
+  },
+  {
+    "id": 79,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 3,
+    "questionText": "Şehirleşme oranının artmasıyla beraber modern insan doğadan giderek kopuyor. Beton yığınları arasında geçen yaşamlar, biyofili adı verilen 'doğaya duyulan doğuştan gelen sevgi' ihtiyacını karşılamakta yetersiz kalıyor. Araştırmalar, yeşil alanlara erişimi kısıtlı olan bireylerde stres ve anksiyete oranlarının daha yüksek olduğunu gösteriyor. Buna karşılık, şehir planlamasında 'dikey ormanlar' ve geniş parklar gibi doğa dostu çözümler, hem karbon ayak izini azaltıyor hem de toplum sağlığını olumlu etkiliyor. Geleceğin şehirleri, teknolojiyi doğayla rekabet etmek için değil, onunla uyum içinde yaşamak için kullanmak zorunda kalacak. Doğa ile bağımızı yeniden kurmak, sadece bir çevre meselesi değil, aynı zamanda bir varoluşsal zorunluluktur.\n\nBu parçadan hareketle aşağıdakilerin hangisine ulaşılamaz?",
+    "answers": [
+      "Teknolojik gelişmelerin hukuktan daha hızlı ilerlediğine",
+      "Algoritmaların tarafsızlığının kesin olarak kanıtlandığına",
+      "Veri gizliliğinin önemli bir sorun olduğuna",
+      "Yapay zekanın sağlık alanında kullanıldığına"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parçada 'algoritmik önyargılar' gibi sorunlardan bahsedilmektedir, tarafsızlığın kanıtlandığına dair bir bilgi yoktur."
+  },
+  {
+    "id": 80,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Paragraf",
+    "topic": "Paragraf",
+    "difficulty": 2,
+    "questionText": "Kültürel yozlaşma tartışmaları, küreselleşmenin yerel değerler üzerindeki baskısının bir sonucudur. İnternet ve kitle iletişim araçları sayesinde tek tip bir küresel kültürün oluşması, dillerin, geleneklerin ve yerel zanaatların yok olma tehlikesiyle karşı karşıya kalmasına neden oluyor. Her ne kadar farklı kültürler birbirini daha yakından tanıma fırsatı bulsa da, baskın kültürlerin etkisiyle özgünlükler yerini taklitlere bırakıyor. Bir toplumun hafızası olan dilin yabancı kelimelerin istilasına uğraması, o toplumun düşünme biçimini de değiştiriyor. Kültürel çeşitliliği korumak, biyolojik çeşitliliği korumak kadar önemlidir; çünkü her kültür, insan deneyiminin farklı ve değerli bir parçasını temsil eder.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Yapay zekanın insanlığı ele geçireceği",
+      "Teknolojik dönüşümün hem fırsatlar hem de riskler barındırdığı",
+      "Eski teknolojilerin daha güvenli olduğu",
+      "Bilim kurgu filmlerinin gerçeği yansıtmadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Metin genelinde teknolojinin faydaları ve beraberinde getirdiği etik/hukuki riskler dengeli bir şekilde işlenmiştir."
+  },
+  {
+    "id": 81,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 2,
+    "questionText": "\"Gerçek sanatçı, toplumu sadece olduğu gibi değil, olması gerektiği gibi de görebilen kişidir.\" Bu cümleyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "answers": [
+      "Sanatçının hayalperest olması gerektiği",
+      "Sanatın toplumsal bir ideal sunması gerektiği",
+      "Eserlerin fotoğraf gerçekliğinde olması",
+      "Toplumun sanatı anlamadığı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Cümlede Anlam",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "\"Hiç kimse başarı merdivenlerini elleri cebinde tırmanmamıştır.\" Bu cümlede başarının hangi yönü vurgulanmaktadır?",
+    "answers": [
+      "Zaman alması",
+      "Emek ve çaba gerektirmesi",
+      "Şans faktörü",
+      "Başkalarına ihtiyaç duyulması"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümledeki mecazi anlatım çalışmanın ve hedefin önemini vurgular."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözcükte Anlam",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü 'ilgisiz, duygusuz' anlamında kullanılmıştır?",
+    "answers": [
+      "Kuru odunlar çabuk yandı.",
+      "Onun çok kuru bir anlatımı var.",
+      "Elleri rüzgardan kurumuş.",
+      "Kuru temizlemeye ceketini verdi."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Burada anlatımın duygudan yoksun olduğu belirtilmiştir."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Dil Bilgisi",
+    "topic": "Dil Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinin yüklemi çatısı bakımından geçişsizdir?",
+    "answers": [
+      "Kitabı masaya bıraktı.",
+      "Onu her gün arıyorum.",
+      "Dün gece çok ağladı.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Ağladı' fiili nesne alamaz (Onu ağladı denemez)."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Yazım Kuralları",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "answers": [
+      "Resmi Gazete'de yayımlandı.",
+      "Yarın Türk Dili kurultayı toplanacak.",
+      "Batı Anadolu'da yağış bekleniyor.",
+      "Van Kedisi koruma altındadır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kurultay isimleri her kelimesi büyük harfle başlayacak şekilde yazılır: Türk Dili Kurultayı."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Noktalama İşaretleri",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "answers": [
+      [
+        "Pazardan elma, armut; manavdan patlıcan aldım.",
+        "Ali; çalışkan, dürüst bir öğrencidir.",
+        "Bugün geldim; ama onu bulamadım.",
+        "İş işten geçti; artık çok geç."
+      ],
+      2
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bağlaçlardan önce veya sonra noktalama işareti kullanılmaz."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Ses Bilgisi",
+    "topic": "Ses Bilgisi",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde ünsüz düşmesi vardır?",
+    "answers": [
+      [
+        "Ufacık bir evde yaşıyor.",
+        "Küçülen ekmekler bayatladı.",
+        "Yükselen binalar şehri boğuyor.",
+        "Hepsi doğrudur."
+      ],
+      3
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ufak-cık (k düşer), Küçük-l-en (k düşer), Yüksek-l-en (k düşer)."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D isimli dört arkadaş bir lokantada pide, lahmacun, döner ve kebap siparişi vermişlerdir. A pide yememiştir. B lahmacun yemiştir. C döner veya kebap yememiştir. Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "answers": [
+      "A döner yemiştir.",
+      "C pide yemiştir.",
+      "D kebap yemiştir.",
+      "A lahmacun yemiştir."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "C döner/kebap yemediyse ve B lahmacun yediyse, C'ye pide kalır."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D isimli dört arkadaş bir lokantada pide, lahmacun, döner ve kebap siparişi vermişlerdir. A pide yememiştir. B lahmacun yemiştir. C döner veya kebap yememiştir. Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "answers": [
+      "A döner yemiştir.",
+      "C pide yemiştir.",
+      "D kebap yemiştir.",
+      "A lahmacun yemiştir."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "C döner/kebap yemediyse ve B lahmacun yediyse, C'ye pide kalır."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 3,
+    "questionText": "A, B, C ve D isimli dört arkadaş bir lokantada pide, lahmacun, döner ve kebap siparişi vermişlerdir. A pide yememiştir. B lahmacun yemiştir. C döner veya kebap yememiştir. Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "answers": [
+      "A döner yemiştir.",
+      "C pide yemiştir.",
+      "D kebap yemiştir.",
+      "A lahmacun yemiştir."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "C döner/kebap yemediyse ve B lahmacun yediyse, C'ye pide kalır."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D isimli dört arkadaş bir lokantada pide, lahmacun, döner ve kebap siparişi vermişlerdir. A pide yememiştir. B lahmacun yemiştir. C döner veya kebap yememiştir. Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "answers": [
+      "A döner yemiştir.",
+      "C pide yemiştir.",
+      "D kebap yemiştir.",
+      "A lahmacun yemiştir."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "C döner/kebap yemediyse ve B lahmacun yediyse, C'ye pide kalır."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Sözel Mantık",
+    "topic": "Sözel Mantık",
+    "difficulty": 2,
+    "questionText": "A, B, C ve D isimli dört arkadaş bir lokantada pide, lahmacun, döner ve kebap siparişi vermişlerdir. A pide yememiştir. B lahmacun yemiştir. C döner veya kebap yememiştir. Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "answers": [
+      "A döner yemiştir.",
+      "C pide yemiştir.",
+      "D kebap yemiştir.",
+      "A lahmacun yemiştir."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "C döner/kebap yemediyse ve B lahmacun yediyse, C'ye pide kalır."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde mantık hatasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Bırak patates doğramayı, yemek bile yapamaz.",
+      "İlk kez girdiğim bu odayı çok sevdim.",
+      "Fikirlerini arkadaşlarıyla paylaştı.",
+      "Sağlıklı kalmak için spor yapmalıyız."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mantık hatası: 'Bırak yemek yapmayı, patates bile doğrayamaz' şeklinde olmalıydı; zor olan eylem sona bırakılmalı."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde mantık hatasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Bırak patates doğramayı, yemek bile yapamaz.",
+      "İlk kez girdiğim bu odayı çok sevdim.",
+      "Fikirlerini arkadaşlarıyla paylaştı.",
+      "Sağlıklı kalmak için spor yapmalıyız."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mantık hatası: 'Bırak yemek yapmayı, patates bile doğrayamaz' şeklinde olmalıydı; zor olan eylem sona bırakılmalı."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde mantık hatasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Bırak patates doğramayı, yemek bile yapamaz.",
+      "İlk kez girdiğim bu odayı çok sevdim.",
+      "Fikirlerini arkadaşlarıyla paylaştı.",
+      "Sağlıklı kalmak için spor yapmalıyız."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mantık hatası: 'Bırak yemek yapmayı, patates bile doğrayamaz' şeklinde olmalıydı; zor olan eylem sona bırakılmalı."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde mantık hatasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Bırak patates doğramayı, yemek bile yapamaz.",
+      "İlk kez girdiğim bu odayı çok sevdim.",
+      "Fikirlerini arkadaşlarıyla paylaştı.",
+      "Sağlıklı kalmak için spor yapmalıyız."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mantık hatası: 'Bırak yemek yapmayı, patates bile doğrayamaz' şeklinde olmalıydı; zor olan eylem sona bırakılmalı."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_secondary",
+    "subject": "turkish",
+    "subcategory": "Anlatım Bozuklukları",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde mantık hatasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Bırak patates doğramayı, yemek bile yapamaz.",
+      "İlk kez girdiğim bu odayı çok sevdim.",
+      "Fikirlerini arkadaşlarıyla paylaştı.",
+      "Sağlıklı kalmak için spor yapmalıyız."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mantık hatası: 'Bırak yemek yapmayı, patates bile doğrayamaz' şeklinde olmalıydı; zor olan eylem sona bırakılmalı."
+  }
+]

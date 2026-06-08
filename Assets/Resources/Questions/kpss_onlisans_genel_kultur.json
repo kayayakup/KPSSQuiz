@@ -1,0 +1,4252 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir?",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir?",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir?",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir?",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir?",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 2)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 2)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 2)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 2)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 2)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 3)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 3)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 3)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 3)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 3)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 4)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 4)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 4)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 4)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 4)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 5)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 5)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 5)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 5)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 5)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 6)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 6)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 6)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 6)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 6)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 7)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 7)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 7)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 7)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 7)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 8)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 8)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 8)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 8)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 8)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 9)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 9)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 9)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 9)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 9)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 10)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 10)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 10)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 10)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 10)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 11)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 11)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 11)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 11)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 11)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 12)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 12)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 12)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 12)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 12)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 13)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 62,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 13)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 63,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 13)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 64,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 13)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 65,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 13)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 66,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 14)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 67,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 14)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 68,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 14)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 69,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 14)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 70,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 14)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 71,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 15)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 72,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 15)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 73,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 15)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 74,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 15)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 75,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 15)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 76,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 16)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 77,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 16)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 78,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 16)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 79,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 16)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 80,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 16)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 81,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 17)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 17)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 17)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 17)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 17)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 18)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 18)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 18)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 18)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 18)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 19)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 3,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 19)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 19)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 19)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 19)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 20)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 20)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 20)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 20)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 20)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 2,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 21)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 21)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 21)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 21)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 21)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İskitler (Sakalar) döneminde yaşadığı bilinen ve Türk tarihinin ilk kadın hükümdarı olarak kabul edilen kişi kimdir? (Varyasyon 22)",
+    "answers": [
+      "Asena",
+      "Tomris Hatun",
+      "Terken Hatun",
+      "Altuncan Hatun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tomris Hatun, İskitlerin hükümdarıdır ve tarihteki ilk kadın hükümdar olarak bilinir."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Selçuklu Tarihi",
+    "difficulty": 2,
+    "questionText": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ve Anadolu'nun kapılarını Türklere açan 1071 Malazgirt Meydan Muharebesi sırasında Bizans imparatoru kimdir? (Varyasyon 22)",
+    "answers": [
+      "Romen Diyojen",
+      "II. Basileios",
+      "Leon",
+      "Konstantin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1071 Malazgirt Savaşı'nda Bizans ordusunun başında Romen Diyojen bulunmaktaydı."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Kültür ve Medeniyet",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminin (Tımar) bozulmasıyla ortaya çıkan ve 17. yüzyılda Anadolu'da yayılan isyanlara ne ad verilir? (Varyasyon 22)",
+    "answers": [
+      "Şahkulu İsyanları",
+      "Babai İsyanları",
+      "Celali İsyanları",
+      "Suhte İsyanları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16. ve 17. yüzyıllarda Anadolu'da ekonomik ve sosyal nedenlerle çıkan isyanlara Celali İsyanları denir."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 3,
+    "questionText": "Sivas Kongresi'nde çıkarılmasına karar verilen ve Milli Mücadele'nin ilk resmi yayın organı sayılan gazete hangisidir? (Varyasyon 22)",
+    "answers": [
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+      "Ceride-i Resmiye",
+      "Tercüman-ı Ahval"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sivas Kongresi sonrası halkı bilinçlendirmek amacıyla İrade-i Milliye gazetesi çıkarılmıştır."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "history",
+    "topic": "Osmanlı Islahatları",
+    "difficulty": 2,
+    "questionText": "Osmanlı Devleti'nde 'vaka-i hayriye' (hayırlı olay) olarak adlandırılan Yeniçeri Ocağı'nın kaldırılması hangi padişah döneminde gerçekleşmiştir? (Varyasyon 22)",
+    "answers": [
+      "III. Selim",
+      "II. Mahmud",
+      "Abdülmecid",
+      "II. Abdülhamid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1826 yılında II. Mahmud tarafından Yeniçeri Ocağı'nın kaldırılmasına Vaka-i Hayriye denir."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır?",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir?",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 2,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir?",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 2,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir?",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 2)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 2)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 2,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 2)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 2,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 2)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 3)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 3)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 3)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 3)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 4)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 4)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 2,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 4)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 2,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 4)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 5)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 5)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 5)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 2,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 5)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 6)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 6)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 6)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 6)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 7)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 7)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 7)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 7)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 8)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 8)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 8)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 8)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 9)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 9)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 2,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 9)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 2,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 9)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 10)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 10)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 2,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 10)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 10)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 11)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 11)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 11)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 11)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 12)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 12)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 2,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 12)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 2,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 12)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 13)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 13)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 13)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 13)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 14)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 14)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 14)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 2,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 14)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 15)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 15)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 2,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 15)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 15)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 16)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 16)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 16)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 16)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 17)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 17)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 17)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 17)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 18)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 18)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 18)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Madenler",
+    "difficulty": 3,
+    "questionText": "Guleman (Elazığ) ve Köyceğiz (Muğla) çevresinde en çok çıkarılan ve paslanmaz çelik yapımında kullanılan maden hangisidir? (Varyasyon 18)",
+    "answers": [
+      "Demir",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Krom madeni Elazığ ve Muğla çevresinde yoğunlaşmıştır."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Dağları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki dağlardan hangisi oluşum bakımından diğerlerinden farklıdır? (Varyasyon 19)",
+    "answers": [
+      "Aydın Dağları",
+      "Yunt Dağları",
+      "Erciyes Dağı",
+      "Madra Dağları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Aydın, Yunt ve Madra dağları kırıklı (horst-graben) yapıdayken, Erciyes volkanik bir dağdır."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Türkiye'nin Gölleri",
+    "difficulty": 2,
+    "questionText": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir? (Varyasyon 19)",
+    "answers": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Van Gölü sodalı, Tuz Gölü tuzludur. Beyşehir Gölü ise en büyük tatlı su gölümüzdür."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "geography",
+    "topic": "Tarım ve Hayvancılık",
+    "difficulty": 3,
+    "questionText": "Türkiye'de ipek böcekçiliği üretiminde son yıllarda birinci sıraya yerleşen ilimiz hangisidir? (Varyasyon 19)",
+    "answers": [
+      "Bursa",
+      "Diyarbakır",
+      "Antalya",
+      "Bilecik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Geleneksel olarak Bursa bilinse de, son yıllarda üretim miktarı olarak Diyarbakır ön plana çıkmıştır."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder?",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 2,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır?",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 3,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur?",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 2)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 2,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 2)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 3,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 2)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 3)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 3,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 3)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 3,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 3)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 4)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 3,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 4)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 3,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 4)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 5)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 3,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 5)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 2,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 5)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 201,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 6)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 202,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 2,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 6)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 203,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 2,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 6)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 204,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 7)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 205,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 2,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 7)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 206,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 2,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 7)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 207,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 8)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 208,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 2,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 8)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 209,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 2,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 8)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 210,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 9)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 211,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 3,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 9)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 212,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 2,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 9)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 213,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 10)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 214,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 3,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 10)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 215,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 2,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 10)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 216,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 11)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 217,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 3,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 11)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 218,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 2,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 11)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 219,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 12)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 220,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 2,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 12)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 221,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 3,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 12)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 222,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 13)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 223,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Hukukun Kaynakları",
+    "difficulty": 3,
+    "questionText": "Normlar hiyerarşisinde en üst sırada aşağıdakilerden hangisi yer alır? (Varyasyon 13)",
+    "answers": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Yönetmelik"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa, tüm hukuk kurallarının üstündedir."
+  },
+  {
+    "id": 224,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Yargı",
+    "difficulty": 2,
+    "questionText": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur? (Varyasyon 13)",
+    "answers": [
+      "7",
+      "11",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HSK 13 üyeden oluşur ve iki daire halinde çalışır."
+  },
+  {
+    "id": 225,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "citizenship",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 2,
+    "questionText": "1982 Anayasası'na göre Milli Güvenlik Kurulu'na (MGK) aşağıdakilerden hangisi başkanlık eder? (Varyasyon 14)",
+    "answers": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "MGK, Cumhurbaşkanı başkanlığında toplanır."
+  },
+  {
+    "id": 226,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır?",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  },
+  {
+    "id": 227,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 3,
+    "questionText": "Avrupa Birliği'nden ayrılan (Brexit) ilk ülke hangisidir?",
+    "answers": [
+      "Norveç",
+      "Birleşik Krallık",
+      "İsviçre",
+      "Yunanistan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Birleşik Krallık, halk oylaması sonrası AB'den ayrılmıştır."
+  },
+  {
+    "id": 228,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Bilim ve Sanat",
+    "difficulty": 2,
+    "questionText": "2023 yılında Nobel Edebiyat Ödülü'nü kazanan yazar kimdir?",
+    "answers": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Orhan Pamuk",
+      "Kazuo Ishiguro"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2023 Nobel Edebiyat Ödülü Norveçli yazar Jon Fosse'ye verilmiştir."
+  },
+  {
+    "id": 229,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır? (Varyasyon 2)",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  },
+  {
+    "id": 230,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 3,
+    "questionText": "Avrupa Birliği'nden ayrılan (Brexit) ilk ülke hangisidir? (Varyasyon 2)",
+    "answers": [
+      "Norveç",
+      "Birleşik Krallık",
+      "İsviçre",
+      "Yunanistan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Birleşik Krallık, halk oylaması sonrası AB'den ayrılmıştır."
+  },
+  {
+    "id": 231,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Bilim ve Sanat",
+    "difficulty": 3,
+    "questionText": "2023 yılında Nobel Edebiyat Ödülü'nü kazanan yazar kimdir? (Varyasyon 2)",
+    "answers": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Orhan Pamuk",
+      "Kazuo Ishiguro"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2023 Nobel Edebiyat Ödülü Norveçli yazar Jon Fosse'ye verilmiştir."
+  },
+  {
+    "id": 232,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır? (Varyasyon 3)",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  },
+  {
+    "id": 233,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 3,
+    "questionText": "Avrupa Birliği'nden ayrılan (Brexit) ilk ülke hangisidir? (Varyasyon 3)",
+    "answers": [
+      "Norveç",
+      "Birleşik Krallık",
+      "İsviçre",
+      "Yunanistan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Birleşik Krallık, halk oylaması sonrası AB'den ayrılmıştır."
+  },
+  {
+    "id": 234,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Bilim ve Sanat",
+    "difficulty": 3,
+    "questionText": "2023 yılında Nobel Edebiyat Ödülü'nü kazanan yazar kimdir? (Varyasyon 3)",
+    "answers": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Orhan Pamuk",
+      "Kazuo Ishiguro"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2023 Nobel Edebiyat Ödülü Norveçli yazar Jon Fosse'ye verilmiştir."
+  },
+  {
+    "id": 235,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır? (Varyasyon 4)",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  },
+  {
+    "id": 236,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 2,
+    "questionText": "Avrupa Birliği'nden ayrılan (Brexit) ilk ülke hangisidir? (Varyasyon 4)",
+    "answers": [
+      "Norveç",
+      "Birleşik Krallık",
+      "İsviçre",
+      "Yunanistan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Birleşik Krallık, halk oylaması sonrası AB'den ayrılmıştır."
+  },
+  {
+    "id": 237,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Bilim ve Sanat",
+    "difficulty": 3,
+    "questionText": "2023 yılında Nobel Edebiyat Ödülü'nü kazanan yazar kimdir? (Varyasyon 4)",
+    "answers": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Orhan Pamuk",
+      "Kazuo Ishiguro"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2023 Nobel Edebiyat Ödülü Norveçli yazar Jon Fosse'ye verilmiştir."
+  },
+  {
+    "id": 238,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır? (Varyasyon 5)",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  },
+  {
+    "id": 239,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 2,
+    "questionText": "Avrupa Birliği'nden ayrılan (Brexit) ilk ülke hangisidir? (Varyasyon 5)",
+    "answers": [
+      "Norveç",
+      "Birleşik Krallık",
+      "İsviçre",
+      "Yunanistan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Birleşik Krallık, halk oylaması sonrası AB'den ayrılmıştır."
+  },
+  {
+    "id": 240,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Bilim ve Sanat",
+    "difficulty": 3,
+    "questionText": "2023 yılında Nobel Edebiyat Ödülü'nü kazanan yazar kimdir? (Varyasyon 5)",
+    "answers": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Orhan Pamuk",
+      "Kazuo Ishiguro"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2023 Nobel Edebiyat Ödülü Norveçli yazar Jon Fosse'ye verilmiştir."
+  },
+  {
+    "id": 241,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır? (Varyasyon 6)",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  },
+  {
+    "id": 242,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 2,
+    "questionText": "Avrupa Birliği'nden ayrılan (Brexit) ilk ülke hangisidir? (Varyasyon 6)",
+    "answers": [
+      "Norveç",
+      "Birleşik Krallık",
+      "İsviçre",
+      "Yunanistan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Birleşik Krallık, halk oylaması sonrası AB'den ayrılmıştır."
+  },
+  {
+    "id": 243,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Bilim ve Sanat",
+    "difficulty": 2,
+    "questionText": "2023 yılında Nobel Edebiyat Ödülü'nü kazanan yazar kimdir? (Varyasyon 6)",
+    "answers": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Orhan Pamuk",
+      "Kazuo Ishiguro"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2023 Nobel Edebiyat Ödülü Norveçli yazar Jon Fosse'ye verilmiştir."
+  },
+  {
+    "id": 244,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır? (Varyasyon 7)",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  },
+  {
+    "id": 245,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 2,
+    "questionText": "Avrupa Birliği'nden ayrılan (Brexit) ilk ülke hangisidir? (Varyasyon 7)",
+    "answers": [
+      "Norveç",
+      "Birleşik Krallık",
+      "İsviçre",
+      "Yunanistan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Birleşik Krallık, halk oylaması sonrası AB'den ayrılmıştır."
+  },
+  {
+    "id": 246,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Bilim ve Sanat",
+    "difficulty": 2,
+    "questionText": "2023 yılında Nobel Edebiyat Ödülü'nü kazanan yazar kimdir? (Varyasyon 7)",
+    "answers": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Orhan Pamuk",
+      "Kazuo Ishiguro"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2023 Nobel Edebiyat Ödülü Norveçli yazar Jon Fosse'ye verilmiştir."
+  },
+  {
+    "id": 247,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır? (Varyasyon 8)",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  },
+  {
+    "id": 248,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 2,
+    "questionText": "Avrupa Birliği'nden ayrılan (Brexit) ilk ülke hangisidir? (Varyasyon 8)",
+    "answers": [
+      "Norveç",
+      "Birleşik Krallık",
+      "İsviçre",
+      "Yunanistan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Birleşik Krallık, halk oylaması sonrası AB'den ayrılmıştır."
+  },
+  {
+    "id": 249,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Bilim ve Sanat",
+    "difficulty": 2,
+    "questionText": "2023 yılında Nobel Edebiyat Ödülü'nü kazanan yazar kimdir? (Varyasyon 8)",
+    "answers": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Orhan Pamuk",
+      "Kazuo Ishiguro"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2023 Nobel Edebiyat Ödülü Norveçli yazar Jon Fosse'ye verilmiştir."
+  },
+  {
+    "id": 250,
+    "examType": "kpss_associate",
+    "subject": "general_culture",
+    "subcategory": "current_events",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "Haziran 2026 tarihinde düzenlenecek olan FIFA Dünya Kupası hangi ülkelerin ev sahipliğinde yapılacaktır? (Varyasyon 9)",
+    "answers": [
+      "Katar",
+      "ABD - Kanada - Meksika",
+      "Almanya",
+      "İspanya - Portekiz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2026 FIFA Dünya Kupası Kuzey Amerika'da üç ülkenin ortaklığında düzenlenecektir."
+  }
+]

@@ -1,0 +1,1006 @@
+{
+  "language": "tr",
+  "version": 1,
+  "items": [
+    {
+      "id": 1,
+      "text": "Osmanlı Devleti'nin kurucusu Osman Bey'dir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 2,
+      "text": "İlk Osmanlı parası (Bakır) Osman Bey döneminde basılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 3,
+      "text": "Bursa, Orhan Bey döneminde fethedilerek başkent yapılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 4,
+      "text": "Divan teşkilatı ilk kez Orhan Bey döneminde kurulmuştur.",
+      "source": "Tarih"
+    },
+    {
+      "id": 5,
+      "text": "Sultan unvanını kullanan ilk Osmanlı padişahı Orhan Bey'dir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 6,
+      "text": "Yeniçeri Ocağı I. Murad döneminde kurulmuştur.",
+      "source": "Tarih"
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı'da 'Sultan-ı İklim-i Rum' unvanı Yıldırım Bayezid'e verilmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 8,
+      "text": "Ankara Savaşı (1402) sonrası Osmanlı'da Fetret Devri başlamıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nin ikinci kurucusu Çelebi Mehmet kabul edilir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 10,
+      "text": "İstanbul 1453 yılında Fatih Sultan Mehmet tarafından fethedilmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 11,
+      "text": "Topkapı Sarayı Fatih Sultan Mehmet döneminde yapılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 12,
+      "text": "Halifelik Yavuz Sultan Selim döneminde Osmanlı'ya geçmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 13,
+      "text": "Osmanlı'da en uzun süre tahtta kalan padişah Kanuni Sultan Süleyman'dır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 14,
+      "text": "Preveze Deniz Zaferi ile Akdeniz bir Türk gölü haline gelmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 15,
+      "text": "Osmanlı'da ilk resmi gazete Takvim-i Vekayi'dir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 16,
+      "text": "Yeniçeri Ocağı II. Mahmud döneminde (Vaka-i Hayriye) kaldırılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 17,
+      "text": "Tanzimat Fermanı 1839'da Abdülmecid döneminde ilan edilmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 18,
+      "text": "I. Meşrutiyet 1876 yılında II. Abdülhamid döneminde ilan edilmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 19,
+      "text": "Trablusgarp Savaşı, Mustafa Kemal'in ilk askeri başarısıdır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 20,
+      "text": "Sivas Kongresi'nde 'Ya istiklal ya ölüm' parolası benimsenmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 21,
+      "text": "Türkiye'nin en yüksek dağı Ağrı Dağı'dır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin en uzun akarsuyu Kızılırmak'tır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin en büyük gölü Van Gölü'dür.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 24,
+      "text": "Türkiye'nin en büyük adası Gökçeada'dır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 25,
+      "text": "Türkiye'de kış ılıklığının en belirgin olduğu bölge Akdeniz'dir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 26,
+      "text": "Türkiye'nin en çok yağış alan ili Rize'dir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 27,
+      "text": "Türkiye'nin en az yağış alan yeri Iğdır ve Tuz Gölü çevresidir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 28,
+      "text": "Ege Bölgesi'nde dağlar denize dik uzanır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 29,
+      "text": "Karadeniz ve Akdeniz'de dağlar denize paralel uzanır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 30,
+      "text": "Türkiye'nin en büyük deltasını Seyhan ve Ceyhan nehirleri oluşturur (Çukurova).",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 31,
+      "text": "Bor rezervinde Türkiye dünyada birinci sıradadır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 32,
+      "text": "Türkiye'de güneş enerjisinden yararlanma potansiyeli en fazla Güneydoğu Anadolu'dur.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 33,
+      "text": "Türkiye'de fındık üretiminde birinci bölge Karadeniz'dir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 34,
+      "text": "Türkiye'de pamuk üretiminde birinci il Şanlıurfa'dır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 35,
+      "text": "Türkiye'nin en yoğun nüfuslu bölgesi Marmara'dır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 36,
+      "text": "Türkiye'de linyit yatakları en fazla Ege Bölgesi'ndedir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 37,
+      "text": "Türkiye'de çay tarımı sadece Doğu Karadeniz'de yapılır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 38,
+      "text": "Türkiye'de maki bitki örtüsü Akdeniz ikliminde görülür.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 39,
+      "text": "Türkiye'de en geniş yayılış alanına sahip ağaç türü meşedir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 40,
+      "text": "Türkiye'nin matematik konumu 36-42 Kuzey paralelleri arasındadır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 41,
+      "text": "Anayasa'ya göre Türkiye Devleti bir Cumhuriyettir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 42,
+      "text": "Hukukta hak ehliyeti tam ve sağ doğumla başlar.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 43,
+      "text": "Erginlik yaşı (rüşd) kural olarak 18 yaşın doldurulmasıdır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 44,
+      "text": "TBMM seçimleri 5 yılda bir yapılır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 45,
+      "text": "Milletvekili seçilme yaşı 18'dir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 46,
+      "text": "Anayasa Mahkemesi 15 üyeden oluşur.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 47,
+      "text": "Cumhurbaşkanı halk tarafından seçilir ve görev süresi 5 yıldır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 48,
+      "text": "Hâkimler ve Savcılar Kurulu (HSK) 13 üyeden oluşur.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 49,
+      "text": "Yönetmelikler, kanunlara aykırı olamaz.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 50,
+      "text": "Olağanüstü hal (OHAL) Cumhurbaşkanı tarafından ilan edilir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 51,
+      "text": "Türkiye'de oy kullanma yaşı 18'dir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 52,
+      "text": "Anayasa'nın ilk 3 maddesi değiştirilemez ve değiştirilmesi teklif edilemez.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 53,
+      "text": "Kamu Başdenetçisi (Ombudsman) TBMM tarafından seçilir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 54,
+      "text": "Milli Güvenlik Kurulu'na Cumhurbaşkanı başkanlık eder.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 55,
+      "text": "Belediye başkanlarını halk seçer.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 56,
+      "text": "Köy muhtarını ihtiyar heyeti ile birlikte köylü seçer.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 57,
+      "text": "Sayıştay, TBMM adına denetim yapar.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 58,
+      "text": "Yargıtay, adli mahkemelerin son inceleme merciidir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 59,
+      "text": "Danıştay, idari mahkemelerin son inceleme merciidir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 60,
+      "text": "Uyuşmazlık Mahkemesi, adli ve idari yargı arasındaki yetki uyuşmazlıklarını çözer.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 61,
+      "text": "Türkçede yapım ekleri eklendiği kelimenin anlamını değiştirir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 62,
+      "text": "Sert ünsüzler: p, ç, t, k, f, s, ş, h (Fıstıkçı Şahap).",
+      "source": "Türkçe"
+    },
+    {
+      "id": 63,
+      "text": "Büyük ünlü uyumu: Kalın ünlülerden sonra kalın, ince ünlülerden sonra ince gelir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 64,
+      "text": "Zamirler isimlerin yerini tutan kelimelerdir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 65,
+      "text": "Sıfatlar isimleri niteleyen veya belirten kelimelerdir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 66,
+      "text": "Edatlar tek başına anlamı olmayan, cümle içinde görev kazanan sözcüklerdir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 67,
+      "text": "Bağlaçlar kelimeleri veya cümleleri birbirine bağlar.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 68,
+      "text": "Zarf, fiilleri veya fiilimsileri niteleyen sözcüktür.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 69,
+      "text": "Fiilimsiler; isim-fiil, sıfat-fiil ve zarf-fiil olarak üçe ayrılır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 70,
+      "text": "Özne ve yüklem cümlenin temel ögeleridir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 71,
+      "text": "Belirtili nesne 'neyi, kimi' sorularına cevap verir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 72,
+      "text": "Yer tamlayıcısı (Dolaylı Tümleç) '-e, -de, -den' eklerini alır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 73,
+      "text": "Yazım kurallarında kurum ve kuruluş adlarına gelen ekler kesme işaretiyle ayrılmaz.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 74,
+      "text": "Soru eki olan 'mı, mi' her zaman ayrı yazılır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 75,
+      "text": "Bağlaç olan 'de' her zaman ayrı yazılır ve cümleden çıkarılınca anlam bozulmaz.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 76,
+      "text": "Ki bağlacı ayrı yazılır (bazı kalıplaşmış olanlar hariç: sanki, oysaki, mademki vb.).",
+      "source": "Türkçe"
+    },
+    {
+      "id": 77,
+      "text": "Noktalı virgül, öğeleri arasında virgül bulunan sıralı cümleleri ayırmak için kullanılır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 78,
+      "text": "İki nokta, kendisinden sonra açıklama yapılacak veya örnek verilecek cümlenin sonuna konur.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 79,
+      "text": "Anlatım bozukluğu, gereksiz sözcük kullanımı veya mantık hatasından kaynaklanabilir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 80,
+      "text": "Deyimler genellikle mecaz anlamlı ve kalıplaşmış söz öbekleridir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 81,
+      "text": "UNESCO Dünya Miras Listesi'ndeki Göbeklitepe Şanlıurfa'dadır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 82,
+      "text": "Türkiye'nin ilk yerli otomobili Togg'dur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 83,
+      "text": "İstiklal Marşı'nın yazarı Mehmet Akif Ersoy'dur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 84,
+      "text": "İstiklal Marşı'nın bestecisi Osman Zeki Üngör'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 85,
+      "text": "Türkiye'nin ilk kadın başbakanı Tansu Çiller'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 86,
+      "text": "Türkiye'nin ilk kadın valisi Lale Aytaman'dır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 87,
+      "text": "Dünya beşten büyüktür sözü BM yapısına bir eleştiridir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 88,
+      "text": "Avrupa Birliği'nin merkezi Brüksel'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 89,
+      "text": "NATO'nun merkezi Brüksel'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 90,
+      "text": "Kızılay'ın eski adı Hilal-i Ahmer'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 91,
+      "text": "Yeşilay'ın eski adı Hilal-i Ahdar'dır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 92,
+      "text": "Türk Dil Kurumu 1932 yılında kurulmuştur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 93,
+      "text": "Türk Tarih Kurumu 1931 yılında kurulmuştur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 94,
+      "text": "Modern hemşireliğin kurucusu Florence Nightingale'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 95,
+      "text": "Kudüs Şairi olarak bilinen yazar Nuri Pakdil'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 96,
+      "text": "Bayrak Şairi olarak bilinen şair Arif Nihat Asya'dır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 97,
+      "text": "Dede Korkut hikayeleri UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'ndedir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 98,
+      "text": "Mimar Sinan'ın 'ustalık eserim' dediği cami Selimiye Camii'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 99,
+      "text": "Nobel ödülü alan ilk Türk yazar Orhan Pamuk'tur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 100,
+      "text": "Nobel Kimya Ödülü alan Türk bilim insanı Aziz Sancar'dır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 101,
+      "text": "Amiral Bristol Raporu, Kurtuluş Savaşı'nın haklılığını kanıtlayan ilk uluslararası belgedir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 102,
+      "text": "Lozan Barış Antlaşması 24 Temmuz 1923'te imzalanmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 103,
+      "text": "Mudanya Ateşkes Antlaşması ile Doğu Trakya savaşsız kurtarılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 104,
+      "text": "Teşkilat-ı Esasiye (1921), yeni Türk devletinin ilk anayasasıdır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 105,
+      "text": "Millet Mektepleri, okuma yazma oranını artırmak için açılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 106,
+      "text": "Soyadı Kanunu 1934 yılında kabul edilmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 107,
+      "text": "Hatay, 1939 yılında Türkiye topraklarına katılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 108,
+      "text": "Milli Mücadele'nin ilk halkası Amasya Genelgesi'dir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 109,
+      "text": "Misak-ı Milli sınırları son şeklini Sakarya Meydan Muharebesi ile almıştır (Kars Antlaşması).",
+      "source": "Tarih"
+    },
+    {
+      "id": 110,
+      "text": "Saltanat 1 Kasım 1922'de kaldırılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 111,
+      "text": "Cumhuriyet 29 Ekim 1923'te ilan edilmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 112,
+      "text": "Halifelik 3 Mart 1924'te kaldırılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 113,
+      "text": "Şapka Kanunu 1925 yılında kabul edilmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 114,
+      "text": "Medeni Kanun 1926 yılında İsviçre'den alınmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 115,
+      "text": "Tekke, zaviye ve türbeler 1925'te kapatılmıştır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 116,
+      "text": "Harf İnkılabı 1 Kasım 1928'de gerçekleştirilmiştir.",
+      "source": "Tarih"
+    },
+    {
+      "id": 117,
+      "text": "Kadınlara belediye seçimlerine katılma hakkı 1930'da verildi.",
+      "source": "Tarih"
+    },
+    {
+      "id": 118,
+      "text": "Kadınlara muhtarlık seçimlerine katılma hakkı 1933'te verildi.",
+      "source": "Tarih"
+    },
+    {
+      "id": 119,
+      "text": "Kadınlara milletvekili seçme ve seçilme hakkı 1934'te verildi.",
+      "source": "Tarih"
+    },
+    {
+      "id": 120,
+      "text": "Menemen Olayı, çok partili hayata geçişi geciktiren bir olaydır.",
+      "source": "Tarih"
+    },
+    {
+      "id": 121,
+      "text": "Güney Marmara ve Kıyı Ege deprem riskinin yüksek olduğu yerlerdir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 122,
+      "text": "Zonguldak çevresinde Taş Kömürü yatakları bulunur.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 123,
+      "text": "Sivas - Divriği çevresinde Demir madeni çıkarılır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 124,
+      "text": "Artvin - Murgul çevresinde Bakır madeni çıkarılır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 125,
+      "text": "Konya, Türkiye'nin tahıl ambarı olarak bilinir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 126,
+      "text": "Küçükbaş hayvancılık en fazla İç Anadolu ve Doğu Anadolu'da yapılır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 127,
+      "text": "Büyükbaş hayvancılık (mer'a) en fazla Erzurum-Kars bölümünde yapılır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 128,
+      "text": "Türkiye'de seracılık en çok Akdeniz Bölgesi'nde gelişmiştir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 129,
+      "text": "Muz üretimi sadece Mersin ve Antalya çevresinde yapılır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 130,
+      "text": "Türkiye'de kenevir üretimi devlet kontrolünde (Samsun vb.) yapılır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 131,
+      "text": "Haşhaş üretimi devlet kontrolünde Afyonkarahisar çevresinde yapılır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 132,
+      "text": "Türkiye'nin en işlek sınır kapısı Kapıkule'dir (Bulgaristan).",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 133,
+      "text": "Ege Bölgesi'nde kıta sahanlığı (şelf) geniştir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 134,
+      "text": "Doğu Karadeniz'de kıta sahanlığı dardır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 135,
+      "text": "Toros Dağları, Akdeniz'in gerisinde uzanan kıvrımlı dağlardır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 136,
+      "text": "Istranca (Yıldız) Dağları, Marmara'nın kuzeyinde yer alır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 137,
+      "text": "Gap Projesi ile Güneydoğu Anadolu'da tarımsal verim artmıştır.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 138,
+      "text": "Bolu - Tüneli, ulaşımı kolaylaştıran önemli bir geçittir.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 139,
+      "text": "Zigana ve Kop geçitleri Doğu Karadeniz'i iç kesimlere bağlar.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 140,
+      "text": "Sertavul ve Gülek geçitleri Akdeniz'i İç Anadolu'ya bağlar.",
+      "source": "Coğrafya"
+    },
+    {
+      "id": 141,
+      "text": "Dilekçe hakkı bir siyasi haktır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 142,
+      "text": "Mülkiyet hakkı bir kişisel (koruyucu) haktır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 143,
+      "text": "Çalışma hakkı bir sosyal ve ekonomik haktır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 144,
+      "text": "YSK (Yüksek Seçim Kurulu) kararlarına karşı yargı yolu kapalıdır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 145,
+      "text": "Milletvekilliği; ölüm, istifa veya devamsızlık gibi hallerde sona erer.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 146,
+      "text": "TBMM Başkanı seçimi gizli oyla yapılır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 147,
+      "text": "Kanunları yayımlama yetkisi Cumhurbaşkanı'na aittir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 148,
+      "text": "Milli Savunma Bakanlığı, merkezi yönetimin bir parçasıdır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 149,
+      "text": "Belediye idaresi; belediye başkanı, belediye meclisi ve belediye encümeninden oluşur.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 150,
+      "text": "Büyükşehir belediyesi kurmak için nüfusun en az 750.000 olması gerekir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 151,
+      "text": "Köy kurulması İçişleri Bakanlığı kararı ile olur.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 152,
+      "text": "Memurların disiplin cezaları; uyarma, kınama, aylıktan kesme, kademe ilerlemesinin durdurulması ve ihraçtır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 153,
+      "text": "İstiklal Marşı, 1982 Anayasası'nda yer alan devletin milli marşıdır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 154,
+      "text": "Türk bayrağının şekli kanunla düzenlenir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 155,
+      "text": "Anayasa değişikliği teklifi için en az 200 milletvekilinin imzası gerekir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 156,
+      "text": "Anayasa değişikliğinin kabulü için en az 360 milletvekilinin kabul oyu gerekir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 157,
+      "text": "Siyasi partiler kapatma davası Anayasa Mahkemesi'nde açılır.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 158,
+      "text": "Siyasi partilerin mali denetimini Anayasa Mahkemesi yapar.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 159,
+      "text": "Vatandaşlıktan çıkarma kararına karşı Danıştay'a dava açılabilir.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 160,
+      "text": "Bir kimsenin kısıtlanması (vesayet) yargı kararı ile olur.",
+      "source": "Vatandaşlık"
+    },
+    {
+      "id": 161,
+      "text": "Sıralı cümleleri birbirinden ayırmak için virgül kullanılır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 162,
+      "text": "Özel isimlere getirilen iyelik, durum ve bildirme ekleri kesme işaretiyle ayrılır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 163,
+      "text": "Birleşik kelimelerden 'etmek, olmak' yardımcı fiilleri ses düşmesi veya türemesi varsa bitişik yazılır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 164,
+      "text": "Altı çizili sözcüklerin anlamını cümledeki kullanım belirler.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 165,
+      "text": "Deyimler aktarması, doğadan insana veya insandan doğaya olabilir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 166,
+      "text": "Betimleme, kelimelerle resim çizme sanatıdır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 167,
+      "text": "Öyküleme, olay akışının olduğu anlatım biçimidir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 168,
+      "text": "Açıklama, bilgi verme amacı taşıyan anlatım biçimidir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 169,
+      "text": "Tartışma, bir görüşü çürütüp kendi görüşünü kabul ettirme amacı taşır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 170,
+      "text": "Kişileştirme, insana ait özelliklerin cansız varlıklara verilmesidir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 171,
+      "text": "Konuşturma (İntak), cansız varlıkların konuşturulmasıdır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 172,
+      "text": "Benzetme (Teşbih), aralarında ilgi bulunan iki varlıktan zayıf olanın güçlü olana benzetilmesidir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 173,
+      "text": "Mecaz-ı Mürsel (Ad Aktarması), bir sözün benzetme amacı gütmeden başka bir söz yerine kullanılmasıdır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 174,
+      "text": "Tariz (İğneleme), bir sözün tam tersini kastetmektir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 175,
+      "text": "Kinaye, bir sözün hem gerçek hem mecaz anlama gelecek şekilde ama mecazın kastedilerek kullanılmasıdır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 176,
+      "text": "Eş anlamlı sözcüklerin bir arada kullanılması anlatım bozukluğuna yol açar.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 177,
+      "text": "Özne-yüklem uyumsuzluğu anlatım bozukluğu sebebidir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 178,
+      "text": "Çatı uyuşmazlığı, cümlede etken ve edilgen fiillerin bir arada uygunsuz kullanımıdır.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 179,
+      "text": "Fiil çatıları nesne-yüklem ve özne-yüklem ilişkisine göre incelenir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 180,
+      "text": "Edebiyatımızda ilk yerli roman Şemsettin Sami'nin Taaşşuk-ı Talat ve Fitnat eseridir.",
+      "source": "Türkçe"
+    },
+    {
+      "id": 181,
+      "text": "Türksoy'un genel merkezi Ankara'dadır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 182,
+      "text": "Interpol'ün merkezi Lyon'dadır (Fransa).",
+      "source": "Güncel"
+    },
+    {
+      "id": 183,
+      "text": "Birleşmiş Milletler (BM) 1945 yılında kurulmuştur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 184,
+      "text": "Dünya Sağlık Örgütü (WHO) merkezi Cenevre'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 185,
+      "text": "G20 zirveleri her yıl farklı bir ülkede toplanır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 186,
+      "text": "İstiklal Madalyası alan ilk yerleşim birimi İnebolu'dur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 187,
+      "text": "İstiklal Madalyası alan ilk şehir Maraş'tır (1925).",
+      "source": "Güncel"
+    },
+    {
+      "id": 188,
+      "text": "Şanlı unvanını alan şehir Urfa'dır (1984).",
+      "source": "Güncel"
+    },
+    {
+      "id": 189,
+      "text": "Gazi unvanını alan şehir Antep'tir (1921).",
+      "source": "Güncel"
+    },
+    {
+      "id": 190,
+      "text": "Kahraman unvanını alan şehir Maraş'tır (1973).",
+      "source": "Güncel"
+    },
+    {
+      "id": 191,
+      "text": "Türkiye'nin en son büyükşehir olan ili Ordu'dur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 192,
+      "text": "Avrupa İnsan Hakları Mahkemesi (AİHM) Strasbourg'dadır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 193,
+      "text": "Uluslararası Adalet Divanı Lahey'dedir (Hollanda).",
+      "source": "Güncel"
+    },
+    {
+      "id": 194,
+      "text": "Türkiye'nin ilk milli parkı Yozgat Çamlığı'dır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 195,
+      "text": "Dünyanın en derin çukuru Mariana Çukuru'dur.",
+      "source": "Güncel"
+    },
+    {
+      "id": 196,
+      "text": "Güneş sisteminin en büyük gezegeni Jüpiter'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 197,
+      "text": "Kızıl Gezegen olarak bilinen gezegen Mars'tır.",
+      "source": "Güncel"
+    },
+    {
+      "id": 198,
+      "text": "Yüzyıllık Yalnızlık eserinin yazarı Gabriel Garcia Marquez'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 199,
+      "text": "İnce Memed eserinin yazarı Yaşar Kemal'dir.",
+      "source": "Güncel"
+    },
+    {
+      "id": 200,
+      "text": "Sinekli Bakkal eserinin yazarı Halide Edib Adıvar'dır.",
+      "source": "Güncel"
+    }
+  ]
+}

@@ -1,0 +1,3402 @@
+[
+  {
+    "id": 1,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 1)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 1)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 3,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 1)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 4,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 2)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 5,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 2)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 6,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 2)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 7,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 3)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 8,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 3)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 9,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 3)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 10,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 4)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 11,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 4)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 12,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 4)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 13,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 5)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 14,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 5)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 15,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 5)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 16,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 6)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 17,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 6)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 18,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 6)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 19,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 7)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 20,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 7)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 21,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 7)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 22,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 8)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 23,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 8)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 24,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 8)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 25,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 9)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 26,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 9)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 27,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 9)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 28,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 10)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 29,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 10)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 30,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 10)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 11)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 11)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 33,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 11)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 34,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 12)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 35,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 12)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 36,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 12)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 37,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 13)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 38,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 13)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 39,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 13)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 40,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 14)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 41,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 14)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 42,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 14)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 43,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 15)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 44,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 15)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 45,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 15)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 46,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 16)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 47,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 16)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 48,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 16)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 49,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 17)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 50,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 17)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 51,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 17)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 52,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 18)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 53,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 18)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 54,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 18)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 55,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 19)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 56,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 19)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 57,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 19)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 58,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 20)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 59,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 20)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 60,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 20)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 21)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 62,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 21)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 63,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 21)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 64,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 22)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 65,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 22)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 66,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 22)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 67,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 23)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 68,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 23)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 69,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 23)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 70,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 24)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 71,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 24)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 72,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 24)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 73,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 25)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 74,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 25)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 75,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 25)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 76,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 26)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 77,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 26)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 78,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 26)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 79,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 27)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 80,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 27)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 81,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 27)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 28)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 28)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 84,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 28)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 85,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 29)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 86,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 29)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 87,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 29)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 88,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 30)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 89,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 30)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 90,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 30)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 91,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 31)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 92,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 31)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 93,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 31)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 94,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 32)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 95,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 32)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 96,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 32)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 97,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 33)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 98,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 33)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 99,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 33)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 100,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 34)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 101,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 34)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 102,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 34)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 103,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 35)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 104,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 35)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 105,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 35)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 106,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 36)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 107,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 36)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 108,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 36)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 109,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 37)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 110,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 37)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 111,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 37)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 112,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 38)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 113,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 38)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 114,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 38)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 115,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 39)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 116,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 39)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 117,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 39)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 118,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 40)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 119,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 40)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 120,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 40)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 121,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 41)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 122,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 41)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 123,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 41)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 124,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 42)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 125,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 42)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 126,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 42)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 127,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 43)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 128,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 43)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 129,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 43)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 130,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 44)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 131,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 44)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 132,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 44)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 133,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 45)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 134,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 45)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 135,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 45)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 136,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 46)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 137,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 46)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 138,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 46)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 139,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 47)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 140,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 47)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 141,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 47)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 142,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 48)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 143,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 48)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 144,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 48)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 145,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 49)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 146,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 49)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 147,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 49)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 148,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 50)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 149,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 50)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 150,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 50)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 151,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 51)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 152,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 51)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 153,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 51)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 154,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 52)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 155,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 52)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 156,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 52)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 157,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 53)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 158,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 53)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 159,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 53)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 160,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 54)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 54)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 162,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 54)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 163,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 55)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 164,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 55)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 165,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 55)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 166,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 56)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 167,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 56)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 168,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 56)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 169,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 57)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 170,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 57)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 171,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 57)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 172,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 58)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 173,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 58)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 174,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 58)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 175,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 59)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 176,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 59)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 177,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 59)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 178,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 60)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 179,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 60)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 180,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 60)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 61)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 182,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 61)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 183,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 61)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 184,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 62)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 185,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 62)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 186,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 62)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 187,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 63)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 188,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 63)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 189,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 63)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 190,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 64)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 64)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 64)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 65)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 65)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 65)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 66)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 66)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Ceza Hukuku",
+    "topic": "Suçun Unsurları",
+    "difficulty": 3,
+    "questionText": "Failin, suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesine ne ad verilir? (Soru Varyasyonu 66)",
+    "answers": [
+      "Kast",
+      "Taksir",
+      "İhmal",
+      "Hata"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bilme ve isteme unsurlarının birleşimi kastı oluşturur."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "Anayasa Hukuku",
+    "topic": "Temel Haklar",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer almaz? (Soru Varyasyonu 67)",
+    "answers": [
+      "Vatan hizmeti",
+      "Vergi ödevi",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mülkiyet hakkı 'Kişi Hak ve Ödevleri' (Negatif statü hakları) arasında yer alır."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_a_group",
+    "subject": "hukuk",
+    "subcategory": "İdare Hukuku",
+    "topic": "İdari İşlemler",
+    "difficulty": 3,
+    "questionText": "İdari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları bakımından hukuka aykırı olmaları durumunda açılan dava türü hangisidir? (Soru Varyasyonu 67)",
+    "answers": [
+      "Tam yargı davası",
+      "İptal davası",
+      "Tespit davası",
+      "Yorum davası"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İdari işlemlerin hukuka uygunluğunun denetlendiği dava iptal davasıdır."
+  }
+]
