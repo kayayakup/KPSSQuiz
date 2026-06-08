@@ -100,14 +100,40 @@ namespace MillionaireGame
 
             Debug.Log($"[QuestionManager] {_filteredPool.Count} questions in category '{category}'.");
 
+            // Cap the test size at 30 questions (typical KPSS standard length)
+            int testSize = Mathf.Min(30, _filteredPool.Count);
+            
+            // Count unused questions in this category pool
+            int unusedCount = 0;
+            foreach (var q in _filteredPool)
+            {
+                if (!_usedIds.Contains(q.id)) unusedCount++;
+            }
+
+            // If we run out of unused questions, reset the tracker to start a new cycle
+            if (unusedCount < testSize)
+            {
+                // Clear only the IDs belonging to this category to keep others preserved,
+                // or simply clear all for simplicity. Let's clear IDs of the current category's questions:
+                foreach (var q in _filteredPool)
+                {
+                    _usedIds.Remove(q.id);
+                }
+            }
+
+            // Initialize the money ladder steps dynamically
+            MoneyLadder.Initialize(testSize);
+
             _selectedQuestions = new List<QuestionEntry>();
-            _usedIds.Clear();
 
             for (int step = 0; step < MoneyLadder.TotalSteps; step++)
             {
                 int targetDifficulty = MoneyLadder.StepDifficulty[step];
                 QuestionEntry picked = PickQuestion(targetDifficulty);
-                _selectedQuestions.Add(picked);
+                if (picked != null)
+                {
+                    _selectedQuestions.Add(picked);
+                }
             }
 
             return true;

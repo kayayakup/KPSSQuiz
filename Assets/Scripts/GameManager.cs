@@ -73,6 +73,8 @@ namespace MillionaireGame
         private float _timer;
         private bool _timerActive;
         private int _consecutiveLosses = 0;
+        private int _correctAnswersCount = 0;
+        private int _wrongAnswersCount = 0;
 
         private ReminderDatabase _reminderDB;
 
@@ -283,13 +285,14 @@ namespace MillionaireGame
             _uiMgr.btnWalkAway.interactable = false;
 
             PlayAudio(audioWrong);
+            _wrongAnswersCount++;
 
             string title = LocalizationManager.Get("timesUp");
             string msg = LocalizationManager.Get("timesUpMsg");
             string guaranteed = MoneyLadder.GetGuaranteedPrize(_currentStep);
             string dropMsg = LocalizationManager.Get("youDropTo");
 
-            _uiMgr.ShowResult(title, $"{msg}\n\n{dropMsg} {guaranteed}");
+            _uiMgr.ShowResult(title, $"{msg}\n\n{dropMsg} {guaranteed}" + GenerateKPSSResultReport());
             HandleLoss();
         }
 
@@ -375,8 +378,13 @@ namespace MillionaireGame
                 return;
             }
 
-            // Reset lifelines
+            // Reset lifelines and answer counters
             _lifelineMgr.ResetLifelines();
+            _correctAnswersCount = 0;
+            _wrongAnswersCount = 0;
+
+            // Rebuild the ladder representation in UIManager dynamically
+            _uiMgr.RebuildLadderUI();
 
             // Switch to game panel
             _uiMgr.ShowCategoryScreen(false);
@@ -386,11 +394,30 @@ namespace MillionaireGame
             // Start at step 0
             _currentStep = 0;
             
-            // Set bulk timer (130 minutes = 7800 seconds)
-            _timer = 7800f;
-            _timerActive = true;
+            // Set bulk timer: 60 seconds per question in the test
+            _timer = MoneyLadder.TotalSteps * 60f;
+            _timerActive = false; // Pause timer during the initial ladder overlay
 
-            ShowCurrentQuestion();
+            _uiMgr.UpdateLadder(_currentStep);
+
+            bool dismissed = false;
+            System.Action onDismiss = () => {
+                if (dismissed) return;
+                dismissed = true;
+                _timerActive = true;
+                ShowCurrentQuestion();
+            };
+
+            _uiMgr.ShowLadderOverlay(onDismiss);
+
+            // Auto-dismiss after 2.5 seconds
+            StartCoroutine(AutoDismissLadder(2.5f, onDismiss));
+        }
+
+        private IEnumerator AutoDismissLadder(float delay, System.Action onDismiss)
+        {
+            yield return new WaitForSeconds(delay);
+            _uiMgr.HideLadderOverlay(onDismiss);
         }
 
         // ═══════════════════════════════════════════════
@@ -453,6 +480,7 @@ namespace MillionaireGame
 
             if (!correct)
             {
+                _wrongAnswersCount++;
                 // Also show the correct one
                 _uiMgr.ShowCorrectAnswer(_currentQuestion.correctAnswerIndex);
                 PlayAudio(audioWrong);
@@ -460,6 +488,7 @@ namespace MillionaireGame
             }
             else
             {
+                _correctAnswersCount++;
                 PlayAudio(audioCorrect);
                 SpawnParticles(_particlesCorrect);
             }
@@ -484,15 +513,28 @@ namespace MillionaireGame
                     // 🎉 WINNER!
                     _uiMgr.ShowResult(
                         congrat,
-                        text
+                        text + GenerateKPSSResultReport()
                     );
                     _consecutiveLosses = 0; // Reset losses on win
                 }
                 else
                 {
-                    // Next question
-                    _timerActive = true; // Resume timer
-                    ShowCurrentQuestion();
+                    // Next question - show the intermediate prize ladder screen first
+                    _timerActive = false; // Pause timer during the ladder overlay
+                    _uiMgr.UpdateLadder(_currentStep);
+
+                    bool dismissed = false;
+                    System.Action onDismiss = () => {
+                        if (dismissed) return;
+                        dismissed = true;
+                        _timerActive = true;
+                        ShowCurrentQuestion();
+                    };
+
+                    _uiMgr.ShowLadderOverlay(onDismiss);
+
+                    // Auto-dismiss after 2.5 seconds
+                    StartCoroutine(AutoDismissLadder(2.5f, onDismiss));
                 }
             }
             else
@@ -505,10 +547,16 @@ namespace MillionaireGame
                 string TheCorrectAnswerWas = LocalizationManager.Get("correctAnswerWas");
                 string YouDropTo = LocalizationManager.Get("youDropTo");
 
+                string correctAnsText = "";
+                if (_currentQuestion != null && _currentQuestion.answers != null && _currentQuestion.correctAnswerIndex >= 0 && _currentQuestion.correctAnswerIndex < _currentQuestion.answers.Length)
+                {
+                    correctAnsText = _currentQuestion.answers[_currentQuestion.correctAnswerIndex];
+                }
+
                 _uiMgr.ShowResult(
                     title,
-                    $"{TheCorrectAnswerWas}\n{_currentQuestion.answers[_currentQuestion.correctAnswerIndex]}\n\n" +
-                    $"{YouDropTo} {guaranteed}"
+                    $"{TheCorrectAnswerWas}\n{correctAnsText}\n\n" +
+                    $"{YouDropTo} {guaranteed}" + GenerateKPSSResultReport()
                 );
                 HandleLoss();
             }
@@ -540,7 +588,7 @@ namespace MillionaireGame
 
             _uiMgr.ShowResult(
                 title,
-                text
+                text + GenerateKPSSResultReport()
             );
         }
 
@@ -612,6 +660,38 @@ namespace MillionaireGame
                 _uiMgr.UpdateBackground(_backgroundSprites[index]);
                 index = (index + 1) % _backgroundSprites.Length;
                 yield return new WaitForSeconds(_slideshowInterval > 0f ? _slideshowInterval : 10f);
+            }
+        }
+
+        private string GenerateKPSSResultReport()
+        {
+            float net = _correctAnswersCount - (_wrongAnswersCount / 4.0f);
+            if (net < 0) net = 0;
+            
+            float scoreMultiplier = MoneyLadder.TotalSteps > 0 ? (50f / MoneyLadder.TotalSteps) : 0f;
+            float kpssScore = 50f + (net * scoreMultiplier);
+            if (kpssScore > 100f) kpssScore = 100f;
+            
+            bool isTurk = (_currentLanguage == "TR");
+            if (isTurk)
+            {
+                return $"\n\n<b>📊 Sınav Sonuç Tablosu</b>\n" +
+                       $"───────────────────────\n" +
+                       $"🟢 Doğru Cevap: {_correctAnswersCount}\n" +
+                       $"🔴 Yanlış Cevap: {_wrongAnswersCount}\n" +
+                       $"⚖️ Net Sayısı: {net:F2}\n" +
+                       $"🏆 Tahmini KPSS Puanı: <b>{kpssScore:F2}</b>\n" +
+                       $"───────────────────────";
+            }
+            else
+            {
+                return $"\n\n<b>📊 Exam Results Table</b>\n" +
+                       $"───────────────────────\n" +
+                       $"🟢 Correct: {_correctAnswersCount}\n" +
+                       $"🔴 Incorrect: {_wrongAnswersCount}\n" +
+                       $"⚖️ Net Score: {net:F2}\n" +
+                       $"🏆 Est. KPSS Score: <b>{kpssScore:F2}</b>\n" +
+                       $"───────────────────────";
             }
         }
 

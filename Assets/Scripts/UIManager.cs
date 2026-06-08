@@ -60,6 +60,7 @@ namespace MillionaireGame
         public Button btnWalkAway;
 
         // Money ladder
+        public GameObject ladderOverlayPanel;
         public GameObject ladderArea;
         public TextMeshProUGUI[] ladderLabels;
         public Image[] ladderBackgrounds;
@@ -217,6 +218,7 @@ namespace MillionaireGame
             resultPanel.SetActive(false);
             settingsPanel.SetActive(false);
             reminderPanel.SetActive(false);
+            if (ladderOverlayPanel != null) ladderOverlayPanel.SetActive(false);
             btnSettings.gameObject.SetActive(false); // hidden until language is chosen
         }
 
@@ -425,23 +427,98 @@ namespace MillionaireGame
             categorySubtitle.fontStyle = FontStyles.Italic;
         }
 
+        private string FormatCategoryName(string cat)
+        {
+            if (cat == "All") return "Hepsi";
+            
+            string raw = cat.ToLower();
+            raw = raw.Replace("kpss_ortaogretim_", "").Replace("kpss_onlisans_", "").Replace("kpss_lisans_", "").Replace("kpss_", "");
+            
+            if (raw.Contains("genel_kultur") || raw.Contains("general_culture") || raw.Contains("general culture")) return "Genel Kültür";
+            if (raw.Contains("turkce") || raw.Contains("turkish")) return "Türkçe";
+            if (raw.Contains("matematik") || raw.Contains("mathematics")) return "Matematik";
+            if (raw.Contains("tarih") || raw.Contains("history")) return "Tarih";
+            if (raw.Contains("cografya") || raw.Contains("geography")) return "Coğrafya";
+            if (raw.Contains("vatandaslik") || raw.Contains("citizenship")) return "Vatandaşlık";
+            if (raw.Contains("egitim_bilimleri") || raw.Contains("educational_sciences")) return "Eğitim Bilimleri";
+            
+            // Alan Bilgisi (in pure Turkish)
+            if (raw.Contains("hukuk") || raw.Contains("law")) return "Hukuk";
+            if (raw.Contains("iktisat") || raw.Contains("economics")) return "İktisat";
+            if (raw.Contains("isletme") || raw.Contains("business")) return "İşletme";
+            if (raw.Contains("maliye") || raw.Contains("finance")) return "Maliye";
+            if (raw.Contains("muhasebe") || raw.Contains("accounting")) return "Muhasebe";
+            if (raw.Contains("istatistik") || raw.Contains("statistics")) return "İstatistik";
+            if (raw.Contains("kamu_yonetimi") || raw.Contains("public_administration")) return "Kamu Yönetimi";
+            if (raw.Contains("uluslararasi_iliskiler") || raw.Contains("international_relations")) return "Uluslararası İlişkiler";
+            if (raw.Contains("calisma_ekonomisi") || raw.Contains("labor_economics")) return "Çalışma Ekonomisi";
+            
+            // Fallback: remove underscores and capitalize
+            string[] words = raw.Split('_');
+            for (int i = 0; i < words.Length; i++) {
+                if (words[i].Length > 0) {
+                    words[i] = char.ToUpper(words[i][0]) + words[i].Substring(1);
+                }
+            }
+            return string.Join(" ", words);
+        }
+
+        private int GetCategorySortOrder(string cat)
+        {
+            string formatted = FormatCategoryName(cat);
+            if (formatted == "Hepsi") return 0;
+            if (formatted == "Türkçe") return 1;
+            if (formatted == "Matematik") return 2;
+            if (formatted == "Genel Kültür") return 3;
+            return 4;
+        }
+
         public void PopulateCategoryButtons(List<string> categories, System.Action<string> onClick)
         {
             foreach (var btn in categoryButtons) if (btn != null) Destroy(btn.gameObject);
             categoryButtons.Clear();
 
-            float startY = 480f;
-            float spacing = 130f;
+            // Sort categories in order: Hepsi, Türkçe, Matematik, Genel Kültür, and others alphabetically
+            List<string> sortedCategories = new List<string>(categories);
+            sortedCategories.Sort((a, b) => {
+                int orderA = GetCategorySortOrder(a);
+                int orderB = GetCategorySortOrder(b);
+                if (orderA != orderB)
+                {
+                    return orderA.CompareTo(orderB);
+                }
+                return string.Compare(FormatCategoryName(a), FormatCategoryName(b), System.StringComparison.OrdinalIgnoreCase);
+            });
 
-            for (int i = 0; i < categories.Count; i++)
+            int count = sortedCategories.Count;
+            float totalAvailableHeight = 1100f; // Space from title down to bottom
+            float spacing = 130f;
+            float buttonHeight = 100f;
+            float startY = 480f;
+            int fontSize = 44;
+
+            if (count * spacing > totalAvailableHeight)
             {
-                string cat = categories[i];
-                string displayCat = cat;
-                if (cat == "All") displayCat = (PlayerPrefs.GetString("SelectedLanguage", "EN") == "TR") ? "Hepsi" : "All";
+                spacing = totalAvailableHeight / count;
+                buttonHeight = spacing * 0.85f;
+                fontSize = Mathf.Clamp(Mathf.RoundToInt(buttonHeight * 0.45f), 24, 44);
+            }
+
+            for (int i = 0; i < sortedCategories.Count; i++)
+            {
+                string cat = sortedCategories[i];
+                string displayCat = FormatCategoryName(cat);
                 
                 float yPos = startY - i * spacing;
 
-                var btn = CreateButton(categoryPanel.transform, $"CatBtn_{cat}", displayCat, new Vector2(0, yPos), new Vector2(700, 100), 44);
+                var btn = CreateButton(categoryPanel.transform, $"CatBtn_{cat}", displayCat, new Vector2(0, yPos), new Vector2(700, buttonHeight), fontSize);
+                
+                // Color formatting: if it is a remaining lesson (order == 4), make it slate grey
+                if (GetCategorySortOrder(cat) == 4)
+                {
+                    btn.GetComponent<Image>().color = new Color32(95, 100, 110, 255); // Premium slate grey
+                }
+
                 btn.onClick.AddListener(() => {
                     AnimateButtonPress(btn);
                     onClick(cat);
@@ -456,7 +533,7 @@ namespace MillionaireGame
             gamePanel.GetComponent<Image>().color = new Color(0, 0, 0, 0); // transparent container
 
             // ── Top: Lifeline buttons ──
-            float lifeY = 820f + 50f;  // 50 piksel yukarı taşındı (870f oldu)
+            float lifeY = 820f + 50f;  // 870f
             btnFiftyFifty = CreateButton(gamePanel.transform, "Btn5050", "50:50", new Vector2(-320, lifeY), new Vector2(280, 100), 36);
             lblFiftyFifty = btnFiftyFifty.GetComponentInChildren<TextMeshProUGUI>();
 
@@ -466,29 +543,106 @@ namespace MillionaireGame
             btnPhoneFriend = CreateButton(gamePanel.transform, "BtnPhone", "Phone", new Vector2(320, lifeY), new Vector2(280, 100), 36);
             lblPhoneFriend = btnPhoneFriend.GetComponentInChildren<TextMeshProUGUI>();
 
-            // ── Mid-Top: Money Ladder ──
-            ladderArea = CreatePanel(gamePanel.transform, "LadderArea", new Vector2(0, 440), new Vector2(850, 700));
-            ladderArea.GetComponent<Image>().color = new Color32(10, 10, 50, 255);
+            // ── Middle: Question Info, Timer & Text ──
+            questionNumberText = CreateTMP(gamePanel.transform, "QuestionNumber", "Question 1 / 15", 42, TextAlignmentOptions.Center, new Vector2(-200, 750f), new Vector2(500, 60));
+            questionNumberText.color = _accentGold;
+            questionNumberText.alignment = TextAlignmentOptions.Left;
 
-            var ladderTitle = CreateTMP(ladderArea.transform, "LadderTitle", "Prize Ladder", 40, TextAlignmentOptions.Center, new Vector2(0, 330), new Vector2(800, 45));
+            timerText = CreateTMP(gamePanel.transform, "TimerText", "130:00", 54, TextAlignmentOptions.Center, new Vector2(350, 750f), new Vector2(250, 60));
+            if (timerFont != null) timerText.font = timerFont;
+            timerText.color = _accentGold;
+            timerText.fontStyle = FontStyles.Bold;
+            timerText.alignment = TextAlignmentOptions.Right;
+
+            // Extra large question panel (620f height instead of 560f)
+            _questionBgPanel = CreatePanel(gamePanel.transform, "QuestionBg", new Vector2(0, 390f), new Vector2(980, 620));
+            _questionBgPanel.GetComponent<Image>().color = _panelBg;
+
+            questionText = CreateTMP(_questionBgPanel.transform, "QuestionText", "Question goes here?", 46, TextAlignmentOptions.Center, Vector2.zero, new Vector2(930, 560));
+            questionText.color = _white;
+
+            // ── Bottom: Answer buttons (shifted down, height 100f) ──
+            string[] labels = { "A", "B", "C", "D" };
+            for (int i = 0; i < 4; i++)
+            {
+                float aY = -260f - i * 115f; // Placed low to avoid overlapping banner ad
+                var btn = CreateButton(gamePanel.transform, $"AnswerBtn_{labels[i]}", $"{labels[i]}: Answer", new Vector2(0, aY), new Vector2(920, 100), 40);
+                
+                var btnRT = btn.GetComponent<RectTransform>();
+                answerBackgrounds[i] = btn.GetComponent<Image>();
+                answerButtons[i] = btn;
+                answerLabels[i] = btn.transform.Find("Label").GetComponent<TextMeshProUGUI>();
+                answerLabels[i].alignment = TextAlignmentOptions.Left;
+                // Indent text slightly
+                answerLabels[i].rectTransform.anchoredPosition = new Vector2(25, 0);
+                answerLabels[i].rectTransform.sizeDelta = new Vector2(870, 90);
+                
+                int index = i;
+                btn.onClick.AddListener(() => AnimateButtonPress(answerButtons[index]));
+            }
+
+            // Walk away button (placed just below options, leaving bottom free)
+            btnWalkAway = CreateButton(gamePanel.transform, "BtnWalkAway", "Walk Away", new Vector2(0, -730f), new Vector2(400, 80), 40);
+            btnWalkAway.GetComponent<Image>().color = new Color32(180, 50, 50, 255);
+
+            // ── Money Ladder Overlay Panel ──
+            ladderOverlayPanel = new GameObject("LadderOverlayPanel", typeof(RectTransform));
+            var overlayRT = ladderOverlayPanel.GetComponent<RectTransform>();
+            overlayRT.SetParent(gamePanel.transform, false);
+            overlayRT.anchorMin = Vector2.zero;
+            overlayRT.anchorMax = Vector2.one;
+            overlayRT.sizeDelta = Vector2.zero;
+            
+            var overlayImg = ladderOverlayPanel.AddComponent<Image>();
+            overlayImg.color = new Color(0f, 0f, 0.05f, 0.88f); // High-premium semi-transparent dark background
+            
+            var overlayBtn = ladderOverlayPanel.AddComponent<Button>();
+            overlayBtn.transition = Selectable.Transition.None;
+
+            ladderArea = CreatePanel(ladderOverlayPanel.transform, "LadderArea", new Vector2(0, 0), new Vector2(980, 1650));
+            ladderArea.GetComponent<Image>().color = new Color32(10, 10, 50, 255);
+            var ladderAreaBtn = ladderArea.AddComponent<Button>();
+            ladderAreaBtn.transition = Selectable.Transition.None;
+
+            var ladderTitle = CreateTMP(ladderArea.transform, "LadderTitle", "Prize Ladder", 46, TextAlignmentOptions.Center, new Vector2(0, 750), new Vector2(800, 60));
             ladderTitle.color = _accentGold;
             ladderTitle.fontStyle = FontStyles.Bold;
+        }
+
+        public void RebuildLadderUI()
+        {
+            // First, destroy existing rows in ladderArea
+            foreach (Transform child in ladderArea.transform)
+            {
+                if (child.name.StartsWith("LadderRow_"))
+                {
+                    Destroy(child.gameObject);
+                }
+            }
 
             int steps = MoneyLadder.TotalSteps;
             ladderLabels = new TextMeshProUGUI[steps];
             ladderBackgrounds = new Image[steps];
             _ladderRowRTs = new RectTransform[steps];
 
+            float totalAvailableHeight = 1360f; // Height space to fit rows (full screen)
+            float rowHeight = Mathf.Min(45f, totalAvailableHeight / steps);
+            float spacing = rowHeight + 4f;
+            float startY = 660f;
+
+            // Dynamically scale font size based on row height so text is fully visible
+            float fontSize = Mathf.Clamp(rowHeight * 0.72f, 16f, 34f);
+
             for (int i = steps - 1; i >= 0; i--)
             {
                 int displayRow = steps - 1 - i;
-                float yPos = 265f - displayRow * 42f;
+                float yPos = startY - displayRow * spacing;
 
                 var rowGO = new GameObject($"LadderRow_{i}", typeof(RectTransform));
                 var rowRT = rowGO.GetComponent<RectTransform>();
                 rowRT.SetParent(ladderArea.transform, false);
                 rowRT.anchoredPosition = new Vector2(0, yPos);
-                rowRT.sizeDelta = new Vector2(800, 40);
+                rowRT.sizeDelta = new Vector2(900, rowHeight);
                 _ladderRowRTs[i] = rowRT;
 
                 var rowImg = rowGO.AddComponent<Image>();
@@ -499,48 +653,9 @@ namespace MillionaireGame
                     rowImg.color = _ladderSafe;
 
                 string prefix = (i + 1).ToString().PadLeft(2) + ". ";
-                ladderLabels[i] = CreateTMP(rowGO.transform, $"LadderLbl_{i}", prefix + MoneyLadder.PrizeLabels[i], 28, TextAlignmentOptions.Center, Vector2.zero, new Vector2(750, 40));
+                ladderLabels[i] = CreateTMP(rowGO.transform, $"LadderLbl_{i}", prefix + MoneyLadder.PrizeLabels[i], fontSize, TextAlignmentOptions.Center, Vector2.zero, new Vector2(750, rowHeight));
                 ladderLabels[i].color = _white;
             }
-
-            // ── Middle: Question Text ──
-            timerText = CreateTMP(gamePanel.transform, "TimerText", "60", 64, TextAlignmentOptions.Center, new Vector2(400, 40), new Vector2(200, 80));
-            if (timerFont != null) timerText.font = timerFont;
-            timerText.color = _accentGold;
-            timerText.fontStyle = FontStyles.Bold;
-
-            questionNumberText = CreateTMP(gamePanel.transform, "QuestionNumber", "Question 1 / 15", 42, TextAlignmentOptions.Center, new Vector2(0, 40), new Vector2(800, 50));
-            questionNumberText.color = _accentGold;
-
-            _questionBgPanel = CreatePanel(gamePanel.transform, "QuestionBg", new Vector2(0, -110), new Vector2(980, 220));
-            _questionBgPanel.GetComponent<Image>().color = _panelBg;
-
-            questionText = CreateTMP(_questionBgPanel.transform, "QuestionText", "Question goes here?", 48, TextAlignmentOptions.Center, Vector2.zero, new Vector2(930, 180));
-            questionText.color = _white;
-
-            // ── Bottom: Answer buttons (1x4 vertically) ──
-            string[] labels = { "A", "B", "C", "D" };
-            for (int i = 0; i < 4; i++)
-            {
-                float aY = -310 - i * 115;
-                var btn = CreateButton(gamePanel.transform, $"AnswerBtn_{labels[i]}", $"{labels[i]}: Answer", new Vector2(0, aY), new Vector2(920, 100), 42);
-                
-                var btnRT = btn.GetComponent<RectTransform>();
-                answerBackgrounds[i] = btn.GetComponent<Image>();
-                answerButtons[i] = btn;
-                answerLabels[i] = btn.transform.Find("Label").GetComponent<TextMeshProUGUI>();
-                answerLabels[i].alignment = TextAlignmentOptions.Left;
-                // Indent text slightly
-                answerLabels[i].rectTransform.anchoredPosition = new Vector2(20, 0);
-                answerLabels[i].rectTransform.sizeDelta = new Vector2(880, 90);
-                
-                int index = i;
-                btn.onClick.AddListener(() => AnimateButtonPress(answerButtons[index]));
-            }
-
-            // Walk away button
-            btnWalkAway = CreateButton(gamePanel.transform, "BtnWalkAway", "Walk Away", new Vector2(0, -800), new Vector2(350, 80), 40);
-            btnWalkAway.GetComponent<Image>().color = new Color32(180, 50, 50, 255);
         }
 
         private void BuildAudiencePanel(Transform parent)
@@ -936,6 +1051,12 @@ namespace MillionaireGame
             if(show) 
             {
                 HidePanel(languagePanel);
+                HidePanel(categoryPanel);
+                HidePanel(gamePanel);
+                HidePanel(resultPanel);
+                HidePanel(audiencePanel);
+                HidePanel(phonePanel);
+                HidePanel(reminderPanel);
                 ShowPanel(branchPanel);
             }
             else 
@@ -982,6 +1103,36 @@ namespace MillionaireGame
             ShowPanel(reminderPanel);
         }
 
+        public void ShowLadderOverlay(System.Action onDismiss)
+        {
+            if (ladderOverlayPanel == null) return;
+            
+            ShowPanel(ladderOverlayPanel);
+            
+            // Wire click event to both overlay and inner area for quick hypercasual dismiss
+            var overlayBtn = ladderOverlayPanel.GetComponent<Button>();
+            if (overlayBtn != null)
+            {
+                overlayBtn.onClick.RemoveAllListeners();
+                overlayBtn.onClick.AddListener(() => HideLadderOverlay(onDismiss));
+            }
+            
+            var ladderAreaBtn = ladderArea.GetComponent<Button>();
+            if (ladderAreaBtn != null)
+            {
+                ladderAreaBtn.onClick.RemoveAllListeners();
+                ladderAreaBtn.onClick.AddListener(() => HideLadderOverlay(onDismiss));
+            }
+        }
+
+        public void HideLadderOverlay(System.Action onDismiss)
+        {
+            if (ladderOverlayPanel == null || !ladderOverlayPanel.activeSelf) return;
+            
+            HidePanel(ladderOverlayPanel);
+            onDismiss?.Invoke();
+        }
+
         public void ShowQuestion(QuestionEntry q, int stepIndex)
         {
             string questionLabel = (LocalizationManager.AvailableLanguages.Count > 0) ? LocalizationManager.Get("question") : "Question";
@@ -997,10 +1148,20 @@ namespace MillionaireGame
             string[] prefixes = { "A: ", "B: ", "C: ", "D: " };
             for (int i = 0; i < 4; i++)
             {
-                answerButtons[i].gameObject.SetActive(true);
-                answerButtons[i].interactable = true;
-                answerLabels[i].text = prefixes[i] + q.answers[i];
                 answerBackgrounds[i].color = _btnNormal;
+                
+                if (q.answers != null && i < q.answers.Length)
+                {
+                    answerButtons[i].gameObject.SetActive(true);
+                    answerButtons[i].interactable = true;
+                    answerLabels[i].text = prefixes[i] + q.answers[i];
+                }
+                else
+                {
+                    answerLabels[i].text = prefixes[i] + "-";
+                    answerButtons[i].gameObject.SetActive(false);
+                    answerButtons[i].interactable = false;
+                }
                 
                 // Animation for Answer Buttons sliding in
                 var rt = answerButtons[i].GetComponent<RectTransform>();
@@ -1185,6 +1346,9 @@ namespace MillionaireGame
             tmp.alignment = alignment;
             tmp.enableWordWrapping = true;
             tmp.overflowMode = TextOverflowModes.Ellipsis;
+            tmp.enableAutoSizing = true;
+            tmp.fontSizeMin = 20;
+            tmp.fontSizeMax = fontSize;
             tmp.color = _white;
             return tmp;
         }
