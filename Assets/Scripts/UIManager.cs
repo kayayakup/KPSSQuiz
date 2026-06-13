@@ -14,6 +14,9 @@ namespace MillionaireGame
 {
     public class UIManager : MonoBehaviour
     {
+        public const int MaxAnswerCount = 5;
+        private static readonly string[] AnswerLetters = { "A", "B", "C", "D", "E" };
+
         // ══════════════════════════════════════════════
         //  PUBLIC REFERENCES
         // ══════════════════════════════════════════════
@@ -30,21 +33,26 @@ namespace MillionaireGame
         public GameObject branchPanel;
         public TextMeshProUGUI branchTitle;
         public List<Button> branchButtons = new List<Button>();
+        public Button btnBranchBack;
 
         // ── Category selection screen ──
         public GameObject categoryPanel;
         public TextMeshProUGUI categoryTitle;
         public TextMeshProUGUI categorySubtitle;
         public List<Button> categoryButtons = new List<Button>();
+        public Button btnCategoryBack;
+        private ScrollRect categoryScrollRect;
+        private RectTransform categoryContent;
         public Button btnSettings;          // persistent canvas-level settings gear
 
         // ── Game screen ──
         public GameObject gamePanel;
+        public Button btnGameBack;
         public TextMeshProUGUI questionNumberText;
         public TextMeshProUGUI questionText;
-        public Button[] answerButtons = new Button[4];
-        public TextMeshProUGUI[] answerLabels = new TextMeshProUGUI[4];
-        public Image[] answerBackgrounds = new Image[4];
+        public Button[] answerButtons = new Button[MaxAnswerCount];
+        public TextMeshProUGUI[] answerLabels = new TextMeshProUGUI[MaxAnswerCount];
+        public Image[] answerBackgrounds = new Image[MaxAnswerCount];
 
         // Lifeline buttons
         public Button btnFiftyFifty;
@@ -68,9 +76,9 @@ namespace MillionaireGame
 
         // ── Audience result panel ──
         public GameObject audiencePanel;
-        public Slider[] audienceSliders = new Slider[4];
-        public TextMeshProUGUI[] audiencePercentLabels = new TextMeshProUGUI[4];
-        public TextMeshProUGUI[] audienceLetterLabels = new TextMeshProUGUI[4];
+        public Slider[] audienceSliders = new Slider[MaxAnswerCount];
+        public TextMeshProUGUI[] audiencePercentLabels = new TextMeshProUGUI[MaxAnswerCount];
+        public TextMeshProUGUI[] audienceLetterLabels = new TextMeshProUGUI[MaxAnswerCount];
         public Button audienceCloseButton;
 
         // ── Phone a Friend panel ──
@@ -222,6 +230,42 @@ namespace MillionaireGame
             btnSettings.gameObject.SetActive(false); // hidden until language is chosen
         }
 
+        public void SetBranchBackAction(System.Action onBack)
+        {
+            if (btnBranchBack != null)
+            {
+                btnBranchBack.onClick.RemoveAllListeners();
+                btnBranchBack.onClick.AddListener(() => {
+                    AnimateButtonPress(btnBranchBack);
+                    onBack?.Invoke();
+                });
+            }
+        }
+
+        public void SetCategoryBackAction(System.Action onBack)
+        {
+            if (btnCategoryBack != null)
+            {
+                btnCategoryBack.onClick.RemoveAllListeners();
+                btnCategoryBack.onClick.AddListener(() => {
+                    AnimateButtonPress(btnCategoryBack);
+                    onBack?.Invoke();
+                });
+            }
+        }
+
+        public void SetGameBackAction(System.Action onBack)
+        {
+            if (btnGameBack != null)
+            {
+                btnGameBack.onClick.RemoveAllListeners();
+                btnGameBack.onClick.AddListener(() => {
+                    AnimateButtonPress(btnGameBack);
+                    onBack?.Invoke();
+                });
+            }
+        }
+
         public void ChangeBackgroundGradient(int index)
         {
             index = index % _gradTop.Length;
@@ -255,7 +299,7 @@ namespace MillionaireGame
                 TweenButtonColor(btn, btnColor);
             foreach (var btn in categoryButtons)
                 TweenButtonColor(btn, btnColor);
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < answerButtons.Length; i++)
                 TweenButtonColor(answerButtons[i], btnColor);
 
             // Ladder rows
@@ -384,6 +428,9 @@ namespace MillionaireGame
         {
             branchPanel = CreatePanel(parent, "BranchPanel", Vector2.zero, new Vector2(950, 1600));
 
+            btnBranchBack = CreateButton(branchPanel.transform, "BtnBranchBack", "Geri", new Vector2(-360, 690), new Vector2(180, 70), 34);
+            btnBranchBack.GetComponent<Image>().color = _btnDisabled;
+
             branchTitle = CreateTMP(branchPanel.transform, "BranchTitle", "Select Branch", 58, TextAlignmentOptions.Center, new Vector2(0, 680), new Vector2(800, 80));
             branchTitle.color = _accentGold;
             branchTitle.fontStyle = FontStyles.Bold;
@@ -394,11 +441,11 @@ namespace MillionaireGame
             foreach (var btn in branchButtons) if (btn != null) Destroy(btn.gameObject);
             branchButtons.Clear();
 
-            string[] branches = { "Ortaöğretim", "Önlisans", "Lisans" };
-            string[] branchCodes = { "kpss_ortaogretim", "kpss_onlisans", "kpss_lisans" };
+            string[] branches = { "Ortaöğretim", "Önlisans", "Lisans", "ÖABT", "DHBT" };
+            string[] branchCodes = { "kpss_ortaogretim", "kpss_onlisans", "kpss_lisans", "kpss_oabt", "dhbt" };
 
             float startY = 480f;
-            float spacing = 150f;
+            float spacing = 130f;
 
             for (int i = 0; i < branches.Length; i++)
             {
@@ -418,6 +465,9 @@ namespace MillionaireGame
         {
             categoryPanel = CreatePanel(parent, "CategoryPanel", Vector2.zero, new Vector2(950, 1600));
 
+            btnCategoryBack = CreateButton(categoryPanel.transform, "BtnCategoryBack", "Geri", new Vector2(-360, 690), new Vector2(180, 70), 34);
+            btnCategoryBack.GetComponent<Image>().color = _btnDisabled;
+
             categoryTitle = CreateTMP(categoryPanel.transform, "CategoryTitle", "Choose a Category", 58, TextAlignmentOptions.Center, new Vector2(0, 680), new Vector2(800, 80));
             categoryTitle.color = _accentGold;
             categoryTitle.fontStyle = FontStyles.Bold;
@@ -425,15 +475,73 @@ namespace MillionaireGame
             categorySubtitle = CreateTMP(categoryPanel.transform, "Subtitle", "Religious Who Wants to Be a Millionaire?", 42, TextAlignmentOptions.Center, new Vector2(0, 600), new Vector2(800, 80));
             categorySubtitle.color = _white;
             categorySubtitle.fontStyle = FontStyles.Italic;
+
+            CreateCategoryScrollView(categoryPanel.transform);
+        }
+        
+        private void CreateCategoryScrollView(Transform parent)
+        {
+            // ScrollView'ın kendisi
+            var scrollViewGO = new GameObject("CategoryScrollView", typeof(RectTransform));
+            scrollViewGO.transform.SetParent(parent, false);
+            var scrollRectRT = scrollViewGO.GetComponent<RectTransform>();
+            scrollRectRT.anchorMin = new Vector2(0.5f, 0.5f);
+            scrollRectRT.anchorMax = new Vector2(0.5f, 0.5f);
+            scrollRectRT.anchoredPosition = new Vector2(0, 100);
+            scrollRectRT.sizeDelta = new Vector2(850, 1050);
+
+            // ScrollRect bileşeni
+            categoryScrollRect = scrollViewGO.AddComponent<ScrollRect>();
+            categoryScrollRect.horizontal = false;
+            categoryScrollRect.vertical = true;
+            categoryScrollRect.movementType = ScrollRect.MovementType.Clamped;
+
+            // Görünür alan (Viewport)
+            var viewportGO = new GameObject("Viewport", typeof(RectTransform));
+            viewportGO.transform.SetParent(scrollRectRT, false);
+            var viewportRT = viewportGO.GetComponent<RectTransform>();
+            viewportRT.anchorMin = Vector2.zero;
+            viewportRT.anchorMax = Vector2.one;
+            viewportRT.sizeDelta = Vector2.zero;
+            var viewportImg = viewportGO.AddComponent<Image>();
+            viewportImg.color = new Color(0, 0, 0, 0); // transparent
+            viewportGO.AddComponent<Mask>().showMaskGraphic = false;
+
+            // İçerik alanı (Content)
+            var contentGO = new GameObject("Content", typeof(RectTransform));
+            contentGO.transform.SetParent(viewportRT, false);
+            categoryContent = contentGO.GetComponent<RectTransform>();
+            categoryContent.anchorMin = new Vector2(0, 1);
+            categoryContent.anchorMax = new Vector2(1, 1);
+            categoryContent.pivot = new Vector2(0.5f, 1);
+            categoryContent.anchoredPosition = Vector2.zero;
+            // Başlangıç yüksekliği 0, dinamik olarak ayarlanacak
+            categoryContent.sizeDelta = new Vector2(0, 0);
+
+            // ScrollRect bağlantıları
+            categoryScrollRect.viewport = viewportRT;
+            categoryScrollRect.content = categoryContent;
+            // PopulateCategoryButtons metodunun sonuna ekleyin (categoryContent ayarından hemen sonra)
+            categoryScrollRect.content.anchoredPosition = Vector2.zero;
+
+            // 🔧 Content'in genişliğini viewport genişliğine göre ayarla (0 değil!)
+            categoryContent.sizeDelta = new Vector2(850f, 0); // Genişlik 850, yükseklik sonra dinamik
         }
 
         private string FormatCategoryName(string cat)
         {
             if (cat == "All") return "Hepsi";
-            
+
+            // If the category is already nicely formatted (like "ÖABT Matematik" or "DHBT" or "Genel Kültür")
+            // we can just return it. The heuristic below is for old raw strings.
+            if (cat.Contains("ÖABT") || cat.Contains("DHBT") || cat.Contains(" ") || cat.Contains("-"))
+            {
+                return cat;
+            }
+
             string raw = cat.ToLower();
-            raw = raw.Replace("kpss_ortaogretim_", "").Replace("kpss_onlisans_", "").Replace("kpss_lisans_", "").Replace("kpss_", "");
-            
+            raw = raw.Replace("kpss_ortaogretim_", "").Replace("kpss_onlisans_", "").Replace("kpss_lisans_", "").Replace("kpss_oabt_", "").Replace("dhbt_", "").Replace("kpss_", "");
+
             if (raw.Contains("genel_kultur") || raw.Contains("general_culture") || raw.Contains("general culture")) return "Genel Kültür";
             if (raw.Contains("turkce") || raw.Contains("turkish")) return "Türkçe";
             if (raw.Contains("matematik") || raw.Contains("mathematics")) return "Matematik";
@@ -441,7 +549,7 @@ namespace MillionaireGame
             if (raw.Contains("cografya") || raw.Contains("geography")) return "Coğrafya";
             if (raw.Contains("vatandaslik") || raw.Contains("citizenship")) return "Vatandaşlık";
             if (raw.Contains("egitim_bilimleri") || raw.Contains("educational_sciences")) return "Eğitim Bilimleri";
-            
+
             // Alan Bilgisi (in pure Turkish)
             if (raw.Contains("hukuk") || raw.Contains("law")) return "Hukuk";
             if (raw.Contains("iktisat") || raw.Contains("economics")) return "İktisat";
@@ -452,11 +560,13 @@ namespace MillionaireGame
             if (raw.Contains("kamu_yonetimi") || raw.Contains("public_administration")) return "Kamu Yönetimi";
             if (raw.Contains("uluslararasi_iliskiler") || raw.Contains("international_relations")) return "Uluslararası İlişkiler";
             if (raw.Contains("calisma_ekonomisi") || raw.Contains("labor_economics")) return "Çalışma Ekonomisi";
-            
+
             // Fallback: remove underscores and capitalize
             string[] words = raw.Split('_');
-            for (int i = 0; i < words.Length; i++) {
-                if (words[i].Length > 0) {
+            for (int i = 0; i < words.Length; i++)
+            {
+                if (words[i].Length > 0)
+                {
                     words[i] = char.ToUpper(words[i][0]) + words[i].Substring(1);
                 }
             }
@@ -475,60 +585,105 @@ namespace MillionaireGame
 
         public void PopulateCategoryButtons(List<string> categories, System.Action<string> onClick)
         {
-            foreach (var btn in categoryButtons) if (btn != null) Destroy(btn.gameObject);
+            // Önceki butonları temizle
+            foreach (var btn in categoryButtons)
+                if (btn != null) Destroy(btn.gameObject);
             categoryButtons.Clear();
 
-            // Sort categories in order: Hepsi, Türkçe, Matematik, Genel Kültür, and others alphabetically
+            // Kategorileri sırala
             List<string> sortedCategories = new List<string>(categories);
-            sortedCategories.Sort((a, b) => {
+            sortedCategories.Sort((a, b) =>
+            {
                 int orderA = GetCategorySortOrder(a);
                 int orderB = GetCategorySortOrder(b);
-                if (orderA != orderB)
-                {
-                    return orderA.CompareTo(orderB);
-                }
+                if (orderA != orderB) return orderA.CompareTo(orderB);
                 return string.Compare(FormatCategoryName(a), FormatCategoryName(b), System.StringComparison.OrdinalIgnoreCase);
             });
 
-            int count = sortedCategories.Count;
-            float totalAvailableHeight = 1100f; // Space from title down to bottom
-            float spacing = 130f;
-            float buttonHeight = 100f;
-            float startY = 480f;
-            int fontSize = 44;
-
-            if (count * spacing > totalAvailableHeight)
+            // ScrollView kullanılıyor mu?
+            if (categoryContent != null)
             {
-                spacing = totalAvailableHeight / count;
-                buttonHeight = spacing * 0.85f;
-                fontSize = Mathf.Clamp(Mathf.RoundToInt(buttonHeight * 0.45f), 24, 44);
-            }
+                foreach (Transform child in categoryContent)
+                    Destroy(child.gameObject);
 
-            for (int i = 0; i < sortedCategories.Count; i++)
-            {
-                string cat = sortedCategories[i];
-                string displayCat = FormatCategoryName(cat);
-                
-                float yPos = startY - i * spacing;
+                float buttonHeight = 110f;
+                float spacing = 15f;
+                float currentY = 0f;
+                int fontSize = Mathf.Clamp(Mathf.RoundToInt(buttonHeight * 0.42f), 20, 44);
+                float contentWidth = 850f; // viewport genişliği ile aynı
 
-                var btn = CreateButton(categoryPanel.transform, $"CatBtn_{cat}", displayCat, new Vector2(0, yPos), new Vector2(700, buttonHeight), fontSize);
-                
-                // Color formatting: if it is a remaining lesson (order == 4), make it slate grey
-                if (GetCategorySortOrder(cat) == 4)
+                for (int i = 0; i < sortedCategories.Count; i++)
                 {
-                    btn.GetComponent<Image>().color = new Color32(95, 100, 110, 255); // Premium slate grey
+                    string cat = sortedCategories[i];
+                    string displayCat = FormatCategoryName(cat);
+
+                    var btn = CreateButton(categoryContent.gameObject.transform, $"CatBtn_{cat}", displayCat,
+                        new Vector2(0, -currentY), new Vector2(800, buttonHeight), fontSize);
+
+                    if (GetCategorySortOrder(cat) == 4)
+                        btn.GetComponent<Image>().color = new Color32(95, 100, 110, 255);
+
+                    btn.onClick.AddListener(() =>
+                    {
+                        AnimateButtonPress(btn);
+                        onClick(cat);
+                    });
+                    categoryButtons.Add(btn);
+
+                    currentY += buttonHeight + spacing;
                 }
 
-                btn.onClick.AddListener(() => {
-                    AnimateButtonPress(btn);
-                    onClick(cat);
-                });
-                categoryButtons.Add(btn);
+                // 🔧 Content boyutunu ayarla
+                categoryContent.sizeDelta = new Vector2(contentWidth, currentY);
+                
+                // 🔧 Scroll pozisyonunu en üste al
+                categoryScrollRect.content.anchoredPosition = Vector2.zero;
+            }
+            else
+            {
+                // Fallback: ScrollView yoksa eski düz mantık
+                int count = sortedCategories.Count;
+                float totalAvailableHeight = 1100f;
+                float spacing = 130f;
+                float buttonHeight = 100f;
+                float startY = 480f;
+                int fontSize = 44;
+
+                if (count * spacing > totalAvailableHeight)
+                {
+                    spacing = totalAvailableHeight / count;
+                    buttonHeight = spacing * 0.85f;
+                    if (buttonHeight < 60f) buttonHeight = 60f;
+                    fontSize = Mathf.Clamp(Mathf.RoundToInt(buttonHeight * 0.45f), 18, 44);
+                }
+
+                for (int i = 0; i < sortedCategories.Count; i++)
+                {
+                    string cat = sortedCategories[i];
+                    string displayCat = FormatCategoryName(cat);
+                    float yPos = startY - i * spacing;
+
+                    var btn = CreateButton(categoryPanel.transform, $"CatBtn_{cat}", displayCat, new Vector2(0, yPos), new Vector2(700, buttonHeight), fontSize);
+
+                    if (GetCategorySortOrder(cat) == 4)
+                        btn.GetComponent<Image>().color = new Color32(95, 100, 110, 255);
+
+                    btn.onClick.AddListener(() =>
+                    {
+                        AnimateButtonPress(btn);
+                        onClick(cat);
+                    });
+                    categoryButtons.Add(btn);
+                }
             }
         }
 
         private void BuildGamePanel(Transform parent)
         {
+            answerButtons = new Button[MaxAnswerCount];
+            answerLabels = new TextMeshProUGUI[MaxAnswerCount];
+            answerBackgrounds = new Image[MaxAnswerCount];
+
             gamePanel = CreatePanel(parent, "GamePanel", Vector2.zero, new Vector2(1080, 1920));
             gamePanel.GetComponent<Image>().color = new Color(0, 0, 0, 0); // transparent container
 
@@ -548,6 +703,10 @@ namespace MillionaireGame
             questionNumberText.color = _accentGold;
             questionNumberText.alignment = TextAlignmentOptions.Left;
 
+            // Game panelinde geri butonu
+            btnGameBack = CreateButton(gamePanel.transform, "BtnGameBack", "Geri", new Vector2(-450, 750f), new Vector2(150, 60), 34);
+            btnGameBack.GetComponent<Image>().color = _btnDisabled;
+
             timerText = CreateTMP(gamePanel.transform, "TimerText", "130:00", 54, TextAlignmentOptions.Center, new Vector2(350, 750f), new Vector2(250, 60));
             if (timerFont != null) timerText.font = timerFont;
             timerText.color = _accentGold;
@@ -561,12 +720,11 @@ namespace MillionaireGame
             questionText = CreateTMP(_questionBgPanel.transform, "QuestionText", "Question goes here?", 46, TextAlignmentOptions.Center, Vector2.zero, new Vector2(930, 560));
             questionText.color = _white;
 
-            // ── Bottom: Answer buttons (shifted down, height 100f) ──
-            string[] labels = { "A", "B", "C", "D" };
-            for (int i = 0; i < 4; i++)
+            // ── Bottom: Answer buttons ──
+            for (int i = 0; i < answerButtons.Length; i++)
             {
-                float aY = -260f - i * 115f; // Placed low to avoid overlapping banner ad
-                var btn = CreateButton(gamePanel.transform, $"AnswerBtn_{labels[i]}", $"{labels[i]}: Answer", new Vector2(0, aY), new Vector2(920, 100), 40);
+                float aY = -230f - i * 95f; // Five choices fit above the banner area.
+                var btn = CreateButton(gamePanel.transform, $"AnswerBtn_{AnswerLetters[i]}", $"{AnswerLetters[i]}: Answer", new Vector2(0, aY), new Vector2(920, 85), 34);
                 
                 var btnRT = btn.GetComponent<RectTransform>();
                 answerBackgrounds[i] = btn.GetComponent<Image>();
@@ -575,14 +733,14 @@ namespace MillionaireGame
                 answerLabels[i].alignment = TextAlignmentOptions.Left;
                 // Indent text slightly
                 answerLabels[i].rectTransform.anchoredPosition = new Vector2(25, 0);
-                answerLabels[i].rectTransform.sizeDelta = new Vector2(870, 90);
+                answerLabels[i].rectTransform.sizeDelta = new Vector2(870, 78);
                 
                 int index = i;
                 btn.onClick.AddListener(() => AnimateButtonPress(answerButtons[index]));
             }
 
             // Walk away button (placed just below options, leaving bottom free)
-            btnWalkAway = CreateButton(gamePanel.transform, "BtnWalkAway", "Walk Away", new Vector2(0, -730f), new Vector2(400, 80), 40);
+            btnWalkAway = CreateButton(gamePanel.transform, "BtnWalkAway", "Walk Away", new Vector2(0, -735f), new Vector2(400, 75), 36);
             btnWalkAway.GetComponent<Image>().color = new Color32(180, 50, 50, 255);
 
             // ── Money Ladder Overlay Panel ──
@@ -660,22 +818,25 @@ namespace MillionaireGame
 
         private void BuildAudiencePanel(Transform parent)
         {
+            audienceSliders = new Slider[MaxAnswerCount];
+            audiencePercentLabels = new TextMeshProUGUI[MaxAnswerCount];
+            audienceLetterLabels = new TextMeshProUGUI[MaxAnswerCount];
+
             audiencePanel = CreatePanel(parent, "AudiencePanel", Vector2.zero, new Vector2(800, 700));
             
             CreateTMP(audiencePanel.transform, "AudTitle", "Audience Results", 50, TextAlignmentOptions.Center, new Vector2(0, 280), new Vector2(700, 60)).color = _accentGold;
 
-            string[] letters = { "A", "B", "C", "D" };
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < audienceSliders.Length; i++)
             {
-                float xPos = -240 + i * 160;
+                float xPos = -280 + i * 140;
 
-                audienceLetterLabels[i] = CreateTMP(audiencePanel.transform, $"AudLetter_{i}", letters[i], 46, TextAlignmentOptions.Center, new Vector2(xPos, -240), new Vector2(100, 50));
+                audienceLetterLabels[i] = CreateTMP(audiencePanel.transform, $"AudLetter_{i}", AnswerLetters[i], 42, TextAlignmentOptions.Center, new Vector2(xPos, -240), new Vector2(100, 50));
                 
                 var sliderGO = new GameObject($"AudSlider_{i}", typeof(RectTransform));
                 var sliderRT = sliderGO.GetComponent<RectTransform>();
                 sliderRT.SetParent(audiencePanel.transform, false);
                 sliderRT.anchoredPosition = new Vector2(xPos, 0);
-                sliderRT.sizeDelta = new Vector2(100, 380);
+                sliderRT.sizeDelta = new Vector2(85, 380);
 
                 var bgGO = new GameObject("Background", typeof(RectTransform));
                 var bgRT = bgGO.GetComponent<RectTransform>();
@@ -1145,8 +1306,7 @@ namespace MillionaireGame
             // Fade in Question text
             Tween.Alpha(questionText, 0f, 1f, 0.5f);
 
-            string[] prefixes = { "A: ", "B: ", "C: ", "D: " };
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < answerButtons.Length; i++)
             {
                 answerBackgrounds[i].color = _btnNormal;
                 
@@ -1154,11 +1314,11 @@ namespace MillionaireGame
                 {
                     answerButtons[i].gameObject.SetActive(true);
                     answerButtons[i].interactable = true;
-                    answerLabels[i].text = prefixes[i] + q.answers[i];
+                    answerLabels[i].text = AnswerLetters[i] + ": " + q.answers[i];
                 }
                 else
                 {
-                    answerLabels[i].text = prefixes[i] + "-";
+                    answerLabels[i].text = AnswerLetters[i] + ": -";
                     answerButtons[i].gameObject.SetActive(false);
                     answerButtons[i].interactable = false;
                 }
@@ -1178,6 +1338,8 @@ namespace MillionaireGame
 
         public void HighlightAnswer(int index, bool correct)
         {
+            if (!IsValidAnswerIndex(index)) return;
+
             var targetColor = correct ? _btnCorrect : _btnWrong;
             Tween.Color(answerBackgrounds[index], (Color)targetColor, 0.3f);
             
@@ -1200,17 +1362,19 @@ namespace MillionaireGame
 
         public void ShowCorrectAnswer(int correctIndex)
         {
+            if (!IsValidAnswerIndex(correctIndex)) return;
+
             Tween.Color(answerBackgrounds[correctIndex], (Color)_btnCorrect, 0.3f, startDelay: 0.5f);
         }
 
         public void DisableAnswerButtons()
         {
-            for (int i = 0; i < 4; i++) answerButtons[i].interactable = false;
+            for (int i = 0; i < answerButtons.Length; i++) answerButtons[i].interactable = false;
         }
 
         public void ApplyFiftyFifty(List<int> keepIndices)
         {
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < answerButtons.Length; i++)
             {
                 if (!keepIndices.Contains(i))
                 {
@@ -1223,14 +1387,28 @@ namespace MillionaireGame
         public void ShowAudienceResults(float[] percentages)
         {
             ShowPanel(audiencePanel);
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < audienceSliders.Length; i++)
             {
                 int idx = i; // local copy for closure
-                Tween.Custom(0f, percentages[idx], 1.5f, onValueChange: (val) => {
+                float target = (percentages != null && idx < percentages.Length) ? percentages[idx] : 0f;
+                Tween.Custom(0f, target, 1.5f, onValueChange: (val) => {
                     audienceSliders[idx].value = val;
                     audiencePercentLabels[idx].text = $"{Mathf.RoundToInt(val)}%";
                 }, Ease.OutCubic);
             }
+        }
+
+        private bool IsValidAnswerIndex(int index)
+        {
+            bool valid = index >= 0
+                && index < answerButtons.Length
+                && answerButtons[index] != null
+                && answerBackgrounds[index] != null;
+
+            if (!valid)
+                Debug.LogWarning($"[UIManager] Invalid answer index {index}.");
+
+            return valid;
         }
 
         public void HideAudiencePanel() { AnimateButtonPress(audienceCloseButton); HidePanel(audiencePanel); }
@@ -1345,9 +1523,9 @@ namespace MillionaireGame
             tmp.fontSize = fontSize;
             tmp.alignment = alignment;
             tmp.enableWordWrapping = true;
-            tmp.overflowMode = TextOverflowModes.Ellipsis;
+            tmp.overflowMode = TextOverflowModes.Overflow;   // Değiştirildi: artık kesme yok
             tmp.enableAutoSizing = true;
-            tmp.fontSizeMin = 20;
+            tmp.fontSizeMin = 10;                             // Minimum font iyice küçültüldü
             tmp.fontSizeMax = fontSize;
             tmp.color = _white;
             return tmp;
@@ -1383,6 +1561,14 @@ namespace MillionaireGame
 
             var tmp = CreateTMP(go.transform, "Label", label, fontSize, TextAlignmentOptions.Center, Vector2.zero, size - new Vector2(20, 20));
             tmp.raycastTarget = false;
+
+                    // --- EK GELİŞTİRMELER ---
+            tmp.overflowMode = TextOverflowModes.Overflow;      // Taşsa da göster
+            tmp.enableAutoSizing = true;
+            tmp.fontSizeMin = 12;                               // Çok küçük değere izin ver
+            tmp.fontSizeMax = fontSize;
+            tmp.margin = new Vector4(10, 5, 10, 5);             // İç boşlukları azalt
+            tmp.alignment = TextAlignmentOptions.Center;
 
             return btn;
         }

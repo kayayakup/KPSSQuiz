@@ -2920,7 +2920,7 @@
       "4",
       "5"
     ],
-    "correctAnswerIndex": 4,
+    "correctAnswerIndex": 3,
     "explanation": "Doğru üzerindeyse denklemi sağlar. x=2, y=m yaz: 3(2) - 2m + 4 = 0. 6 - 2m + 4 = 0. 10 = 2m. m = 5."
   },
   {
@@ -3398,5 +3398,6805 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "Bağıl Hız = 60 + 120 = 180 km/sa = 180.000 m / 3600 sn = 50 m/sn. Toplam yol = 100 + 150 = 250 m. Zaman = Yol / Hız = 250 / 50 = 5 saniye."
+  },
+  {
+    "id": 201,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 14'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "17",
+      "20",
+      "6",
+      "16"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 202,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 29'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "31",
+      "28",
+      "33",
+      "34"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 31 olarak bulunur."
+  },
+  {
+    "id": 203,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^3 * 5^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "15623",
+      "15625",
+      "15628",
+      "15630"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 15625 olarak bulunur."
+  },
+  {
+    "id": 204,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 3 = 23 olduğuna göre, x kaçtır?",
+    "answers": [
+      "1",
+      "4",
+      "2",
+      "6"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 205,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "3x + 10 = 34 olduğuna göre, x kaçtır?",
+    "answers": [
+      "8",
+      "12",
+      "18",
+      "11"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 206,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 19'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "26",
+      "33",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 23 olarak bulunur."
+  },
+  {
+    "id": 207,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 30'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "34",
+      "39",
+      "33",
+      "38"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 34 olarak bulunur."
+  },
+  {
+    "id": 208,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 9 + 8 işleminin sonucu kaçtır?",
+    "answers": [
+      "11",
+      "15",
+      "9",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 11 olarak bulunur."
+  },
+  {
+    "id": 209,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 64 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "10",
+      "19",
+      "20",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 210,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 18'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "20",
+      "21",
+      "11"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 21 olarak bulunur."
+  },
+  {
+    "id": 211,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 29'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "33",
+      "43",
+      "32",
+      "34"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 33 olarak bulunur."
+  },
+  {
+    "id": 212,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "200 sayısının %25'i kaçtır?",
+    "answers": [
+      "40",
+      "55",
+      "50",
+      "53"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 50 olarak bulunur."
+  },
+  {
+    "id": 213,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "100 sayısının %30'i kaçtır?",
+    "answers": [
+      "34",
+      "31",
+      "20",
+      "30"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 214,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "4x + 6 = 18 olduğuna göre, x kaçtır?",
+    "answers": [
+      "1",
+      "13",
+      "3",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 215,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "100 sayısının %20'i kaçtır?",
+    "answers": [
+      "18",
+      "20",
+      "24",
+      "21"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 216,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x + 4 = 13 olduğuna göre, x kaçtır?",
+    "answers": [
+      "3",
+      "2",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 217,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^3 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "625",
+      "635",
+      "629",
+      "626"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 625 olarak bulunur."
+  },
+  {
+    "id": 218,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 67 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "406",
+      "402",
+      "403",
+      "407"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 402 olarak bulunur."
+  },
+  {
+    "id": 219,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 98 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "392",
+      "393",
+      "394",
+      "396"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 392 olarak bulunur."
+  },
+  {
+    "id": 220,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "2x + 2 = 6 olduğuna göre, x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 221,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 25'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "32",
+      "29",
+      "27",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 27 olarak bulunur."
+  },
+  {
+    "id": 222,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^4 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "118",
+      "133",
+      "128",
+      "132"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 128 olarak bulunur."
+  },
+  {
+    "id": 223,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 65 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "391",
+      "394",
+      "390",
+      "389"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 390 olarak bulunur."
+  },
+  {
+    "id": 224,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "4x + 2 = 26 olduğuna göre, x kaçtır?",
+    "answers": [
+      "11",
+      "8",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 225,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 15'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "21",
+      "30",
+      "20",
+      "19"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 226,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 13'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "28",
+      "16",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 18 olarak bulunur."
+  },
+  {
+    "id": 227,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 27'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "33",
+      "29",
+      "31",
+      "28"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 29 olarak bulunur."
+  },
+  {
+    "id": 228,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 24'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "26",
+      "23",
+      "16",
+      "28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 26 olarak bulunur."
+  },
+  {
+    "id": 229,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^4 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "2185",
+      "2191",
+      "2187",
+      "2186"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 2187 olarak bulunur."
+  },
+  {
+    "id": 230,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "400 sayısının %40'i kaçtır?",
+    "answers": [
+      "158",
+      "164",
+      "160",
+      "157"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 160 olarak bulunur."
+  },
+  {
+    "id": 231,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 15'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "16",
+      "9",
+      "21",
+      "19"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 19 olarak bulunur."
+  },
+  {
+    "id": 232,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "200 sayısının %40'i kaçtır?",
+    "answers": [
+      "80",
+      "82",
+      "85",
+      "81"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 80 olarak bulunur."
+  },
+  {
+    "id": 233,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 16 + 16 işleminin sonucu kaçtır?",
+    "answers": [
+      "30",
+      "20",
+      "17",
+      "21"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 234,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 81 + 6 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "12",
+      "17",
+      "19"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 235,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 29'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "33",
+      "32",
+      "22",
+      "36"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 236,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 11'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "10",
+      "16",
+      "13",
+      "14"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 13 olarak bulunur."
+  },
+  {
+    "id": 237,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 49 + 3 işleminin sonucu kaçtır?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 238,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 23'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "25",
+      "17",
+      "27",
+      "26"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 27 olarak bulunur."
+  },
+  {
+    "id": 239,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 12'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "16",
+      "15",
+      "26",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 240,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 72 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "422",
+      "429",
+      "432",
+      "437"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 432 olarak bulunur."
+  },
+  {
+    "id": 241,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "2^4 * 2^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "34",
+      "37",
+      "32",
+      "29"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 242,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 28'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "32",
+      "31",
+      "35",
+      "33"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 31 olarak bulunur."
+  },
+  {
+    "id": 243,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 81 + 6 işleminin sonucu kaçtır?",
+    "answers": [
+      "17",
+      "19",
+      "15",
+      "16"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 244,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "4^2 * 4^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "61",
+      "68",
+      "64",
+      "63"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 245,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 63 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "312",
+      "315",
+      "319",
+      "318"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 315 olarak bulunur."
+  },
+  {
+    "id": 246,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "200 sayısının %50'i kaçtır?",
+    "answers": [
+      "97",
+      "100",
+      "105",
+      "101"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 100 olarak bulunur."
+  },
+  {
+    "id": 247,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "3^2 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "81",
+      "85",
+      "80",
+      "91"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 81 olarak bulunur."
+  },
+  {
+    "id": 248,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 16'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "19",
+      "23",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 19 olarak bulunur."
+  },
+  {
+    "id": 249,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 84 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "168",
+      "171",
+      "158",
+      "167"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 168 olarak bulunur."
+  },
+  {
+    "id": 250,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "200 sayısının %30'i kaçtır?",
+    "answers": [
+      "62",
+      "65",
+      "63",
+      "60"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 60 olarak bulunur."
+  },
+  {
+    "id": 251,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 10 = 25 olduğuna göre, x kaçtır?",
+    "answers": [
+      "8",
+      "2",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 252,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 3 = 13 olduğuna göre, x kaçtır?",
+    "answers": [
+      "1",
+      "2",
+      "7",
+      "6"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 253,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 98 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "391",
+      "392",
+      "402",
+      "390"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 392 olarak bulunur."
+  },
+  {
+    "id": 254,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 13'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "17",
+      "21",
+      "16",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 255,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "5x + 4 = 54 olduğuna göre, x kaçtır?",
+    "answers": [
+      "10",
+      "15",
+      "8",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 256,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 100 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "22",
+      "32",
+      "26",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 22 olarak bulunur."
+  },
+  {
+    "id": 257,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 13'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "22",
+      "17",
+      "21",
+      "27"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 17 olarak bulunur."
+  },
+  {
+    "id": 258,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "200 sayısının %40'i kaçtır?",
+    "answers": [
+      "79",
+      "83",
+      "84",
+      "80"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 80 olarak bulunur."
+  },
+  {
+    "id": 259,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "4x + 1 = 41 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "14",
+      "10",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 260,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 36 + 15 işleminin sonucu kaçtır?",
+    "answers": [
+      "18",
+      "21",
+      "25",
+      "26"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 21 olarak bulunur."
+  },
+  {
+    "id": 261,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^4 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "3130",
+      "3125",
+      "3135",
+      "3126"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 3125 olarak bulunur."
+  },
+  {
+    "id": 262,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 100 + 3 işleminin sonucu kaçtır?",
+    "answers": [
+      "14",
+      "13",
+      "12",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 13 olarak bulunur."
+  },
+  {
+    "id": 263,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 16 + 6 işleminin sonucu kaçtır?",
+    "answers": [
+      "14",
+      "10",
+      "9",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 264,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "2x + 6 = 14 olduğuna göre, x kaçtır?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 265,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^2 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "71",
+      "84",
+      "81",
+      "82"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 81 olarak bulunur."
+  },
+  {
+    "id": 266,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 24'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "30",
+      "28",
+      "26",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 26 olarak bulunur."
+  },
+  {
+    "id": 267,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 98 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "197",
+      "206",
+      "196",
+      "194"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 196 olarak bulunur."
+  },
+  {
+    "id": 268,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^4 * 5^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "78125",
+      "78128",
+      "78129",
+      "78123"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 78125 olarak bulunur."
+  },
+  {
+    "id": 269,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 71 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "423",
+      "427",
+      "424",
+      "426"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 426 olarak bulunur."
+  },
+  {
+    "id": 270,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 9 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "12",
+      "20",
+      "15",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 271,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 36 + 1 işleminin sonucu kaçtır?",
+    "answers": [
+      "11",
+      "5",
+      "17",
+      "7"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 272,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 1 = 21 olduğuna göre, x kaçtır?",
+    "answers": [
+      "2",
+      "4",
+      "7",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 273,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "300 sayısının %10'i kaçtır?",
+    "answers": [
+      "34",
+      "28",
+      "29",
+      "30"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 274,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^2 * 5^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "622",
+      "624",
+      "623",
+      "625"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 625 olarak bulunur."
+  },
+  {
+    "id": 275,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "200 sayısının %30'i kaçtır?",
+    "answers": [
+      "62",
+      "58",
+      "60",
+      "61"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 60 olarak bulunur."
+  },
+  {
+    "id": 276,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 27'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "32",
+      "33",
+      "28",
+      "31"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 31 olarak bulunur."
+  },
+  {
+    "id": 277,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "300 sayısının %25'i kaçtır?",
+    "answers": [
+      "77",
+      "73",
+      "85",
+      "75"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 75 olarak bulunur."
+  },
+  {
+    "id": 278,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 84 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "170",
+      "168",
+      "171",
+      "169"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 168 olarak bulunur."
+  },
+  {
+    "id": 279,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "2x + 2 = 20 olduğuna göre, x kaçtır?",
+    "answers": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 280,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 12'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "24",
+      "11",
+      "13",
+      "14"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 14 olarak bulunur."
+  },
+  {
+    "id": 281,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "500 sayısının %20'i kaçtır?",
+    "answers": [
+      "101",
+      "100",
+      "99",
+      "97"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 100 olarak bulunur."
+  },
+  {
+    "id": 282,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 92 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "460",
+      "458",
+      "470",
+      "462"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 460 olarak bulunur."
+  },
+  {
+    "id": 283,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 16'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "10",
+      "18",
+      "25",
+      "20"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 284,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "4x + 3 = 11 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "1",
+      "12",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 285,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 70 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "354",
+      "351",
+      "349",
+      "350"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 350 olarak bulunur."
+  },
+  {
+    "id": 286,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 64 + 16 işleminin sonucu kaçtır?",
+    "answers": [
+      "29",
+      "27",
+      "23",
+      "24"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 24 olarak bulunur."
+  },
+  {
+    "id": 287,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 79 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "240",
+      "241",
+      "237",
+      "235"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 237 olarak bulunur."
+  },
+  {
+    "id": 288,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 99 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "398",
+      "394",
+      "396",
+      "395"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 396 olarak bulunur."
+  },
+  {
+    "id": 289,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "400 sayısının %40'i kaçtır?",
+    "answers": [
+      "160",
+      "170",
+      "158",
+      "162"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 160 olarak bulunur."
+  },
+  {
+    "id": 290,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 19'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "27",
+      "28"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 23 olarak bulunur."
+  },
+  {
+    "id": 291,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^2 * 3^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "30",
+      "28",
+      "27",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 27 olarak bulunur."
+  },
+  {
+    "id": 292,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "500 sayısının %30'i kaçtır?",
+    "answers": [
+      "147",
+      "150",
+      "151",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 150 olarak bulunur."
+  },
+  {
+    "id": 293,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "3^3 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "246",
+      "244",
+      "253",
+      "243"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 243 olarak bulunur."
+  },
+  {
+    "id": 294,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 36 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "19",
+      "20",
+      "21",
+      "18"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 18 olarak bulunur."
+  },
+  {
+    "id": 295,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "300 sayısının %10'i kaçtır?",
+    "answers": [
+      "30",
+      "34",
+      "31",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 296,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^2 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "253",
+      "243",
+      "245",
+      "233"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 243 olarak bulunur."
+  },
+  {
+    "id": 297,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 81 + 20 işleminin sonucu kaçtır?",
+    "answers": [
+      "28",
+      "27",
+      "29",
+      "33"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 29 olarak bulunur."
+  },
+  {
+    "id": 298,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "300 sayısının %30'i kaçtır?",
+    "answers": [
+      "87",
+      "93",
+      "88",
+      "90"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 90 olarak bulunur."
+  },
+  {
+    "id": 299,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "5^3 * 5^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "15635",
+      "15625",
+      "15630",
+      "15624"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 15625 olarak bulunur."
+  },
+  {
+    "id": 300,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 70 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "145",
+      "140",
+      "139",
+      "143"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 140 olarak bulunur."
+  },
+  {
+    "id": 301,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 81 + 15 işleminin sonucu kaçtır?",
+    "answers": [
+      "21",
+      "24",
+      "27",
+      "28"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 24 olarak bulunur."
+  },
+  {
+    "id": 302,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 17'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "27",
+      "22",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 22 olarak bulunur."
+  },
+  {
+    "id": 303,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x + 5 = 17 olduğuna göre, x kaçtır?",
+    "answers": [
+      "5",
+      "1",
+      "9",
+      "4"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 304,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 89 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "535",
+      "537",
+      "534",
+      "539"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 534 olarak bulunur."
+  },
+  {
+    "id": 305,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "4x + 2 = 30 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "9",
+      "12",
+      "11"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 306,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 28'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "22",
+      "35",
+      "30",
+      "32"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 307,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 66 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "122",
+      "135",
+      "129",
+      "132"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 132 olarak bulunur."
+  },
+  {
+    "id": 308,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 56 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "336",
+      "334",
+      "338",
+      "337"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 336 olarak bulunur."
+  },
+  {
+    "id": 309,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 23'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "35",
+      "29",
+      "25",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 310,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 18'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "20",
+      "19",
+      "17",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 311,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 23'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "22",
+      "25",
+      "29",
+      "28"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 312,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 29'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "33",
+      "43",
+      "35",
+      "31"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 33 olarak bulunur."
+  },
+  {
+    "id": 313,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "5^3 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "630",
+      "623",
+      "622",
+      "625"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 625 olarak bulunur."
+  },
+  {
+    "id": 314,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 9 + 9 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "12",
+      "16",
+      "22"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 12 olarak bulunur."
+  },
+  {
+    "id": 315,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 24'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "32",
+      "27",
+      "18",
+      "28"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 28 olarak bulunur."
+  },
+  {
+    "id": 316,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "4x + 9 = 37 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "10",
+      "11",
+      "7"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 317,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "2^3 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "68",
+      "61",
+      "64",
+      "69"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 318,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "200 sayısının %30'i kaçtır?",
+    "answers": [
+      "70",
+      "60",
+      "57",
+      "64"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 60 olarak bulunur."
+  },
+  {
+    "id": 319,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "2^2 * 2^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "16",
+      "14",
+      "13"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 320,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 18'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "20",
+      "25",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 21 olarak bulunur."
+  },
+  {
+    "id": 321,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "100 sayısının %10'i kaçtır?",
+    "answers": [
+      "10",
+      "15",
+      "12",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 322,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 100 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "497",
+      "500",
+      "502",
+      "503"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 500 olarak bulunur."
+  },
+  {
+    "id": 323,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "400 sayısının %10'i kaçtır?",
+    "answers": [
+      "38",
+      "41",
+      "40",
+      "37"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 324,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "100 sayısının %25'i kaçtır?",
+    "answers": [
+      "25",
+      "29",
+      "23",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 325,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "3^4 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "731",
+      "729",
+      "719",
+      "732"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 729 olarak bulunur."
+  },
+  {
+    "id": 326,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "200 sayısının %40'i kaçtır?",
+    "answers": [
+      "78",
+      "77",
+      "80",
+      "81"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 80 olarak bulunur."
+  },
+  {
+    "id": 327,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "3x + 4 = 13 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "13",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 328,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "200 sayısının %40'i kaçtır?",
+    "answers": [
+      "81",
+      "80",
+      "84",
+      "82"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 80 olarak bulunur."
+  },
+  {
+    "id": 329,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 16 + 15 işleminin sonucu kaçtır?",
+    "answers": [
+      "9",
+      "18",
+      "16",
+      "19"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 19 olarak bulunur."
+  },
+  {
+    "id": 330,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "4^2 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "255",
+      "259",
+      "256",
+      "253"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 256 olarak bulunur."
+  },
+  {
+    "id": 331,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 49 + 10 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "22",
+      "7",
+      "17"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 17 olarak bulunur."
+  },
+  {
+    "id": 332,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 78 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "166",
+      "156",
+      "158",
+      "155"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 156 olarak bulunur."
+  },
+  {
+    "id": 333,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 24'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "31",
+      "32",
+      "27",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 27 olarak bulunur."
+  },
+  {
+    "id": 334,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "5^3 * 5^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "3129",
+      "3125",
+      "3127",
+      "3115"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 3125 olarak bulunur."
+  },
+  {
+    "id": 335,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 22'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "31",
+      "25",
+      "26"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 26 olarak bulunur."
+  },
+  {
+    "id": 336,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "400 sayısının %40'i kaçtır?",
+    "answers": [
+      "159",
+      "162",
+      "158",
+      "160"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 160 olarak bulunur."
+  },
+  {
+    "id": 337,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 30'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "30",
+      "33",
+      "35",
+      "32"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 33 olarak bulunur."
+  },
+  {
+    "id": 338,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 65 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "263",
+      "250",
+      "259",
+      "260"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 260 olarak bulunur."
+  },
+  {
+    "id": 339,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 25 + 25 işleminin sonucu kaçtır?",
+    "answers": [
+      "27",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 340,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^3 * 2^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "16",
+      "18",
+      "6",
+      "14"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 341,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "100 sayısının %50'i kaçtır?",
+    "answers": [
+      "51",
+      "47",
+      "55",
+      "50"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 50 olarak bulunur."
+  },
+  {
+    "id": 342,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^2 * 2^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "8",
+      "11",
+      "9",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 343,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 30'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "30",
+      "36",
+      "31",
+      "33"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 33 olarak bulunur."
+  },
+  {
+    "id": 344,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 24'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "26",
+      "29",
+      "28",
+      "39"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 29 olarak bulunur."
+  },
+  {
+    "id": 345,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 67 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "325",
+      "335",
+      "339",
+      "340"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 335 olarak bulunur."
+  },
+  {
+    "id": 346,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 97 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "301",
+      "295",
+      "291",
+      "281"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 291 olarak bulunur."
+  },
+  {
+    "id": 347,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 64 + 15 işleminin sonucu kaçtır?",
+    "answers": [
+      "20",
+      "26",
+      "27",
+      "23"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 23 olarak bulunur."
+  },
+  {
+    "id": 348,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 16 + 4 işleminin sonucu kaçtır?",
+    "answers": [
+      "8",
+      "13",
+      "10",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 349,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 10'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "19",
+      "15",
+      "13",
+      "17"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 350,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "4x + 7 = 47 olduğuna göre, x kaçtır?",
+    "answers": [
+      "13",
+      "8",
+      "10",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 351,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 49 + 8 işleminin sonucu kaçtır?",
+    "answers": [
+      "16",
+      "5",
+      "14",
+      "15"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 352,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 100 + 6 işleminin sonucu kaçtır?",
+    "answers": [
+      "17",
+      "18",
+      "20",
+      "16"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 353,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 100 + 2 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "12",
+      "13",
+      "9"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 12 olarak bulunur."
+  },
+  {
+    "id": 354,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "4x + 6 = 30 olduğuna göre, x kaçtır?",
+    "answers": [
+      "11",
+      "8",
+      "16",
+      "6"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 355,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^3 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "243",
+      "246",
+      "248",
+      "241"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 243 olarak bulunur."
+  },
+  {
+    "id": 356,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "400 sayısının %10'i kaçtır?",
+    "answers": [
+      "42",
+      "30",
+      "40",
+      "37"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 357,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 69 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "207",
+      "206",
+      "212",
+      "197"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 207 olarak bulunur."
+  },
+  {
+    "id": 358,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "100 sayısının %40'i kaçtır?",
+    "answers": [
+      "44",
+      "40",
+      "37",
+      "45"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 359,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 84 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "418",
+      "421",
+      "419",
+      "420"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 420 olarak bulunur."
+  },
+  {
+    "id": 360,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "100 sayısının %25'i kaçtır?",
+    "answers": [
+      "26",
+      "30",
+      "15",
+      "25"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 361,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "3^4 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "2197",
+      "2187",
+      "2190",
+      "2188"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 2187 olarak bulunur."
+  },
+  {
+    "id": 362,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "2x + 2 = 8 olduğuna göre, x kaçtır?",
+    "answers": [
+      "3",
+      "1",
+      "6",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 363,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 73 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "146",
+      "149",
+      "148",
+      "145"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 146 olarak bulunur."
+  },
+  {
+    "id": 364,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 20'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "22",
+      "29",
+      "21",
+      "24"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 24 olarak bulunur."
+  },
+  {
+    "id": 365,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 49 + 3 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "20",
+      "7",
+      "10"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 366,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 81 + 5 işleminin sonucu kaçtır?",
+    "answers": [
+      "17",
+      "4",
+      "24",
+      "14"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 14 olarak bulunur."
+  },
+  {
+    "id": 367,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 27'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "32",
+      "29",
+      "31",
+      "30"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 368,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "300 sayısının %30'i kaçtır?",
+    "answers": [
+      "92",
+      "94",
+      "88",
+      "90"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 90 olarak bulunur."
+  },
+  {
+    "id": 369,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "5x + 6 = 41 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "9",
+      "4",
+      "17"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 370,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "5x + 7 = 42 olduğuna göre, x kaçtır?",
+    "answers": [
+      "5",
+      "7",
+      "4",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 371,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "3x + 5 = 26 olduğuna göre, x kaçtır?",
+    "answers": [
+      "11",
+      "9",
+      "7",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 372,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 24'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "26",
+      "23",
+      "24",
+      "28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 26 olarak bulunur."
+  },
+  {
+    "id": 373,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^4 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "726",
+      "731",
+      "730",
+      "729"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 729 olarak bulunur."
+  },
+  {
+    "id": 374,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 93 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "278",
+      "279",
+      "269",
+      "280"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 279 olarak bulunur."
+  },
+  {
+    "id": 375,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "300 sayısının %50'i kaçtır?",
+    "answers": [
+      "147",
+      "150",
+      "140",
+      "155"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 150 olarak bulunur."
+  },
+  {
+    "id": 376,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 63 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "190",
+      "186",
+      "189",
+      "191"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 189 olarak bulunur."
+  },
+  {
+    "id": 377,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 84 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "340",
+      "341",
+      "336",
+      "335"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 336 olarak bulunur."
+  },
+  {
+    "id": 378,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 94 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "375",
+      "378",
+      "376",
+      "377"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 376 olarak bulunur."
+  },
+  {
+    "id": 379,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 10'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "16",
+      "15",
+      "25",
+      "18"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 380,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "2^3 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "61",
+      "64",
+      "69",
+      "65"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 381,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "300 sayısının %25'i kaçtır?",
+    "answers": [
+      "73",
+      "65",
+      "72",
+      "75"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 75 olarak bulunur."
+  },
+  {
+    "id": 382,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "2^2 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "32",
+      "37",
+      "35",
+      "29"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 383,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x + 2 = 32 olduğuna göre, x kaçtır?",
+    "answers": [
+      "12",
+      "11",
+      "13",
+      "10"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 384,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 4 + 16 işleminin sonucu kaçtır?",
+    "answers": [
+      "18",
+      "28",
+      "16",
+      "17"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 18 olarak bulunur."
+  },
+  {
+    "id": 385,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 100 + 5 işleminin sonucu kaçtır?",
+    "answers": [
+      "19",
+      "16",
+      "14",
+      "15"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 386,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 10'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "12"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 12 olarak bulunur."
+  },
+  {
+    "id": 387,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "2^2 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "36",
+      "32",
+      "34",
+      "29"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 388,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^3 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "242",
+      "240",
+      "247",
+      "243"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 243 olarak bulunur."
+  },
+  {
+    "id": 389,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "5^2 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "123",
+      "125",
+      "127",
+      "128"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 125 olarak bulunur."
+  },
+  {
+    "id": 390,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "100 sayısının %20'i kaçtır?",
+    "answers": [
+      "22",
+      "21",
+      "20",
+      "23"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 391,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^3 * 2^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "16",
+      "26",
+      "20",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 392,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "4^2 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "266",
+      "261",
+      "256",
+      "254"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 256 olarak bulunur."
+  },
+  {
+    "id": 393,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 68 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "146",
+      "136",
+      "134",
+      "141"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 136 olarak bulunur."
+  },
+  {
+    "id": 394,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 100 + 5 işleminin sonucu kaçtır?",
+    "answers": [
+      "12",
+      "16",
+      "18",
+      "15"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 395,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "500 sayısının %40'i kaçtır?",
+    "answers": [
+      "200",
+      "198",
+      "204",
+      "201"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 200 olarak bulunur."
+  },
+  {
+    "id": 396,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "4^4 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "4096",
+      "4095",
+      "4106",
+      "4093"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 4096 olarak bulunur."
+  },
+  {
+    "id": 397,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 18'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "19",
+      "24",
+      "22",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 22 olarak bulunur."
+  },
+  {
+    "id": 398,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "400 sayısının %10'i kaçtır?",
+    "answers": [
+      "43",
+      "39",
+      "45",
+      "40"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 399,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "5^3 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "635",
+      "615",
+      "625",
+      "624"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 625 olarak bulunur."
+  },
+  {
+    "id": 400,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "2x + 9 = 27 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "7",
+      "13",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 401,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "4^4 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "4097",
+      "4106",
+      "4096",
+      "4095"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 4096 olarak bulunur."
+  },
+  {
+    "id": 402,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "4^2 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "261",
+      "260",
+      "256",
+      "246"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 256 olarak bulunur."
+  },
+  {
+    "id": 403,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "2^3 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "61",
+      "65",
+      "54",
+      "64"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 404,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "3x + 6 = 15 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "2",
+      "8",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 405,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^3 * 3^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "84",
+      "80",
+      "85",
+      "81"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 81 olarak bulunur."
+  },
+  {
+    "id": 406,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 49 + 3 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "10",
+      "12",
+      "9"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 407,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "400 sayısının %10'i kaçtır?",
+    "answers": [
+      "40",
+      "43",
+      "44",
+      "37"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 408,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 54 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "328",
+      "321",
+      "327",
+      "324"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 324 olarak bulunur."
+  },
+  {
+    "id": 409,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 5 = 55 olduğuna göre, x kaçtır?",
+    "answers": [
+      "10",
+      "20",
+      "8",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 410,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 12'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "17",
+      "15",
+      "22",
+      "19"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 17 olarak bulunur."
+  },
+  {
+    "id": 411,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "4^2 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "256",
+      "258",
+      "260",
+      "266"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 256 olarak bulunur."
+  },
+  {
+    "id": 412,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 9 + 15 işleminin sonucu kaçtır?",
+    "answers": [
+      "8",
+      "23",
+      "18",
+      "22"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 18 olarak bulunur."
+  },
+  {
+    "id": 413,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 14'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "7",
+      "17",
+      "21",
+      "20"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 17 olarak bulunur."
+  },
+  {
+    "id": 414,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "3x + 4 = 28 olduğuna göre, x kaçtır?",
+    "answers": [
+      "12",
+      "5",
+      "8",
+      "11"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 415,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "500 sayısının %10'i kaçtır?",
+    "answers": [
+      "51",
+      "53",
+      "40",
+      "50"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 50 olarak bulunur."
+  },
+  {
+    "id": 416,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 25 + 8 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "3",
+      "13",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 13 olarak bulunur."
+  },
+  {
+    "id": 417,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "5x + 5 = 15 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "7",
+      "3",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 418,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^3 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "629",
+      "615",
+      "625",
+      "627"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 625 olarak bulunur."
+  },
+  {
+    "id": 419,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 92 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "450",
+      "465",
+      "460",
+      "462"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 460 olarak bulunur."
+  },
+  {
+    "id": 420,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 49 + 6 işleminin sonucu kaçtır?",
+    "answers": [
+      "3",
+      "13",
+      "10",
+      "23"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 13 olarak bulunur."
+  },
+  {
+    "id": 421,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "300 sayısının %50'i kaçtır?",
+    "answers": [
+      "149",
+      "147",
+      "150",
+      "140"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 150 olarak bulunur."
+  },
+  {
+    "id": 422,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "2x + 2 = 18 olduğuna göre, x kaçtır?",
+    "answers": [
+      "8",
+      "9",
+      "5",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 423,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "5^2 * 5^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "624",
+      "630",
+      "625",
+      "622"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 625 olarak bulunur."
+  },
+  {
+    "id": 424,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 9 + 8 işleminin sonucu kaçtır?",
+    "answers": [
+      "11",
+      "10",
+      "21",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 11 olarak bulunur."
+  },
+  {
+    "id": 425,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "100 sayısının %40'i kaçtır?",
+    "answers": [
+      "40",
+      "37",
+      "45",
+      "44"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 426,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "4x + 1 = 37 olduğuna göre, x kaçtır?",
+    "answers": [
+      "10",
+      "8",
+      "14",
+      "9"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 427,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 16'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "18",
+      "24",
+      "25",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 21 olarak bulunur."
+  },
+  {
+    "id": 428,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "500 sayısının %50'i kaçtır?",
+    "answers": [
+      "240",
+      "248",
+      "247",
+      "250"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 250 olarak bulunur."
+  },
+  {
+    "id": 429,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "3x + 7 = 25 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "4",
+      "11",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 430,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 10 = 40 olduğuna göre, x kaçtır?",
+    "answers": [
+      "11",
+      "3",
+      "10",
+      "6"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 431,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 58 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "351",
+      "348",
+      "350",
+      "358"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 348 olarak bulunur."
+  },
+  {
+    "id": 432,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 58 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "115",
+      "116",
+      "106",
+      "117"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 116 olarak bulunur."
+  },
+  {
+    "id": 433,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "4^2 * 4^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "69",
+      "64",
+      "63",
+      "61"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 434,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 72 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "288",
+      "292",
+      "278",
+      "286"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 288 olarak bulunur."
+  },
+  {
+    "id": 435,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 10 = 60 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "7",
+      "20",
+      "10"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 436,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "4x + 4 = 12 olduğuna göre, x kaçtır?",
+    "answers": [
+      "5",
+      "12",
+      "6",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 437,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "500 sayısının %40'i kaçtır?",
+    "answers": [
+      "210",
+      "204",
+      "198",
+      "200"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 200 olarak bulunur."
+  },
+  {
+    "id": 438,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "300 sayısının %30'i kaçtır?",
+    "answers": [
+      "95",
+      "90",
+      "100",
+      "80"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 90 olarak bulunur."
+  },
+  {
+    "id": 439,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "400 sayısının %10'i kaçtır?",
+    "answers": [
+      "43",
+      "41",
+      "50",
+      "40"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 440,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "3x + 3 = 12 olduğuna göre, x kaçtır?",
+    "answers": [
+      "3",
+      "4",
+      "13",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 441,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "3x + 1 = 7 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 442,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 20'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "29",
+      "26",
+      "24"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 24 olarak bulunur."
+  },
+  {
+    "id": 443,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 25 + 25 işleminin sonucu kaçtır?",
+    "answers": [
+      "33",
+      "40",
+      "30",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 444,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 49 + 1 işleminin sonucu kaçtır?",
+    "answers": [
+      "7",
+      "18",
+      "8",
+      "11"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 445,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "300 sayısının %10'i kaçtır?",
+    "answers": [
+      "30",
+      "35",
+      "20",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 446,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 22'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "25",
+      "24",
+      "14",
+      "34"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 24 olarak bulunur."
+  },
+  {
+    "id": 447,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "300 sayısının %25'i kaçtır?",
+    "answers": [
+      "85",
+      "79",
+      "75",
+      "76"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 75 olarak bulunur."
+  },
+  {
+    "id": 448,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^4 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "133",
+      "138",
+      "132",
+      "128"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 128 olarak bulunur."
+  },
+  {
+    "id": 449,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "4^4 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "4106",
+      "4100",
+      "4099",
+      "4096"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 4096 olarak bulunur."
+  },
+  {
+    "id": 450,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 64 + 8 işleminin sonucu kaçtır?",
+    "answers": [
+      "16",
+      "26",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 451,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "2^3 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "64",
+      "65",
+      "61",
+      "74"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 452,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 27'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "31",
+      "29",
+      "27",
+      "26"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 29 olarak bulunur."
+  },
+  {
+    "id": 453,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 21'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "29",
+      "24",
+      "23",
+      "27"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 24 olarak bulunur."
+  },
+  {
+    "id": 454,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "200 sayısının %10'i kaçtır?",
+    "answers": [
+      "19",
+      "30",
+      "18",
+      "20"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 455,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 64 + 10 işleminin sonucu kaçtır?",
+    "answers": [
+      "18",
+      "20",
+      "22",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 18 olarak bulunur."
+  },
+  {
+    "id": 456,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "4x + 5 = 37 olduğuna göre, x kaçtır?",
+    "answers": [
+      "13",
+      "7",
+      "9",
+      "8"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 457,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 92 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "186",
+      "189",
+      "182",
+      "184"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 184 olarak bulunur."
+  },
+  {
+    "id": 458,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 26'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "39",
+      "29",
+      "33",
+      "27"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 29 olarak bulunur."
+  },
+  {
+    "id": 459,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^3 * 3^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "79",
+      "81",
+      "84",
+      "86"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 81 olarak bulunur."
+  },
+  {
+    "id": 460,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 81 + 1 işleminin sonucu kaçtır?",
+    "answers": [
+      "12",
+      "20",
+      "10",
+      "13"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 461,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 73 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "222",
+      "216",
+      "223",
+      "219"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 219 olarak bulunur."
+  },
+  {
+    "id": 462,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "4^2 * 4^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "64",
+      "54",
+      "61",
+      "65"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 463,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 82 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "414",
+      "400",
+      "410",
+      "420"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 410 olarak bulunur."
+  },
+  {
+    "id": 464,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "3x + 10 = 19 olduğuna göre, x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "8",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 465,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "2^2 * 2^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "26",
+      "16",
+      "15",
+      "13"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 466,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 8 = 18 olduğuna göre, x kaçtır?",
+    "answers": [
+      "3",
+      "1",
+      "7",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 467,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 26'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "28",
+      "25",
+      "26",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 28 olarak bulunur."
+  },
+  {
+    "id": 468,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "500 sayısının %10'i kaçtır?",
+    "answers": [
+      "51",
+      "54",
+      "48",
+      "50"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 50 olarak bulunur."
+  },
+  {
+    "id": 469,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 100 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "305",
+      "302",
+      "298",
+      "300"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 300 olarak bulunur."
+  },
+  {
+    "id": 470,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "4x + 6 = 46 olduğuna göre, x kaçtır?",
+    "answers": [
+      "20",
+      "7",
+      "10",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 471,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 73 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "440",
+      "442",
+      "443",
+      "438"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 438 olarak bulunur."
+  },
+  {
+    "id": 472,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 30'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "37",
+      "36",
+      "33",
+      "34"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 33 olarak bulunur."
+  },
+  {
+    "id": 473,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "3x + 8 = 17 olduğuna göre, x kaçtır?",
+    "answers": [
+      "5",
+      "3",
+      "7",
+      "2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 474,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "100 sayısının %40'i kaçtır?",
+    "answers": [
+      "50",
+      "40",
+      "39",
+      "42"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 475,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "4x + 10 = 38 olduğuna göre, x kaçtır?",
+    "answers": [
+      "17",
+      "6",
+      "12",
+      "7"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 476,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "4^4 * 4^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "1021",
+      "1024",
+      "1028",
+      "1026"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 1024 olarak bulunur."
+  },
+  {
+    "id": 477,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 19'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "21",
+      "31",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 21 olarak bulunur."
+  },
+  {
+    "id": 478,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "200 sayısının %10'i kaçtır?",
+    "answers": [
+      "17",
+      "30",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 479,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "5^4 * 5^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "78128",
+      "78123",
+      "78130",
+      "78125"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 78125 olarak bulunur."
+  },
+  {
+    "id": 480,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 100 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "197",
+      "200",
+      "202",
+      "201"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 200 olarak bulunur."
+  },
+  {
+    "id": 481,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "200 sayısının %50'i kaçtır?",
+    "answers": [
+      "99",
+      "101",
+      "100",
+      "104"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 100 olarak bulunur."
+  },
+  {
+    "id": 482,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 20'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "24",
+      "29",
+      "27",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 24 olarak bulunur."
+  },
+  {
+    "id": 483,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 18'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "20",
+      "17",
+      "25",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 484,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "400 sayısının %30'i kaçtır?",
+    "answers": [
+      "118",
+      "121",
+      "110",
+      "120"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 120 olarak bulunur."
+  },
+  {
+    "id": 485,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "200 sayısının %10'i kaçtır?",
+    "answers": [
+      "20",
+      "23",
+      "30",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 486,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "500 sayısının %25'i kaçtır?",
+    "answers": [
+      "130",
+      "125",
+      "115",
+      "126"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 125 olarak bulunur."
+  },
+  {
+    "id": 487,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 26'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "31",
+      "33",
+      "34",
+      "41"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 31 olarak bulunur."
+  },
+  {
+    "id": 488,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "2^2 * 2^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "16",
+      "6",
+      "17",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 489,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 81 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "18",
+      "19",
+      "21",
+      "31"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 21 olarak bulunur."
+  },
+  {
+    "id": 490,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "5^2 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "125",
+      "124",
+      "127",
+      "129"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 125 olarak bulunur."
+  },
+  {
+    "id": 491,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^4 * 2^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "42",
+      "35",
+      "34",
+      "32"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 492,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x + 6 = 33 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "19",
+      "14",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 493,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "500 sayısının %50'i kaçtır?",
+    "answers": [
+      "250",
+      "249",
+      "253",
+      "255"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 250 olarak bulunur."
+  },
+  {
+    "id": 494,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "5x + 1 = 26 olduğuna göre, x kaçtır?",
+    "answers": [
+      "4",
+      "5",
+      "15",
+      "6"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 5 olarak bulunur."
+  },
+  {
+    "id": 495,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 88 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "265",
+      "268",
+      "264",
+      "261"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 264 olarak bulunur."
+  },
+  {
+    "id": 496,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^4 * 2^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "32",
+      "36",
+      "29",
+      "22"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 497,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 49 + 9 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "16",
+      "20",
+      "19"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 498,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "500 sayısının %30'i kaçtır?",
+    "answers": [
+      "149",
+      "151",
+      "152",
+      "150"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 150 olarak bulunur."
+  },
+  {
+    "id": 499,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "2x + 6 = 16 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "3",
+      "15",
+      "5"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 5 olarak bulunur."
+  },
+  {
+    "id": 500,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 36 + 6 işleminin sonucu kaçtır?",
+    "answers": [
+      "16",
+      "14",
+      "12",
+      "22"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 12 olarak bulunur."
+  },
+  {
+    "id": 501,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 91 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "184",
+      "179",
+      "182",
+      "192"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 182 olarak bulunur."
+  },
+  {
+    "id": 502,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^4 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "2191",
+      "2185",
+      "2188",
+      "2187"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 2187 olarak bulunur."
+  },
+  {
+    "id": 503,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 91 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "283",
+      "273",
+      "272",
+      "277"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 273 olarak bulunur."
+  },
+  {
+    "id": 504,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^3 * 3^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "81",
+      "80",
+      "71",
+      "84"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 81 olarak bulunur."
+  },
+  {
+    "id": 505,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "3^2 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "79",
+      "81",
+      "85",
+      "82"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 81 olarak bulunur."
+  },
+  {
+    "id": 506,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 9 + 4 işleminin sonucu kaçtır?",
+    "answers": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 507,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^4 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "730",
+      "731",
+      "734",
+      "729"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 729 olarak bulunur."
+  },
+  {
+    "id": 508,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "2^4 * 2^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "64",
+      "69",
+      "54",
+      "63"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 509,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^2 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "245",
+      "247",
+      "240",
+      "243"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 243 olarak bulunur."
+  },
+  {
+    "id": 510,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "2x + 7 = 15 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "7",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 511,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^3 * 2^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "29",
+      "32",
+      "42",
+      "37"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 512,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 14'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "19",
+      "14",
+      "18",
+      "16"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 513,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "3x + 10 = 28 olduğuna göre, x kaçtır?",
+    "answers": [
+      "16",
+      "7",
+      "4",
+      "6"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 514,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "4x + 5 = 17 olduğuna göre, x kaçtır?",
+    "answers": [
+      "13",
+      "4",
+      "8",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 515,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 36 + 5 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "11",
+      "21",
+      "14"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 11 olarak bulunur."
+  },
+  {
+    "id": 516,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "500 sayısının %50'i kaçtır?",
+    "answers": [
+      "250",
+      "248",
+      "247",
+      "260"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 250 olarak bulunur."
+  },
+  {
+    "id": 517,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "4^4 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "4095",
+      "4097",
+      "4094",
+      "4096"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 4096 olarak bulunur."
+  },
+  {
+    "id": 518,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 80 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "164",
+      "160",
+      "165",
+      "162"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 160 olarak bulunur."
+  },
+  {
+    "id": 519,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 52 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "106",
+      "114",
+      "109",
+      "104"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 104 olarak bulunur."
+  },
+  {
+    "id": 520,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "2x + 5 = 9 olduğuna göre, x kaçtır?",
+    "answers": [
+      "1",
+      "3",
+      "2",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 521,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "4x + 10 = 34 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "9",
+      "5",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 522,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "4x + 2 = 34 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "8",
+      "11",
+      "18"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 523,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 18'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "17",
+      "25",
+      "20",
+      "10"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 524,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 28'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "30",
+      "32",
+      "40",
+      "28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 525,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^3 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "630",
+      "625",
+      "628",
+      "626"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 625 olarak bulunur."
+  },
+  {
+    "id": 526,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 36 + 16 işleminin sonucu kaçtır?",
+    "answers": [
+      "32",
+      "24",
+      "25",
+      "22"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 22 olarak bulunur."
+  },
+  {
+    "id": 527,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^3 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "615",
+      "622",
+      "625",
+      "629"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 625 olarak bulunur."
+  },
+  {
+    "id": 528,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 25 + 2 işleminin sonucu kaçtır?",
+    "answers": [
+      "9",
+      "5",
+      "7",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 529,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 25 + 20 işleminin sonucu kaçtır?",
+    "answers": [
+      "24",
+      "30",
+      "25",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 530,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x + 6 = 21 olduğuna göre, x kaçtır?",
+    "answers": [
+      "5",
+      "9",
+      "15",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 5 olarak bulunur."
+  },
+  {
+    "id": 531,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "100 sayısının %25'i kaçtır?",
+    "answers": [
+      "25",
+      "22",
+      "15",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 532,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "3x + 2 = 23 olduğuna göre, x kaçtır?",
+    "answers": [
+      "5",
+      "7",
+      "10",
+      "11"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 533,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 20'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "28",
+      "33",
+      "21",
+      "23"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 23 olarak bulunur."
+  },
+  {
+    "id": 534,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "400 sayısının %50'i kaçtır?",
+    "answers": [
+      "205",
+      "204",
+      "198",
+      "200"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 200 olarak bulunur."
+  },
+  {
+    "id": 535,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "2^4 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "126",
+      "138",
+      "127",
+      "128"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 128 olarak bulunur."
+  },
+  {
+    "id": 536,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 14'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "18",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 19 olarak bulunur."
+  },
+  {
+    "id": 537,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 89 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "358",
+      "361",
+      "357",
+      "356"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 356 olarak bulunur."
+  },
+  {
+    "id": 538,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 10'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "15",
+      "4",
+      "13",
+      "14"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 14 olarak bulunur."
+  },
+  {
+    "id": 539,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "2x + 9 = 15 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "2",
+      "6",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 540,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x + 10 = 19 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "5",
+      "6",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 541,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^2 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "233",
+      "242",
+      "240",
+      "243"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 243 olarak bulunur."
+  },
+  {
+    "id": 542,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^4 * 2^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "67",
+      "64",
+      "54",
+      "61"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 64 olarak bulunur."
+  },
+  {
+    "id": 543,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 77 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "158",
+      "154",
+      "144",
+      "155"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 154 olarak bulunur."
+  },
+  {
+    "id": 544,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "3x + 8 = 20 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 545,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "4^3 * 4^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "256",
+      "261",
+      "258",
+      "253"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 256 olarak bulunur."
+  },
+  {
+    "id": 546,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "200 sayısının %10'i kaçtır?",
+    "answers": [
+      "25",
+      "20",
+      "10",
+      "22"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 547,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 52 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "103",
+      "114",
+      "108",
+      "104"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 104 olarak bulunur."
+  },
+  {
+    "id": 548,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 27'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "19",
+      "29",
+      "32",
+      "28"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 29 olarak bulunur."
+  },
+  {
+    "id": 549,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 10'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "18",
+      "25",
+      "15",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 15 olarak bulunur."
+  },
+  {
+    "id": 550,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 100 + 2 işleminin sonucu kaçtır?",
+    "answers": [
+      "15",
+      "14",
+      "12",
+      "13"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 12 olarak bulunur."
+  },
+  {
+    "id": 551,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 70 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "130",
+      "143",
+      "140",
+      "137"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 140 olarak bulunur."
+  },
+  {
+    "id": 552,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "2x + 9 = 17 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "4",
+      "14",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 553,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "2^2 * 2^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "34",
+      "36",
+      "35",
+      "32"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 554,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^2 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "85",
+      "81",
+      "79",
+      "91"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 81 olarak bulunur."
+  },
+  {
+    "id": 555,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 4 + 4 işleminin sonucu kaçtır?",
+    "answers": [
+      "10",
+      "6",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 556,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "500 sayısının %10'i kaçtır?",
+    "answers": [
+      "40",
+      "51",
+      "52",
+      "50"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 50 olarak bulunur."
+  },
+  {
+    "id": 557,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 16 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "13",
+      "18",
+      "14",
+      "16"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 558,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "2x + 7 = 25 olduğuna göre, x kaçtır?",
+    "answers": [
+      "11",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 559,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "3^4 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "2190",
+      "2185",
+      "2187",
+      "2188"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 2187 olarak bulunur."
+  },
+  {
+    "id": 560,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "100 sayısının %40'i kaçtır?",
+    "answers": [
+      "38",
+      "40",
+      "39",
+      "41"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 561,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^2 * 3^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "29",
+      "27",
+      "26",
+      "31"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 27 olarak bulunur."
+  },
+  {
+    "id": 562,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "2x + 3 = 21 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "8",
+      "19",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 563,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 58 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "293",
+      "290",
+      "288",
+      "300"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 290 olarak bulunur."
+  },
+  {
+    "id": 564,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 99 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "295",
+      "298",
+      "287",
+      "297"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 297 olarak bulunur."
+  },
+  {
+    "id": 565,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "4^4 * 4^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "1028",
+      "1026",
+      "1034",
+      "1024"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 1024 olarak bulunur."
+  },
+  {
+    "id": 566,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "4x + 6 = 14 olduğuna göre, x kaçtır?",
+    "answers": [
+      "5",
+      "3",
+      "2",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 567,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 16 + 4 işleminin sonucu kaçtır?",
+    "answers": [
+      "9",
+      "5",
+      "8",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 568,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "500 sayısının %10'i kaçtır?",
+    "answers": [
+      "50",
+      "51",
+      "49",
+      "53"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 50 olarak bulunur."
+  },
+  {
+    "id": 569,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 4 + 8 işleminin sonucu kaçtır?",
+    "answers": [
+      "10",
+      "13",
+      "20",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 570,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "5x + 8 = 28 olduğuna göre, x kaçtır?",
+    "answers": [
+      "2",
+      "4",
+      "7",
+      "14"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 571,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "2x + 2 = 14 olduğuna göre, x kaçtır?",
+    "answers": [
+      "3",
+      "6",
+      "11",
+      "16"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 572,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "3x + 8 = 17 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "8",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 3 olarak bulunur."
+  },
+  {
+    "id": 573,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 87 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "352",
+      "338",
+      "348",
+      "345"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 348 olarak bulunur."
+  },
+  {
+    "id": 574,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "4x + 5 = 37 olduğuna göre, x kaçtır?",
+    "answers": [
+      "5",
+      "13",
+      "9",
+      "8"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 575,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^2 * 5^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "3125",
+      "3124",
+      "3129",
+      "3130"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 3125 olarak bulunur."
+  },
+  {
+    "id": 576,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^2 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "246",
+      "244",
+      "243",
+      "242"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 243 olarak bulunur."
+  },
+  {
+    "id": 577,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "400 sayısının %50'i kaçtır?",
+    "answers": [
+      "199",
+      "203",
+      "200",
+      "198"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 200 olarak bulunur."
+  },
+  {
+    "id": 578,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 23'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "25",
+      "30",
+      "27",
+      "28"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 27 olarak bulunur."
+  },
+  {
+    "id": 579,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 20'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "25",
+      "22",
+      "29",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 580,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "500 sayısının %20'i kaçtır?",
+    "answers": [
+      "104",
+      "100",
+      "103",
+      "90"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 100 olarak bulunur."
+  },
+  {
+    "id": 581,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 81 + 15 işleminin sonucu kaçtır?",
+    "answers": [
+      "14",
+      "27",
+      "24",
+      "29"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 24 olarak bulunur."
+  },
+  {
+    "id": 582,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 97 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "586",
+      "582",
+      "587",
+      "584"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 582 olarak bulunur."
+  },
+  {
+    "id": 583,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 11'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "13",
+      "12",
+      "15"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 13 olarak bulunur."
+  },
+  {
+    "id": 584,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "5x + 6 = 41 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "6",
+      "10",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 7 olarak bulunur."
+  },
+  {
+    "id": 585,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "400 sayısının %40'i kaçtır?",
+    "answers": [
+      "160",
+      "162",
+      "163",
+      "157"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 160 olarak bulunur."
+  },
+  {
+    "id": 586,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "100 sayısının %25'i kaçtır?",
+    "answers": [
+      "27",
+      "25",
+      "15",
+      "30"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 587,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 94 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "187",
+      "192",
+      "193",
+      "188"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 188 olarak bulunur."
+  },
+  {
+    "id": 588,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "200 sayısının %20'i kaçtır?",
+    "answers": [
+      "39",
+      "38",
+      "41",
+      "40"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 589,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 81 + 3 işleminin sonucu kaçtır?",
+    "answers": [
+      "12",
+      "15",
+      "10",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 12 olarak bulunur."
+  },
+  {
+    "id": 590,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 16 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "20",
+      "14",
+      "18",
+      "16"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 16 olarak bulunur."
+  },
+  {
+    "id": 591,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 81 + 4 işleminin sonucu kaçtır?",
+    "answers": [
+      "13",
+      "12",
+      "18",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 13 olarak bulunur."
+  },
+  {
+    "id": 592,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^4 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "3126",
+      "3125",
+      "3129",
+      "3135"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 3125 olarak bulunur."
+  },
+  {
+    "id": 593,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 73 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "439",
+      "438",
+      "436",
+      "437"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 438 olarak bulunur."
+  },
+  {
+    "id": 594,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "100 sayısının %10'i kaçtır?",
+    "answers": [
+      "8",
+      "9",
+      "12",
+      "10"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 595,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "300 sayısının %20'i kaçtır?",
+    "answers": [
+      "57",
+      "63",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 60 olarak bulunur."
+  },
+  {
+    "id": 596,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 30'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "32",
+      "43",
+      "33"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 33 olarak bulunur."
+  },
+  {
+    "id": 597,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "5^2 * 5^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "128",
+      "125",
+      "127",
+      "122"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 125 olarak bulunur."
+  },
+  {
+    "id": 598,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x + 9 = 27 olduğuna göre, x kaçtır?",
+    "answers": [
+      "10",
+      "9",
+      "6",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 599,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "200 sayısının %30'i kaçtır?",
+    "answers": [
+      "70",
+      "50",
+      "60",
+      "58"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 60 olarak bulunur."
+  },
+  {
+    "id": 600,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "500 sayısının %25'i kaçtır?",
+    "answers": [
+      "127",
+      "115",
+      "125",
+      "126"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 125 olarak bulunur."
   }
 ]

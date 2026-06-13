@@ -15,6 +15,7 @@ namespace MillionaireGame
         private List<QuestionEntry> _filteredPool;          // questions for the chosen category
         private List<QuestionEntry> _selectedQuestions;      // 15 questions for one playthrough
         private HashSet<int> _usedIds = new HashSet<int>(); // avoid repeats across playthroughs
+        private HashSet<string> _usedTopicsThisSession = new HashSet<string>(); // avoid repeating the same topic in a single session
 
         // ── Public read‑only access ──
         public List<QuestionEntry> SelectedQuestions => _selectedQuestions;
@@ -33,17 +34,27 @@ namespace MillionaireGame
             TextAsset[] files = Resources.LoadAll<TextAsset>("Questions");
             foreach (var file in files)
             {
-                if (file.name.StartsWith(branchPrefix, System.StringComparison.OrdinalIgnoreCase))
+                bool isBranchFile = file.name.StartsWith(branchPrefix, System.StringComparison.OrdinalIgnoreCase);
+                bool isGlobalFile = file.name.Equals("kpss_sorular", System.StringComparison.OrdinalIgnoreCase);
+
+                if (isBranchFile || isGlobalFile)
                 {
                     var dbPart = JsonLoader.LoadQuestions("Questions/" + file.name);
                     if (dbPart != null && dbPart.questions != null)
                     {
                         foreach(var q in dbPart.questions) {
+                            if (isGlobalFile && !string.Equals(q.examType, branchPrefix, System.StringComparison.OrdinalIgnoreCase))
+                            {
+                                continue;
+                            }
+
                             if (string.IsNullOrEmpty(q.category)) {
-                                q.category = !string.IsNullOrEmpty(q.subject) ? q.subject : file.name;
+                                q.category = !string.IsNullOrEmpty(q.subcategory) ? q.subcategory : (!string.IsNullOrEmpty(q.subject) ? q.subject : file.name);
                             }
                         }
-                        _database.questions.AddRange(dbPart.questions);
+                        _database.questions.AddRange(dbPart.questions.Where(q => 
+                            !isGlobalFile || string.Equals(q.examType, branchPrefix, System.StringComparison.OrdinalIgnoreCase)
+                        ));
                     }
                 }
             }
@@ -125,6 +136,7 @@ namespace MillionaireGame
             MoneyLadder.Initialize(testSize);
 
             _selectedQuestions = new List<QuestionEntry>();
+            _usedTopicsThisSession.Clear();
 
             for (int step = 0; step < MoneyLadder.TotalSteps; step++)
             {
@@ -144,12 +156,36 @@ namespace MillionaireGame
         // ─────────────────────────────────────────────
         private QuestionEntry PickQuestion(int difficulty)
         {
-            // Try exact difficulty first
+            // 1. Try exact difficulty & unique topic first
             var candidates = _filteredPool
-                .Where(q => q.difficulty == difficulty && !_usedIds.Contains(q.id))
+                .Where(q => q.difficulty == difficulty 
+                         && !_usedIds.Contains(q.id)
+                         && (string.IsNullOrEmpty(q.topic) || !_usedTopicsThisSession.Contains(q.topic)))
                 .ToList();
 
-            // Fallback: nearest difficulty
+            // 2. Fallback: nearest difficulty & unique topic
+            if (candidates.Count == 0)
+            {
+                for (int delta = 1; delta <= 4; delta++)
+                {
+                    candidates = _filteredPool
+                        .Where(q => (q.difficulty == difficulty - delta || q.difficulty == difficulty + delta)
+                                    && !_usedIds.Contains(q.id)
+                                    && (string.IsNullOrEmpty(q.topic) || !_usedTopicsThisSession.Contains(q.topic)))
+                        .ToList();
+                    if (candidates.Count > 0) break;
+                }
+            }
+
+            // 3. Fallback: exact difficulty, ignoring topic uniqueness
+            if (candidates.Count == 0)
+            {
+                candidates = _filteredPool
+                    .Where(q => q.difficulty == difficulty && !_usedIds.Contains(q.id))
+                    .ToList();
+            }
+
+            // 4. Fallback: nearest difficulty, ignoring topic uniqueness
             if (candidates.Count == 0)
             {
                 for (int delta = 1; delta <= 4; delta++)
@@ -162,7 +198,7 @@ namespace MillionaireGame
                 }
             }
 
-            // Last resort: allow repeats
+            // 5. Last resort: allow repeats (ignore _usedIds completely)
             if (candidates.Count == 0)
             {
                 candidates = _filteredPool
@@ -176,6 +212,10 @@ namespace MillionaireGame
             // Pick a random one from candidates
             QuestionEntry pick = candidates[Random.Range(0, candidates.Count)];
             _usedIds.Add(pick.id);
+            if (!string.IsNullOrEmpty(pick.topic))
+            {
+                _usedTopicsThisSession.Add(pick.topic);
+            }
             return pick;
         }
 

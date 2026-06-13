@@ -1,5 +1,5 @@
 using UnityEngine;
-using System.Collections;
+using TMPro;
 using ArabicSupport;
 
 public class FixArabic3DText : MonoBehaviour {
@@ -10,12 +10,21 @@ public class FixArabic3DText : MonoBehaviour {
     // Use this for initialization
     void Start () {
         TextMesh textMesh = gameObject.GetComponent<TextMesh>();
+        TMP_Text tmpText = gameObject.GetComponent<TMP_Text>();
 
-        string fixedText = ArabicFixer.Fix(textMesh.text, showTashkeel, useHinduNumbers);
+        if (textMesh == null && tmpText == null)
+        {
+            Debug.LogWarning($"[FixArabic3DText] No TextMesh or TMP_Text component found on {gameObject.name}.");
+            return;
+        }
 
-        gameObject.GetComponent<TextMesh>().text = fixedText;
+        string originalText = textMesh != null ? textMesh.text : tmpText.text;
+        string fixedText = ArabicFixer.Fix(originalText, showTashkeel, useHinduNumbers);
 
-		Debug.Log(fixedText);
+        if (textMesh != null)
+            textMesh.text = fixedText;
+        else
+            tmpText.text = fixedText;
     }
 
 }

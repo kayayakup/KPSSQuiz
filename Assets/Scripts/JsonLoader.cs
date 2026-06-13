@@ -14,11 +14,12 @@ namespace MillionaireGame
         /// </summary>
         public static QuestionDatabase LoadQuestions(string fileName)
         {
-            TextAsset textAsset = Resources.Load<TextAsset>(fileName);
+            string resourcePath = NormalizeResourcePath(fileName);
+            TextAsset textAsset = LoadTextAsset(resourcePath);
 
             if (textAsset == null)
             {
-                Debug.LogError("[JsonLoader] Could not find Resources/questions.json!");
+                Debug.LogError($"[JsonLoader] Could not find Resources/{resourcePath}.json!");
                 return null;
             }
 
@@ -48,11 +49,12 @@ namespace MillionaireGame
         /// </summary>
         public static ReminderDatabase LoadReminders(string fileName)
         {
-            TextAsset textAsset = Resources.Load<TextAsset>(fileName);
+            string resourcePath = NormalizeResourcePath(fileName);
+            TextAsset textAsset = LoadTextAsset(resourcePath);
 
             if (textAsset == null)
             {
-                Debug.LogError($"[JsonLoader] Could not find Resources/{fileName}.json!");
+                Debug.LogWarning($"[JsonLoader] Could not find Resources/{resourcePath}.json.");
                 return null;
             }
 
@@ -66,6 +68,40 @@ namespace MillionaireGame
 
             Debug.Log($"[JsonLoader] Loaded {db.items.Count} reminders from JSON.");
             return db;
+        }
+
+        private static TextAsset LoadTextAsset(string resourcePath)
+        {
+            TextAsset textAsset = Resources.Load<TextAsset>(resourcePath);
+            if (textAsset != null) return textAsset;
+
+            int slashIndex = resourcePath.LastIndexOf('/');
+            if (slashIndex < 0) return null;
+
+            string folder = resourcePath.Substring(0, slashIndex);
+            string assetName = resourcePath.Substring(slashIndex + 1);
+            TextAsset[] folderAssets = Resources.LoadAll<TextAsset>(folder);
+
+            for (int i = 0; i < folderAssets.Length; i++)
+            {
+                if (string.Equals(folderAssets[i].name, assetName, System.StringComparison.OrdinalIgnoreCase))
+                    return folderAssets[i];
+            }
+
+            return null;
+        }
+
+        private static string NormalizeResourcePath(string fileName)
+        {
+            if (string.IsNullOrWhiteSpace(fileName)) return string.Empty;
+
+            string path = fileName.Replace('\\', '/').Trim();
+            if (path.StartsWith("Resources/", System.StringComparison.OrdinalIgnoreCase))
+                path = path.Substring("Resources/".Length);
+            if (path.EndsWith(".json", System.StringComparison.OrdinalIgnoreCase))
+                path = path.Substring(0, path.Length - ".json".Length);
+
+            return path;
         }
     }
 }

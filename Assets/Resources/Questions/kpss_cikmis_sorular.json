@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1001,
+    "examType": "kpss_undergraduate",
+    "subject": "history",
+    "subcategory": "Tarih",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "İslamiyet öncesi Türk devletlerinde kurultaya katılma hakkına sahip olan boy beylerine ne ad verilirdi?",
+    "answers": [
+      "Tigin",
+      "Toygun",
+      "Şad",
+      "Yabgu"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Çıkmış Soru (2020 KPSS): Kurultaya katılma hakkı olan üyelere (boy beyleri, hatun, hakan vb.) Toygun denir."
+  },
+  {
+    "id": 1002,
+    "examType": "kpss_undergraduate",
+    "subject": "history",
+    "subcategory": "Tarih",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde esnaf teşkilatında üretilen malların fiyatlarının belirlenmesi ve kalite kontrolünün yapılması sistemine ne ad verilir?",
+    "answers": [
+      "Narh Kesmek",
+      "Gedik",
+      "Müsadere",
+      "İltizam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Çıkmış Soru (2019 KPSS): Üretilen malların fiyatlarının devlet veya yetkililer tarafından belirlenmesine narh kesmek (narh sistemi) denir."
+  },
+  {
+    "id": 1003,
+    "examType": "kpss_undergraduate",
+    "subject": "history",
+    "subcategory": "Tarih",
+    "topic": "İnkılap Tarihi",
+    "difficulty": 2,
+    "questionText": "Mustafa Kemal'in 'Siz orada yalnız düşmanı değil, milletin makus talihini de yendiniz' telgrafını İsmet Paşa'ya hangi savaştan sonra çekmiştir?",
+    "answers": [
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı",
+      "Sakarya Meydan Muharebesi",
+      "Büyük Taarruz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Çıkmış Soru (2018 KPSS): Bu meşhur telgraf II. İnönü Savaşı'nın kazanılması üzerine çekilmiştir."
+  },
+  {
+    "id": 1004,
+    "examType": "kpss_undergraduate",
+    "subject": "geography",
+    "subcategory": "Coğrafya",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki rüzgarlardan hangisi Türkiye'de yerel saatle öğleden sonraları denizden karaya doğru esen ve Ege yöresinde 'İmbat' adını alan rüzgardır?",
+    "answers": [
+      "Lodos",
+      "Meltem",
+      "Poyraz",
+      "Keşişleme"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Çıkmış Soru (2016 KPSS): Gündüzleri denizden karaya esen yerel rüzgarlara deniz meltemi denir, Ege'de İmbat olarak bilinir."
+  },
+  {
+    "id": 1005,
+    "examType": "kpss_undergraduate",
+    "subject": "citizenship",
+    "subcategory": "Vatandaşlık",
+    "topic": "Anayasa Hukuku",
+    "difficulty": 3,
+    "questionText": "1982 Anayasası'na göre, Türkiye Büyük Millet Meclisi (TBMM) seçimleri kural olarak kaç yılda bir yapılır?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Çıkmış Soru (2017 KPSS - 2017 Değişikliği): 2017 anayasa değişikliği ile TBMM ve Cumhurbaşkanlığı seçimleri 5 yılda bir aynı gün yapılır."
+  },
+  {
+    "id": 1006,
+    "examType": "kpss_undergraduate",
+    "subject": "turkish",
+    "subcategory": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+    "answers": [
+      "Dün akşam TBMM'de önemli kararlar alındı.",
+      "Bu yıl da Karadeniz'in yaylalarına çıkacağız.",
+      "O kadar yorulmuştuki hemen uyuyakaldı.",
+      "Türkçenin kurallarını öğrenmek çok eğlencelidir."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Çıkmış Soru Benzeri: Bağlaç olan 'ki' ayrı yazılmalıdır. Doğrusu 'yorulmuştu ki' şeklindedir."
+  },
+  {
+    "id": 1007,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 48 + Kök 27 - Kök 12 işleminin sonucu aşağıdakilerden hangisidir?",
+    "answers": [
+      "4 Kök 3",
+      "5 Kök 3",
+      "6 Kök 3",
+      "7 Kök 3"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Çıkmış Soru Benzeri: Kök 48 = 4 Kök 3, Kök 27 = 3 Kök 3, Kök 12 = 2 Kök 3. (4+3-2) Kök 3 = 5 Kök 3."
+  },
+  {
+    "id": 1008,
+    "examType": "kpss_undergraduate",
+    "subject": "history",
+    "subcategory": "Tarih",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 3,
+    "questionText": "SSCB'nin yayılmacı politikasına karşı ABD'nin Avrupa ülkelerine ekonomik yardım yapmasını öngören plan aşağıdakilerden hangisidir?",
+    "answers": [
+      "Truman Doktrini",
+      "Marshall Planı",
+      "Monroe Doktrini",
+      "Schuman Planı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Çıkmış Soru (2021 KPSS): ABD'nin 1947'de ortaya koyduğu ve 16 Avrupa ülkesine ekonomik destek sağlayan plan Marshall Planı'dır."
+  },
+  {
+    "id": 1009,
+    "examType": "kpss_undergraduate",
+    "subject": "geography",
+    "subcategory": "Coğrafya",
+    "topic": "Türkiye'nin Gölleri ve Akarsuları",
+    "difficulty": 3,
+    "questionText": "Türkiye'de suları kapalı havza özelliği gösteren ve bu nedenle suları sodalı olan en büyük gölümüz aşağıdakilerden hangisidir?",
+    "answers": [
+      "Tuz Gölü",
+      "Eğirdir Gölü",
+      "Van Gölü",
+      "Burdur Gölü"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Çıkmış Soru (2018 KPSS): Van Gölü, volkanik set gölüdür ve kapalı havza olması nedeniyle suları sodalıdır."
+  },
+  {
+    "id": 1010,
+    "examType": "kpss_undergraduate",
+    "subject": "citizenship",
+    "subcategory": "Vatandaşlık",
+    "topic": "Temel Hukuk Kavramları",
+    "difficulty": 3,
+    "questionText": "Bir kimsenin kendisine veya başkasına yönelik haksız ve devam eden bir saldırıyı defetmek için orantılı bir şekilde güç kullanmasına ne ad verilir?",
+    "answers": [
+      "Zaruret Hali (Iztırar)",
+      "Meşru Müdafaa",
+      "Kuvvet Kullanma",
+      "Haksız Tahrik"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Çıkmış Soru (2022 KPSS): Hukuka aykırı saldırıyı defetmek amacıyla gösterilen orantılı tepkiye Meşru Müdafaa (Haklı Savunma) denir."
+  },
+  {
+    "id": 1011,
+    "examType": "kpss_undergraduate",
+    "subject": "history",
+    "subcategory": "Tarih",
+    "topic": "Osmanlı Dağılma Dönemi",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde padişahın yetkilerini ilk kez kısıtlayan ve padişah ile ayanlar arasında imzalanan belge aşağıdakilerden hangisidir?",
+    "answers": [
+      "Tanzimat Fermanı",
+      "Sened-i İttifak",
+      "Islahat Fermanı",
+      "Kanun-i Esasi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Çıkmış Soru (2014 KPSS): II. Mahmut döneminde ayanlarla imzalanan Sened-i İttifak (1808), padişahın yetkilerini sınırlandıran ilk belgedir."
+  },
+  {
+    "id": 1012,
+    "examType": "kpss_undergraduate",
+    "subject": "geography",
+    "subcategory": "Coğrafya",
+    "topic": "Türkiye'nin Nüfusu",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki illerin hangisinde nüfus yoğunluğu diğerlerine göre daha azdır?",
+    "answers": [
+      "Kocaeli",
+      "Gaziantep",
+      "Bursa",
+      "Tunceli"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Çıkmış Soru (2020 KPSS): Tunceli, Hakkari gibi engebeli ve sanayisi gelişmemiş yörelerde nüfus yoğunluğu oldukça azdır."
+  },
+  {
+    "id": 1013,
+    "examType": "kpss_undergraduate",
+    "subject": "turkish",
+    "subcategory": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'yüzmek' kelimesi mecaz anlamda kullanılmıştır?",
+    "answers": [
+      "Hafta sonu havuzda bol bol yüzdük.",
+      "Koyunların derisini dikkatlice yüzdüler.",
+      "Adam borç içinde yüzüyor ama arabasını değiştiriyor.",
+      "Gemiler boğazın sularında yavaşça yüzüyordu."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Çıkmış Soru Benzeri: 'Borç içinde yüzmek' deyimi mecaz anlam taşır, çok fazla borcu olmak demektir."
+  },
+  {
+    "id": 1014,
+    "examType": "kpss_undergraduate",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "2x - y = 5 ve x + y = 7 denklem sistemini sağlayan x değeri kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Çıkmış Soru Benzeri: İki denklemi taraf tarafa toplarsak: 3x = 12, buradan x = 4 bulunur."
+  },
+  {
+    "id": 1015,
+    "examType": "kpss_undergraduate",
+    "subject": "history",
+    "subcategory": "Tarih",
+    "topic": "Atatürk Dönemi İç Politika",
+    "difficulty": 3,
+    "questionText": "Türkiye Cumhuriyeti'nin çok partili hayata geçiş denemeleri kapsamında kurulan İLK muhalefet partisi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Serbest Cumhuriyet Fırkası",
+      "Terakkiperver Cumhuriyet Fırkası",
+      "Demokrat Parti",
+      "Milli Kalkınma Partisi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Çıkmış Soru (2015 KPSS): Kazım Karabekir ve arkadaşları tarafından kurulan Terakkiperver Cumhuriyet Fırkası (1924) ilk muhalefet partisidir."
+  }
+]

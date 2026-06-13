@@ -1,509 +1,1532 @@
 [
-    {
-        "id":  1,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Temel Kavramlar ve Sayılar",
-        "topic":  "Temel Kavramlar ve Sayılar",
-        "difficulty":  3,
-        "questionText":  "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
-        "answers":  [
-                        "21",
-                        "23",
-                        "25",
-                        "27"
-                    ],
-        "correctAnswerIndex":  2,
-        "explanation":  "Sayılar: n, n+2, n+4 olsun. 3n+6=69 =\u003e 3n=63 =\u003e n=21. En büyüğü n+4 = 25\u0027tir."
-    },
-    {
-        "id":  2,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Temel Kavramlar ve Sayılar",
-        "topic":  "Temel Kavramlar ve Sayılar",
-        "difficulty":  2,
-        "questionText":  "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
-        "answers":  [
-                        "50",
-                        "54",
-                        "56",
-                        "60"
-                    ],
-        "correctAnswerIndex":  2,
-        "explanation":  "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
-    },
-    {
-        "id":  31,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
-        "topic":  "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
-        "difficulty":  3,
-        "questionText":  "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
-        "answers":  [
-                        "1",
-                        "1/6",
-                        "1/12",
-                        "0"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
-    },
-    {
-        "id":  32,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
-        "topic":  "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
-        "difficulty":  2,
-        "questionText":  "3^(x+1) = 81 olduğuna göre x kaçtır?",
-        "answers":  [
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-        "correctAnswerIndex":  1,
-        "explanation":  "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
-    },
-    {
-        "id":  61,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 0",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  62,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  3,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 1",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  63,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 2",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  64,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  3,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 3",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  65,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 4",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  66,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  2,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 5",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  67,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  3,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 6",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  68,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 7",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  69,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  3,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 8",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  70,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  3,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 9",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  71,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  3,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 10",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  72,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 11",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  73,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  2,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 12",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  74,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 13",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  75,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 14",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  76,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 15",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  77,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  2,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 16",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  78,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  3,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 17",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  79,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  2,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 18",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  80,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Çarpanlara Ayırma ve Denklemler",
-        "topic":  "Çarpanlara Ayırma ve Denklemler",
-        "difficulty":  1,
-        "questionText":  "Soru metni Çarpanlara Ayırma ve Denklemler 19",
-        "answers":  [
-                        "A",
-                        "B",
-                        "C",
-                        "D"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Açıklama"
-    },
-    {
-        "id":  81,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
-        "topic":  "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
-        "difficulty":  3,
-        "questionText":  "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
-        "answers":  [
-
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL\u0027ye düşer. Toplam indirim 100-72 = 28 olur."
-    },
-    {
-        "id":  82,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
-        "topic":  "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
-        "difficulty":  1,
-        "questionText":  "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km\u0027dir?",
-        "answers":  [
-                        "200",
-                        "240",
-                        "300",
-                        "400"
-                    ],
-        "correctAnswerIndex":  1,
-        "explanation":  "Yol x olsun. x/80 + x/120 = 5 =\u003e (3x+2x)/240 = 5 =\u003e 5x = 1200 =\u003e x = 240."
-    },
-    {
-        "id":  83,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
-        "topic":  "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
-        "difficulty":  3,
-        "questionText":  "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
-        "answers":  [
-                        "28",
-                        "30",
-                        "32",
-                        "36"
-                    ],
-        "correctAnswerIndex":  2,
-        "explanation":  "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 =\u003e 5x + 10 = 50 =\u003e 5x = 40 =\u003e x = 8. Baba: 4*8 = 32."
-    },
-    {
-        "id":  161,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Kümeler, Fonksiyonlar ve Olasılık",
-        "topic":  "Kümeler, Fonksiyonlar ve Olasılık",
-        "difficulty":  3,
-        "questionText":  "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
-        "answers":  [
-                        "3",
-                        "4",
-                        "5",
-                        "10"
-                    ],
-        "correctAnswerIndex":  1,
-        "explanation":  "1\u0027i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
-    },
-    {
-        "id":  181,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Sayısal Mantık",
-        "topic":  "Sayısal Mantık",
-        "difficulty":  3,
-        "questionText":  "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
-        "answers":  [
-                        "10",
-                        "11",
-                        "12",
-                        "6"
-                    ],
-        "correctAnswerIndex":  0,
-        "explanation":  "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
-    },
-    {
-        "id":  191,
-        "examType":  "kpss_secondary",
-        "subject":  "mathematics",
-        "subcategory":  "Geometri",
-        "topic":  "Geometri",
-        "difficulty":  2,
-        "questionText":  "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
-        "answers":  [
-                        "60",
-                        "70",
-                        "80",
-                        "140"
-                    ],
-        "correctAnswerIndex":  1,
-        "explanation":  "(180 - 40) / 2 = 70 derece."
-    }
+  {
+    "id": 1,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 3,
+    "questionText": "Ardışık üç tek sayının toplamı 69 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+    "answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sayılar: n, n+2, n+4 olsun. 3n+6=69 => 3n=63 => n=21. En büyüğü n+4 = 25'tir."
+  },
+  {
+    "id": 2,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Temel Kavramlar ve Sayılar",
+    "topic": "Temel Kavramlar ve Sayılar",
+    "difficulty": 2,
+    "questionText": "a ve b birer doğal sayıdır. a + b = 15 olduğuna göre, a * b çarpımının alabileceği en büyük değer kaçtır?",
+    "answers": [
+      "50",
+      "54",
+      "56",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplamları sabit olan sayıların çarpımının en büyük olması için sayılar birbirine en yakın seçilmelidir. 7+8=15 için 7*8=56 olur."
+  },
+  {
+    "id": 31,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 3,
+    "questionText": "(1/2 - 1/3) : 1/6 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "1/6",
+      "1/12",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(3/6 - 2/6) = 1/6. (1/6) / (1/6) = 1."
+  },
+  {
+    "id": 32,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "topic": "Rasyonel Sayılar, Üslü ve Köklü İfadeler",
+    "difficulty": 2,
+    "questionText": "3^(x+1) = 81 olduğuna göre x kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81 = 3^4 tür. x+1 = 4 ise x = 3 bulunur."
+  },
+  {
+    "id": 61,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 0",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 62,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 1",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 63,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 2",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 64,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 3",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 65,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 4",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 66,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 2,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 5",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 67,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 6",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 68,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 7",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 69,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 8",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 70,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 9",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 71,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 10",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 72,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 11",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 73,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 2,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 12",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 74,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 13",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 75,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 14",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 76,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 15",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 77,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 2,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 16",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 78,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 3,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 17",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 79,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 2,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 18",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 80,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Çarpanlara Ayırma ve Denklemler",
+    "topic": "Çarpanlara Ayırma ve Denklemler",
+    "difficulty": 1,
+    "questionText": "Soru metni Çarpanlara Ayırma ve Denklemler 19",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Açıklama"
+  },
+  {
+    "id": 81,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir e-ticaret sitesi, bir üründe %20 indirim yaptıktan sonra satışların az olduğunu fark edip indirimli fiyat üzerinden %10 daha indirim yapıyor. Buna göre, bu ürünün başlangıçtaki fiyatına göre toplam yüzde kaç indirim yapılmıştır?",
+    "answers": [
+      "%20",
+      "%28",
+      "%30",
+      "%32"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Fiyat 100 TL olsun. %20 indirimle 80 TL olur. 80 TL üzerinden %10 indirim (8 TL) yapılırsa 72 TL'ye düşer. Toplam indirim 100-72 = 28 olur."
+  },
+  {
+    "id": 82,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 1,
+    "questionText": "Bir araç A şehrinden B şehrine saatte 80 km hızla gidip, saatte 120 km hızla dönüyor. Yolculuk toplam 5 saat sürdüğüne göre A ve B şehirleri arası kaç km'dir?",
+    "answers": [
+      "200",
+      "240",
+      "300",
+      "400"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yol x olsun. x/80 + x/120 = 5 => (3x+2x)/240 = 5 => 5x = 1200 => x = 240."
+  },
+  {
+    "id": 83,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "topic": "Problemler (Sayı, Kesir, Yaş, Yüzde, Hız, Kar-Zarar)",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre babanın bugünkü yaşı kaçtır?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oğul x, Baba 4x. 5 yıl sonra: (x+5) + (4x+5) = 50 => 5x + 10 = 50 => 5x = 40 => x = 8. Baba: 4*8 = 32."
+  },
+  {
+    "id": 161,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Kümeler, Fonksiyonlar ve Olasılık",
+    "topic": "Kümeler, Fonksiyonlar ve Olasılık",
+    "difficulty": 3,
+    "questionText": "A = {1, 2, 3, 4, 5} kümesinin 2 elemanlı alt kümelerinin kaç tanesinde 1 bulunur?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1'i seçtik, kalan 4 elemandan 1 tane daha seçmeliyiz. C(4,1) = 4."
+  },
+  {
+    "id": 181,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Sayısal Mantık",
+    "topic": "Sayısal Mantık",
+    "difficulty": 3,
+    "questionText": "Bir torbada 3 kırmızı, 4 mavi, 5 sarı bilye vardır. Torbadan rastgele en az kaç bilye çekilirse kesinlikle her renkten en az bir bilye çekilmiş olur?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "En kötü durum düşünülür: Önce tüm sarılar (5), sonra tüm maviler (4) çekilir. Bir sonraki (1) kesin kırmızıdır. 5+4+1=10."
+  },
+  {
+    "id": 191,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Geometri",
+    "topic": "Geometri",
+    "difficulty": 2,
+    "questionText": "Bir ikizkenar üçgenin tepe açısı 40 derece ise taban açılarından biri kaç derecedir?",
+    "answers": [
+      "60",
+      "70",
+      "80",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(180 - 40) / 2 = 70 derece."
+  },
+  {
+    "id": 192,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "2x + 4 = 16 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "8",
+      "3",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 193,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 17'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "21",
+      "30",
+      "20",
+      "22"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 194,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 19'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "26",
+      "23",
+      "28",
+      "22"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 23 olarak bulunur."
+  },
+  {
+    "id": 195,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "2x + 9 = 21 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "5",
+      "11",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 196,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 49 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "9",
+      "20",
+      "18",
+      "19"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 19 olarak bulunur."
+  },
+  {
+    "id": 197,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 16'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "18",
+      "20",
+      "15",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 18 olarak bulunur."
+  },
+  {
+    "id": 198,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 80 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "161",
+      "160",
+      "158",
+      "159"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 160 olarak bulunur."
+  },
+  {
+    "id": 199,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^4 * 3^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "734",
+      "732",
+      "729",
+      "739"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 729 olarak bulunur."
+  },
+  {
+    "id": 200,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "5x + 9 = 29 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "14",
+      "7",
+      "4"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 201,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "100 sayısının %20'i kaçtır?",
+    "answers": [
+      "19",
+      "20",
+      "22",
+      "23"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 202,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 2,
+    "questionText": "Ali'nin yaşı 18'dir. Veli, Ali'den 5 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "28",
+      "20",
+      "23",
+      "26"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 23 olarak bulunur."
+  },
+  {
+    "id": 203,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 100 + 4 işleminin sonucu kaçtır?",
+    "answers": [
+      "11",
+      "15",
+      "13",
+      "14"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 14 olarak bulunur."
+  },
+  {
+    "id": 204,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 60 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "243",
+      "245",
+      "240",
+      "237"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 240 olarak bulunur."
+  },
+  {
+    "id": 205,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "2x + 8 = 28 olduğuna göre, x kaçtır?",
+    "answers": [
+      "15",
+      "7",
+      "11",
+      "10"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 206,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 55 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "265",
+      "272",
+      "285",
+      "275"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 275 olarak bulunur."
+  },
+  {
+    "id": 207,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 4 + 12 işleminin sonucu kaçtır?",
+    "answers": [
+      "12",
+      "19",
+      "14",
+      "11"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 14 olarak bulunur."
+  },
+  {
+    "id": 208,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "Kök 25 + 15 işleminin sonucu kaçtır?",
+    "answers": [
+      "30",
+      "23",
+      "24",
+      "20"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 209,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 89 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "360",
+      "356",
+      "355",
+      "366"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 356 olarak bulunur."
+  },
+  {
+    "id": 210,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "400 sayısının %50'i kaçtır?",
+    "answers": [
+      "197",
+      "203",
+      "200",
+      "210"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 200 olarak bulunur."
+  },
+  {
+    "id": 211,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "3^3 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "734",
+      "729",
+      "727",
+      "731"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 729 olarak bulunur."
+  },
+  {
+    "id": 212,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "100 sayısının %25'i kaçtır?",
+    "answers": [
+      "25",
+      "27",
+      "29",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 213,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 2,
+    "questionText": "200 sayısının %20'i kaçtır?",
+    "answers": [
+      "40",
+      "44",
+      "30",
+      "41"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 40 olarak bulunur."
+  },
+  {
+    "id": 214,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "100 sayısının %25'i kaçtır?",
+    "answers": [
+      "29",
+      "24",
+      "25",
+      "35"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 25 olarak bulunur."
+  },
+  {
+    "id": 215,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "5x + 8 = 38 olduğuna göre, x kaçtır?",
+    "answers": [
+      "6",
+      "3",
+      "10",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 6 olarak bulunur."
+  },
+  {
+    "id": 216,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 71 km olan bir araç 4 saatte kaç km yol alır?",
+    "answers": [
+      "289",
+      "294",
+      "284",
+      "283"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 284 olarak bulunur."
+  },
+  {
+    "id": 217,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "100 sayısının %10'i kaçtır?",
+    "answers": [
+      "9",
+      "10",
+      "20",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 10 olarak bulunur."
+  },
+  {
+    "id": 218,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "5x + 2 = 12 olduğuna göre, x kaçtır?",
+    "answers": [
+      "1",
+      "3",
+      "5",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 219,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "4x + 8 = 16 olduğuna göre, x kaçtır?",
+    "answers": [
+      "12",
+      "1",
+      "6",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 2 olarak bulunur."
+  },
+  {
+    "id": 220,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "400 sayısının %30'i kaçtır?",
+    "answers": [
+      "130",
+      "121",
+      "120",
+      "122"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 120 olarak bulunur."
+  },
+  {
+    "id": 221,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "5x + 3 = 48 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "13",
+      "6",
+      "14"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 222,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 64 + 3 işleminin sonucu kaçtır?",
+    "answers": [
+      "12",
+      "15",
+      "9",
+      "11"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 11 olarak bulunur."
+  },
+  {
+    "id": 223,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "3^3 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "739",
+      "730",
+      "734",
+      "729"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 729 olarak bulunur."
+  },
+  {
+    "id": 224,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 50 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "304",
+      "302",
+      "300",
+      "303"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 300 olarak bulunur."
+  },
+  {
+    "id": 225,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "3^3 * 3^1 işleminin sonucu kaçtır?",
+    "answers": [
+      "91",
+      "85",
+      "80",
+      "81"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 81 olarak bulunur."
+  },
+  {
+    "id": 226,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 77 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "231",
+      "241",
+      "236",
+      "229"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 231 olarak bulunur."
+  },
+  {
+    "id": 227,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 10'dir. Veli, Ali'den 4 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "14",
+      "18",
+      "19",
+      "17"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 14 olarak bulunur."
+  },
+  {
+    "id": 228,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "2^3 * 2^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "35",
+      "30",
+      "32",
+      "42"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 32 olarak bulunur."
+  },
+  {
+    "id": 229,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 53 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "321",
+      "317",
+      "316",
+      "318"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 318 olarak bulunur."
+  },
+  {
+    "id": 230,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 90 km olan bir araç 3 saatte kaç km yol alır?",
+    "answers": [
+      "275",
+      "268",
+      "270",
+      "280"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 270 olarak bulunur."
+  },
+  {
+    "id": 231,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "2x + 7 = 25 olduğuna göre, x kaçtır?",
+    "answers": [
+      "11",
+      "10",
+      "6",
+      "9"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 232,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "300 sayısının %40'i kaçtır?",
+    "answers": [
+      "121",
+      "120",
+      "110",
+      "122"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 120 olarak bulunur."
+  },
+  {
+    "id": 233,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 100 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "204",
+      "199",
+      "203",
+      "200"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 200 olarak bulunur."
+  },
+  {
+    "id": 234,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "400 sayısının %25'i kaçtır?",
+    "answers": [
+      "100",
+      "104",
+      "102",
+      "101"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 100 olarak bulunur."
+  },
+  {
+    "id": 235,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 2,
+    "questionText": "4^4 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "4096",
+      "4095",
+      "4101",
+      "4098"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 4096 olarak bulunur."
+  },
+  {
+    "id": 236,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "3^3 * 3^3 işleminin sonucu kaçtır?",
+    "answers": [
+      "719",
+      "729",
+      "732",
+      "727"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 729 olarak bulunur."
+  },
+  {
+    "id": 237,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 2,
+    "questionText": "5x + 9 = 29 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "2",
+      "4",
+      "14"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 238,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 3,
+    "questionText": "Saatteki hızı 99 km olan bir araç 5 saatte kaç km yol alır?",
+    "answers": [
+      "498",
+      "505",
+      "499",
+      "495"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 495 olarak bulunur."
+  },
+  {
+    "id": 239,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 2,
+    "questionText": "Kök 64 + 3 işleminin sonucu kaçtır?",
+    "answers": [
+      "12",
+      "11",
+      "21",
+      "9"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 11 olarak bulunur."
+  },
+  {
+    "id": 240,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "2x + 7 = 23 olduğuna göre, x kaçtır?",
+    "answers": [
+      "7",
+      "5",
+      "18",
+      "8"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 8 olarak bulunur."
+  },
+  {
+    "id": 241,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 1,
+    "questionText": "5x + 3 = 23 olduğuna göre, x kaçtır?",
+    "answers": [
+      "4",
+      "1",
+      "6",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 242,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 2,
+    "questionText": "Saatteki hızı 78 km olan bir araç 2 saatte kaç km yol alır?",
+    "answers": [
+      "153",
+      "155",
+      "156",
+      "154"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 156 olarak bulunur."
+  },
+  {
+    "id": 243,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "100 sayısının %30'i kaçtır?",
+    "answers": [
+      "32",
+      "30",
+      "27",
+      "28"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 244,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "4^2 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "259",
+      "256",
+      "261",
+      "258"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 256 olarak bulunur."
+  },
+  {
+    "id": 245,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 1,
+    "questionText": "300 sayısının %10'i kaçtır?",
+    "answers": [
+      "35",
+      "30",
+      "32",
+      "34"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 30 olarak bulunur."
+  },
+  {
+    "id": 246,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x + 5 = 17 olduğuna göre, x kaçtır?",
+    "answers": [
+      "9",
+      "4",
+      "7",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap 4 olarak bulunur."
+  },
+  {
+    "id": 247,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 1,
+    "questionText": "Ali'nin yaşı 20'dir. Veli, Ali'den 3 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "33",
+      "20",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 23 olarak bulunur."
+  },
+  {
+    "id": 248,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": 1,
+    "questionText": "Kök 49 + 2 işleminin sonucu kaçtır?",
+    "answers": [
+      "11",
+      "14",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap 9 olarak bulunur."
+  },
+  {
+    "id": 249,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali'nin yaşı 18'dir. Veli, Ali'den 2 yaş büyüktür. Buna göre Veli'nin yaşı kaçtır?",
+    "answers": [
+      "23",
+      "21",
+      "10",
+      "20"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 20 olarak bulunur."
+  },
+  {
+    "id": 250,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "4^3 * 4^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "1024",
+      "1023",
+      "1014",
+      "1021"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap 1024 olarak bulunur."
+  },
+  {
+    "id": 251,
+    "examType": "kpss_secondary",
+    "subject": "mathematics",
+    "subcategory": "Matematik",
+    "topic": "Hız Problemleri",
+    "difficulty": 1,
+    "questionText": "Saatteki hızı 95 km olan bir araç 6 saatte kaç km yol alır?",
+    "answers": [
+      "580",
+      "568",
+      "574",
+      "570"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap 570 olarak bulunur."
+  }
 ]

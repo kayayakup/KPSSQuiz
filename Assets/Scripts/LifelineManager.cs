@@ -40,13 +40,20 @@ namespace MillionaireGame
                 return null;
             }
 
+            if (!HasUsableAnswers(question))
+            {
+                Debug.LogWarning("[LifelineManager] 50:50 cannot be used because the question answers are invalid.");
+                return null;
+            }
+
             _fiftyFiftyUsed = true;
 
+            int answerCount = question.answers.Length;
             int correct = question.correctAnswerIndex;
 
             // Collect wrong answer indices
             List<int> wrongIndices = new List<int>();
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < answerCount; i++)
             {
                 if (i != correct) wrongIndices.Add(i);
             }
@@ -70,9 +77,16 @@ namespace MillionaireGame
                 return null;
             }
 
+            if (!HasUsableAnswers(question))
+            {
+                Debug.LogWarning("[LifelineManager] Ask the Audience cannot be used because the question answers are invalid.");
+                return null;
+            }
+
             _askAudienceUsed = true;
 
-            float[] percentages = new float[4];
+            int answerCount = question.answers.Length;
+            float[] percentages = new float[answerCount];
             int correct = question.correctAnswerIndex;
 
             // Give the correct answer a high share
@@ -82,7 +96,7 @@ namespace MillionaireGame
             // Distribute the remainder among the wrong answers
             float remaining = 100f - correctShare;
             List<int> wrongIndices = new List<int>();
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < answerCount; i++)
                 if (i != correct) wrongIndices.Add(i);
 
             for (int i = 0; i < wrongIndices.Count; i++)
@@ -101,7 +115,7 @@ namespace MillionaireGame
             }
 
             // Round for display
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < percentages.Length; i++)
                 percentages[i] = Mathf.Round(percentages[i]);
 
             return percentages;
@@ -119,6 +133,12 @@ namespace MillionaireGame
                 return null;
             }
 
+            if (!HasUsableAnswers(question))
+            {
+                Debug.LogWarning("[LifelineManager] Phone a Friend cannot be used because the question answers are invalid.");
+                return null;
+            }
+
             _phoneUsed = true;
 
             bool friendCorrect = Random.value <= 0.70f;
@@ -132,12 +152,12 @@ namespace MillionaireGame
             {
                 // Pick a random wrong answer
                 List<int> wrong = new List<int>();
-                for (int i = 0; i < 4; i++)
+                for (int i = 0; i < question.answers.Length; i++)
                     if (i != question.correctAnswerIndex) wrong.Add(i);
                 suggestedIndex = wrong[Random.Range(0, wrong.Count)];
             }
 
-            string letter = new string[] { "A", "B", "C", "D" }[suggestedIndex];
+            string letter = new string[] { "A", "B", "C", "D", "E" }[suggestedIndex];
             string[] friendLines = new string[]
             {
                 $"Hmm… I'm fairly sure it's {letter}: {question.answers[suggestedIndex]}.",
@@ -148,6 +168,16 @@ namespace MillionaireGame
             };
 
             return friendLines[Random.Range(0, friendLines.Length)];
+        }
+
+        private bool HasUsableAnswers(QuestionEntry question)
+        {
+            return question != null
+                && question.answers != null
+                && question.answers.Length >= 2
+                && question.correctAnswerIndex >= 0
+                && question.correctAnswerIndex < question.answers.Length
+                && question.answers.Length <= UIManager.MaxAnswerCount;
         }
     }
 }

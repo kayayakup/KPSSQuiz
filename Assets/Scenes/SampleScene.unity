@@ -351,7 +351,6 @@ GameObject:
   - component: {fileID: 904164608}
   - component: {fileID: 904164610}
   - component: {fileID: 904164609}
-  - component: {fileID: 904164611}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -375,7 +374,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1432.9, y: 1000}
+  m_AnchoredPosition: {x: 1432.9, y: 1000.0001}
   m_SizeDelta: {x: 632.9, y: 150.9}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &904164609
@@ -398,9 +397,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0641\u064A \u0623\u064A \u0634\u0647\u0631 \u064A\u0635\u0648\u0645
-    \u0627\u0644\u0645\u0633\u0644\u0645\u0648\u0646 \u0645\u0646 \u0627\u0644\u0641\u062C\u0631
-    \u062D\u062A\u0649 \u063A\u0631\u0648\u0628"
+  m_text: aaa
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -480,20 +477,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904164607}
   m_CullTransparentMesh: 1
---- !u!114 &904164611
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 904164607}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 084dbf9341d36fd4db9dfa21081c1cf3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FixArabic3DText
-  showTashkeel: 1
-  useHinduNumbers: 1
 --- !u!1 &923983609
 GameObject:
   m_ObjectHideFlags: 0
@@ -614,6 +597,9 @@ MonoBehaviour:
   languagePanel: {fileID: 0}
   languageButtons: []
   languageTitle: {fileID: 0}
+  branchPanel: {fileID: 0}
+  branchTitle: {fileID: 0}
+  branchButtons: []
   categoryPanel: {fileID: 0}
   categoryTitle: {fileID: 0}
   categorySubtitle: {fileID: 0}
@@ -646,6 +632,7 @@ MonoBehaviour:
   timerText: {fileID: 0}
   timerFont: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
   btnWalkAway: {fileID: 0}
+  ladderOverlayPanel: {fileID: 0}
   ladderArea: {fileID: 0}
   ladderLabels: []
   ladderBackgrounds: []

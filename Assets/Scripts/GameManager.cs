@@ -203,14 +203,7 @@ namespace MillionaireGame
         {
             _currentLanguage = language;
             
-            string reminderFileName = (language == "TR") ? "Reminders/Reminders" : $"Reminders/Reminders{language}";
-            _reminderDB = JsonLoader.LoadReminders(reminderFileName);
-            
-            // Fallback for reminders if language-specific file doesn't exist
-            if (_reminderDB == null && language != "EN")
-            {
-                _reminderDB = JsonLoader.LoadReminders("Reminders/RemindersEN");
-            }
+            _reminderDB = JsonLoader.LoadReminders("Reminders/Reminders");
 
             // Apply localized text to UI
             _uiMgr.ApplyLanguage(language);
@@ -330,7 +323,7 @@ namespace MillionaireGame
         private void WireButtons()
         {
             // Answer buttons
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < _uiMgr.answerButtons.Length; i++)
             {
                 int idx = i; // capture for closure
                 _uiMgr.answerButtons[i].onClick.AddListener(() => { PlayClickSound(); OnAnswerClicked(idx); });
@@ -359,6 +352,25 @@ namespace MillionaireGame
             _uiMgr.musicVolumeSlider.onValueChanged.AddListener(OnMusicVolumeChanged);
             _uiMgr.sfxVolumeSlider.onValueChanged.AddListener(OnSFXVolumeChanged);
             _uiMgr.muteToggle.onValueChanged.AddListener(OnMuteToggled);
+
+            // Geri butonları
+            _uiMgr.SetBranchBackAction(() => {
+                // Branch panelden geri gelince dil seçimine dön
+                _uiMgr.ShowLanguageScreen(true);
+                _uiMgr.SetSettingsButtonVisible(false);
+            });
+
+            _uiMgr.SetCategoryBackAction(() => {
+                // Category panelden geri gelince branch paneline dön
+                _uiMgr.ShowBranchScreen(true);
+                _uiMgr.SetSettingsButtonVisible(false);
+            });
+
+            _uiMgr.SetGameBackAction(() => {
+                // Oyun panelinden geri gelince kategori seçimine dön
+                // Oyunu sıfırla
+                ReturnToMenu();
+            });
         }
 
         // ═══════════════════════════════════════════════
@@ -465,6 +477,12 @@ namespace MillionaireGame
         private void OnAnswerClicked(int index)
         {
             if (!_waitingForAnswer) return;
+            if (_currentQuestion == null || _currentQuestion.answers == null || index < 0 || index >= _currentQuestion.answers.Length)
+            {
+                Debug.LogWarning($"[GameManager] Ignoring invalid answer index {index}.");
+                return;
+            }
+
             _waitingForAnswer = false;
             // Pause timer while answering
             _timerActive = false;
