@@ -21,29 +21,46 @@ namespace MillionaireGame
         //  PUBLIC REFERENCES
         // ══════════════════════════════════════════════
         public Canvas mainCanvas;
+        [System.Serializable]
+        public class GameButtonData
+        {
+            public Sprite buttonImage;
+            public string storeUrl;
+        }
+
+        // Our Games panel references
+        public GameObject gamesPanel;
+        public Button gamesCloseButton;
+        public List<Button> gamesButtons = new();
+        public List<GameButtonData> gameButtonConfigs = new();
+        private System.Action gamesCloseAction;
+
         public Image _bgImg;
         private Sprite _roundedSprite;
 
         // ── Language selection screen ──
         public GameObject languagePanel;
-        public List<Button> languageButtons = new List<Button>();
+        public List<Button> languageButtons = new();
         public TextMeshProUGUI languageTitle; // Fixed type
 
         // ── Branch selection screen (KPSS) ──
         public GameObject branchPanel;
         public TextMeshProUGUI branchTitle;
-        public List<Button> branchButtons = new List<Button>();
+        public List<Button> branchButtons = new();
         public Button btnBranchBack;
+        public Button btnOurGames;
 
         // ── Category selection screen ──
         public GameObject categoryPanel;
         public TextMeshProUGUI categoryTitle;
         public TextMeshProUGUI categorySubtitle;
-        public List<Button> categoryButtons = new List<Button>();
+        public List<Button> categoryButtons = new();
         public Button btnCategoryBack;
         private ScrollRect categoryScrollRect;
         private RectTransform categoryContent;
         public Button btnSettings;          // persistent canvas-level settings gear
+        public Button btnGlobalBack;
+        private System.Action _globalBackAction;
 
         // ── Game screen ──
         public GameObject gamePanel;
@@ -111,46 +128,46 @@ namespace MillionaireGame
         public Button reminderCloseButton;
 
         // ── Gradient Palettes (Modernized/Lighter) ──
-        private Color[] _gradTop = new Color[] {
-            new Color(110/255f, 133/255f, 183/255f, 1f), // Pastel Blue
-            new Color(181/255f, 114/255f, 164/255f, 1f), // Pastel Purple
-            new Color(103/255f, 153/255f, 142/255f, 1f), // Soft Teal
-            new Color(194/255f, 102/255f, 102/255f, 1f), // Soft Coral
-            new Color(100/255f, 149/255f, 237/255f, 1f), // Cornflower
-            new Color(147/255f, 112/255f, 219/255f, 1f), // Medium Purple
-            new Color(205/255f, 133/255f, 162/255f, 1f), // Pale Violet
-            new Color(189/255f, 165/255f, 93/255f, 1f),  // Soft Gold
-            new Color(95/255f, 158/255f, 160/255f, 1f),  // Cadet Blue
-            new Color(119/255f, 136/255f, 153/255f, 1f)  // Light Slate
+        private readonly Color[] _gradTop = new Color[] {
+            new(110/255f, 133/255f, 183/255f, 1f), // Pastel Blue
+            new(181/255f, 114/255f, 164/255f, 1f), // Pastel Purple
+            new(103/255f, 153/255f, 142/255f, 1f), // Soft Teal
+            new(194/255f, 102/255f, 102/255f, 1f), // Soft Coral
+            new(100/255f, 149/255f, 237/255f, 1f), // Cornflower
+            new(147/255f, 112/255f, 219/255f, 1f), // Medium Purple
+            new(205/255f, 133/255f, 162/255f, 1f), // Pale Violet
+            new(189/255f, 165/255f, 93/255f, 1f),  // Soft Gold
+            new(95/255f, 158/255f, 160/255f, 1f),  // Cadet Blue
+            new(119/255f, 136/255f, 153/255f, 1f)  // Light Slate
         };
-        private Color[] _gradBottom = new Color[] {
-            new Color(30/255f, 40/255f, 80/255f, 1f),
-            new Color(80/255f, 30/255f, 70/255f, 1f),
-            new Color(20/255f, 70/255f, 60/255f, 1f),
-            new Color(80/255f, 20/255f, 20/255f, 1f),
-            new Color(20/255f, 40/255f, 80/255f, 1f),
-            new Color(50/255f, 20/255f, 80/255f, 1f),
-            new Color(80/255f, 30/255f, 60/255f, 1f),
-            new Color(90/255f, 60/255f, 20/255f, 1f),
-            new Color(20/255f, 70/255f, 70/255f, 1f),
-            new Color(40/255f, 50/255f, 60/255f, 1f)
+        private readonly Color[] _gradBottom = new Color[] {
+            new(30/255f, 40/255f, 80/255f, 1f),
+            new(80/255f, 30/255f, 70/255f, 1f),
+            new(20/255f, 70/255f, 60/255f, 1f),
+            new(80/255f, 20/255f, 20/255f, 1f),
+            new(20/255f, 40/255f, 80/255f, 1f),
+            new(50/255f, 20/255f, 80/255f, 1f),
+            new(80/255f, 30/255f, 60/255f, 1f),
+            new(90/255f, 60/255f, 20/255f, 1f),
+            new(20/255f, 70/255f, 70/255f, 1f),
+            new(40/255f, 50/255f, 60/255f, 1f)
         };
         private GameObject _questionBgPanel;
 
 
         // ── Colors ──
-        private readonly Color32 _panelBg      = new Color32(15, 15, 60, 255); // Opaque
-        private readonly Color32 _accentGold   = new Color32(255, 200, 50, 255);
-        private readonly Color32 _btnNormal    = new Color32(25, 45, 100, 255);
-        private readonly Color32 _btnHover     = new Color32(40, 70, 140, 255);
-        private readonly Color32 _btnCorrect   = new Color32(40, 190, 70, 255);
-        private readonly Color32 _btnWrong     = new Color32(210, 50, 50, 255);
-        private readonly Color32 _btnDisabled  = new Color32(60, 60, 80, 255);
-        private readonly Color32 _ladderNormal = new Color32(20, 30, 80, 255);
-        private readonly Color32 _ladderActive = new Color32(255, 180, 0, 255);
-        private readonly Color32 _ladderSafe   = new Color32(80, 180, 255, 255);
-        private readonly Color32 _white        = new Color32(255, 255, 255, 255);
-        private readonly Color32 _borderColor  = new Color32(100, 100, 250, 180);
+        private readonly Color32 _panelBg = new(15, 15, 60, 255); // Opaque
+        private readonly Color32 _accentGold = new(255, 200, 50, 255);
+        private readonly Color32 _btnNormal = new(25, 45, 100, 255);
+        private readonly Color32 _btnHover = new(40, 70, 140, 255);
+        private readonly Color32 _btnCorrect = new(40, 190, 70, 255);
+        private readonly Color32 _btnWrong = new(210, 50, 50, 255);
+        private readonly Color32 _btnDisabled = new(60, 60, 80, 255);
+        private readonly Color32 _ladderNormal = new(20, 30, 80, 255);
+        private readonly Color32 _ladderActive = new(255, 180, 0, 255);
+        private readonly Color32 _ladderSafe = new(80, 180, 255, 255);
+        private readonly Color32 _white = new(255, 255, 255, 255);
+        private readonly Color32 _borderColor = new(100, 100, 250, 180);
 
         // ══════════════════════════════════════════════
         //  BUILD UI 
@@ -158,7 +175,7 @@ namespace MillionaireGame
         public void BuildUI()
         {
             // ── Canvas ──
-            GameObject canvasGO = new GameObject("MainCanvas");
+            GameObject canvasGO = new("MainCanvas");
             mainCanvas = canvasGO.AddComponent<Canvas>();
             mainCanvas.renderMode = RenderMode.ScreenSpaceOverlay;
             mainCanvas.sortingOrder = 0;
@@ -206,15 +223,35 @@ namespace MillionaireGame
             BuildResultPanel(canvasGO.transform);
             BuildSettingsPanel(canvasGO.transform);
             BuildReminderPanel(canvasGO.transform);
+            // Build Our Games panel after other UI elements
+            BuildGamesPanel(canvasGO.transform);
 
             // Persistent settings gear button (bottom-left corner)
             btnSettings = CreateButton(canvasGO.transform, "BtnSettings", "⚙", Vector2.zero, new Vector2(90, 90), 44);
             var btnSettingsRT = btnSettings.GetComponent<RectTransform>();
             btnSettingsRT.anchorMin = new Vector2(0f, 0f);
             btnSettingsRT.anchorMax = new Vector2(0f, 0f);
-            btnSettingsRT.pivot    = new Vector2(0f, 0f);
+            btnSettingsRT.pivot = new Vector2(0f, 0f);
             btnSettingsRT.anchoredPosition = new Vector2(20f, 200f);
             btnSettings.GetComponent<Image>().color = new Color32(30, 30, 100, 210);
+
+            // Global Back button (top-left)
+            btnGlobalBack = CreateButton(canvasGO.transform, "BtnBack", "←", new Vector2(-400, 750), new Vector2(80, 80), 36);
+            var btnBackRT = btnGlobalBack.GetComponent<RectTransform>();
+            btnBackRT.anchorMin = new Vector2(0f, 1f);
+            btnBackRT.anchorMax = new Vector2(0f, 1f);
+            btnBackRT.pivot = new Vector2(0f, 1f);
+            btnBackRT.anchoredPosition = new Vector2(20f, -20f);
+            btnGlobalBack.GetComponent<Image>().color = new Color32(200, 40, 40, 255);
+            btnGlobalBack.gameObject.SetActive(false);
+            btnGlobalBack.onClick.AddListener(() =>
+            {
+                if (_globalBackAction != null)
+                {
+                    AnimateButtonPress(btnGlobalBack);
+                    _globalBackAction.Invoke();
+                }
+            });
 
             // Hide all initially — GameManager controls which screen to show
             languagePanel.SetActive(false);
@@ -235,9 +272,36 @@ namespace MillionaireGame
             if (btnBranchBack != null)
             {
                 btnBranchBack.onClick.RemoveAllListeners();
-                btnBranchBack.onClick.AddListener(() => {
+                btnBranchBack.onClick.AddListener(() =>
+                {
                     AnimateButtonPress(btnBranchBack);
                     onBack?.Invoke();
+                });
+            }
+            // Activate global back button and set its action
+            if (btnGlobalBack != null)
+            {
+                btnGlobalBack.gameObject.SetActive(true);
+                SetGlobalBackAction(onBack);
+            }
+        }
+
+        public void SetGlobalBackAction(System.Action onBack)
+        {
+            _globalBackAction = onBack;
+        }
+
+        // Set close action for Games panel
+        public void SetGamesCloseAction(System.Action onClose)
+        {
+            gamesCloseAction = onClose;
+            if (gamesCloseButton != null)
+            {
+                gamesCloseButton.onClick.RemoveAllListeners();
+                gamesCloseButton.onClick.AddListener(() =>
+                {
+                    AnimateButtonPress(gamesCloseButton);
+                    onClose?.Invoke();
                 });
             }
         }
@@ -247,10 +311,17 @@ namespace MillionaireGame
             if (btnCategoryBack != null)
             {
                 btnCategoryBack.onClick.RemoveAllListeners();
-                btnCategoryBack.onClick.AddListener(() => {
+                btnCategoryBack.onClick.AddListener(() =>
+                {
                     AnimateButtonPress(btnCategoryBack);
                     onBack?.Invoke();
                 });
+            }
+            // Activate global back button and set its action
+            if (btnGlobalBack != null)
+            {
+                btnGlobalBack.gameObject.SetActive(true);
+                SetGlobalBackAction(onBack);
             }
         }
 
@@ -259,18 +330,25 @@ namespace MillionaireGame
             if (btnGameBack != null)
             {
                 btnGameBack.onClick.RemoveAllListeners();
-                btnGameBack.onClick.AddListener(() => {
+                btnGameBack.onClick.AddListener(() =>
+                {
                     AnimateButtonPress(btnGameBack);
                     onBack?.Invoke();
                 });
+            }
+            // Activate global back button and set its action
+            if (btnGlobalBack != null)
+            {
+                btnGlobalBack.gameObject.SetActive(true);
+                SetGlobalBackAction(onBack);
             }
         }
 
         public void ChangeBackgroundGradient(int index)
         {
-            index = index % _gradTop.Length;
+            index %= _gradTop.Length;
             Color panelColor = _gradTop[index];
-            Color btnColor = new Color(
+            Color btnColor = new(
                 Mathf.Clamp01(panelColor.r + 0.06f),
                 Mathf.Clamp01(panelColor.g + 0.08f),
                 Mathf.Clamp01(panelColor.b + 0.12f),
@@ -295,6 +373,7 @@ namespace MillionaireGame
             TweenButtonColor(btnAskAudience, btnColor);
             TweenButtonColor(btnPhoneFriend, btnColor);
             TweenButtonColor(btnSettings, btnColor);
+            TweenButtonColor(btnOurGames, btnColor);
             foreach (var btn in branchButtons)
                 TweenButtonColor(btn, btnColor);
             foreach (var btn in categoryButtons)
@@ -326,8 +405,7 @@ namespace MillionaireGame
         private void TweenButtonColor(Button btn, Color target)
         {
             if (btn == null) return;
-            var img = btn.GetComponent<Image>();
-            if (img != null)
+            if (btn.TryGetComponent<Image>(out var img))
                 Tween.Color(img, target, 1.5f);
         }
 
@@ -350,10 +428,10 @@ namespace MillionaireGame
             panel.SetActive(true);
             var canvasGroup = panel.GetComponent<CanvasGroup>();
             if (canvasGroup == null) canvasGroup = panel.AddComponent<CanvasGroup>();
-            
+
             canvasGroup.alpha = 0f;
             Tween.Alpha(canvasGroup, 1f, 0.4f, Ease.OutQuad);
-            
+
             var rt = panel.GetComponent<RectTransform>();
             rt.localScale = Vector3.one * 0.95f;
             Tween.Scale(rt, Vector3.one, 0.4f, Ease.OutBack);
@@ -403,7 +481,7 @@ namespace MillionaireGame
             }
             languageButtons.Clear();
 
-            float startY = 20; 
+            float startY = 20;
             float spacing = 120;
 
             for (int i = 0; i < languages.Count; i++)
@@ -411,7 +489,8 @@ namespace MillionaireGame
                 var lang = languages[i];
                 float yPos = startY - (i * spacing);
                 var btn = CreateButton(languagePanel.transform, $"BtnLang_{lang.code}", lang.name, new Vector2(0, yPos), new Vector2(500, 100), 48);
-                btn.onClick.AddListener(() => {
+                btn.onClick.AddListener(() =>
+                {
                     AnimateButtonPress(btn);
                     onClick?.Invoke(lang.code);
                 });
@@ -428,12 +507,17 @@ namespace MillionaireGame
         {
             branchPanel = CreatePanel(parent, "BranchPanel", Vector2.zero, new Vector2(950, 1600));
 
-            btnBranchBack = CreateButton(branchPanel.transform, "BtnBranchBack", "Geri", new Vector2(-360, 690), new Vector2(180, 70), 34);
-            btnBranchBack.GetComponent<Image>().color = _btnDisabled;
-
             branchTitle = CreateTMP(branchPanel.transform, "BranchTitle", "Select Branch", 58, TextAlignmentOptions.Center, new Vector2(0, 680), new Vector2(800, 80));
             branchTitle.color = _accentGold;
             branchTitle.fontStyle = FontStyles.Bold;
+
+            btnOurGames = CreateButton(branchPanel.transform, "BtnOurGames", "Oyunlarımız", new Vector2(0, -220f), new Vector2(700, 110), 48);
+            btnOurGames.GetComponent<Image>().color = new Color32(230, 140, 10, 255);
+            btnOurGames.onClick.AddListener(() =>
+            {
+                AnimateButtonPress(btnOurGames);
+                ShowGamesPanel();
+            });
         }
 
         public void PopulateBranchButtons(System.Action<string> onClick)
@@ -441,8 +525,8 @@ namespace MillionaireGame
             foreach (var btn in branchButtons) if (btn != null) Destroy(btn.gameObject);
             branchButtons.Clear();
 
-            string[] branches = { "Ortaöğretim", "Önlisans", "Lisans", "ÖABT", "DHBT" };
-            string[] branchCodes = { "kpss_ortaogretim", "kpss_onlisans", "kpss_lisans", "kpss_oabt", "dhbt" };
+            string[] branches = { "Ortaöğretim", "Önlisans", "Lisans", "ÖABT" };
+            string[] branchCodes = { "kpss_ortaogretim", "kpss_onlisans", "kpss_lisans", "kpss_oabt" };
 
             float startY = 480f;
             float spacing = 130f;
@@ -453,7 +537,8 @@ namespace MillionaireGame
                 string code = branchCodes[i];
 
                 var btn = CreateButton(branchPanel.transform, $"BtnBranch_{code}", branches[i], new Vector2(0, yPos), new Vector2(700, 110), 48);
-                btn.onClick.AddListener(() => {
+                btn.onClick.AddListener(() =>
+                {
                     AnimateButtonPress(btn);
                     onClick(code);
                 });
@@ -465,9 +550,6 @@ namespace MillionaireGame
         {
             categoryPanel = CreatePanel(parent, "CategoryPanel", Vector2.zero, new Vector2(950, 1600));
 
-            btnCategoryBack = CreateButton(categoryPanel.transform, "BtnCategoryBack", "Geri", new Vector2(-360, 690), new Vector2(180, 70), 34);
-            btnCategoryBack.GetComponent<Image>().color = _btnDisabled;
-
             categoryTitle = CreateTMP(categoryPanel.transform, "CategoryTitle", "Choose a Category", 58, TextAlignmentOptions.Center, new Vector2(0, 680), new Vector2(800, 80));
             categoryTitle.color = _accentGold;
             categoryTitle.fontStyle = FontStyles.Bold;
@@ -477,8 +559,11 @@ namespace MillionaireGame
             categorySubtitle.fontStyle = FontStyles.Italic;
 
             CreateCategoryScrollView(categoryPanel.transform);
+            // Ensure title and subtitle are rendered above the scroll view
+            categoryTitle.transform.SetAsLastSibling();
+            categorySubtitle.transform.SetAsLastSibling();
         }
-        
+
         private void CreateCategoryScrollView(Transform parent)
         {
             // ScrollView'ın kendisi
@@ -487,8 +572,8 @@ namespace MillionaireGame
             var scrollRectRT = scrollViewGO.GetComponent<RectTransform>();
             scrollRectRT.anchorMin = new Vector2(0.5f, 0.5f);
             scrollRectRT.anchorMax = new Vector2(0.5f, 0.5f);
-            scrollRectRT.anchoredPosition = new Vector2(0, 100);
-            scrollRectRT.sizeDelta = new Vector2(850, 1050);
+            scrollRectRT.anchoredPosition = new Vector2(0, -100);
+            scrollRectRT.sizeDelta = new Vector2(850, 1200);
 
             // ScrollRect bileşeni
             categoryScrollRect = scrollViewGO.AddComponent<ScrollRect>();
@@ -504,7 +589,7 @@ namespace MillionaireGame
             viewportRT.anchorMax = Vector2.one;
             viewportRT.sizeDelta = Vector2.zero;
             var viewportImg = viewportGO.AddComponent<Image>();
-            viewportImg.color = new Color(0, 0, 0, 0); // transparent
+            viewportImg.color = new Color(1, 1, 1, 1); // Mask graphic must be opaque to work
             viewportGO.AddComponent<Mask>().showMaskGraphic = false;
 
             // İçerik alanı (Content)
@@ -543,12 +628,15 @@ namespace MillionaireGame
             raw = raw.Replace("kpss_ortaogretim_", "").Replace("kpss_onlisans_", "").Replace("kpss_lisans_", "").Replace("kpss_oabt_", "").Replace("dhbt_", "").Replace("kpss_", "");
 
             if (raw.Contains("genel_kultur") || raw.Contains("general_culture") || raw.Contains("general culture")) return "Genel Kültür";
+            if (raw.Contains("genel_yetenek") || raw.Contains("general_ability") || raw.Contains("general ability")) return "Genel Yetenek";
+            if (raw.Contains("egitim_bilimleri") || raw.Contains("educational_sciences") || raw.Contains("educational sciences")) return "Eğitim Bilimleri";
             if (raw.Contains("turkce") || raw.Contains("turkish")) return "Türkçe";
             if (raw.Contains("matematik") || raw.Contains("mathematics")) return "Matematik";
             if (raw.Contains("tarih") || raw.Contains("history")) return "Tarih";
             if (raw.Contains("cografya") || raw.Contains("geography")) return "Coğrafya";
             if (raw.Contains("vatandaslik") || raw.Contains("citizenship")) return "Vatandaşlık";
-            if (raw.Contains("egitim_bilimleri") || raw.Contains("educational_sciences")) return "Eğitim Bilimleri";
+            if (raw.Contains("din") || raw.Contains("religion")) return "Din Kültürü";
+            if (raw.Contains("guncel") || raw.Contains("güncel")) return "Güncel Bilgiler";
 
             // Alan Bilgisi (in pure Turkish)
             if (raw.Contains("hukuk") || raw.Contains("law")) return "Hukuk";
@@ -618,10 +706,14 @@ namespace MillionaireGame
                     string displayCat = FormatCategoryName(cat);
 
                     var btn = CreateButton(categoryContent.gameObject.transform, $"CatBtn_{cat}", displayCat,
-                        new Vector2(0, -currentY), new Vector2(800, buttonHeight), fontSize);
+                        new Vector2(0, -currentY - (buttonHeight / 2f)), new Vector2(800, buttonHeight), fontSize);
 
-                    if (GetCategorySortOrder(cat) == 4)
-                        btn.GetComponent<Image>().color = new Color32(95, 100, 110, 255);
+                    // Sabit anchor: ScrollView içinde yukarıdan (Top) hizalanması için
+                    var rt = btn.GetComponent<RectTransform>();
+                    rt.anchorMin = new Vector2(0.5f, 1f);
+                    rt.anchorMax = new Vector2(0.5f, 1f);
+                    rt.pivot = new Vector2(0.5f, 0.5f);
+                    rt.anchoredPosition = new Vector2(0, -currentY - (buttonHeight / 2f) - 15f);
 
                     btn.onClick.AddListener(() =>
                     {
@@ -635,7 +727,7 @@ namespace MillionaireGame
 
                 // 🔧 Content boyutunu ayarla
                 categoryContent.sizeDelta = new Vector2(contentWidth, currentY);
-                
+
                 // 🔧 Scroll pozisyonunu en üste al
                 categoryScrollRect.content.anchoredPosition = Vector2.zero;
             }
@@ -703,10 +795,6 @@ namespace MillionaireGame
             questionNumberText.color = _accentGold;
             questionNumberText.alignment = TextAlignmentOptions.Left;
 
-            // Game panelinde geri butonu
-            btnGameBack = CreateButton(gamePanel.transform, "BtnGameBack", "Geri", new Vector2(-450, 750f), new Vector2(150, 60), 34);
-            btnGameBack.GetComponent<Image>().color = _btnDisabled;
-
             timerText = CreateTMP(gamePanel.transform, "TimerText", "130:00", 54, TextAlignmentOptions.Center, new Vector2(350, 750f), new Vector2(250, 60));
             if (timerFont != null) timerText.font = timerFont;
             timerText.color = _accentGold;
@@ -725,7 +813,7 @@ namespace MillionaireGame
             {
                 float aY = -230f - i * 95f; // Five choices fit above the banner area.
                 var btn = CreateButton(gamePanel.transform, $"AnswerBtn_{AnswerLetters[i]}", $"{AnswerLetters[i]}: Answer", new Vector2(0, aY), new Vector2(920, 85), 34);
-                
+
                 var btnRT = btn.GetComponent<RectTransform>();
                 answerBackgrounds[i] = btn.GetComponent<Image>();
                 answerButtons[i] = btn;
@@ -734,7 +822,7 @@ namespace MillionaireGame
                 // Indent text slightly
                 answerLabels[i].rectTransform.anchoredPosition = new Vector2(25, 0);
                 answerLabels[i].rectTransform.sizeDelta = new Vector2(870, 78);
-                
+
                 int index = i;
                 btn.onClick.AddListener(() => AnimateButtonPress(answerButtons[index]));
             }
@@ -750,10 +838,10 @@ namespace MillionaireGame
             overlayRT.anchorMin = Vector2.zero;
             overlayRT.anchorMax = Vector2.one;
             overlayRT.sizeDelta = Vector2.zero;
-            
+
             var overlayImg = ladderOverlayPanel.AddComponent<Image>();
             overlayImg.color = new Color(0f, 0f, 0.05f, 0.88f); // High-premium semi-transparent dark background
-            
+
             var overlayBtn = ladderOverlayPanel.AddComponent<Button>();
             overlayBtn.transition = Selectable.Transition.None;
 
@@ -767,6 +855,176 @@ namespace MillionaireGame
             ladderTitle.fontStyle = FontStyles.Bold;
         }
 
+        // ── Our Games Panel Builder ──
+        private void BuildGamesPanel(Transform parent)
+        {
+            // Panel container
+            gamesPanel = CreatePanel(parent, "GamesPanel", Vector2.zero, new Vector2(950, 1600));
+            gamesPanel.GetComponent<Image>().color = new Color32(15, 15, 60, 230); // dark semi‑transparent background
+
+            var titleText = CreateTMP(gamesPanel.transform, "GamesTitle", "Oyunlarımız", 58, TextAlignmentOptions.Center, new Vector2(0, 700), new Vector2(800, 80));
+            titleText.color = _accentGold;
+            titleText.fontStyle = FontStyles.Bold;
+
+            // Close button (top‑right)
+            gamesCloseButton = CreateButton(gamesPanel.transform, "BtnGamesClose", "✕", new Vector2(400, 700), new Vector2(80, 80), 36);
+            gamesCloseButton.GetComponent<Image>().color = new Color32(200, 40, 40, 255);
+            gamesCloseButton.onClick.AddListener(() =>
+            {
+                AnimateButtonPress(gamesCloseButton);
+                HideGamesPanel();
+                gamesCloseAction?.Invoke();
+            });
+
+            // CREATE SCROLL VIEW
+            var scrollViewGO = new GameObject("GamesScrollView", typeof(RectTransform));
+            scrollViewGO.transform.SetParent(gamesPanel.transform, false);
+            var scrollRectRT = scrollViewGO.GetComponent<RectTransform>();
+            scrollRectRT.anchorMin = new Vector2(0.5f, 0.5f);
+            scrollRectRT.anchorMax = new Vector2(0.5f, 0.5f);
+            scrollRectRT.anchoredPosition = new Vector2(0, -50);
+            scrollRectRT.sizeDelta = new Vector2(900, 1300);
+
+            var scrollRect = scrollViewGO.AddComponent<ScrollRect>();
+            scrollRect.horizontal = false;
+            scrollRect.vertical = true;
+            scrollRect.movementType = ScrollRect.MovementType.Clamped;
+
+            var viewportGO = new GameObject("Viewport", typeof(RectTransform));
+            viewportGO.transform.SetParent(scrollRectRT, false);
+            var viewportRT = viewportGO.GetComponent<RectTransform>();
+            viewportRT.anchorMin = Vector2.zero; viewportRT.anchorMax = Vector2.one;
+            viewportRT.sizeDelta = Vector2.zero;
+            viewportGO.AddComponent<Image>().color = new Color(1, 1, 1, 1);
+            viewportGO.AddComponent<Mask>().showMaskGraphic = false;
+
+            var contentGO = new GameObject("Content", typeof(RectTransform));
+            contentGO.transform.SetParent(viewportRT, false);
+            var contentRT = contentGO.GetComponent<RectTransform>();
+            contentRT.anchorMin = new Vector2(0, 1);
+            contentRT.anchorMax = new Vector2(1, 1);
+            contentRT.pivot = new Vector2(0.5f, 1);
+            contentRT.anchoredPosition = Vector2.zero;
+
+            scrollRect.viewport = viewportRT;
+            scrollRect.content = contentRT;
+
+            // Dynamically load all game logos from Resources/Logos
+            Sprite[] loadedSprites = Resources.LoadAll<Sprite>("Logos");
+            if (loadedSprites != null && loadedSprites.Length > 0)
+            {
+                int count = loadedSprites.Length;
+                int columns = 3;
+                float buttonSize = 270f;
+                float spacingX = 30f;
+                float spacingY = 30f;
+
+                int rows = Mathf.CeilToInt((float)count / columns);
+                float contentHeight = rows * buttonSize + (rows - 1) * spacingY + 100f; // extra padding
+                contentRT.sizeDelta = new Vector2(900, contentHeight);
+
+                float startX = -((columns - 1) * (buttonSize + spacingX)) / 2f;
+                float startY = -buttonSize / 2f - 20f;
+
+                for (int i = 0; i < count; i++)
+                {
+                    int row = i / columns;
+                    int col = i % columns;
+
+                    float xPos = startX + col * (buttonSize + spacingX);
+                    float yPos = startY - row * (buttonSize + spacingY);
+
+                    var btn = CreateButton(contentRT.gameObject.transform, $"BtnGame_{i}", "", new Vector2(xPos, yPos), new Vector2(buttonSize, buttonSize), 0);
+                    var btnRT = btn.GetComponent<RectTransform>();
+                    btnRT.anchorMin = new Vector2(0.5f, 1f);
+                    btnRT.anchorMax = new Vector2(0.5f, 1f);
+                    btnRT.pivot = new Vector2(0.5f, 0.5f);
+                    btnRT.anchoredPosition = new Vector2(xPos, yPos);
+
+                    var txt = btn.GetComponentInChildren<TextMeshProUGUI>();
+                    if (txt != null) txt.text = "";
+
+                    var img = btn.GetComponent<Image>();
+                    Sprite s = loadedSprites[i];
+                    img.sprite = s;
+                    img.color = Color.white;
+
+                    string url = GetUrlForSprite(s.name);
+                    Debug.Log($"[GamesPanel] Sprite '{s.name}' -> URL: {url}");
+                    if (!string.IsNullOrEmpty(url))
+                    {
+                        string capturedUrl = url;
+                        btn.onClick.AddListener(() => Application.OpenURL(capturedUrl));
+                    }
+
+                    gamesButtons.Add(btn);
+                    btn.onClick.AddListener(() => AnimateButtonPress(btn));
+                }
+            }
+        }
+
+        private string GetUrlForSprite(string spriteName)
+        {
+            // Büyük/küçük harf duyarsız karşılaştırma için ToLowerInvariant
+            string lower = spriteName.ToLowerInvariant();
+
+            // Eşleştirme tablosu (Contains yerine daha kesin)
+            if (lower.Contains("stack")) // "stack" içeriyorsa
+                return "https://play.google.com/store/apps/details?id=com.PencGames.BlockMerge";
+            if (lower.Contains("blockblastcrush"))
+                return "https://play.google.com/store/apps/details?id=com.PencGames.BlockBlastCrush";
+            if (lower.Contains("watersort"))
+                return "https://play.google.com/store/apps/details?id=com.PencGames.WaterPuzzleSort";
+            if (lower.Contains("snakeescape") || lower.Contains("snake"))
+                return "https://play.google.com/store/apps/details?id=com.PencGames.SnakeEscapePuzzle";
+            if (lower.Contains("royalcatcrash"))
+                return "https://play.google.com/store/apps/details?id=com.PencGames.RoyalCatCrushMatch";
+            if (lower.Contains("islamicquiz"))
+                return "https://play.google.com/store/apps/details?id=com.PencGames.IslamicQuiz";
+            if (lower.Contains("bubbleshooter"))
+                return "https://play.google.com/store/apps/details?id=com.PencGames.BubbleShooterPuzzle";
+            if (lower.Contains("blockslide"))
+                return "https://play.google.com/store/apps/details?id=com.PencGames.BlockSlide";
+            if (lower.Contains("blockblast") && !lower.Contains("blockblastcrush"))
+                // "blockblast" için ama "blockblastcrush" değilse
+                return "https://play.google.com/store/apps/details?id=com.PencGames.BlockPuzzle";
+            if (lower.Contains("fruitmerge"))
+                return "https://play.google.com/store/apps/details?id=com.PencGames.FruitMergePuzzle";
+
+            // Varsayılan
+            return "https://play.google.com/store/apps/details?id=com.PencGames.BlockBlastCrush";
+        }
+
+        // Show / Hide methods for Games panel
+        public void ShowGamesPanel()
+        {
+            // Hide other main panels first
+            HideAllPrimaryPanels();
+            ShowPanel(gamesPanel);
+        }
+
+        public void HideGamesPanel()
+        {
+            HidePanel(gamesPanel);
+        }
+
+        // Utility to hide all primary panels (branch, category, game, etc.)
+        private void HideAllPrimaryPanels()
+        {
+            if (languagePanel != null) languagePanel.SetActive(false);
+            if (branchPanel != null) branchPanel.SetActive(false);
+            if (categoryPanel != null) categoryPanel.SetActive(false);
+            if (gamePanel != null) gamePanel.SetActive(false);
+            if (audiencePanel != null) audiencePanel.SetActive(false);
+            if (phonePanel != null) phonePanel.SetActive(false);
+            if (resultPanel != null) resultPanel.SetActive(false);
+            if (settingsPanel != null) settingsPanel.SetActive(false);
+            if (reminderPanel != null) reminderPanel.SetActive(false);
+            // Ensure games panel is hidden as well
+            // Also hide global back button when all primary panels are hidden
+            if (btnGlobalBack != null) btnGlobalBack.gameObject.SetActive(false);
+            if (gamesPanel != null) gamesPanel.SetActive(false);
+        }
         public void RebuildLadderUI()
         {
             // First, destroy existing rows in ladderArea
@@ -823,7 +1081,7 @@ namespace MillionaireGame
             audienceLetterLabels = new TextMeshProUGUI[MaxAnswerCount];
 
             audiencePanel = CreatePanel(parent, "AudiencePanel", Vector2.zero, new Vector2(800, 700));
-            
+
             CreateTMP(audiencePanel.transform, "AudTitle", "Audience Results", 50, TextAlignmentOptions.Center, new Vector2(0, 280), new Vector2(700, 60)).color = _accentGold;
 
             for (int i = 0; i < audienceSliders.Length; i++)
@@ -831,7 +1089,7 @@ namespace MillionaireGame
                 float xPos = -280 + i * 140;
 
                 audienceLetterLabels[i] = CreateTMP(audiencePanel.transform, $"AudLetter_{i}", AnswerLetters[i], 42, TextAlignmentOptions.Center, new Vector2(xPos, -240), new Vector2(100, 50));
-                
+
                 var sliderGO = new GameObject($"AudSlider_{i}", typeof(RectTransform));
                 var sliderRT = sliderGO.GetComponent<RectTransform>();
                 sliderRT.SetParent(audiencePanel.transform, false);
@@ -848,7 +1106,7 @@ namespace MillionaireGame
                 var fillAreaRT = fillAreaGO.GetComponent<RectTransform>();
                 fillAreaRT.SetParent(sliderGO.transform, false);
                 fillAreaRT.anchorMin = Vector2.zero; fillAreaRT.anchorMax = Vector2.one;
-                fillAreaRT.sizeDelta = Vector2.zero; 
+                fillAreaRT.sizeDelta = Vector2.zero;
 
                 var fillGO = new GameObject("Fill", typeof(RectTransform));
                 var fillRT = fillGO.GetComponent<RectTransform>();
@@ -876,7 +1134,7 @@ namespace MillionaireGame
             CreateTMP(phonePanel.transform, "PhoneTitle", "📞 Phone a Friend", 50, TextAlignmentOptions.Center, new Vector2(0, 180), new Vector2(700, 60)).color = _accentGold;
 
             phoneFriendText = CreateTMP(phonePanel.transform, "PhoneFriendText", "", 44, TextAlignmentOptions.Center, new Vector2(0, 20), new Vector2(750, 200));
-            
+
             phoneCloseButton = CreateButton(phonePanel.transform, "PhoneClose", "OK", new Vector2(0, -180), new Vector2(250, 70), 42);
         }
 
@@ -889,7 +1147,7 @@ namespace MillionaireGame
             overlayRT.anchorMin = Vector2.zero;
             overlayRT.anchorMax = Vector2.one;
             overlayRT.sizeDelta = Vector2.zero;
-            
+
             var overlayImg = resultPanel.AddComponent<Image>();
             overlayImg.color = new Color(0f, 0f, 0f, 0.7f);
 
@@ -902,7 +1160,7 @@ namespace MillionaireGame
             resultTitle.fontStyle = FontStyles.Bold;
 
             resultMessage = CreateTMP(dialog.transform, "ResultMsg", "", 50, TextAlignmentOptions.Center, new Vector2(0, 60), new Vector2(800, 250));
-            
+
             resultMenuButton = CreateButton(dialog.transform, "ResultMenuBtn", "Main Menu", new Vector2(0, -220), new Vector2(400, 100), 46);
         }
 
@@ -1204,12 +1462,12 @@ namespace MillionaireGame
 
         public void ShowLanguageScreen(bool show)
         {
-            if(show) ShowPanel(languagePanel); else HidePanel(languagePanel);
+            if (show) ShowPanel(languagePanel); else HidePanel(languagePanel);
         }
 
         public void ShowBranchScreen(bool show)
         {
-            if(show) 
+            if (show)
             {
                 HidePanel(languagePanel);
                 HidePanel(categoryPanel);
@@ -1218,9 +1476,10 @@ namespace MillionaireGame
                 HidePanel(audiencePanel);
                 HidePanel(phonePanel);
                 HidePanel(reminderPanel);
+                HidePanel(gamesPanel);
                 ShowPanel(branchPanel);
             }
-            else 
+            else
             {
                 HidePanel(branchPanel);
             }
@@ -1228,19 +1487,19 @@ namespace MillionaireGame
 
         public void ShowCategoryScreen(bool show)
         {
-            if(show) 
+            if (show)
             {
                 HidePanel(languagePanel);
                 ShowPanel(categoryPanel);
             }
-            else 
+            else
             {
                 HidePanel(categoryPanel);
             }
 
-            if(show) HidePanel(gamePanel); else ShowPanel(gamePanel);
-            
-            if(show)
+            if (show) HidePanel(gamePanel); else ShowPanel(gamePanel);
+
+            if (show)
             {
                 HidePanel(resultPanel);
                 HidePanel(audiencePanel);
@@ -1253,9 +1512,10 @@ namespace MillionaireGame
         {
             reminderTitle.text = title;
             reminderText.text = text;
-            
+
             reminderCloseButton.onClick.RemoveAllListeners();
-            reminderCloseButton.onClick.AddListener(() => {
+            reminderCloseButton.onClick.AddListener(() =>
+            {
                 AnimateButtonPress(reminderCloseButton);
                 HidePanel(reminderPanel);
                 onClose?.Invoke();
@@ -1267,9 +1527,9 @@ namespace MillionaireGame
         public void ShowLadderOverlay(System.Action onDismiss)
         {
             if (ladderOverlayPanel == null) return;
-            
+
             ShowPanel(ladderOverlayPanel);
-            
+
             // Wire click event to both overlay and inner area for quick hypercasual dismiss
             var overlayBtn = ladderOverlayPanel.GetComponent<Button>();
             if (overlayBtn != null)
@@ -1277,7 +1537,7 @@ namespace MillionaireGame
                 overlayBtn.onClick.RemoveAllListeners();
                 overlayBtn.onClick.AddListener(() => HideLadderOverlay(onDismiss));
             }
-            
+
             var ladderAreaBtn = ladderArea.GetComponent<Button>();
             if (ladderAreaBtn != null)
             {
@@ -1289,7 +1549,7 @@ namespace MillionaireGame
         public void HideLadderOverlay(System.Action onDismiss)
         {
             if (ladderOverlayPanel == null || !ladderOverlayPanel.activeSelf) return;
-            
+
             HidePanel(ladderOverlayPanel);
             onDismiss?.Invoke();
         }
@@ -1309,7 +1569,7 @@ namespace MillionaireGame
             for (int i = 0; i < answerButtons.Length; i++)
             {
                 answerBackgrounds[i].color = _btnNormal;
-                
+
                 if (q.answers != null && i < q.answers.Length)
                 {
                     answerButtons[i].gameObject.SetActive(true);
@@ -1322,15 +1582,15 @@ namespace MillionaireGame
                     answerButtons[i].gameObject.SetActive(false);
                     answerButtons[i].interactable = false;
                 }
-                
+
                 // Animation for Answer Buttons sliding in
                 var rt = answerButtons[i].GetComponent<RectTransform>();
                 var origPos = rt.anchoredPosition;
                 rt.anchoredPosition = origPos + new Vector2(0, -60);
                 var cg = answerButtons[i].gameObject.GetComponent<CanvasGroup>();
-                if(cg == null) cg = answerButtons[i].gameObject.AddComponent<CanvasGroup>();
+                if (cg == null) cg = answerButtons[i].gameObject.AddComponent<CanvasGroup>();
                 cg.alpha = 0f;
-                
+
                 Tween.UIAnchoredPosition(rt, origPos, 0.3f, Ease.OutBack, startDelay: i * 0.1f);
                 Tween.Alpha(cg, 1f, 0.3f, Ease.Linear, startDelay: i * 0.1f);
             }
@@ -1342,7 +1602,7 @@ namespace MillionaireGame
 
             var targetColor = correct ? _btnCorrect : _btnWrong;
             Tween.Color(answerBackgrounds[index], (Color)targetColor, 0.3f);
-            
+
             // Ensure the button is at its base scale/position before starting the final highlight animation
             var trans = answerButtons[index].transform;
             Tween.StopAll(trans);
@@ -1391,7 +1651,8 @@ namespace MillionaireGame
             {
                 int idx = i; // local copy for closure
                 float target = (percentages != null && idx < percentages.Length) ? percentages[idx] : 0f;
-                Tween.Custom(0f, target, 1.5f, onValueChange: (val) => {
+                Tween.Custom(0f, target, 1.5f, onValueChange: (val) =>
+                {
                     audienceSliders[idx].value = val;
                     audiencePercentLabels[idx].text = $"{Mathf.RoundToInt(val)}%";
                 }, Ease.OutCubic);
@@ -1504,7 +1765,7 @@ namespace MillionaireGame
             var outline = go.AddComponent<Outline>();
             outline.effectColor = _borderColor;
             outline.effectDistance = new Vector2(2, -2);
-            
+
             return go;
         }
 
@@ -1562,7 +1823,7 @@ namespace MillionaireGame
             var tmp = CreateTMP(go.transform, "Label", label, fontSize, TextAlignmentOptions.Center, Vector2.zero, size - new Vector2(20, 20));
             tmp.raycastTarget = false;
 
-                    // --- EK GELİŞTİRMELER ---
+            // --- EK GELİŞTİRMELER ---
             tmp.overflowMode = TextOverflowModes.Overflow;      // Taşsa da göster
             tmp.enableAutoSizing = true;
             tmp.fontSizeMin = 12;                               // Çok küçük değere izin ver
@@ -1601,7 +1862,7 @@ namespace MillionaireGame
 
             tex.SetPixels(cols);
             tex.Apply();
-            
+
             return Sprite.Create(tex, new Rect(0, 0, size, size), Vector2.one * 0.5f, 100, 0, SpriteMeshType.FullRect, new Vector4(radius, radius, radius, radius));
         }
     }

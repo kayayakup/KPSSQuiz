@@ -1,0 +1,3170 @@
+[
+  {
+    "id": 100000,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 2,
+    "questionText": "Türkçe Soru 1: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100001,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 3,
+    "questionText": "Türkçe Soru 2: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100002,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 4,
+    "questionText": "Türkçe Soru 3: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100003,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 5,
+    "questionText": "Türkçe Soru 4: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100004,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 1,
+    "questionText": "Türkçe Soru 5: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100005,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 2,
+    "questionText": "Türkçe Soru 6: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100006,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 3,
+    "questionText": "Türkçe Soru 7: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100007,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 4,
+    "questionText": "Türkçe Soru 8: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100008,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 5,
+    "questionText": "Türkçe Soru 9: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100009,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 1,
+    "questionText": "Türkçe Soru 10: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100010,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 2,
+    "questionText": "Türkçe Soru 11: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100011,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 3,
+    "questionText": "Türkçe Soru 12: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100012,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 4,
+    "questionText": "Türkçe Soru 13: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100013,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 5,
+    "questionText": "Türkçe Soru 14: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100014,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 1,
+    "questionText": "Türkçe Soru 15: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100015,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 2,
+    "questionText": "Türkçe Soru 16: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100016,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 3,
+    "questionText": "Türkçe Soru 17: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100017,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 4,
+    "questionText": "Türkçe Soru 18: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100018,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 5,
+    "questionText": "Türkçe Soru 19: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100019,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 1,
+    "questionText": "Türkçe Soru 20: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100020,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 2,
+    "questionText": "Türkçe Soru 21: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100021,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 3,
+    "questionText": "Türkçe Soru 22: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100022,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 4,
+    "questionText": "Türkçe Soru 23: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100023,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 5,
+    "questionText": "Türkçe Soru 24: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100024,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 1,
+    "questionText": "Türkçe Soru 25: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100025,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 2,
+    "questionText": "Türkçe Soru 26: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100026,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 3,
+    "questionText": "Türkçe Soru 27: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100027,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 4,
+    "questionText": "Türkçe Soru 28: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100028,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 5,
+    "questionText": "Türkçe Soru 29: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100029,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 1,
+    "questionText": "Türkçe Soru 30: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100030,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 2,
+    "questionText": "Türkçe Soru 31: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100031,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 3,
+    "questionText": "Türkçe Soru 32: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100032,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 4,
+    "questionText": "Türkçe Soru 33: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100033,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 5,
+    "questionText": "Türkçe Soru 34: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100034,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 1,
+    "questionText": "Türkçe Soru 35: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100035,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 2,
+    "questionText": "Türkçe Soru 36: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100036,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 3,
+    "questionText": "Türkçe Soru 37: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100037,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 4,
+    "questionText": "Türkçe Soru 38: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100038,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 5,
+    "questionText": "Türkçe Soru 39: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100039,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "turkce",
+    "topic": "Türkçe",
+    "difficulty": 1,
+    "questionText": "Türkçe Soru 40: Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "answers": [
+      "Bu konuda farklı alternatif seçenekler sundu.",
+      "Kitabı okuyup bitirdikten sonra geri verdi.",
+      "İleriye dönük planlar yaptı.",
+      "Karşılıklı fikir alışverişinde bulundular.",
+      "Bana göre şahsi fikrim budur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Anlatım bozukluğu bulunmayan cümle."
+  },
+  {
+    "id": 100040,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "53 + 49 işleminin sonucu kaçtır?",
+    "answers": [
+      "100",
+      "102",
+      "104",
+      "106",
+      "108"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "53+49=102"
+  },
+  {
+    "id": 100041,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "54 + 50 işleminin sonucu kaçtır?",
+    "answers": [
+      "102",
+      "104",
+      "106",
+      "108",
+      "110"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "54+50=104"
+  },
+  {
+    "id": 100042,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "55 + 51 işleminin sonucu kaçtır?",
+    "answers": [
+      "104",
+      "106",
+      "108",
+      "110",
+      "112"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "55+51=106"
+  },
+  {
+    "id": 100043,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "56 + 52 işleminin sonucu kaçtır?",
+    "answers": [
+      "106",
+      "108",
+      "110",
+      "112",
+      "114"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "56+52=108"
+  },
+  {
+    "id": 100044,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "57 + 53 işleminin sonucu kaçtır?",
+    "answers": [
+      "108",
+      "110",
+      "112",
+      "114",
+      "116"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "57+53=110"
+  },
+  {
+    "id": 100045,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "58 + 54 işleminin sonucu kaçtır?",
+    "answers": [
+      "110",
+      "112",
+      "114",
+      "116",
+      "118"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "58+54=112"
+  },
+  {
+    "id": 100046,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "59 + 55 işleminin sonucu kaçtır?",
+    "answers": [
+      "112",
+      "114",
+      "116",
+      "118",
+      "120"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "59+55=114"
+  },
+  {
+    "id": 100047,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "60 + 56 işleminin sonucu kaçtır?",
+    "answers": [
+      "114",
+      "116",
+      "118",
+      "120",
+      "122"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "60+56=116"
+  },
+  {
+    "id": 100048,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "61 + 57 işleminin sonucu kaçtır?",
+    "answers": [
+      "116",
+      "118",
+      "120",
+      "122",
+      "124"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "61+57=118"
+  },
+  {
+    "id": 100049,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "62 + 58 işleminin sonucu kaçtır?",
+    "answers": [
+      "118",
+      "120",
+      "122",
+      "124",
+      "126"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "62+58=120"
+  },
+  {
+    "id": 100050,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "63 + 59 işleminin sonucu kaçtır?",
+    "answers": [
+      "120",
+      "122",
+      "124",
+      "126",
+      "128"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "63+59=122"
+  },
+  {
+    "id": 100051,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "64 + 60 işleminin sonucu kaçtır?",
+    "answers": [
+      "122",
+      "124",
+      "126",
+      "128",
+      "130"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "64+60=124"
+  },
+  {
+    "id": 100052,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "65 + 61 işleminin sonucu kaçtır?",
+    "answers": [
+      "124",
+      "126",
+      "128",
+      "130",
+      "132"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "65+61=126"
+  },
+  {
+    "id": 100053,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "66 + 62 işleminin sonucu kaçtır?",
+    "answers": [
+      "126",
+      "128",
+      "130",
+      "132",
+      "134"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "66+62=128"
+  },
+  {
+    "id": 100054,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "67 + 63 işleminin sonucu kaçtır?",
+    "answers": [
+      "128",
+      "130",
+      "132",
+      "134",
+      "136"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "67+63=130"
+  },
+  {
+    "id": 100055,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "68 + 64 işleminin sonucu kaçtır?",
+    "answers": [
+      "130",
+      "132",
+      "134",
+      "136",
+      "138"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "68+64=132"
+  },
+  {
+    "id": 100056,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "69 + 65 işleminin sonucu kaçtır?",
+    "answers": [
+      "132",
+      "134",
+      "136",
+      "138",
+      "140"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "69+65=134"
+  },
+  {
+    "id": 100057,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "70 + 66 işleminin sonucu kaçtır?",
+    "answers": [
+      "134",
+      "136",
+      "138",
+      "140",
+      "142"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "70+66=136"
+  },
+  {
+    "id": 100058,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "71 + 67 işleminin sonucu kaçtır?",
+    "answers": [
+      "136",
+      "138",
+      "140",
+      "142",
+      "144"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "71+67=138"
+  },
+  {
+    "id": 100059,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "72 + 68 işleminin sonucu kaçtır?",
+    "answers": [
+      "138",
+      "140",
+      "142",
+      "144",
+      "146"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "72+68=140"
+  },
+  {
+    "id": 100060,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "73 + 69 işleminin sonucu kaçtır?",
+    "answers": [
+      "140",
+      "142",
+      "144",
+      "146",
+      "148"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "73+69=142"
+  },
+  {
+    "id": 100061,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "74 + 70 işleminin sonucu kaçtır?",
+    "answers": [
+      "142",
+      "144",
+      "146",
+      "148",
+      "150"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "74+70=144"
+  },
+  {
+    "id": 100062,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "75 + 71 işleminin sonucu kaçtır?",
+    "answers": [
+      "144",
+      "146",
+      "148",
+      "150",
+      "152"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "75+71=146"
+  },
+  {
+    "id": 100063,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "76 + 72 işleminin sonucu kaçtır?",
+    "answers": [
+      "146",
+      "148",
+      "150",
+      "152",
+      "154"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "76+72=148"
+  },
+  {
+    "id": 100064,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "77 + 73 işleminin sonucu kaçtır?",
+    "answers": [
+      "148",
+      "150",
+      "152",
+      "154",
+      "156"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "77+73=150"
+  },
+  {
+    "id": 100065,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "78 + 74 işleminin sonucu kaçtır?",
+    "answers": [
+      "150",
+      "152",
+      "154",
+      "156",
+      "158"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "78+74=152"
+  },
+  {
+    "id": 100066,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "79 + 75 işleminin sonucu kaçtır?",
+    "answers": [
+      "152",
+      "154",
+      "156",
+      "158",
+      "160"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "79+75=154"
+  },
+  {
+    "id": 100067,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "80 + 76 işleminin sonucu kaçtır?",
+    "answers": [
+      "154",
+      "156",
+      "158",
+      "160",
+      "162"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "80+76=156"
+  },
+  {
+    "id": 100068,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "81 + 77 işleminin sonucu kaçtır?",
+    "answers": [
+      "156",
+      "158",
+      "160",
+      "162",
+      "164"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "81+77=158"
+  },
+  {
+    "id": 100069,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "82 + 78 işleminin sonucu kaçtır?",
+    "answers": [
+      "158",
+      "160",
+      "162",
+      "164",
+      "166"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "82+78=160"
+  },
+  {
+    "id": 100070,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "83 + 79 işleminin sonucu kaçtır?",
+    "answers": [
+      "160",
+      "162",
+      "164",
+      "166",
+      "168"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "83+79=162"
+  },
+  {
+    "id": 100071,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "84 + 80 işleminin sonucu kaçtır?",
+    "answers": [
+      "162",
+      "164",
+      "166",
+      "168",
+      "170"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "84+80=164"
+  },
+  {
+    "id": 100072,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "85 + 81 işleminin sonucu kaçtır?",
+    "answers": [
+      "164",
+      "166",
+      "168",
+      "170",
+      "172"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "85+81=166"
+  },
+  {
+    "id": 100073,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "86 + 82 işleminin sonucu kaçtır?",
+    "answers": [
+      "166",
+      "168",
+      "170",
+      "172",
+      "174"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "86+82=168"
+  },
+  {
+    "id": 100074,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "87 + 83 işleminin sonucu kaçtır?",
+    "answers": [
+      "168",
+      "170",
+      "172",
+      "174",
+      "176"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "87+83=170"
+  },
+  {
+    "id": 100075,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "88 + 84 işleminin sonucu kaçtır?",
+    "answers": [
+      "170",
+      "172",
+      "174",
+      "176",
+      "178"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "88+84=172"
+  },
+  {
+    "id": 100076,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "89 + 85 işleminin sonucu kaçtır?",
+    "answers": [
+      "172",
+      "174",
+      "176",
+      "178",
+      "180"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "89+85=174"
+  },
+  {
+    "id": 100077,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "90 + 86 işleminin sonucu kaçtır?",
+    "answers": [
+      "174",
+      "176",
+      "178",
+      "180",
+      "182"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "90+86=176"
+  },
+  {
+    "id": 100078,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "91 + 87 işleminin sonucu kaçtır?",
+    "answers": [
+      "176",
+      "178",
+      "180",
+      "182",
+      "184"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "91+87=178"
+  },
+  {
+    "id": 100079,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "92 + 88 işleminin sonucu kaçtır?",
+    "answers": [
+      "178",
+      "180",
+      "182",
+      "184",
+      "186"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "92+88=180"
+  },
+  {
+    "id": 100080,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "93 + 89 işleminin sonucu kaçtır?",
+    "answers": [
+      "180",
+      "182",
+      "184",
+      "186",
+      "188"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "93+89=182"
+  },
+  {
+    "id": 100081,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "94 + 90 işleminin sonucu kaçtır?",
+    "answers": [
+      "182",
+      "184",
+      "186",
+      "188",
+      "190"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "94+90=184"
+  },
+  {
+    "id": 100082,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "95 + 91 işleminin sonucu kaçtır?",
+    "answers": [
+      "184",
+      "186",
+      "188",
+      "190",
+      "192"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "95+91=186"
+  },
+  {
+    "id": 100083,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "96 + 92 işleminin sonucu kaçtır?",
+    "answers": [
+      "186",
+      "188",
+      "190",
+      "192",
+      "194"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "96+92=188"
+  },
+  {
+    "id": 100084,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "97 + 93 işleminin sonucu kaçtır?",
+    "answers": [
+      "188",
+      "190",
+      "192",
+      "194",
+      "196"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "97+93=190"
+  },
+  {
+    "id": 100085,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "98 + 94 işleminin sonucu kaçtır?",
+    "answers": [
+      "190",
+      "192",
+      "194",
+      "196",
+      "198"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "98+94=192"
+  },
+  {
+    "id": 100086,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "99 + 95 işleminin sonucu kaçtır?",
+    "answers": [
+      "192",
+      "194",
+      "196",
+      "198",
+      "200"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "99+95=194"
+  },
+  {
+    "id": 100087,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "100 + 96 işleminin sonucu kaçtır?",
+    "answers": [
+      "194",
+      "196",
+      "198",
+      "200",
+      "202"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "100+96=196"
+  },
+  {
+    "id": 100088,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "101 + 97 işleminin sonucu kaçtır?",
+    "answers": [
+      "196",
+      "198",
+      "200",
+      "202",
+      "204"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "101+97=198"
+  },
+  {
+    "id": 100089,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "102 + 98 işleminin sonucu kaçtır?",
+    "answers": [
+      "198",
+      "200",
+      "202",
+      "204",
+      "206"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "102+98=200"
+  },
+  {
+    "id": 100090,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "103 + 99 işleminin sonucu kaçtır?",
+    "answers": [
+      "200",
+      "202",
+      "204",
+      "206",
+      "208"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "103+99=202"
+  },
+  {
+    "id": 100091,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "104 + 100 işleminin sonucu kaçtır?",
+    "answers": [
+      "202",
+      "204",
+      "206",
+      "208",
+      "210"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "104+100=204"
+  },
+  {
+    "id": 100092,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "105 + 101 işleminin sonucu kaçtır?",
+    "answers": [
+      "204",
+      "206",
+      "208",
+      "210",
+      "212"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "105+101=206"
+  },
+  {
+    "id": 100093,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "106 + 102 işleminin sonucu kaçtır?",
+    "answers": [
+      "206",
+      "208",
+      "210",
+      "212",
+      "214"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "106+102=208"
+  },
+  {
+    "id": 100094,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "107 + 103 işleminin sonucu kaçtır?",
+    "answers": [
+      "208",
+      "210",
+      "212",
+      "214",
+      "216"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "107+103=210"
+  },
+  {
+    "id": 100095,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 2,
+    "questionText": "108 + 104 işleminin sonucu kaçtır?",
+    "answers": [
+      "210",
+      "212",
+      "214",
+      "216",
+      "218"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "108+104=212"
+  },
+  {
+    "id": 100096,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 3,
+    "questionText": "109 + 105 işleminin sonucu kaçtır?",
+    "answers": [
+      "212",
+      "214",
+      "216",
+      "218",
+      "220"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "109+105=214"
+  },
+  {
+    "id": 100097,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 4,
+    "questionText": "110 + 106 işleminin sonucu kaçtır?",
+    "answers": [
+      "214",
+      "216",
+      "218",
+      "220",
+      "222"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "110+106=216"
+  },
+  {
+    "id": 100098,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 5,
+    "questionText": "111 + 107 işleminin sonucu kaçtır?",
+    "answers": [
+      "216",
+      "218",
+      "220",
+      "222",
+      "224"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "111+107=218"
+  },
+  {
+    "id": 100099,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_yetenek",
+    "subject": "matematik",
+    "topic": "Matematik",
+    "difficulty": 1,
+    "questionText": "112 + 108 işleminin sonucu kaçtır?",
+    "answers": [
+      "218",
+      "220",
+      "222",
+      "224",
+      "226"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "112+108=220"
+  },
+  {
+    "id": 100101,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 3,
+    "questionText": "GK Soru 2: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100102,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 4,
+    "questionText": "GK Soru 3: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100103,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 5,
+    "questionText": "GK Soru 4: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100105,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 2,
+    "questionText": "GK Soru 6: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100106,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 3,
+    "questionText": "GK Soru 7: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100107,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 4,
+    "questionText": "GK Soru 8: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100109,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 1,
+    "questionText": "GK Soru 10: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100110,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 2,
+    "questionText": "GK Soru 11: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100111,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "GK Soru 12: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100113,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 5,
+    "questionText": "GK Soru 14: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100114,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 1,
+    "questionText": "GK Soru 15: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100115,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "GK Soru 16: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100117,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 4,
+    "questionText": "GK Soru 18: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100118,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 5,
+    "questionText": "GK Soru 19: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100119,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 1,
+    "questionText": "GK Soru 20: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100121,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 3,
+    "questionText": "GK Soru 22: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100122,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 4,
+    "questionText": "GK Soru 23: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100123,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 5,
+    "questionText": "GK Soru 24: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100125,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 2,
+    "questionText": "GK Soru 26: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100126,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 3,
+    "questionText": "GK Soru 27: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100127,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 4,
+    "questionText": "GK Soru 28: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100129,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 1,
+    "questionText": "GK Soru 30: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100130,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 2,
+    "questionText": "GK Soru 31: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100131,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "GK Soru 32: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100133,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 5,
+    "questionText": "GK Soru 34: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100134,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 1,
+    "questionText": "GK Soru 35: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100135,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "GK Soru 36: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100137,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 4,
+    "questionText": "GK Soru 38: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100138,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 5,
+    "questionText": "GK Soru 39: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100139,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 1,
+    "questionText": "GK Soru 40: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100141,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 3,
+    "questionText": "GK Soru 42: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100142,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 4,
+    "questionText": "GK Soru 43: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100143,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 5,
+    "questionText": "GK Soru 44: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100145,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 2,
+    "questionText": "GK Soru 46: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100146,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 3,
+    "questionText": "GK Soru 47: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100147,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 4,
+    "questionText": "GK Soru 48: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100149,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 1,
+    "questionText": "GK Soru 50: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100150,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 2,
+    "questionText": "GK Soru 51: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100151,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "GK Soru 52: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100153,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 5,
+    "questionText": "GK Soru 54: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100154,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 1,
+    "questionText": "GK Soru 55: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100155,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "GK Soru 56: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100157,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 4,
+    "questionText": "GK Soru 58: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100158,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 5,
+    "questionText": "GK Soru 59: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100159,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 1,
+    "questionText": "GK Soru 60: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100161,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 3,
+    "questionText": "GK Soru 62: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100162,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 4,
+    "questionText": "GK Soru 63: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100163,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 5,
+    "questionText": "GK Soru 64: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100165,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 2,
+    "questionText": "GK Soru 66: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100166,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 3,
+    "questionText": "GK Soru 67: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100167,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 4,
+    "questionText": "GK Soru 68: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100169,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 1,
+    "questionText": "GK Soru 70: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100170,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 2,
+    "questionText": "GK Soru 71: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100171,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "GK Soru 72: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100173,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 5,
+    "questionText": "GK Soru 74: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100174,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 1,
+    "questionText": "GK Soru 75: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100175,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "GK Soru 76: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100177,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 4,
+    "questionText": "GK Soru 78: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100178,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 5,
+    "questionText": "GK Soru 79: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100179,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 1,
+    "questionText": "GK Soru 80: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100181,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 3,
+    "questionText": "GK Soru 82: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100182,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 4,
+    "questionText": "GK Soru 83: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100183,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 5,
+    "questionText": "GK Soru 84: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100185,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 2,
+    "questionText": "GK Soru 86: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100186,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 3,
+    "questionText": "GK Soru 87: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100187,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 4,
+    "questionText": "GK Soru 88: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100189,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 1,
+    "questionText": "GK Soru 90: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100190,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 2,
+    "questionText": "GK Soru 91: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100191,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 3,
+    "questionText": "GK Soru 92: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100193,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 5,
+    "questionText": "GK Soru 94: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100194,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 1,
+    "questionText": "GK Soru 95: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100195,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 2,
+    "questionText": "GK Soru 96: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100196,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "tarih",
+    "topic": "Tarih",
+    "difficulty": 3,
+    "questionText": "GK Soru 97: Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+    "answers": [
+      "İsmet İnönü",
+      "Mustafa Kemal Atatürk",
+      "Kazım Karabekir",
+      "Fevzi Çakmak",
+      "Celal Bayar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100197,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "cografya",
+    "topic": "Coğrafya",
+    "difficulty": 4,
+    "questionText": "GK Soru 98: Türkiye'nin en uzun nehri hangisidir?",
+    "answers": [
+      "Kızılırmak",
+      "Sakarya",
+      "Meriç",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100198,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "vatandaslik",
+    "topic": "Vatandaşlık",
+    "difficulty": 5,
+    "questionText": "GK Soru 99: Türkiye Büyük Millet Meclisi kaç üyeden oluşur?",
+    "answers": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  },
+  {
+    "id": 100199,
+    "examType": "kpss_ortaogretim",
+    "section": "genel_kultur",
+    "subject": "guncel_bilgiler",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 1,
+    "questionText": "GK Soru 100: Türkiye'nin para birimi hangisidir?",
+    "answers": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Sterlin",
+      "Frank"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Doğru cevap ilgili temel bilgiye dayanmaktadır."
+  }
+]

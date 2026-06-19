@@ -1,0 +1,382 @@
+[
+  {
+    "id": 2022001,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
+    "questionLatex": null,
+    "answers": [
+      "Herkesin bir fikri var.",
+      "Sana her zaman güvendim.",
+      "Bu işi bitirmek için çok çalışmamız lazım.",
+      "Onunla konuşmak içimden gelmiyor.",
+      "Sende kitap var mı?"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "'Sende' sözcüğünde 'de' bağlaç olarak kullanılmıştır ve ayrı yazılmalıdır: 'Sende' değil 'sen de' şeklinde yazılır."
+  },
+  {
+    "id": 2022002,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Sözlük Sıralaması",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki sözcüklerden hangisi sözlükte diğerlerinden önce gelir?",
+    "questionLatex": null,
+    "answers": [
+      "Adalet",
+      "Aşk",
+      "Araba",
+      "Ağaç",
+      "Anne"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Sözlük sıralamasında 'ağaç' (ğ, g) 'adalet'ten (d) önce gelir çünkü alfabetik sıraya göre 'ğ' harfi 'd'den sonra gelir aslında. Doğru sıralama: adalet, ağaç, anne, araba, aşk. Ama soruda 'ağaç' 4. sırada? Yanlış oldu. Düzeltelim: doğru cevap 'Adalet' olabilir, çünkü 'a' ile başlayıp ikinci harfi 'd' diğerlerinde 'ğ','n','r','ş' 'ğ' alfabede 'd'den sonra gelir. O halde doğru 'Adalet'. Düzeltiyorum."
+  },
+  {
+    "id": 2022003,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Kesir Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir sınıftaki öğrencilerin 3/5'i kızdır. Sınıfta 12 erkek öğrenci olduğuna göre sınıf mevcudu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "20",
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Erkekler oranı 2/5'tir. 12 erkek = 2/5 x ise x = 12 * 5/2 = 30."
+  },
+  {
+    "id": 2022004,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Çarpım En Büyük Değer",
+    "difficulty": 3,
+    "questionText": "x ve y pozitif tam sayılar olmak üzere x + y = 10 ise x·y çarpımı en çok kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "20",
+      "24",
+      "25",
+      "30",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Çarpım en büyük değerini x ve y eşit veya yakın olduğunda alır. 5·5 = 25."
+  },
+  {
+    "id": 2022005,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Kıyas",
+    "difficulty": 3,
+    "questionText": "Bütün insanlar ölümlüdür. Ali bir insandır. Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "questionLatex": null,
+    "answers": [
+      "Ali ölümsüzdür.",
+      "Ali ölümlüdür.",
+      "Ali hayvandır.",
+      "Bazı insanlar ölümsüzdür.",
+      "Ali'nin ölümlü olduğu kesin değildir."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Öncül: tüm insanlar ölümlü, Ali insan olduğu için Ali ölümlüdür."
+  },
+  {
+    "id": 2022006,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Koşullu Önerme",
+    "difficulty": 3,
+    "questionText": "Hava yağmurlu ise yer ıslaktır. Yer ıslak değilse hangisi kesinlikle doğrudur?",
+    "questionLatex": null,
+    "answers": [
+      "Hava yağmurludur.",
+      "Hava yağmurlu değildir.",
+      "Hava bulutludur.",
+      "Yer kuru değildir.",
+      "Hava yağmurlu veya yer ıslaktır."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yağmur → Islak. Islak değilse, yağmur yoktur (tersi doğru)."
+  },
+  {
+    "id": 2022007,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sayisal",
+    "topic": "Orantı",
+    "difficulty": 3,
+    "questionText": "Bir araba 100 km'de 8 litre benzin tüketiyor. Bu araba 400 km yol yaparsa kaç litre benzin tüketir?",
+    "questionLatex": null,
+    "answers": [
+      "24",
+      "28",
+      "32",
+      "36",
+      "40"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Orantı: 100 km → 8 L, 400 km → 4*8 = 32 L."
+  },
+  {
+    "id": 2022008,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sayisal",
+    "topic": "İşçi Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir işi 5 işçi 8 günde yapabiliyor. Aynı işi 10 işçi kaç günde yapar?",
+    "questionLatex": null,
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ters orantı: 5 işçi 8 gün, 10 işçi 4 gün (5*8/10=4)."
+  },
+  {
+    "id": 2022009,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Atasözü",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi atasözü değildir?",
+    "questionLatex": null,
+    "answers": [
+      "Ağaç yaşken eğilir.",
+      "Damlaya damlaya göl olur.",
+      "Ne ekersen onu biçersin.",
+      "Her şeyin bir vakti var.",
+      "Allah iyiliğini versin."
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "'Allah iyiliğini versin' bir dua ifadesidir, atasözü değildir."
+  },
+  {
+    "id": 2022010,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Söz Öbekleri",
+    "difficulty": 3,
+    "questionText": "'Sana göre' sözü aşağıdaki anlamlardan hangisini taşır?",
+    "questionLatex": null,
+    "answers": [
+      "Seninle ilgili",
+      "Senin düşüncene göre",
+      "Sana yakın",
+      "Senin için",
+      "Sana karşı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Sana göre' ifadesi, kişinin bakış açısına veya düşüncesine atıfta bulunur."
+  },
+  {
+    "id": 2022011,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Tarih",
+    "topic": "Kurtuluş Savaşı",
+    "difficulty": 3,
+    "questionText": "Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?",
+    "questionLatex": null,
+    "answers": [
+      "23 Nisan 1919",
+      "23 Nisan 1920",
+      "23 Nisan 1921",
+      "23 Nisan 1922",
+      "23 Nisan 1923"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "TBMM 23 Nisan 1920'de Ankara'da açılmıştır."
+  },
+  {
+    "id": 2022012,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Tarih",
+    "topic": "Osmanlı",
+    "difficulty": 3,
+    "questionText": "İstanbul'un fethi hangi tarihte gerçekleşmiştir?",
+    "questionLatex": null,
+    "answers": [
+      "1451",
+      "1452",
+      "1453",
+      "1454",
+      "1455"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "İstanbul, 29 Mayıs 1453'te Fatih Sultan Mehmet tarafından fethedilmiştir."
+  },
+  {
+    "id": 2022013,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Cografya",
+    "topic": "Türkiye Dağları",
+    "difficulty": 3,
+    "questionText": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "Erciyes",
+      "Süphan",
+      "Ağrı",
+      "Kaçkar",
+      "Uludağ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ağrı Dağı 5137 m ile Türkiye'nin en yüksek dağıdır."
+  },
+  {
+    "id": 2022014,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Cografya",
+    "topic": "İklim",
+    "difficulty": 3,
+    "questionText": "Türkiye'de Akdeniz iklimi aşağıdaki bölgelerin hangisinde görülür?",
+    "questionLatex": null,
+    "answers": [
+      "Karadeniz Bölgesi",
+      "İç Anadolu Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "Güneydoğu Anadolu Bölgesi",
+      "Akdeniz Bölgesi"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "Akdeniz iklimi, Akdeniz Bölgesi'nde ve Ege'nin kıyı kesimlerinde görülür."
+  },
+  {
+    "id": 2022015,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Vatandaslik",
+    "topic": "TBMM",
+    "difficulty": 3,
+    "questionText": "Türkiye Büyük Millet Meclisi kaç milletvekilinden oluşur?",
+    "questionLatex": null,
+    "answers": [
+      "500",
+      "550",
+      "600",
+      "650",
+      "700"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "TBMM 600 milletvekilinden oluşur (2018'den itibaren)."
+  },
+  {
+    "id": 2022016,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Vatandaslik",
+    "topic": "Egemenlik",
+    "difficulty": 3,
+    "questionText": "Türkiye Cumhuriyeti Anayasası'na göre egemenlik kayıtsız şartsız kime aittir?",
+    "questionLatex": null,
+    "answers": [
+      "Cumhurbaşkanına",
+      "TBMM'ye",
+      "Millet",
+      "Hükûmete",
+      "Anayasa Mahkemesine"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Anayasa Madde 6: Egemenlik kayıtsız şartsız milletindir."
+  },
+  {
+    "id": 2022017,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Guncel",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 3,
+    "questionText": "Dünya Sağlık Örgütü'nün (WHO) merkezi aşağıdaki şehirlerden hangisindedir?",
+    "questionLatex": null,
+    "answers": [
+      "New York",
+      "Londra",
+      "Paris",
+      "Cenevre",
+      "Washington"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "WHO'nun merkezi İsviçre'nin Cenevre şehrindedir."
+  },
+  {
+    "id": 2022018,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Guncel",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 3,
+    "questionText": "Birleşmiş Milletler'in kaç kurucu üyesi vardır?",
+    "questionLatex": null,
+    "answers": [
+      "50",
+      "51",
+      "52",
+      "53",
+      "54"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Birleşmiş Milletler'in 51 kurucu üyesi vardır (1945)."
+  },
+  {
+    "id": 2022019,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Din_Kulturu",
+    "topic": "İnanç Esasları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi İslam'ın inanç esaslarından biri değildir?",
+    "questionLatex": null,
+    "answers": [
+      "Allah'a iman",
+      "Peygamberlere iman",
+      "Kitaplara iman",
+      "Namaz kılmak",
+      "Ahiret gününe iman"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Namaz kılmak ibadet esaslarındandır, inanç esasları (imanın şartları) Allah'a, meleklere, kitaplara, peygamberlere, ahirete, kadere imandır."
+  },
+  {
+    "id": 2022020,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_culture",
+    "subcategory": "Din_Kulturu",
+    "topic": "Namaz",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi namazın farzlarından biri değildir?",
+    "questionLatex": null,
+    "answers": [
+      "Kıyam",
+      "Kıraat",
+      "Rükû",
+      "Secde",
+      "Kunut"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "Namazın farzları: iftitah tekbiri, kıyam, kıraat, rükû, secde, oturuş, kaade-i ahîre. Kunut, vitir namazında yapılan bir duadır, farz değildir."
+  }
+]

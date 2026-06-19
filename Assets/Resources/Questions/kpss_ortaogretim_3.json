@@ -1,0 +1,3422 @@
+[
+  {
+    "id": 300000,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'açmak' sözcüğü 'bir gereksinimi karşılamak, gidermek' anlamında kullanılmıştır?",
+    "answers": [
+      "Bu kış günü üzerini iyi açmışsın.",
+      "Yeni açılan yol trafiği oldukça rahatlattı.",
+      "Sıcak bir çay içmek içimi açtı.",
+      "Bu para bizim bu ayki masrafımızı açar.",
+      "Dükkanı sabah erkenden açmak zorundayız."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300001,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde deyim açıklamasıyla birlikte verilmiştir?",
+    "answers": [
+      "Kulak kabartıp yan masada konuşulanları gizlice dinlemeye çalıştı.",
+      "Göz boyamak için her yolu deniyor, insanları kandırıyordu.",
+      "Etekleri tutuşmuş, ne yapacağını bilemez bir halde koşturuyordu.",
+      "İşin gerçeğini öğrenince burnu sürttü, hatasını nihayet anladı.",
+      "Yüreği ağzına gelmiş, korkudan ne diyeceğini şaşırmıştı."
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": 300002,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "I. Bir yazarın kalıcılığı yakalaması, eserlerinde her çağın insanına seslenebilmesine bağlıdır.\nII. Evrensel temaları işleyen yapıtlar, zamanın yıpratıcı etkisine karşı koyabilir.\nYukarıda verilen II numaralı cümleyle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+    "answers": [
+      "I. cümledeki yargının gerekçesini açıklamaktadır.",
+      "I. cümledeki düşünceyle çelişen bir durumdan bahsetmektedir.",
+      "I. cümledeki tanımı daha anlamsal hale getirmektedir.",
+      "I. cümlede ifade edilen düşünceyi farklı sözcüklerle desteklemektedir.",
+      "I. cümledeki durumun olumsuz sonuçlarını vurgulamaktadır."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300003,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300005,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300006,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300007,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300008,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300010,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300011,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300012,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300013,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300015,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300016,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300017,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300018,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300020,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300021,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300022,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300023,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300025,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300026,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300027,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300028,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300030,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300031,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300032,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300033,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300035,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300036,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300037,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300038,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300040,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300041,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300042,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300043,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300045,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Cümle Bilgisi / Dil Bilgisi",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde yüklem ek-fiil almış bir isimdir?",
+    "answers": [
+      "Dün akşam saatlerce durakta otobüs bekledik.",
+      "Buraların havası kış aylarında oldukça soğuktur.",
+      "Aradığı kitabı kütüphanede bulamamış.",
+      "Yarınki toplantı için hazırlıklar tamamlanıyor.",
+      "Soruları dikkatli okursan hata yapmazsın."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300046,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yazım Kuralları",
+    "difficulty": 1,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "answers": [
+      "Herkes kendi işiyle ilgilenirse sorun kalmaz.",
+      "TBMM'nin yeni yasama yılı dün resmen başladı.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+      "Sınav başvuruları 15 mayıs tarihine kadar sürecek.",
+      "Yanı başımdaki arkadaşım aniden ayağa kalktı."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300047,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Noktalama İşaretleri",
+    "difficulty": 3,
+    "questionText": "Pazardan aldıklarını masaya sıraladı ( ) elma ( ) armut ( ) portakal ( ) Bu cümlede boş bırakılan parantezlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+    "answers": [
+      "(:) (,) (,) (...) ",
+      "(;) (,) (,) (.)",
+      "(:) (,) (,) (.)",
+      "(.) (,) (,) (...) ",
+      "(;) (,) (,) (...)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300048,
+    "examType": "kpss_ortaogretim",
+    "subject": "turkish",
+    "subcategory": "Genel Yetenek",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "answers": [
+      "Kardeşimle birlikte sinemaya gittik.",
+      "Aşağı yukarı tam üç yıldır bu şehirde yaşıyorum.",
+      "Eski günleri özlemle anıyorum.",
+      "Yeni aldığı arabayı çok beğenmiş.",
+      "Sınavda başarılı olmak için çok çalıştı."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300050,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": 1,
+    "questionText": "((1/3) + (1/2)) / ((1/2) - (1/4)) işleminin sonucu kaçtır?",
+    "answers": [
+      "2",
+      "3",
+      "10/3",
+      "4",
+      "5/2"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300051,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Üslü Sayılar",
+    "difficulty": 1,
+    "questionText": "(2^4 * 4^2) / 8^2 işleminin sonucu kaçtır?",
+    "answers": [
+      "1",
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300052,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Köklü Sayılar",
+    "difficulty": 3,
+    "questionText": "sqrt(48) + sqrt(75) - sqrt(27) işleminin sonucu kaçtır?",
+    "answers": [
+      "4*sqrt(3)",
+      "5*sqrt(3)",
+      "6*sqrt(3)",
+      "7*sqrt(3)",
+      "8*sqrt(3)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300053,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Denklemler",
+    "difficulty": 1,
+    "questionText": "3x - 5 = 2x + 7 olduğuna göre x kaçtır?",
+    "answers": [
+      "8",
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300054,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Problemler",
+    "difficulty": 3,
+    "questionText": "Bir sınıftaki erkeklerin sayısı kızların sayısının 2 katıdır. Sınıftan 3 evli çift (3 kız, 3 erkek) ayrıldığında erkeklerin sayısı kızların sayısının 3 katı olmaktadır. Başlangıçta sınıfta toplam kaç öğrenci vardır?",
+    "answers": [
+      "12",
+      "15",
+      "18",
+      "21",
+      "24"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300055,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 13 fazlası, aynı sayının 5 katının 3 eksiğine eşittir?",
+    "answers": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300056,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 32 ve oğlunun yaşı 13'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300057,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 19 fazlası, aynı sayının 5 katının 9 eksiğine eşittir?",
+    "answers": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300058,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 44 ve oğlunun yaşı 19'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300059,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 5 fazlası, aynı sayının 5 katının -5 eksiğine eşittir?",
+    "answers": [
+      "-2",
+      "-1",
+      "0",
+      "1",
+      "2"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300060,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 16 ve oğlunun yaşı 5'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300061,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 11 fazlası, aynı sayının 5 katının 1 eksiğine eşittir?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300062,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 28 ve oğlunun yaşı 11'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300063,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 17 fazlası, aynı sayının 5 katının 7 eksiğine eşittir?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300064,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 40 ve oğlunun yaşı 17'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300065,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 23 fazlası, aynı sayının 5 katının 13 eksiğine eşittir?",
+    "answers": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300066,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 12 ve oğlunun yaşı 3'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300067,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 9 fazlası, aynı sayının 5 katının -1 eksiğine eşittir?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300068,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 24 ve oğlunun yaşı 9'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300069,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 15 fazlası, aynı sayının 5 katının 5 eksiğine eşittir?",
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300070,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 36 ve oğlunun yaşı 15'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300071,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 21 fazlası, aynı sayının 5 katının 11 eksiğine eşittir?",
+    "answers": [
+      "14",
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300072,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 48 ve oğlunun yaşı 21'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300073,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 7 fazlası, aynı sayının 5 katının -3 eksiğine eşittir?",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300074,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 20 ve oğlunun yaşı 7'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300075,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 13 fazlası, aynı sayının 5 katının 3 eksiğine eşittir?",
+    "answers": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300076,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 32 ve oğlunun yaşı 13'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300077,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 19 fazlası, aynı sayının 5 katının 9 eksiğine eşittir?",
+    "answers": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300078,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 44 ve oğlunun yaşı 19'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300079,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 5 fazlası, aynı sayının 5 katının -5 eksiğine eşittir?",
+    "answers": [
+      "-2",
+      "-1",
+      "0",
+      "1",
+      "2"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300080,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 16 ve oğlunun yaşı 5'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300081,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 11 fazlası, aynı sayının 5 katının 1 eksiğine eşittir?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300082,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 28 ve oğlunun yaşı 11'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300083,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 17 fazlası, aynı sayının 5 katının 7 eksiğine eşittir?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300084,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 40 ve oğlunun yaşı 17'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300085,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 23 fazlası, aynı sayının 5 katının 13 eksiğine eşittir?",
+    "answers": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300086,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 12 ve oğlunun yaşı 3'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300087,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 9 fazlası, aynı sayının 5 katının -1 eksiğine eşittir?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300088,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 24 ve oğlunun yaşı 9'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300089,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 15 fazlası, aynı sayının 5 katının 5 eksiğine eşittir?",
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300090,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir babanın yaşı 36 ve oğlunun yaşı 15'tür. Kaç yıl sonra babanın yaşı oğlunun yaşının 2 katı olur?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300091,
+    "examType": "kpss_ortaogretim",
+    "subject": "mathematics",
+    "subcategory": "Genel Yetenek",
+    "topic": "Sayı Problemleri",
+    "difficulty": 3,
+    "questionText": "Hangi sayının 3 katının 21 fazlası, aynı sayının 5 katının 11 eksiğine eşittir?",
+    "answers": [
+      "14",
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300092,
+    "examType": "kpss_ortaogretim",
+    "subject": "geometri",
+    "subcategory": "Genel Yetenek",
+    "topic": "Üçgende Açılar",
+    "difficulty": 1,
+    "questionText": "Bir ikizkenar üçgenin tepe açısının ölçüsü 40 derece olduğuna göre, taban açılarından birinin ölçüsü kaç derecedir?",
+    "answers": [
+      "50",
+      "60",
+      "70",
+      "75",
+      "80"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300093,
+    "examType": "kpss_ortaogretim",
+    "subject": "geometri",
+    "subcategory": "Genel Yetenek",
+    "topic": "Dikdörtgen ve Alan",
+    "difficulty": 1,
+    "questionText": "Kenar uzunlukları 6 cm ve 8 cm olan bir dikdörtgenin köşegen uzunluğu kaç cm'dir?",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300094,
+    "examType": "kpss_ortaogretim",
+    "subject": "geometri",
+    "subcategory": "Genel Yetenek",
+    "topic": "Çember ve Daire",
+    "difficulty": 1,
+    "questionText": "Yarıçapı 5 cm olan bir çemberin çevresi kaç cm'dir? (Pi sayısı = 3 alınız)",
+    "answers": [
+      "15",
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300095,
+    "examType": "kpss_ortaogretim",
+    "subject": "geometri",
+    "subcategory": "Genel Yetenek",
+    "topic": "Çokgenler ve Alan",
+    "difficulty": 1,
+    "questionText": "Taban uzunluğu 22 cm ve o tabana ait yüksekliği 10 cm olan bir üçgenin alanı kaç santimetrekaredir?",
+    "answers": [
+      "100",
+      "110",
+      "120",
+      "220",
+      "44"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300096,
+    "examType": "kpss_ortaogretim",
+    "subject": "geometri",
+    "subcategory": "Genel Yetenek",
+    "topic": "Çokgenler ve Alan",
+    "difficulty": 1,
+    "questionText": "Taban uzunluğu 24 cm ve o tabana ait yüksekliği 10 cm olan bir üçgenin alanı kaç santimetrekaredir?",
+    "answers": [
+      "110",
+      "120",
+      "130",
+      "240",
+      "48"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300097,
+    "examType": "kpss_ortaogretim",
+    "subject": "geometri",
+    "subcategory": "Genel Yetenek",
+    "topic": "Çokgenler ve Alan",
+    "difficulty": 1,
+    "questionText": "Taban uzunluğu 26 cm ve o tabana ait yüksekliği 10 cm olan bir üçgenin alanı kaç santimetrekaredir?",
+    "answers": [
+      "120",
+      "130",
+      "140",
+      "260",
+      "52"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300098,
+    "examType": "kpss_ortaogretim",
+    "subject": "geometri",
+    "subcategory": "Genel Yetenek",
+    "topic": "Çokgenler ve Alan",
+    "difficulty": 1,
+    "questionText": "Taban uzunluğu 28 cm ve o tabana ait yüksekliği 10 cm olan bir üçgenin alanı kaç santimetrekaredir?",
+    "answers": [
+      "130",
+      "140",
+      "150",
+      "280",
+      "56"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300099,
+    "examType": "kpss_ortaogretim",
+    "subject": "geometri",
+    "subcategory": "Genel Yetenek",
+    "topic": "Çokgenler ve Alan",
+    "difficulty": 1,
+    "questionText": "Taban uzunluğu 30 cm ve o tabana ait yüksekliği 10 cm olan bir üçgenin alanı kaç santimetrekaredir?",
+    "answers": [
+      "140",
+      "150",
+      "160",
+      "300",
+      "60"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300100,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "İslamiyet Öncesi Türk Tarihi",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde 'kurultay' adı verilen meclise katılan üyelerden biri değildir?",
+    "answers": [
+      "Hakan",
+      "Hatun",
+      "Boy Beyleri",
+      "Tigin",
+      "Subaşı"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": 300101,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "İlk Türk İslam Devletleri",
+    "difficulty": 1,
+    "questionText": "Mısır'da kurulan ilk Türk-İslam devleti aşağıdakilerden hangisidir?",
+    "answers": [
+      "Tolunoğulları",
+      "İhşidiler",
+      "Eyyubiler",
+      "Memlükler",
+      "Fatimiler"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300102,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Siyasi Tarihi",
+    "difficulty": 1,
+    "questionText": "Osmanlı Devleti'nde Rumeli'ye geçişin ilk basamağı olan ve Orhan Bey döneminde alınan kale aşağıdakilerden hangisidir?",
+    "answers": [
+      "Çimpe Kalesi",
+      "Gelibolu Kalesi",
+      "Yassıçemen Kalesi",
+      "Kilitbahir Kalesi",
+      "Seddülbahir Kalesi"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300103,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(104) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300104,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300105,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300106,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300107,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(108) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300108,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300109,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300110,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300111,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(112) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300112,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300113,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300114,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300115,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(116) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300116,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300117,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300118,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300119,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(120) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300120,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300121,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300122,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300123,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(124) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300124,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300125,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300126,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300127,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(128) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300128,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300129,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300130,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300131,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(132) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300132,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300133,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300134,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300135,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(136) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300136,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300137,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300138,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300139,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(140) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300140,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300141,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Atatürk İlke ve İnkılapları",
+    "difficulty": 3,
+    "questionText": "1924 Anayasası'nda yer alan 'Devletin dini İslam'dır' ibaresi hangi yılda yapılan değişiklikle anayasadan çıkarılmıştır?",
+    "answers": [
+      "1926",
+      "1928",
+      "1931",
+      "1934",
+      "1937"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300142,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Çağdaş Türk ve Dünya Tarihi",
+    "difficulty": 5,
+    "questionText": "İkinci Dünya Savaşı sonrasında SSCB öncülüğünde komünist ülkeler arasında siyasi iş birliğini ve ideolojik bağı güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+    "answers": [
+      "Kominform",
+      "Comecon",
+      "Varşova Paktı",
+      "NATO",
+      "Balkan Paktı"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300143,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "difficulty": 1,
+    "questionText": "(144) 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı ilk kez aşağıdaki belgelerin hangisinde yer almıştır?",
+    "answers": [
+      "Havza Genelgesi",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "Amasya Görüşmeleri"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300144,
+    "examType": "kpss_ortaogretim",
+    "subject": "history",
+    "subcategory": "Genel Kültür",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "difficulty": 3,
+    "questionText": "Osmanlı Devleti'nde sadrazam serdar-ı ekrem sıfatıyla sefere çıktığında merkezde padişah adına vekalet eden görevli kimdir?",
+    "answers": [
+      "Nişancı",
+      "Defterdar",
+      "Sadaret Kethüdası",
+      "Sadrazam Vekili (Sadaret Kaymakamı)",
+      "Reisülküttab"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300145,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Fiziki Coğrafyası",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki göllerden hangisi oluşum bakımından tektonik bir göl değildir?",
+    "answers": [
+      "Tuz Gölü",
+      "Sapanca Gölü",
+      "Beyşehir Gölü",
+      "Bafa (Çamiçi) Gölü",
+      "İznik Gölü"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": 300146,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Beşeri Coğrafyası",
+    "difficulty": 1,
+    "questionText": "Türkiye'de nüfusun dağılışında aşağıdakilerden hangisinin etkisi diğerlerine göre daha azdır?",
+    "answers": [
+      "Sanayileşme",
+      "İklim koşulları",
+      "Yer şekilleri",
+      "Su kaynakları",
+      "Boylam dereceleri"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": 300147,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(248) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300148,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300149,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300150,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(251) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300151,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300152,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300153,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(254) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300154,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300155,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300156,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(257) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300157,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300158,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300159,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(260) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300160,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300161,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300162,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(263) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300163,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300164,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300165,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(266) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300166,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300167,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300168,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(269) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300169,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300170,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300171,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(272) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300172,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin Madenleri ve Enerji Kaynakları",
+    "difficulty": 1,
+    "questionText": "Türkiye'de jeotermal enerjiden elektrik üreten ilk santral aşağıdaki illerimizin hangisinde kurulmuştur?",
+    "answers": [
+      "Denizli (Sarayköy)",
+      "Aydın (Germencik)",
+      "Manisa (Alaşehir)",
+      "İzmir (Balçova)",
+      "Çanakkale (Tuzla)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300173,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "difficulty": 1,
+    "questionText": "Üretim miktarı devlet kontrolünde olan, ekim alanları genellikle uyuşturucu yapımı ya da lif eldesi amacıyla sınırlandırılan tarım ürünü hangisidir?",
+    "answers": [
+      "Tütün",
+      "Haşhaş",
+      "Pirinç",
+      "Şeker Pancarı",
+      "Çay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300174,
+    "examType": "kpss_ortaogretim",
+    "subject": "geography",
+    "subcategory": "Genel Kültür",
+    "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+    "difficulty": 3,
+    "questionText": "(275) Türkiye'de Akdeniz iklim tipinin görüldüğü alanlarda karakteristik bitki örtüsü olan makilerin tahrip edilmesiyle ortaya çıkan bodur çalılık topluluğuna ne ad verilir?",
+    "answers": [
+      "Garig",
+      "Psödomaki",
+      "Antropojen Bozkır",
+      "Savana",
+      "Tundra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300175,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "Anayasa Hukukuna Giriş",
+    "difficulty": 1,
+    "questionText": "1982 Anayasası'na göre kanun teklif etmeye aşağıdakilerden hangisi yetkilidir?",
+    "answers": [
+      "Cumhurbaşkanı",
+      "Milletvekilleri",
+      "Bakanlar Kurulu",
+      "Anayasa Mahkemesi",
+      "TBMM Başkanı"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300176,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi merkezin taşra teşkilatı içinde yer alan en yüksek mülki idare amiridir?",
+    "answers": [
+      "Kaymakam",
+      "Vali",
+      "İlçe Müdürü",
+      "Belediye Başkanı",
+      "Muhtar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300177,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme iktidarına ne ad verilir?",
+    "answers": [
+      "Hak ehliyeti",
+      "Fiil ehliyeti",
+      "Hak sahipliği",
+      "Hukuki yükümlülük",
+      "Sorumlu ehliyeti"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300178,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi merkezin taşra teşkilatı içinde yer alan en yüksek mülki idare amiridir?",
+    "answers": [
+      "Kaymakam",
+      "Vali",
+      "İlçe Müdürü",
+      "Belediye Başkanı",
+      "Muhtar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300179,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme iktidarına ne ad verilir?",
+    "answers": [
+      "Hak ehliyeti",
+      "Fiil ehliyeti",
+      "Hak sahipliği",
+      "Hukuki yükümlülük",
+      "Sorumlu ehliyeti"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300180,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi merkezin taşra teşkilatı içinde yer alan en yüksek mülki idare amiridir?",
+    "answers": [
+      "Kaymakam",
+      "Vali",
+      "İlçe Müdürü",
+      "Belediye Başkanı",
+      "Muhtar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300181,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme iktidarına ne ad verilir?",
+    "answers": [
+      "Hak ehliyeti",
+      "Fiil ehliyeti",
+      "Hak sahipliği",
+      "Hukuki yükümlülük",
+      "Sorumlu ehliyeti"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300182,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi merkezin taşra teşkilatı içinde yer alan en yüksek mülki idare amiridir?",
+    "answers": [
+      "Kaymakam",
+      "Vali",
+      "İlçe Müdürü",
+      "Belediye Başkanı",
+      "Muhtar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300183,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme iktidarına ne ad verilir?",
+    "answers": [
+      "Hak ehliyeti",
+      "Fiil ehliyeti",
+      "Hak sahipliği",
+      "Hukuki yükümlülük",
+      "Sorumlu ehliyeti"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300184,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi merkezin taşra teşkilatı içinde yer alan en yüksek mülki idare amiridir?",
+    "answers": [
+      "Kaymakam",
+      "Vali",
+      "İlçe Müdürü",
+      "Belediye Başkanı",
+      "Muhtar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300185,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme iktidarına ne ad verilir?",
+    "answers": [
+      "Hak ehliyeti",
+      "Fiil ehliyeti",
+      "Hak sahipliği",
+      "Hukuki yükümlülük",
+      "Sorumlu ehliyeti"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300186,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi merkezin taşra teşkilatı içinde yer alan en yüksek mülki idare amiridir?",
+    "answers": [
+      "Kaymakam",
+      "Vali",
+      "İlçe Müdürü",
+      "Belediye Başkanı",
+      "Muhtar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300187,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme iktidarına ne ad verilir?",
+    "answers": [
+      "Hak ehliyeti",
+      "Fiil ehliyeti",
+      "Hak sahipliği",
+      "Hukuki yükümlülük",
+      "Sorumlu ehliyeti"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300188,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "İdare Hukuku",
+    "difficulty": 1,
+    "questionText": "Aşağıdakilerden hangisi merkezin taşra teşkilatı içinde yer alan en yüksek mülki idare amiridir?",
+    "answers": [
+      "Kaymakam",
+      "Vali",
+      "İlçe Müdürü",
+      "Belediye Başkanı",
+      "Muhtar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300189,
+    "examType": "kpss_ortaogretim",
+    "subject": "citizenship",
+    "subcategory": "Genel Kültür",
+    "topic": "Hukukun Temel Kavramları",
+    "difficulty": 3,
+    "questionText": "Kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme iktidarına ne ad verilir?",
+    "answers": [
+      "Hak ehliyeti",
+      "Fiil ehliyeti",
+      "Hak sahipliği",
+      "Hukuki yükümlülük",
+      "Sorumlu ehliyeti"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300190,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Güncel Bilgiler",
+    "difficulty": 1,
+    "questionText": "Nisan 2026 tarihi itibarıyla Birleşmiş Milletler (BM) Genel Sekreterliği görevini yürüten diplomat aşağıdakilerden hangisidir?",
+    "answers": [
+      "Ban Ki-moon",
+      "Kofi Annan",
+      "Antonio Guterres",
+      "Javier Perez",
+      "Boutros Ghali"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300191,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Coğrafi Keşifler ve Bilim Tarihi",
+    "difficulty": 3,
+    "questionText": "Kendi adıyla anılan evrim teorisi ve doğal seçilim mekanizması üzerine yaptığı çalışmalarla tanınan bilim insanı kimdir?",
+    "answers": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Albert Einstein",
+      "Isaac Newton"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300192,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Kültür ve Sanat",
+    "difficulty": 1,
+    "questionText": "İstiklal Marşı'mızın bestecisi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Mehmet Akif Ersoy",
+      "Osman Zeki Üngör",
+      "Cemal Reşit Rey",
+      "Adnan Saygun",
+      "Ulvi Cemal Erkin"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300193,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin 1952 yılında üye olduğu Kuzey Atlantik Antlaşması Örgütü'nün kısaltması aşağıdakilerden hangisidir?",
+    "answers": [
+      "UNESCO",
+      "NATO",
+      "WHO",
+      "UNICEF",
+      "IMF"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300194,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Coğrafi Keşifler ve Bilim Tarihi",
+    "difficulty": 3,
+    "questionText": "Kendi adıyla anılan evrim teorisi ve doğal seçilim mekanizması üzerine yaptığı çalışmalarla tanınan bilim insanı kimdir?",
+    "answers": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Albert Einstein",
+      "Isaac Newton"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300195,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Kültür ve Sanat",
+    "difficulty": 1,
+    "questionText": "İstiklal Marşı'mızın bestecisi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Mehmet Akif Ersoy",
+      "Osman Zeki Üngör",
+      "Cemal Reşit Rey",
+      "Adnan Saygun",
+      "Ulvi Cemal Erkin"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300196,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin 1952 yılında üye olduğu Kuzey Atlantik Antlaşması Örgütü'nün kısaltması aşağıdakilerden hangisidir?",
+    "answers": [
+      "UNESCO",
+      "NATO",
+      "WHO",
+      "UNICEF",
+      "IMF"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300197,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Coğrafi Keşifler ve Bilim Tarihi",
+    "difficulty": 3,
+    "questionText": "Kendi adıyla anılan evrim teorisi ve doğal seçilim mekanizması üzerine yaptığı çalışmalarla tanınan bilim insanı kimdir?",
+    "answers": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Albert Einstein",
+      "Isaac Newton"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": 300198,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Kültür ve Sanat",
+    "difficulty": 1,
+    "questionText": "İstiklal Marşı'mızın bestecisi aşağıdakilerden hangisidir?",
+    "answers": [
+      "Mehmet Akif Ersoy",
+      "Osman Zeki Üngör",
+      "Cemal Reşit Rey",
+      "Adnan Saygun",
+      "Ulvi Cemal Erkin"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": 300199,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_knowledge",
+    "subcategory": "Genel Kültür",
+    "topic": "Uluslararası Kuruluşlar",
+    "difficulty": 1,
+    "questionText": "Türkiye'nin 1952 yılında üye olduğu Kuzey Atlantik Antlaşması Örgütü'nün kısaltması aşağıdakilerden hangisidir?",
+    "answers": [
+      "UNESCO",
+      "NATO",
+      "WHO",
+      "UNICEF",
+      "IMF"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": ""
+  }
+]

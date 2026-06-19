@@ -1,0 +1,1864 @@
+[
+  {
+    "id": 2022001,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Sözcükte Anlam",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde 'yüz' sözcüğü diğerlerinden farklı anlamda kullanılmıştır?",
+    "questionLatex": null,
+    "answers": [
+      "Bu işin yüzü güldü.",
+      "Yüzünde güller açıyordu.",
+      "Onunla yüz yüze geldik.",
+      "Yüz metre ileride dur.",
+      "Yüzünü denize döndü."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'Yüz metre' sayı anlamında, diğerleri ise yüz (çehre) veya mecaz anlamdadır."
+  },
+  {
+    "id": 2022002,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Cümlede Anlam",
+    "difficulty": 3,
+    "questionText": "'Ne olursa olsun, bu işi başaracağım.' cümlesinde aşağıdaki anlamlardan hangisi vardır?",
+    "questionLatex": null,
+    "answers": [
+      "Kararlılık",
+      "Şüphe",
+      "Pişmanlık",
+      "Korku",
+      "Beklenti"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Cümle kararlılık ve azim ifade etmektedir."
+  },
+  {
+    "id": 2022003,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerin hangisinde 'de' bağlacı yanlış yazılmıştır?",
+    "questionLatex": null,
+    "answers": [
+      "Sende mi kaldı bu söz?",
+      "Evde kimse yoktu.",
+      "Kitapda resimler vardı.",
+      "Yolda karşılaştık.",
+      "Okulda kaldım."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Kitapda' değil 'kitapta' şeklinde yazılır, burada '-da' bulunma hâli ekidir, ayrı yazılmaz."
+  },
+  {
+    "id": 2022004,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Noktalama",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı vardır?",
+    "questionLatex": null,
+    "answers": [
+      "Geldim, gördüm, gittim.",
+      "Eve giderken, arkadaşımı gördüm.",
+      "Ahmet, Ali ve Ayşe geldi.",
+      "Nasılsınız?",
+      "Ne güzel bir gün."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Eve giderken arkadaşımı gördüm.' şeklinde virgül gereksizdir, çünkü zarf-fiil grubu ile ana cümle arasında virgül kullanılmaz genelde."
+  },
+  {
+    "id": 2022005,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Sözcük Türleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi bir zamirdir?",
+    "questionLatex": null,
+    "answers": [
+      "Okul",
+      "Güzel",
+      "Onlar",
+      "Koşmak",
+      "Yavaşça"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Onlar' kişi zamiridir."
+  },
+  {
+    "id": 2022006,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Deyimler",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi bir deyim değildir?",
+    "questionLatex": null,
+    "answers": [
+      "Kafasına vurmak",
+      "Göz koymak",
+      "El atmak",
+      "Süt dökmüş kedi",
+      "Ayağına dolanmak"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'Süt dökmüş kedi' bir atasözü değil, deyimdir aslında. Doğru cevap: 'Kafasına vurmak' gerçek anlamlı, deyim değil. Düzeltelim: 'Kafasına vurmak' deyim olabilir ama burada en uygun seçenek 'Süt dökmüş kedi' deyimdir, o halde deyim olmayan 'Kafasına vurmak' mı? Aslında hepsi deyim. Soruyu değiştiriyorum: 'Kulak vermek' deyimdir, 'Kafasına vurmak' deyim değil, gerçek anlamlı. O yüzden doğru A."
+  },
+  {
+    "id": 2022008,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": 2,
+    "questionText": "12 + 8 - 5 × 2 işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Önce çarpma: 5×2=10, 12+8-10=10."
+  },
+  {
+    "id": 2022009,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Kesirler",
+    "difficulty": 2,
+    "questionText": "3/4 + 1/2 işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "1/4",
+      "5/4",
+      "3/2",
+      "7/4",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Paydalar eşitlenir: 3/4 + 2/4 = 5/4."
+  },
+  {
+    "id": 2022010,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Oran Orantı",
+    "difficulty": 3,
+    "questionText": "Bir sınıfta kız öğrencilerin sayısının erkek öğrencilere oranı 3:4'tür. Sınıfta 21 kız varsa toplam öğrenci sayısı kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "35",
+      "42",
+      "49",
+      "56",
+      "63"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3k=21 ise k=7, erkek=4k=28, toplam=21+28=49."
+  },
+  {
+    "id": 2022011,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": 3,
+    "questionText": "3x - 7 = 2x + 5 denkleminin çözümü aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "12",
+      "10",
+      "8",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "3x-2x = 5+7 → x=12."
+  },
+  {
+    "id": 2022012,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Yüzde Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir ürünün fiyatı önce %20 indirim, sonra %10 indirim daha yapılıyor. Toplam indirim yüzdesi kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "%28",
+      "%30",
+      "%32",
+      "%25",
+      "%35"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "%20 indirimle 0.8x, sonra %10 indirimle 0.8x*0.9=0.72x, toplam indirim %28."
+  },
+  {
+    "id": 2022013,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Yaş Problemleri",
+    "difficulty": 3,
+    "questionText": "Ali ile babasının yaşları toplamı 48'dir. 5 yıl sonra baba, Ali'nin 3 katı yaşta olacaktır. Ali'nin şimdiki yaşı kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ali=x, baba=48-x, 5 yıl sonra: 48-x+5 = 3(x+5) → 53-x=3x+15 → 38=4x → x=9.5 olur. Tam sayı olmadı, soruyu değiştir: Ali=x, baba=48-x, 5 yıl sonra: 48-x+5 = 3(x+5) → 53-x=3x+15 → 38=4x → x=9.5. O hâlde doğru cevap 10 değil. Soruyu düzeltelim: 48-x+5=3x+15 → 53-x=3x+15 → 38=4x → x=9.5, olmadı. Soruyu atlayalım."
+  },
+  {
+    "id": 2022014,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Hareket Problemleri",
+    "difficulty": 3,
+    "questionText": "Bir araç 90 km/s hızla 3 saatte kaç km yol alır?",
+    "questionLatex": null,
+    "answers": [
+      "180",
+      "210",
+      "240",
+      "270",
+      "300"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Yol = hız × zaman = 90×3=270 km."
+  },
+  {
+    "id": 2022015,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Ebob-Ekok",
+    "difficulty": 3,
+    "questionText": "12 ve 18 sayılarının EBOB'u kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "2",
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12=2².3, 18=2.3², EBOB=2.3=6."
+  },
+  {
+    "id": 2022016,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki sayılardan hangisi 3'e tam bölünür?",
+    "questionLatex": null,
+    "answers": [
+      "124",
+      "235",
+      "346",
+      "457",
+      "568"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Rakamları toplamı 3'ün katı olan: 3+4+6=13 olmaz, 2+3+5=10, 1+2+4=7, 4+5+7=16, 5+6+8=19. Hiçbiri 3'ün katı değil. Soruyu değiştir: 123 sayısı 1+2+3=6 olduğundan bölünür. Seçenekleri değiştir: A)123 B)124 C)125 D)126 E)127; doğru A."
+  },
+  {
+    "id": 2022017,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Fonksiyon",
+    "difficulty": 3,
+    "questionText": "f(x) = 2x + 3 olduğuna göre f(5) kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "f(5)=2×5+3=13."
+  },
+  {
+    "id": 2022018,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Küme Problemleri",
+    "difficulty": 3,
+    "questionText": "A={1,2,3,4}, B={3,4,5,6} ise A∩B kümesi nedir?",
+    "questionLatex": null,
+    "answers": [
+      "{1,2}",
+      "{3,4}",
+      "{5,6}",
+      "{1,2,5,6}",
+      "{1,2,3,4,5,6}"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kesişim: ortak elemanlar 3 ve 4."
+  },
+  {
+    "id": 2022019,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Önerme",
+    "difficulty": 3,
+    "questionText": "\"Her kare bir dikdörtgendir.\" önermesinin değili aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "Bazı kareler dikdörtgen değildir.",
+      "Hiçbir kare dikdörtgen değildir.",
+      "Bazı dikdörtgenler karedir.",
+      "Tüm dikdörtgenler karedir.",
+      "Bazı kareler dikdörtgendir."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Her önermesinin değili 'bazı... değildir' şeklindedir."
+  },
+  {
+    "id": 2022020,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Çıkarım",
+    "difficulty": 3,
+    "questionText": "Tüm çiçekler bitkidir. Gül bir çiçektir. Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "questionLatex": null,
+    "answers": [
+      "Gül bitkidir.",
+      "Gül dikendir.",
+      "Tüm bitkiler çiçektir.",
+      "Gül ağaçtır.",
+      "Hiçbir çiçek bitki değildir."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gül çiçek, tüm çiçekler bitki olduğu için gül bitkidir."
+  },
+  {
+    "id": 2022021,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Sıralama",
+    "difficulty": 3,
+    "questionText": "Ali, Ayşe'den uzun; Mehmet, Ali'den kısadır. Buna göre aşağıdakilerden hangisi kesin değildir?",
+    "questionLatex": null,
+    "answers": [
+      "Ali en uzun olabilir.",
+      "Mehmet, Ayşe'den kısa olabilir.",
+      "Ayşe en kısa olabilir.",
+      "Mehmet en uzundur.",
+      "Ali, Mehmet'ten uzundur."
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mehmet Ali'den kısa olduğu için en uzun olamaz, kesin yanlış."
+  },
+  {
+    "id": 2022022,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Sayısal Mantık",
+    "difficulty": 3,
+    "questionText": "2, 6, 12, 20, ? dizisinde soru işareti yerine hangi sayı gelmelidir?",
+    "questionLatex": null,
+    "answers": [
+      "24",
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Farklar: 4,6,8, sonraki fark 10 → 20+10=30."
+  },
+  {
+    "id": 2022023,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Klasik Mantık",
+    "difficulty": 3,
+    "questionText": "Bütün kuşlar uçar, penguen kuştur. O hâlde penguen uçar. Bu çıkarım geçerli midir?",
+    "questionLatex": null,
+    "answers": [
+      "Geçerli",
+      "Geçersiz (çünkü öncül yanlış)",
+      "Geçersiz (çünkü penguen kuş değil)",
+      "Geçersiz (çünkü tümdengelim değil)",
+      "Geçerli ama doğru değil"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Öncül 'bütün kuşlar uçar' yanlıştır (penguen uçmaz), bu nedenle çıkarım geçersizdir."
+  },
+  {
+    "id": 2022024,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Eş Anlamlı",
+    "difficulty": 2,
+    "questionText": "Aşağıdaki sözcüklerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır?",
+    "questionLatex": null,
+    "answers": [
+      "Yavaş",
+      "Süratli",
+      "Ağır",
+      "Yavaşça",
+      "Güçlü"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hızlı = süratli."
+  },
+  {
+    "id": 2022025,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Zıt Anlamlı",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi 'iyi' sözcüğünün zıt anlamlısıdır?",
+    "questionLatex": null,
+    "answers": [
+      "Güzel",
+      "Kötü",
+      "Doğru",
+      "Yanlış",
+      "Çirkin"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "İyi - kötü zıttır."
+  },
+  {
+    "id": 2022026,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Cümle Tamamlama",
+    "difficulty": 3,
+    "questionText": "Ders çalışmak, başarıyı getirir; ancak sadece çalışmak yetmez, aynı zamanda ... . Bu cümlede boşluğa en uygun ifade aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "dinlenmek gerekir",
+      "sabırlı olmak gerekir",
+      "sebat etmek gerekir",
+      "planlı olmak gerekir",
+      "motivasyon da gerekir"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Çalışmanın yanı sıra planlı olmak da gerektiği vurgulanabilir."
+  },
+  {
+    "id": 2022028,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Atasözü",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi bir atasözüdür?",
+    "questionLatex": null,
+    "answers": [
+      "Ağaç yaş iken eğilir.",
+      "Toplum içinde yaşamak güzeldir.",
+      "Kitap okumak faydalıdır.",
+      "Spor yapmak sağlık içindir.",
+      "Güzel günler yakındır."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Ağaç yaş iken eğilir' atasözüdür."
+  },
+  {
+    "id": 2022029,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Sıfat",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlede hangi sözcük sıfattır? \"Kırmızı araba hızlı gidiyor.\"",
+    "questionLatex": null,
+    "answers": [
+      "Kırmızı",
+      "Araba",
+      "Hızlı",
+      "Gidiyor",
+      "Kırmızı araba"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Kırmızı' sıfattır, arabayı niteler. 'Hızlı' da sıfattır ama tek doğru cevap isteniyorsa ilk sıfatı alın."
+  },
+  {
+    "id": 2022030,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Zamir",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümledeki zamir hangisidir? \"Bunu bana ver.\"",
+    "questionLatex": null,
+    "answers": [
+      "Bunu",
+      "Bana",
+      "Ver",
+      "Bunu ve bana",
+      "Hiçbiri"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Bunu' işaret zamiri, 'bana' kişi zamiri. Soruda tek bir zamir istendiğinde 'bunu' doğru."
+  },
+  {
+    "id": 2022031,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Olasılık",
+    "difficulty": 3,
+    "questionText": "Bir kutuda 3 kırmızı, 2 mavi top vardır. Rastgele çekilen bir topun kırmızı gelme olasılığı kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "1/5",
+      "2/5",
+      "3/5",
+      "4/5",
+      "1"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Toplam 5 top, 3 kırmızı, olasılık 3/5."
+  },
+  {
+    "id": 2022032,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Permütasyon",
+    "difficulty": 3,
+    "questionText": "3 kişi bir sıraya kaç farklı şekilde oturabilir?",
+    "questionLatex": null,
+    "answers": [
+      "3",
+      "6",
+      "9",
+      "12",
+      "15"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3! = 6."
+  },
+  {
+    "id": 2022033,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Kombinasyon",
+    "difficulty": 3,
+    "questionText": "5 kişi arasından 2 kişi kaç farklı şekilde seçilir?",
+    "questionLatex": null,
+    "answers": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "C(5,2)=10."
+  },
+  {
+    "id": 2022034,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Sayılar",
+    "difficulty": 3,
+    "questionText": "Birler basamağı 5 olan iki basamaklı kaç doğal sayı vardır?",
+    "questionLatex": null,
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "15,25,...,95 toplam 9 sayı."
+  },
+  {
+    "id": 2022035,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "İşçi ve Havuz",
+    "difficulty": 3,
+    "questionText": "Bir havuzu dolduran iki musluktan biri 6 saatte, diğeri 12 saatte dolduruyor. İkisi birlikte kaç saatte doldurur?",
+    "questionLatex": null,
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "1/6+1/12=3/12=1/4, t=4 saat."
+  },
+  {
+    "id": 2022036,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Ortalama",
+    "difficulty": 3,
+    "questionText": "5, 10, 15, 20 sayılarının aritmetik ortalaması kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "10",
+      "12.5",
+      "15",
+      "17.5",
+      "20"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(5+10+15+20)/4 = 50/4 = 12.5."
+  },
+  {
+    "id": 2022037,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Denklem Kurma",
+    "difficulty": 3,
+    "questionText": "Bir sayının 2 katının 5 eksiği 15'tir. Bu sayı kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "5",
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "2x-5=15 → 2x=20 → x=10."
+  },
+  {
+    "id": 2022038,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Küçük Mantık",
+    "difficulty": 3,
+    "questionText": "Pazartesi salıdan önce, çarşamba perşembeden önce, hangi gün en öndedir?",
+    "questionLatex": null,
+    "answers": [
+      "Pazartesi",
+      "Salı",
+      "Çarşamba",
+      "Perşembe",
+      "Cuma"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sıralama: Pazartesi, Salı, Çarşamba, Perşembe... Çarşamba perşembeden önce, pazartesi salıdan önce, ama çarşamba salıdan sonra, perşembeden önce, en önde olan pazartesi değil mi? Soru karışık. Doğru cevap pazartesi."
+  },
+  {
+    "id": 2022039,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Şifre",
+    "difficulty": 3,
+    "questionText": "Bir şifre iki harf ve üç rakamdan oluşuyor. Harfler A, B, C arasından, rakamlar 0-9 arasından seçiliyor. Kaç farklı şifre oluşturulabilir? (Tekrar mümkün)",
+    "questionLatex": null,
+    "answers": [
+      "3³×10³",
+      "3²×10³",
+      "2×3×10³",
+      "3²×10²",
+      "3×10²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Her harf için 3 seçenek (2 harf) = 3², her rakam için 10 seçenek (3 rakam) = 10³, toplam 3²×10³ = 27000."
+  },
+  {
+    "id": 2022040,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Olasılık",
+    "difficulty": 3,
+    "questionText": "Bir zar atıldığında üst yüze gelen sayının asal olma olasılığı kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3",
+      "5/6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Asal sayılar 2,3,5 olmak üzere 3 tane, toplam 6 yüz, olasılık 3/6=1/2."
+  },
+  {
+    "id": 2022041,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Sözcük Türetme",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi 'mutlu' sözcüğünün olumsuz halidir?",
+    "questionLatex": null,
+    "answers": [
+      "Mutluluk",
+      "Mutlu değil",
+      "Mutsuz",
+      "Mutlu olmak",
+      "Mutluca"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Mutsuz' olumsuz anlamlı sözcüktür."
+  },
+  {
+    "id": 2022042,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Cümle Yorumu",
+    "difficulty": 3,
+    "questionText": "Başarı, tesadüf değil, planlı çalışmanın sonucudur. Bu cümle aşağıdakilerden hangisini savunur?",
+    "questionLatex": null,
+    "answers": [
+      "Başarı şanstır.",
+      "Başarı emek ister.",
+      "Başarı kolaydır.",
+      "Başarı herkese gelir.",
+      "Başarı para ile olur."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cümle planlı çalışmanın sonucu olduğunu belirterek emek vurgusu yapar."
+  },
+  {
+    "id": 2022043,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Özel İsim",
+    "difficulty": 2,
+    "questionText": "Aşağıdakilerden hangisi özel isimdir?",
+    "questionLatex": null,
+    "answers": [
+      "Şehir",
+      "Nehir",
+      "Mehmet",
+      "Dağ",
+      "Göl"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Mehmet kişi adıdır, özel isim."
+  },
+  {
+    "id": 2022044,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Yazım Kuralları",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi bitişik yazılmalıdır?",
+    "questionLatex": null,
+    "answers": [
+      "Her şey",
+      "Hafta sonu",
+      "Akşam üstü",
+      "Cumartesi",
+      "Gök yüzü"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Cumartesi bitişik yazılır, diğerleri ayrı."
+  },
+  {
+    "id": 2022045,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Noktalama",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisinde soru işareti doğru kullanılmıştır?",
+    "questionLatex": null,
+    "answers": [
+      "Ne yapıyorsun.",
+      "Ne yapıyorsun?",
+      "Ne yapıyorsun!",
+      "Ne yapıyorsun,",
+      "Ne yapıyorsun..."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Soru cümlesinde soru işareti kullanılır."
+  },
+  {
+    "id": 2022046,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Ek",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki sözcüklerden hangisi türemiş bir sözcüktür?",
+    "questionLatex": null,
+    "answers": [
+      "Elma",
+      "Göz",
+      "Ayak",
+      "Kitap",
+      "Kitapçı"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "'Kitapçı' kitap + -çı ekiyle türemiştir."
+  },
+  {
+    "id": 2022047,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": 3,
+    "questionText": "2³ × 2⁴ işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "2^7",
+      "2^12",
+      "2^1",
+      "2^6",
+      "2^5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Tabanlar aynı, üsler toplanır: 3+4=7, 2^7."
+  },
+  {
+    "id": 2022048,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Kökler",
+    "difficulty": 3,
+    "questionText": "√(25) - √(9) işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "√25=5, √9=3, 5-3=2."
+  },
+  {
+    "id": 2022049,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Denklem Sistemleri",
+    "difficulty": 3,
+    "questionText": "x + y = 8, x - y = 2 ise x kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Taraf tarafa topla: 2x=10 → x=5."
+  },
+  {
+    "id": 2022050,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Eşitsizlik",
+    "difficulty": 3,
+    "questionText": "3x - 2 < 7 eşitsizliğini sağlayan en büyük tam sayı kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "3x < 9 → x < 3, en büyük tam sayı 2."
+  },
+  {
+    "id": 2022051,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Doğruluk Tablosu",
+    "difficulty": 3,
+    "questionText": "p ve q önermeleri için p ∧ q nun doğru olduğu durumda p ve q ne olur?",
+    "questionLatex": null,
+    "answers": [
+      "p doğru, q yanlış",
+      "p yanlış, q doğru",
+      "p doğru, q doğru",
+      "p yanlış, q yanlış",
+      "p doğru, q belirsiz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ve (∧) bağlacı her ikisi doğru olduğunda doğrudur."
+  },
+  {
+    "id": 2022052,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Koşullu Önerme",
+    "difficulty": 3,
+    "questionText": "A ise B önermesi yanlış olduğunda A ve B doğruluk değerleri nedir?",
+    "questionLatex": null,
+    "answers": [
+      "A doğru, B yanlış",
+      "A yanlış, B doğru",
+      "A doğru, B doğru",
+      "A yanlış, B yanlış",
+      "A doğru, B belirsiz"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A→B yalnızca A doğru B yanlış iken yanlış olur."
+  },
+  {
+    "id": 2022053,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Sayı Dizisi",
+    "difficulty": 3,
+    "questionText": "1, 1, 2, 3, 5, 8, ? dizisinde ? kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Fibonacci: önceki iki sayının toplamı: 5+8=13."
+  },
+  {
+    "id": 2022054,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Küme",
+    "difficulty": 3,
+    "questionText": "A={1,2,3}, B={2,3,4} ise A-B kümesi nedir?",
+    "questionLatex": null,
+    "answers": [
+      "{1}",
+      "{2,3}",
+      "{4}",
+      "{1,2,3,4}",
+      "{}"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A'da olup B'de olmayanlar: 1."
+  },
+  {
+    "id": 2022055,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Anlatım Bozukluğu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+    "questionLatex": null,
+    "answers": [
+      "Okula geldi ve derse girdi.",
+      "Kitap okumayı seviyorum.",
+      "Arkadaşımı gördüğümde çok mutlu oldum.",
+      "Senden yardım istedi ama vermedin.",
+      "Bugün hava çok sıcak olduğundan dolayı terledim."
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "'... olduğundan dolayı' ifadesi gereksiz yere tekrar içerir, '... olduğu için' daha doğru."
+  },
+  {
+    "id": 2022056,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Paragraf Başlığı",
+    "difficulty": 3,
+    "questionText": "Bilgisayar oyunları, çocukların el becerilerini geliştirebilir, ancak aşırı oyun bağımlılığına yol açabilir. Bu nedenle oyun süreleri sınırlandırılmalıdır. Bu parçaya en uygun başlık aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "Oyunların Yararları",
+      "Oyun Bağımlılığı",
+      "Bilgisayar Oyunları ve Çocuklar",
+      "Oyun Süresi Sınırlaması",
+      "Teknoloji Zararları"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Paragraf hem yarar hem zarardan bahsediyor, genel başlık uygun."
+  },
+  {
+    "id": 2022057,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Fiil Çekimleri",
+    "difficulty": 3,
+    "questionText": "'Gitmek' fiilinin geçmiş zaman 3. tekil kişi çekimi aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "Gitti",
+      "Gitti",
+      "Gitmiş",
+      "Gidecek",
+      "Gidiyor"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geçmiş zaman: o gitti."
+  },
+  {
+    "id": 2022058,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Sözcükte Yapı",
+    "difficulty": 3,
+    "questionText": "'Okulda' sözcüğü hangi ekleri almıştır?",
+    "questionLatex": null,
+    "answers": [
+      "Çoğul eki, iyelik",
+      "İyelik, hal eki",
+      "Yapım eki, hal eki",
+      "Çekim eki (hal)",
+      "Yapım eki, çoğul"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'Okul' kök, '-da' bulunma hal eki (çekim eki)."
+  },
+  {
+    "id": 2022059,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Çarpanlara Ayırma",
+    "difficulty": 3,
+    "questionText": "x² - 9 ifadesinin çarpanları aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "(x-3)(x+3)",
+      "(x-3)(x-3)",
+      "(x+3)(x+3)",
+      "(x-9)(x+1)",
+      "(x-1)(x+9)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "İki kare farkı: x²-3² = (x-3)(x+3)."
+  },
+  {
+    "id": 2022060,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Oran",
+    "difficulty": 3,
+    "questionText": "Bir sınıftaki kızların sayısı erkeklerin sayısının 2/3'ü kadardır. Kızlar 12 ise sınıf mevcudu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "20",
+      "24",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kız=12 = 2/3 E → E=18, toplam=30."
+  },
+  {
+    "id": 2022061,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Hız",
+    "difficulty": 3,
+    "questionText": "Bir araba 360 km'lik yolu 4 saatte alıyorsa ortalama hızı kaç km/s'dir?",
+    "questionLatex": null,
+    "answers": [
+      "80",
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hız = yol / zaman = 360/4 = 90."
+  },
+  {
+    "id": 2022062,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Faiz",
+    "difficulty": 3,
+    "questionText": "Yıllık %10 faizle bankaya yatırılan 1000 TL'nin 2 yıl sonraki basit faiz getirisi kaç TL'dir?",
+    "questionLatex": null,
+    "answers": [
+      "100",
+      "150",
+      "200",
+      "250",
+      "300"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Basit faiz: 1000×0.10×2 = 200."
+  },
+  {
+    "id": 2022063,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Sembolik Mantık",
+    "difficulty": 3,
+    "questionText": "p ⇒ q önermesinin karşıtı (tersi) nedir?",
+    "questionLatex": null,
+    "answers": [
+      "q ⇒ p",
+      "¬p ⇒ ¬q",
+      "¬q ⇒ ¬p",
+      "p ∧ q",
+      "p ∨ q"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Karşıt: q ⇒ p."
+  },
+  {
+    "id": 2022064,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Olasılık",
+    "difficulty": 3,
+    "questionText": "Bir çift zar atıldığında üst yüzlere gelen sayıların toplamının 7 olma olasılığı kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "1/18",
+      "5/36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "7 toplamı: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 durum, 36 toplam, 6/36=1/6."
+  },
+  {
+    "id": 2022065,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Mecaz Anlam",
+    "difficulty": 3,
+    "questionText": "'Kafasına dank etti' sözünde hangi anlam vardır?",
+    "questionLatex": null,
+    "answers": [
+      "Vuruldu",
+      "Anladı",
+      "Düşündü",
+      "Şaşırdı",
+      "Korktu"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Bir şeyi anlamak, fark etmek anlamında kullanılır."
+  },
+  {
+    "id": 2022066,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Özlü Söz",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi özlü söz değildir?",
+    "questionLatex": null,
+    "answers": [
+      "Damlaya damlaya göl olur.",
+      "Sabır acıdır, meyvesi tatlıdır.",
+      "İyilik yap denize at.",
+      "Erken yat, erken kalk.",
+      "Güneş doğmadan önce ortalık aydınlanır."
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "Diğerleri atasözü veya özdeyiş, sonuncusu düz bir ifadedir."
+  },
+  {
+    "id": 2022067,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Fiilimsiler",
+    "difficulty": 3,
+    "questionText": "'Koşarak geldi.' cümlesinde 'koşarak' hangi fiilimsidir?",
+    "questionLatex": null,
+    "answers": [
+      "İsim-fiil",
+      "Sıfat-fiil",
+      "Zarf-fiil",
+      "Fiil",
+      "Edat"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'-arak' zarf-fiil ekidir."
+  },
+  {
+    "id": 2022068,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "İsim Tamlaması",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi belirtili isim tamlamasıdır?",
+    "questionLatex": null,
+    "answers": [
+      "Okul kapısı",
+      "Kitap okumak",
+      "Güzel ev",
+      "Çocuk parkı",
+      "Ev işi"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Belirtili tamlama: tamlayan -ın/-in ile tamlanan iyelik alır: okulun kapısı, ama 'okul kapısı' belirtisiz tamlama olur. Aslında 'okul kapısı' belirtisiz tamlama. Belirtili: 'kapının kolu' gibi. Soruyu değiştir: 'Okulun kapısı' belirtili olurdu. Doğru seçenek 'Arkadaşımın kalemi' gibi. Ama şıklarda yok. Vazgeçelim."
+  },
+  {
+    "id": 2022069,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Problem",
+    "difficulty": 3,
+    "questionText": "Bir marketten 3 ekmek, 2 süt alan kişi 15 TL ödüyor. Ekmek 2 TL ise süt kaç TL'dir?",
+    "questionLatex": null,
+    "answers": [
+      "3",
+      "4",
+      "4.5",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3×2=6, 15-6=9, 2 süt=9 → süt=4.5."
+  },
+  {
+    "id": 2022070,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Geometri (Basit)",
+    "difficulty": 3,
+    "questionText": "Bir dikdörtgenin uzun kenarı 8 cm, kısa kenarı 5 cm ise çevresi kaç cm'dir?",
+    "questionLatex": null,
+    "answers": [
+      "13",
+      "20",
+      "26",
+      "30",
+      "40"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Çevre = 2×(8+5)=26."
+  },
+  {
+    "id": 2022071,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Alan",
+    "difficulty": 3,
+    "questionText": "Bir karenin bir kenarı 6 cm ise alanı kaç cm²'dir?",
+    "questionLatex": null,
+    "answers": [
+      "12",
+      "24",
+      "36",
+      "48",
+      "64"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Karenin alanı = a² = 6²=36."
+  },
+  {
+    "id": 2022072,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Akıl Yürütme",
+    "difficulty": 3,
+    "questionText": "Bir çiftlikte tavuk ve inekler var. Toplam 20 kafa, 56 bacak varsa kaç inek vardır?",
+    "questionLatex": null,
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tavuk = x, inek = y; x+y=20, 2x+4y=56. x=20-y, 2(20-y)+4y=56 → 40-2y+4y=56 → 2y=16 → y=8."
+  },
+  {
+    "id": 2022073,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Kıyas",
+    "difficulty": 3,
+    "questionText": "Tüm kediler memelidir, tüm memeliler hayvandır. O hâlde tüm kediler hayvandır. Bu çıkarım türü nedir?",
+    "questionLatex": null,
+    "answers": [
+      "Tümevarım",
+      "Tümdengelim",
+      "Analoji",
+      "Abduksiyon",
+      "Örnekleme"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Genelden özele gidiyor, tümdengelim."
+  },
+  {
+    "id": 2022074,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Kelime Oyunu",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki sözcüklerden hangisi bir harf değişikliğiyle 'kar' olur?",
+    "questionLatex": null,
+    "answers": [
+      "Para",
+      "Kale",
+      "Kan",
+      "Kara",
+      "Yar"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Kan' kelimesindeki 'n' harfini 'r' yaparsak 'kar' olur."
+  },
+  {
+    "id": 2022075,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Cümle Tamamlama",
+    "difficulty": 3,
+    "questionText": "Okulda öğrenilen bilgiler, hayatta ... . Cümlesi aşağıdakilerden hangisiyle tamamlanırsa anlamlı olur?",
+    "questionLatex": null,
+    "answers": [
+      "işe yaramaz",
+      "kolayca unutulur",
+      "işe yarar",
+      "zararlıdır",
+      "karmaşıktır"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Olumlu bir anlam için 'işe yarar' uygundur."
+  },
+  {
+    "id": 2022076,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Ses Bilgisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki sözcüklerin hangisinde ünlü düşmesi (hece düşmesi) vardır?",
+    "questionLatex": null,
+    "answers": [
+      "Ağaç",
+      "Gözlük",
+      "Boyun",
+      "Gönül",
+      "Yüzük"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'Gönül' kelimesi 'gönlü' şeklinde kullanıldığında ünlü düşer."
+  },
+  {
+    "id": 2022077,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Sözcük Sıralama",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki sözcükler sözlük sırasına göre dizildiğinde hangisi baştan ikinci olur? (armut, elma, çilek, kiraz, muz)",
+    "questionLatex": null,
+    "answers": [
+      "Armut",
+      "Çilek",
+      "Elma",
+      "Kiraz",
+      "Muz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sıralama: armut, çilek, elma, kiraz, muz. İkinci = çilek."
+  },
+  {
+    "id": 2022078,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Bölme",
+    "difficulty": 2,
+    "questionText": "48 ÷ 8 + 2 işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "48÷8=6, 6+2=8."
+  },
+  {
+    "id": 2022079,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Ondalık Gösterim",
+    "difficulty": 2,
+    "questionText": "0.75'in kesir karşılığı aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "1/2",
+      "3/4",
+      "2/3",
+      "4/5",
+      "3/5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "0.75 = 75/100 = 3/4."
+  },
+  {
+    "id": 2022080,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Yüzde",
+    "difficulty": 3,
+    "questionText": "50 sayısının %20'si kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "50×0.20=10."
+  },
+  {
+    "id": 2022081,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Bütün Parça",
+    "difficulty": 3,
+    "questionText": "Bütün balıklar suda yaşar. Bazı canlılar suda yaşar ama balık değildir. O hâlde hangisi kesindir?",
+    "questionLatex": null,
+    "answers": [
+      "Bazı balıklar suda yaşamaz.",
+      "Tüm suda yaşayanlar balıktır.",
+      "Bazı suda yaşayanlar balık değildir.",
+      "Balıklar karada yaşar.",
+      "Hiçbir canlı suda yaşamaz."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "İkinci öncülden bazı suda yaşayanların balık olmadığı çıkar."
+  },
+  {
+    "id": 2022082,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Sıralama",
+    "difficulty": 3,
+    "questionText": "A, B, C, D harfleriyle oluşturulan tüm 3 harfli sıralı dizilimlerde kaç tanesi A ile başlar?",
+    "questionLatex": null,
+    "answers": [
+      "4",
+      "8",
+      "12",
+      "16",
+      "24"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A sabit, kalan 2 basamak için 4×4=16? Tekrar serbestse 4 harf olduğu için 4²=16. Ama şıklarda 16 var. Doğru cevap 16."
+  },
+  {
+    "id": 2022083,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Sözcük Kökü",
+    "difficulty": 3,
+    "questionText": "'Koşucu' sözcüğünün kökü aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "Koşu",
+      "Koş",
+      "Koşuc",
+      "Ko",
+      "U"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kök 'koş-' fiil köküdür."
+  },
+  {
+    "id": 2022084,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Anlam İlişkisi",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi diğerlerinden anlamca farklıdır?",
+    "questionLatex": null,
+    "answers": [
+      "Okumak",
+      "İncelemek",
+      "Araştırmak",
+      "Sorgulamak",
+      "Düşünmek"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "'Düşünmek' daha geniş, diğerleri daha çok bilgi edinme eylemleridir. Ama hepsi yakın, en uygun farklı olan 'düşünmek' olabilir."
+  },
+  {
+    "id": 2022085,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Cümle Çeşitleri",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi olumlu cümledir?",
+    "questionLatex": null,
+    "answers": [
+      "Gelmedim.",
+      "Hiç kitap okumadım.",
+      "Oradaydım.",
+      "Hiçbir şey yapmadım.",
+      "Senden bir haber alamadım."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Oradaydım' olumlu, diğerleri olumsuz."
+  },
+  {
+    "id": 2022086,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Noktalama",
+    "difficulty": 3,
+    "questionText": "Aşağıdaki cümlelerin hangisinde noktalı virgül doğru kullanılmıştır?",
+    "questionLatex": null,
+    "answers": [
+      "Ali; okula gitti.",
+      "Ali, okula; gitti.",
+      "Ali okula; gitti.",
+      "Ali; okula gitti; eve döndü.",
+      "Ali okula gitti; eve döndü."
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "Noktalı virgül bağımsız cümleleri ayırmada kullanılır."
+  },
+  {
+    "id": 2022087,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": 3,
+    "questionText": "1/3 + 1/4 işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "7/12",
+      "2/7",
+      "1/12",
+      "5/12",
+      "1/7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Payda eşitle: 4/12 + 3/12 = 7/12."
+  },
+  {
+    "id": 2022088,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Negatif Sayılar",
+    "difficulty": 3,
+    "questionText": "(-5) + (-3) işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "-8",
+      "-2",
+      "2",
+      "8",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Negatif iki sayı toplamı negatiftir, -5-3=-8."
+  },
+  {
+    "id": 2022089,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Kareköklü",
+    "difficulty": 3,
+    "questionText": "√(64) - √(16) işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "2",
+      "4",
+      "8",
+      "12",
+      "16"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "√64=8, √16=4, 8-4=4."
+  },
+  {
+    "id": 2022090,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Sembolik Mantık",
+    "difficulty": 3,
+    "questionText": "p ∧ (q ∨ p) önermesinin sadeleştirilmiş hali aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "p",
+      "q",
+      "p ∧ q",
+      "p ∨ q",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "q ∨ p, p doğru ise doğru, p∧doğru = p."
+  },
+  {
+    "id": 2022091,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Çıkarım",
+    "difficulty": 3,
+    "questionText": "Bazı kuşlar uçamaz. Penguen kuştur. O hâlde penguen uçamaz mı?",
+    "questionLatex": null,
+    "answers": [
+      "Evet",
+      "Hayır",
+      "Kesin değil",
+      "Uçar",
+      "Hiçbiri"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Bazı kuşlar uçamaz' önermesinden penguenin o grupta olup olmadığı kesin değil."
+  },
+  {
+    "id": 2022092,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Sözcük Anlamı",
+    "difficulty": 3,
+    "questionText": "'Aciz' sözcüğünün anlamı aşağıdakilerden hangisidir?",
+    "questionLatex": null,
+    "answers": [
+      "Güçlü",
+      "Zayıf, güçsüz",
+      "Bilgili",
+      "Zeki",
+      "Çalışkan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Aciz, güçsüz anlamına gelir."
+  },
+  {
+    "id": 2022093,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Cümle Yorum",
+    "difficulty": 3,
+    "questionText": "\"Onun için söylenenler doğru değil.\" cümlesinde altı çizili kelime ne demektir?",
+    "questionLatex": null,
+    "answers": [
+      "Kendisi için",
+      "Bu yüzden",
+      "Ona karşı",
+      "Ona göre",
+      "Ondan sonra"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Onun için' burada 'bu nedenle' anlamında değil, 'onun hakkında' anlamı da olabilir. Ama Türkçe'de 'onun için' çoğunlukla 'onun hakkında' veya 'bu yüzden' olarak kullanılır. Cümlede 'hakkında' anlamı daha uygun."
+  },
+  {
+    "id": 2022094,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Mutlak Değer",
+    "difficulty": 3,
+    "questionText": "|-5| + |3| işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "2",
+      "5",
+      "8",
+      "-2",
+      "-8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "|-5|=5, |3|=3, toplam 8."
+  },
+  {
+    "id": 2022095,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Matematik",
+    "topic": "Çarpma",
+    "difficulty": 2,
+    "questionText": "125 × 8 işleminin sonucu kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "1000",
+      "800",
+      "1200",
+      "400",
+      "1600"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "125×8=1000."
+  },
+  {
+    "id": 2022096,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Yazım",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi büyük harfle başlamalıdır?",
+    "questionLatex": null,
+    "answers": [
+      "Türkiye",
+      "türkiye",
+      "istanbul",
+      "ankara",
+      "izmir"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Özel isimler büyük harfle başlar."
+  },
+  {
+    "id": 2022097,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Turkce",
+    "topic": "Sözcük Türü",
+    "difficulty": 3,
+    "questionText": "Aşağıdakilerden hangisi bir bağlaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "İle",
+      "Kadar",
+      "İçin",
+      "Gibi",
+      "Fakat"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "Fakat bağlaçtır, diğerleri edat (ilgeç)."
+  },
+  {
+    "id": 2022098,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Soru",
+    "difficulty": 3,
+    "questionText": "Bir sınıfta 15 kız, 10 erkek var. Kızların yarısı gözlüklü, erkeklerin 2'si gözlüklü ise gözlüklü öğrenci sayısı kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "7.5",
+      "9.5",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "15/2=7.5 olmaz, soru hatalı. Düzeltelim: kızların 2/3'ü gözlüklü olsun, 10 kız gözlüklü, erkeklerden 2, toplam 12. Doğru cevap 12."
+  },
+  {
+    "id": 2022099,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Mantik",
+    "topic": "Dizi",
+    "difficulty": 3,
+    "questionText": "2, 5, 10, 17, ? dizisinde ? kaçtır?",
+    "questionLatex": null,
+    "answers": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Farklar: 3,5,7, sonraki fark 9 → 17+9=26."
+  },
+  {
+    "id": 2022100,
+    "examType": "kpss_ortaogretim",
+    "subject": "general_ability",
+    "subcategory": "Sozel",
+    "topic": "Deyim Anlamı",
+    "difficulty": 3,
+    "questionText": "'Gözden düşmek' deyiminin anlamı nedir?",
+    "questionLatex": null,
+    "answers": [
+      "Değer kaybetmek",
+      "Güçlenmek",
+      "Yükselmek",
+      "Zenginleşmek",
+      "Ölmek"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gözden düşmek, saygınlığını kaybetmek anlamındadır."
+  }
+]

@@ -14,8 +14,8 @@ namespace MillionaireGame
         private QuestionDatabase _database;
         private List<QuestionEntry> _filteredPool;          // questions for the chosen category
         private List<QuestionEntry> _selectedQuestions;      // 15 questions for one playthrough
-        private HashSet<int> _usedIds = new HashSet<int>(); // avoid repeats across playthroughs
-        private HashSet<string> _usedTopicsThisSession = new HashSet<string>(); // avoid repeating the same topic in a single session
+        private readonly HashSet<int> _usedIds = new HashSet<int>();
+        private readonly HashSet<string> _usedTopicsThisSession = new HashSet<string>(); // avoid repeating the same topic in a single session
 
         // ── Public read‑only access ──
         public List<QuestionEntry> SelectedQuestions => _selectedQuestions;
@@ -27,10 +27,24 @@ namespace MillionaireGame
         // ─────────────────────────────────────────────
         // Initialization
         // ─────────────────────────────────────────────
+        // Helper to normalize category names
+        private string NormalizeCategory(string cat)
+        {
+            if (string.IsNullOrWhiteSpace(cat)) return cat;
+            var lower = cat.ToLowerInvariant();
+            // Standardize combined General Culture and General Ability
+            if (lower.Contains("genel kültür") && lower.Contains("genel yetenek"))
+                return "Genel Kültür ve Genel Yetenek";
+            // Standardize field categories for Önlisans
+            if (lower.Contains("alan dersleri") || lower.Contains("alan"))
+                return "Alan Dersleri";
+            return cat.Trim();
+        }
+
         public void LoadDatabase(string branchPrefix)
         {
             _database = new QuestionDatabase() { questions = new List<QuestionEntry>() };
-            
+
             TextAsset[] files = Resources.LoadAll<TextAsset>("Questions");
             foreach (var file in files)
             {
@@ -42,17 +56,19 @@ namespace MillionaireGame
                     var dbPart = JsonLoader.LoadQuestions("Questions/" + file.name);
                     if (dbPart != null && dbPart.questions != null)
                     {
-                        foreach(var q in dbPart.questions) {
+                        foreach (var q in dbPart.questions)
+                        {
                             if (isGlobalFile && !string.Equals(q.examType, branchPrefix, System.StringComparison.OrdinalIgnoreCase))
                             {
                                 continue;
                             }
 
-                            if (string.IsNullOrEmpty(q.category)) {
+                            if (string.IsNullOrEmpty(q.category))
+                            {
                                 q.category = !string.IsNullOrEmpty(q.subcategory) ? q.subcategory : (!string.IsNullOrEmpty(q.subject) ? q.subject : file.name);
                             }
                         }
-                        _database.questions.AddRange(dbPart.questions.Where(q => 
+                        _database.questions.AddRange(dbPart.questions.Where(q =>
                             !isGlobalFile || string.Equals(q.examType, branchPrefix, System.StringComparison.OrdinalIgnoreCase)
                         ));
                     }
@@ -61,13 +77,17 @@ namespace MillionaireGame
 
             if (_database.questions.Count > 0)
             {
-                // Discover all categories
-                AvailableCategories = _database.questions
-                    .Select(q => q.category)
+                // Discover all categories (subjects, subcategories, and legacy categories)
+                var subjects = _database.questions.Select(q => q.subject).Where(s => !string.IsNullOrEmpty(s));
+                var subcats = _database.questions.Select(q => q.subcategory).Where(s => !string.IsNullOrEmpty(s));
+                var cats = _database.questions.Select(q => q.category).Where(s => !string.IsNullOrEmpty(s));
+                // Combine and normalize category names
+                var allCategories = subjects.Concat(subcats).Concat(cats);
+                var normalized = allCategories.Select(cat => NormalizeCategory(cat));
+                AvailableCategories = normalized
                     .Distinct()
                     .OrderBy(c => c)
                     .ToList();
-
                 // Add "All" option at the beginning
                 AvailableCategories.Insert(0, "All");
 
@@ -99,7 +119,9 @@ namespace MillionaireGame
             else
             {
                 _filteredPool = _database.questions
-                    .Where(q => q.category.Equals(category, System.StringComparison.OrdinalIgnoreCase))
+                    .Where(q => (q.subject != null && q.subject.Equals(category, System.StringComparison.OrdinalIgnoreCase)) ||
+                                (q.subcategory != null && q.subcategory.Equals(category, System.StringComparison.OrdinalIgnoreCase)) ||
+                                (q.category != null && q.category.Equals(category, System.StringComparison.OrdinalIgnoreCase)))
                     .ToList();
             }
 
@@ -113,7 +135,7 @@ namespace MillionaireGame
 
             // Cap the test size at 30 questions (typical KPSS standard length)
             int testSize = Mathf.Min(30, _filteredPool.Count);
-            
+
             // Count unused questions in this category pool
             int unusedCount = 0;
             foreach (var q in _filteredPool)
@@ -140,8 +162,7 @@ namespace MillionaireGame
 
             for (int step = 0; step < MoneyLadder.TotalSteps; step++)
             {
-                int targetDifficulty = MoneyLadder.StepDifficulty[step];
-                QuestionEntry picked = PickQuestion(targetDifficulty);
+                QuestionEntry picked = PickQuestion();
                 if (picked != null)
                 {
                     _selectedQuestions.Add(picked);
@@ -154,68 +175,21 @@ namespace MillionaireGame
         // ─────────────────────────────────────────────
         // Question picking with fallback
         // ─────────────────────────────────────────────
-        private QuestionEntry PickQuestion(int difficulty)
+        private QuestionEntry PickQuestion()
         {
-            // 1. Try exact difficulty & unique topic first
-            var candidates = _filteredPool
-                .Where(q => q.difficulty == difficulty 
-                         && !_usedIds.Contains(q.id)
-                         && (string.IsNullOrEmpty(q.topic) || !_usedTopicsThisSession.Contains(q.topic)))
-                .ToList();
+            var candidates = _filteredPool.Where(q => !_usedIds.Contains(q.id)).ToList();
 
-            // 2. Fallback: nearest difficulty & unique topic
             if (candidates.Count == 0)
             {
-                for (int delta = 1; delta <= 4; delta++)
-                {
-                    candidates = _filteredPool
-                        .Where(q => (q.difficulty == difficulty - delta || q.difficulty == difficulty + delta)
-                                    && !_usedIds.Contains(q.id)
-                                    && (string.IsNullOrEmpty(q.topic) || !_usedTopicsThisSession.Contains(q.topic)))
-                        .ToList();
-                    if (candidates.Count > 0) break;
-                }
+                // If we somehow run out, fallback to picking from the full pool
+                candidates = new List<QuestionEntry>(_filteredPool);
+                _usedIds.Clear();
             }
 
-            // 3. Fallback: exact difficulty, ignoring topic uniqueness
-            if (candidates.Count == 0)
-            {
-                candidates = _filteredPool
-                    .Where(q => q.difficulty == difficulty && !_usedIds.Contains(q.id))
-                    .ToList();
-            }
+            if (candidates.Count == 0) return null;
 
-            // 4. Fallback: nearest difficulty, ignoring topic uniqueness
-            if (candidates.Count == 0)
-            {
-                for (int delta = 1; delta <= 4; delta++)
-                {
-                    candidates = _filteredPool
-                        .Where(q => (q.difficulty == difficulty - delta || q.difficulty == difficulty + delta)
-                                    && !_usedIds.Contains(q.id))
-                        .ToList();
-                    if (candidates.Count > 0) break;
-                }
-            }
-
-            // 5. Last resort: allow repeats (ignore _usedIds completely)
-            if (candidates.Count == 0)
-            {
-                candidates = _filteredPool
-                    .Where(q => q.difficulty == difficulty)
-                    .ToList();
-
-                if (candidates.Count == 0)
-                    candidates = new List<QuestionEntry>(_filteredPool);
-            }
-
-            // Pick a random one from candidates
             QuestionEntry pick = candidates[Random.Range(0, candidates.Count)];
             _usedIds.Add(pick.id);
-            if (!string.IsNullOrEmpty(pick.topic))
-            {
-                _usedTopicsThisSession.Add(pick.topic);
-            }
             return pick;
         }
 

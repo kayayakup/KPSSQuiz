@@ -278,15 +278,14 @@ namespace MillionaireGame
             _uiMgr.btnWalkAway.interactable = false;
 
             PlayAudio(audioWrong);
+            // Don't count as wrong, just unanswered, but for simplicity let's keep wrong count
             _wrongAnswersCount++;
 
-            string title = LocalizationManager.Get("timesUp");
-            string msg = LocalizationManager.Get("timesUpMsg");
-            string guaranteed = MoneyLadder.GetGuaranteedPrize(_currentStep);
-            string dropMsg = LocalizationManager.Get("youDropTo");
+            bool isTurk = (_currentLanguage == "TR");
+            string title = isTurk ? "Süre Bitti!" : "Time's Up!";
+            string msg = isTurk ? "Sınav süreniz doldu." : "Your exam time is over.";
 
-            _uiMgr.ShowResult(title, $"{msg}\n\n{dropMsg} {guaranteed}" + GenerateKPSSResultReport());
-            HandleLoss();
+            _uiMgr.ShowResult(title, $"{msg}" + GenerateKPSSResultReport());
         }
 
         private void HandleLoss()
@@ -371,6 +370,12 @@ namespace MillionaireGame
                 // Oyunu sıfırla
                 ReturnToMenu();
             });
+
+            _uiMgr.SetGamesCloseAction(() => {
+                // Games panelinden çıkınca branch paneline dön
+                PlayClickSound();
+                _uiMgr.ShowBranchScreen(true);
+            });
         }
 
         // ═══════════════════════════════════════════════
@@ -411,19 +416,8 @@ namespace MillionaireGame
             _timerActive = false; // Pause timer during the initial ladder overlay
 
             _uiMgr.UpdateLadder(_currentStep);
-
-            bool dismissed = false;
-            System.Action onDismiss = () => {
-                if (dismissed) return;
-                dismissed = true;
-                _timerActive = true;
-                ShowCurrentQuestion();
-            };
-
-            _uiMgr.ShowLadderOverlay(onDismiss);
-
-            // Auto-dismiss after 2.5 seconds
-            StartCoroutine(AutoDismissLadder(2.5f, onDismiss));
+            _timerActive = true;
+            ShowCurrentQuestion();
         }
 
         private IEnumerator AutoDismissLadder(float delay, System.Action onDismiss)
@@ -519,64 +513,27 @@ namespace MillionaireGame
         {
             yield return new WaitForSeconds(1.5f);
 
-            if (correct)
+            _currentStep++;
+
+            if (_currentStep >= MoneyLadder.TotalSteps)
             {
-                _currentStep++;
-
-                if (_currentStep >= MoneyLadder.TotalSteps)
-                {
-                    PlayAudio(audioWin);
-                    string congrat = LocalizationManager.Get("congratulations");
-                    string text = string.Format(LocalizationManager.Get("winMessage"), MoneyLadder.PrizeLabels[MoneyLadder.TotalSteps - 1]);
-                    // 🎉 WINNER!
-                    _uiMgr.ShowResult(
-                        congrat,
-                        text + GenerateKPSSResultReport()
-                    );
-                    _consecutiveLosses = 0; // Reset losses on win
-                }
-                else
-                {
-                    // Next question - show the intermediate prize ladder screen first
-                    _timerActive = false; // Pause timer during the ladder overlay
-                    _uiMgr.UpdateLadder(_currentStep);
-
-                    bool dismissed = false;
-                    System.Action onDismiss = () => {
-                        if (dismissed) return;
-                        dismissed = true;
-                        _timerActive = true;
-                        ShowCurrentQuestion();
-                    };
-
-                    _uiMgr.ShowLadderOverlay(onDismiss);
-
-                    // Auto-dismiss after 2.5 seconds
-                    StartCoroutine(AutoDismissLadder(2.5f, onDismiss));
-                }
+                PlayAudio(audioWin);
+                bool isTurk = (_currentLanguage == "TR");
+                string title = isTurk ? "Sınav Bitti" : "Exam Completed";
+                string text = isTurk ? "Tüm soruları tamamladınız." : "You have completed all questions.";
+                
+                _uiMgr.ShowResult(
+                    title,
+                    text + GenerateKPSSResultReport()
+                );
+                _consecutiveLosses = 0; // Reset losses on win
             }
             else
             {
-                // WRONG – game over, drop to safe haven
-                string guaranteed = MoneyLadder.GetGuaranteedPrize(_currentStep);
-                string wonLabel = _currentStep > 0 ? MoneyLadder.PrizeLabels[_currentStep - 1] : "$0";
-
-                string title = LocalizationManager.Get("wrongAnswer");
-                string TheCorrectAnswerWas = LocalizationManager.Get("correctAnswerWas");
-                string YouDropTo = LocalizationManager.Get("youDropTo");
-
-                string correctAnsText = "";
-                if (_currentQuestion != null && _currentQuestion.answers != null && _currentQuestion.correctAnswerIndex >= 0 && _currentQuestion.correctAnswerIndex < _currentQuestion.answers.Length)
-                {
-                    correctAnsText = _currentQuestion.answers[_currentQuestion.correctAnswerIndex];
-                }
-
-                _uiMgr.ShowResult(
-                    title,
-                    $"{TheCorrectAnswerWas}\n{correctAnsText}\n\n" +
-                    $"{YouDropTo} {guaranteed}" + GenerateKPSSResultReport()
-                );
-                HandleLoss();
+                // Go to next question without intermediate screen
+                _uiMgr.UpdateLadder(_currentStep);
+                _timerActive = true;
+                ShowCurrentQuestion();
             }
         }
 
@@ -590,19 +547,9 @@ namespace MillionaireGame
             _waitingForAnswer = false;
             _timerActive = false;
 
-            string prize = _currentStep > 0
-                ? MoneyLadder.PrizeLabels[_currentStep - 1]
-                : "$0";
-
-            // On step 0, walking away means $0.
-            // On step 1+, they keep the previous step's prize.
-            // But the current step is 0-based: so if you're on step 0, you haven't won anything yet.
-            // If you're on step 1, you've answered step 0 correctly (=$100).
-            string currentPrize = MoneyLadder.PrizeLabels[_currentStep];
-
             bool isTurk = (_currentLanguage == "TR");
-            string title = isTurk ? "Çekildiniz" : "You Walked Away";
-            string text = isTurk ? $"{currentPrize} ile ayrılmayı seçtiniz.\n\nTebrikler!" : $"You chose to leave with {currentPrize}.\n\nWell played!";
+            string title = isTurk ? "Sınavı Bitirdiniz" : "Exam Finished";
+            string text = isTurk ? "Sınavı erken bitirmeyi seçtiniz." : "You chose to finish the exam early.";
 
             _uiMgr.ShowResult(
                 title,

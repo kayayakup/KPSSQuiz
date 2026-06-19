@@ -46,98 +46,6 @@
     }
   },
   {
-    "id": 20210021,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2021 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçadan aşağıdakilerin hangisine ulaşılabilir? cevaplayınız.",
-    "answers": [
-      "Sanal ortamda habercilik yöntemleri geliştirilirken klasik haber geleneğinden yararlanıldığına Clickbait; insanları çevrim içi metinleri okumaya,",
-      "Tüketimi artırmak için habercilik ilkelerinin ihlal görüntülemeye ve dinlemeye ikna etmek için tasarlanmış edildiğine köprü metin veya küçük resim bağlantısı kullanan haber görünümlü reklam biçimidir. Türkçeye “tık tuzağı”, “tık",
-      "Sanal ortamda ticari ürünlerin insanları yanıltacak yemi”, “kapan manşet” gibi ifadelerle çevrilen bu tür biçimde tanıtıldığına reklamlarda okurun, haber başlığına sürekli tıklaması gerekir fakat tatmin edecek bir haber bilgisine ulaşması",
-      "Clickbait tasarımcılarının, gündemdeki ilgi çekici mümkün olmaz. Clickbait içerikli haberlerde habercilik olayları içerik olarak kullandığına prensiplerine uymayan farklı yöntemler kullanılır. Haberin konusundan uzaklaşarak önemsiz bir detay üzerinde",
-      "Clickbait uygulamalarının, toplumun her kesiminden yoğunlaşma, temanın dışına çıkarak abartılı bir başlık insanın dikkatini çektiğine kullanma, haber içeriğine uygun olmayan görselleri yerleştirme gibi okuru aldatma şekilleri bulunur. Yaygın olarak kullanılan, ünlem ve soru işareti içeren ilgi çekici clickbait başlıkları şöyledir: “Buna inanamayacaksınız!”, “Bunları biliyor musunuz?”, “Pişman olmayacaksınız!”... Okura, doğru haber sunmak yerine daha fazla tık almak uğruna haber başlığında yapılan clickbait uygulamaları olumsuz bir habercilik yöntemi olarak kabul edilir. Bu tür haberlerde klasik haber geleneğinden farklı olarak merakına yenilen okur, reklam tüketim kapanına girer."
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2021 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap B şıkkıdır: Tüketimi artırmak için habercilik ilkelerinin ihlal görüntülemeye ve dinlemeye ikna etmek için tasar.",
-    "source": {
-      "year": 2021,
-      "questionNumber": 21,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2021/KPSS/SINAVSORULARI/2021_KPSS_Lisans_GYGK.pdf"
-    }
-  },
-  {
-    "id": 20210020,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2021 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada “clickbait” ile ilgili aşağıdakilerin hangisine değinilmemiştir?",
-    "answers": [
-      "Üslubunun yalın olmasına",
-      "Noktalama işaretlerinden yararlanmasına",
-      "Ayrıntıyı odağa almasına",
-      "Yanıltıcı görsellerle desteklenmesine",
-      "Öğrenme isteğini harekete geçirmesine "
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2021 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap C şıkkıdır: Ayrıntıyı odağa almasına.",
-    "source": {
-      "year": 2021,
-      "questionNumber": 20,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2021/KPSS/SINAVSORULARI/2021_KPSS_Lisans_GYGK.pdf"
-    }
-  },
-  {
-    "id": 20210022,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2021 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada sözü edilen dergi ile ilgili aşağıdakilerden hangisi söylenemez?",
-    "answers": [
-      "Yayın kurulu, Akdenizlemek sözcüğüne duyguları ve düşünceleri ön plana çıkaran anlamlar yüklemiştir.",
-      "2018 yılından önce tercih ettiği başlıkları, ilgi ve dikkat çekici olan sözcüklerden seçmiştir.",
-      "Akdenizlemek sözcüğünün anlamlarının, güncellenebilir olduğunu savunan bir yayın politikası yürütmektedir.",
-      "2018’de yayın kurulu, derginin temasını belirlerken az bilinen konuları gündeme taşımayı hedeflemiştir.",
-      "Yayın kurulu, mevcut söz dağarcığının düşüncelerin anlatımına yeterli gelmeyebileceğine inanmaktadır."
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2021 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap A şıkkıdır: Yayın kurulu, Akdenizlemek sözcüğüne duyguları ve düşünceleri ön plana çıkaran anlamlar yüklemiştir..",
-    "source": {
-      "year": 2021,
-      "questionNumber": 22,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2021/KPSS/SINAVSORULARI/2021_KPSS_Lisans_GYGK.pdf"
-    }
-  },
-  {
-    "id": 20210025,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2021 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada altı çizili sözle anlatılmak istenen cevaplayınız. aşağıdakilerden hangisidir?",
-    "answers": [
-      "Disiplinlere eşit ölçüde yer verdiği Edebî türler; doğar, gelişir, ölür ve ölenlerden geriye İlyada ve Binbir Gece Masalları gibi zamanla",
-      "Yeni edebî türleri ortaya çıkardığı klasikleşenler kalır. Her çağın da kendi klasiklerini belirlemek için özellikle öne çıkardığı edebî türler vardır.",
-      "Kimi disiplinlerin imkânlarını kısıtladığı Örneğin Goethe’nin “insanlığın evrensel mülkü” dediği şiir artık her kıtada geri çekilmiştir. Günümüzde; isyanın,",
-      "Farklı edebî türleri alıp yorumladığı umudun ve aşkın edebiyatını temsil eden şiirin yerini alan roman, yüzlerce sayfayı bulan hacmine rağmen",
-      "Bazı edebî türleri yok ettiği boş zamanı gittikçe azalan insanların hayatında daha çok kabul görmüştür. Bunun başlıca nedeni; romanın tanımlanamayan sınırlarının kendinden önceki bütün edebiyat türlerini hatta felsefe, psikoloji, tarih, sosyoloji gibi farklı alanları içerme gücüdür. Ayrıca metinler arasılık, türler arasılık ve başka olanaklar da romanın esneyip zenginleşmesini sağlayan araçlardır. Dünyanın"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2021 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap B şıkkıdır: Yeni edebî türleri ortaya çıkardığı klasikleşenler kalır. Her çağın da kendi klasiklerini belirlemek.",
-    "source": {
-      "year": 2021,
-      "questionNumber": 25,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2021/KPSS/SINAVSORULARI/2021_KPSS_Lisans_GYGK.pdf"
-    }
-  },
-  {
     "id": 20210029,
     "examType": "kpss_lisans",
     "subject": "genel_yetenek_kultur",
@@ -2735,29 +2643,6 @@
     }
   },
   {
-    "id": 20200022,
-    "examType": "kpss_ortaogretim",
-    "subject": "genel",
-    "subcategory": "KPSS Ortaöğretim",
-    "topic": "KPSS Ortaöğretim (2020 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada Türk sineması ile ilgili aşağıdakilerden hangisine değinilmemiştir?",
-    "answers": [
-      "Son yıllardaki hareketliliğinin içerdiği nicelik-nitelik tartışmasına",
-      "Popüler kültür üretiminin sektör üzerindeki kimi etkilerine",
-      "Uluslararası alanda elde edilen birtakım başarılar olduğuna",
-      "Sinema salonlarının giderek daha çok izleyiciyi çektiğine",
-      "Yapımcıların sanat sinemasına yaptıkları önemli katkılara"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2020 KPSS KPSS Ortaöğretim sınavından alınmıştır. Doğru cevap A şıkkıdır: Son yıllardaki hareketliliğinin içerdiği nicelik-nitelik tartışmasına.",
-    "source": {
-      "year": 2020,
-      "questionNumber": 22,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Ortaogretim.pdf"
-    }
-  },
-  {
     "id": 20200028,
     "examType": "kpss_ortaogretim",
     "subject": "genel",
@@ -3076,98 +2961,6 @@
     "source": {
       "year": 2020,
       "questionNumber": 16,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Onlisans.pdf"
-    }
-  },
-  {
-    "id": 202000211,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2020 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada altı çizili ifade ile ustalarla ilgili cevaplayınız. anlatılmak istenen aşağıdakilerden hangisidir?",
-    "answers": [
-      "İletişim konusunda öğrencileri ile aralarındaki engelleri Rönesans'la birlikte sanat ve bilimin gelişmesi için hem kaldırdıkları bilim insanlarının hem de sanatçıların kendi aralarında ilişkilendirilmesinin bir zaruret olduğu ortaya çıkmıştır. Bu",
-      "Akademik hayatta hedefsiz bir ilerleyişin mümkün sayede çok sayıda akademi kurulmuştur. Yabancılara olmadığını gösterdikleri yer olmayan bu akademilerde düzeyi tutturamayan",
-      "Sanattaki kariyerlerini eleştirel bir gözle yeniden heveslilere geçit olmadığı gibi ustalar arasındaki değerlendirdikleri diyaloğa sıradan insanların karışmasına da izin yoktur. Seçkinciliğin bir hayat tarzı olduğu ve kendi içinde de",
-      "Bilim ve sanat akademileri ile toplum arasındaki bağı zekâ, yetenek ve birikimin bileşiminden oluşan son kopardıkları derece hiyerarşik bu ortamda, sadece duayen ustalar ve bir gün onlarla aynı düzeyi yakalamayı ümit eden çırak",
-      "Elde ettikleri akademik konumu erişilmez hâle öğrenciler vardır. Ancak hiyerarşik tırmanış kimi zaman getirmeye çalıştıkları sekteye uğrar. Bazı ustaların, çırakların meslekte ilerleme kriterlerini belirlemedeki tavrı; dama çıkar çıkmaz oraya ulaşmayı sağlayan merdiveni kıran kişilerin tutumuna benzer."
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2020 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap B şıkkıdır: Akademik hayatta hedefsiz bir ilerleyişin mümkün sayede çok sayıda akademi kurulmuştur. Yabancılara .",
-    "source": {
-      "year": 2020,
-      "questionNumber": 21,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Onlisans.pdf"
-    }
-  },
-  {
-    "id": 20200020,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2020 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçadan hareketle akademilerle ilgili aşağıdakilerden hangisi söylenemez?",
-    "answers": [
-      "Bilimin yanı sıra üstün yaratıcılığı yansıtan alanlarda da örnekleri olduğu",
-      "Farklı ilgi alanlarına yönelik türlerinin Rönesans’tan itibaren ortaya çıktığı",
-      "Mensuplarının yalıtılmış bir ortamda etkileşimlerini sağlamayıamaçladıkları",
-      "Bünyesinde belirli bir düşünce şekline ve yeteneğe sahip kişileri barındırdıkları",
-      "Bilim insanları ile sanatçılar arasında daha etkin bir iletişim sağladıkları "
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2020 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap C şıkkıdır: Mensuplarının yalıtılmış bir ortamda etkileşimlerini sağlamayıamaçladıkları.",
-    "source": {
-      "year": 2020,
-      "questionNumber": 20,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Onlisans.pdf"
-    }
-  },
-  {
-    "id": 20200023,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2020 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada söz edilen Fransız sanatçılarla ilgili cevaplayınız. aşağıdakilerden hangisi söylenemez?",
-    "answers": [
-      "Görüşlerini ulusal bir bilinçle ortaya koydukları Bir grup Fransız sanatçı 14 Şubat 1887 tarihli Le Temps gazetesinde, Eyfel Kulesi’ne karşı eleştirilerini şu",
-      "Farklı milletlerin fikirlerini de dikkate aldıkları sözlerle dile getirmişlerdi: “Biz; yazarlar, heykeltıraşlar, mimarlar, ressamlar, Paris'in bugüne kadar hiç",
-      "Çeşitli sanat dallarından uzmanlar oldukları dokunulmamış güzelliğinin tutkun âşıkları, değeri bilinmemiş Fransız zevki adına, tehdit altındaki Fransız",
-      "Fransız estetiğinin yozlaşacağını düşündükleri sanatı ve tarihi adına, başkentimizin tam ortasına yararsız ve canavar görünümlü Eyfel Kulesi'nin",
-      "Eserlerine kıymet verilmediğine inandıkları dikilmesine var gücümüzle, tüm öfkemizle karşı çıkıyoruz. Paris kenti, giderilemeyecek biçimde alçalmak ve çirkinleşmek için bir makine yapımcısının tuhaf ve ticari hayaline uzun süre katlanabilecek midir? Eyfel Kulesi, Paris'in ayıbıdır, bundan hiç kuşkunuz olmasın. Herkes hissediyor, söylüyor bunu ve derin üzüntü duyuyor bundan ve bizler de bu kadar yerinde bir telaşa kapılmış dünya kamuoyunun zayıf bir yankısından başka bir şey değiliz. Ve nihayet, yabancılar ziyarete geldiklerinde şaşırıp ‘Ne yani? Fransızlar o kadar övündükleri zevkleri konusunda bizlere bir fikir vermek için bu berbat şeyi mi buldular?’ diye haykıracaklardır. Bizlerle alay etmekte haklı olacaklardır; yüce gotik yapıların Paris'i, Puget'nin Paris'i, Germain Pilon'un Paris'i, Barye'nin ve diğerlerinin Paris'i tamamen unutulacak. Bunların hepsi Mösyö Eyfel'in Paris'i hâline mi gelecek?”"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "Bu soru 2020 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap D şıkkıdır: Fransız estetiğinin yozlaşacağını düşündükleri sanatı ve tarihi adına, başkentimizin tam ortasına ya.",
-    "source": {
-      "year": 2020,
-      "questionNumber": 23,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Onlisans.pdf"
-    }
-  },
-  {
-    "id": 20200025,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2020 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada aşağıdakilerden hangisine cevaplayınız. değinilmemiştir?",
-    "answers": [
-      "Mükemmel siyaha ulaşmak için kullanılan maddelere Hemen hemen hiçbir renklendirici madde kusursuz bir siyah renk vermez. Yüzyıllar boyunca siyahlar, hep",
-      "Kusursuz olarak adlandırılan siyahın, uygulandığı mavimsi veya kırmızımsı olmuştur. Mazı ile demir sülfat materyaller üzerindeki etkisine karışımından elde edilen siyah ise kusursuzdur. Kolay ulaşılabildiğinden hem deri boyamada hem de mürekkep",
-      "Çivit bazlı yeni kumaş boyalarının ilk kez ne zaman yapımında bu siyah kullanılır ama zamana karşı üretildiğine dayanıklı değildir. Üstelik uygulandığı materyallere zarar veren asitlerin oluşumuna sebep olur. XVIII. yüzyılda",
-      "Kullanılan ilk siyahların üretim maliyetlerine veticari çivit ve boya odunu bazlı yeni kumaş boyaları ortaya değerlerine çıkar: bakam ve sumak. Bunlardan üretilen siyahlar, dönemlerinde bir yandan ahlaklı bir yandan da",
-      "Deri boyamada kusursuz siyah rengin tercih edilme alçakgönüllü olmayı yansıttığı için özellikle din adamları, nedenine öğretmenler ve hizmetçilere hazırlanan giysilerde kullanılmıştır. XIX. yüzyılda siyah, şıklığın rengine dönüşür. Bu yüzyılın sonunda kromlu pekiştiricilerin ortaya çıkmasıyla daha da mükemmel siyahlar üretilir. Ne var ki bu yeni tonlar, kısa bir süre sonra, yeni siyahların geliştirilmesiyle grileşmeye başlar."
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2020 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap B şıkkıdır: Kusursuz olarak adlandırılan siyahın, uygulandığı mavimsi veya kırmızımsı olmuştur. Mazı ile demir s.",
-    "source": {
-      "year": 2020,
-      "questionNumber": 25,
       "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Onlisans.pdf"
     }
   },
@@ -3560,98 +3353,6 @@
       "year": 2020,
       "questionNumber": 59,
       "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Onlisans.pdf"
-    }
-  },
-  {
-    "id": 2020002011,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2020 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
-    "answers": [
-      "Tekrar edilebilir sanatsal üretimin ayrıcalıklı kabul edilmesi beklenemez.",
-      "Eserlerin soyluluk göstergesi kabul edilmesi, sanatın gelişmesini engeller.",
-      "Müzelerde sergilenen eserler, sanatçılar tarafından üstün olarak değerlendirilir.",
-      "Sanatçılar, eserlere üstünlük payesini ancak halkın verebileceğine inanır.",
-      "Sıradan birinin anlayamadığı sanat, üstün olarak değerlendirilemez. "
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2020 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap C şıkkıdır: Müzelerde sergilenen eserler, sanatçılar tarafından üstün olarak değerlendirilir..",
-    "source": {
-      "year": 2020,
-      "questionNumber": 20,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Lisans_GYGK.pdf"
-    }
-  },
-  {
-    "id": 20200022111,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2020 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada “figürasyon” ile ilgili anlatılmak istenen aşağıdakilerden hangisidir?",
-    "answers": [
-      "Bir dansı tanımlayan ve ona niteliğini kazandıran hareketler toplamından ibaret olduğu",
-      "Toplumsal yaşamı inşa eden insani eylemlerin görünmeyen boyutlarını oluşturduğu",
-      "Toplumsal ihtiyaçların karşılanması amacıyla geliştirilen bireysel imajlara karşılık geldiği",
-      "Bireyler arasındaki karşılıklı etkileşimleri resmeden imgeler olarak düşünülebileceği",
-      "Bireylerin toplum içinde üstlendikleri rollerin bir eleştirisi olarak değerlendirilebileceği "
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2020 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap A şıkkıdır: Bir dansı tanımlayan ve ona niteliğini kazandıran hareketler toplamından ibaret olduğu.",
-    "source": {
-      "year": 2020,
-      "questionNumber": 22,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Lisans_GYGK.pdf"
-    }
-  },
-  {
-    "id": 20200026,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2020 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada parayla ilgili aşağıdakilerden hangisine satmaya, üç yaramaz çocuğa bakıcılık yapmaya ve değinilmiştir? hatta bereketli bir tarlayı gözden çıkarmaya razı oldular. Uzun vadeli politik, toplumsal ve ekonomik ilişkiler ağı",
-    "answers": [
-      "Banknot şeklinde kullanılmaya başlandığı zamana sonucunda para; gündelik hayatın vazgeçilmez bir gerçeği hâline geldi. Çünkü insanlar, kolektif imgelem",
-      "Kimi toplumlarda saygınlık göstergesi olarak kabul ve varsayımın icatlarına inanmanın getirdiği konfor ve edildiğine iktidarı arzuladı.",
-      "Yaşam için mutlak gerekli bir araç olarak benimsendiğine",
-      "Alternatifi olabilecek bir sistem bulmanın zorluğuna",
-      "Maddi değerinin belirlenmesinde ticari unsurların rolüne"
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "Bu soru 2020 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap E şıkkıdır: Maddi değerinin belirlenmesinde ticari unsurların rolüne.",
-    "source": {
-      "year": 2020,
-      "questionNumber": 26,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Lisans_GYGK.pdf"
-    }
-  },
-  {
-    "id": 202000241,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2020 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
-    "answers": [
-      "Birer toplumsal sözleşmeye dönüşen buluşların insana bağışladığı düşünülen güç ve rahatlık",
-      "Sosyal bir varlık olarak insanın aidiyet ve mülkiyet ihtiyaçlarını tatmin etmeye yönelik sistem",
-      "Dünyadaki ekonomik düzeni kolay bir şekilde sürdürmeyi sağlayan pratik ve güvenli anlaşma biçimi",
-      "Finans ilişkilerini birbirine bağlayan, ortaya çıkabilecek sorunları hızla çözen hayalî ve kalıcı sözleşme",
-      "Ortak yaşamın ekonomik boyutunu soyutluk ve karmaşadan kurtaran somutlaştırma girişimi "
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2020 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap C şıkkıdır: Dünyadaki ekonomik düzeni kolay bir şekilde sürdürmeyi sağlayan pratik ve güvenli anlaşma biçimi.",
-    "source": {
-      "year": 2020,
-      "questionNumber": 24,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2020/KPSS/SINAVSORULARI/2020_KPSS_Lisans_GYGK.pdf"
     }
   },
   {
@@ -6507,52 +6208,6 @@
     }
   },
   {
-    "id": 20190021,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2019 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada Harezmi ile ilgili aşağıdakilerden hangisine değinilmemiştir?",
-    "answers": [
-      "Yaşadığı döneme",
-      "Çalışmalarının çeşitliliğine",
-      "Bilgisini besleyen kaynağa",
-      "Eserlerinde kullandığı dile",
-      "Eserlerinin çokluğuna "
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2019 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap B şıkkıdır: Çalışmalarının çeşitliliğine.",
-    "source": {
-      "year": 2019,
-      "questionNumber": 21,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2019/KPSS/SINAVSORULARI/2019_Lisans_GYGK.pdf"
-    }
-  },
-  {
-    "id": 201900221,
-    "examType": "kpss_lisans",
-    "subject": "genel_yetenek_kultur",
-    "subcategory": "Genel Yetenek - Genel Kültür",
-    "topic": "Genel Yetenek - Genel Kültür (2019 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçadan hareketle Matrix ile ilgili aşağıdakilerden hangisine ulaşılamaz?",
-    "answers": [
-      "Film versiyonunun küresel ölçekte büyük bir ilgiyle karşılandığına",
-      "İnsanı bekleyen karanlık geleceği anlatan eserlerden biri olduğuna",
-      "İnsan üretimi olan yapay zekânın dünyayı kontrol etmesini anlattığına",
-      "Adını; içeriğindeki, geleceğe ait kurmaca dünyadan aldığına",
-      "Yapay zekânın insanlık için tehdit olabileceği fikrinden beslendiğine "
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2019 KPSS Genel Yetenek - Genel Kültür sınavından alınmıştır. Doğru cevap A şıkkıdır: Film versiyonunun küresel ölçekte büyük bir ilgiyle karşılandığına.",
-    "source": {
-      "year": 2019,
-      "questionNumber": 22,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2019/KPSS/SINAVSORULARI/2019_Lisans_GYGK.pdf"
-    }
-  },
-  {
     "id": 20190027,
     "examType": "kpss_lisans",
     "subject": "genel_yetenek_kultur",
@@ -9060,29 +8715,6 @@
     }
   },
   {
-    "id": 20180022,
-    "examType": "kpss_ortaogretim",
-    "subject": "genel",
-    "subcategory": "KPSS Ortaöğretim",
-    "topic": "KPSS Ortaöğretim (2018 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada emoji ile ilgili asıl anlatılmak istenen aşağıdakilerden hangisidir?",
-    "answers": [
-      "İnsanlık için ortak bir iletişim aracı olabileceği",
-      "Günümüz iletişim teknolojisiyle ortaya çıktığı",
-      "Yoğun bir anlam dağarcığına sahip olduğu",
-      "Gençler arasında yaygın olarak kullanıldığı",
-      "Yeni çalışmalarla daha çok geliştirilebileceği"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2018 KPSS KPSS Ortaöğretim sınavından alınmıştır. Doğru cevap A şıkkıdır: İnsanlık için ortak bir iletişim aracı olabileceği.",
-    "source": {
-      "year": 2018,
-      "questionNumber": 22,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2018/KPSS/SINAVSORULARI/2018-KPSS-Ortaogretim12112019.pdf"
-    }
-  },
-  {
     "id": 20180023,
     "examType": "kpss_ortaogretim",
     "subject": "genel",
@@ -9309,52 +8941,6 @@
     "source": {
       "year": 2018,
       "questionNumber": 11,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2018/KPSS/SINAVSORULARI/2018-KPSS-OnLisans12112019.pdf"
-    }
-  },
-  {
-    "id": 201800221,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2018 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
-    "answers": [
-      "Yaşadığı sıkıntıları yazdıklarıyla bir şekilde başkalarına duyurmak",
-      "Dünyadaki küçük veya büyük bütün acıların geçiciliğini kavramak",
-      "Her insanın, ömründe benzersiz, büyük bir acı yaşadığını fark etmek",
-      "Başka acıların büyüklüğüne kıyasla kendi acısını katlanılabilir görmek",
-      "Dünyanın, acılarının üstesinden gelenlerle dolu olduğunu bilmek"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2018 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap A şıkkıdır: Yaşadığı sıkıntıları yazdıklarıyla bir şekilde başkalarına duyurmak.",
-    "source": {
-      "year": 2018,
-      "questionNumber": 22,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2018/KPSS/SINAVSORULARI/2018-KPSS-OnLisans12112019.pdf"
-    }
-  },
-  {
-    "id": 201800231,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2018 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada anlatılmak istenen aşağıdakilerden hangisidir?",
-    "answers": [
-      "Acı herkes içindir, bizi farklı kılan daha çok onları nasıl karşıladığımızdır.",
-      "Acının hafızası yoktur, her acı onu diğerlerinden ayıran bir yenilik taşır.",
-      "Başkalarının acısı, kendi yaşadıklarımızın yanında küçük ve önemsizdir.",
-      "Acıların benzerliği ve onları paylaşma isteği insanları birbirine bağlar.",
-      "Yazarlar, acılarını sözcüklere dökebildikleri ölçüde başarılı olurlar. "
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "Bu soru 2018 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap D şıkkıdır: Acıların benzerliği ve onları paylaşma isteği insanları birbirine bağlar..",
-    "source": {
-      "year": 2018,
-      "questionNumber": 23,
       "url": "https://dokuman.osym.gov.tr/pdfdokuman/2018/KPSS/SINAVSORULARI/2018-KPSS-OnLisans12112019.pdf"
     }
   },
@@ -12487,75 +12073,6 @@
     }
   },
   {
-    "id": 20170020,
-    "examType": "kpss",
-    "subject": "genel",
-    "subcategory": "Genel",
-    "topic": "Çıkmış Soru (2017 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçadan hareketle aşağıdakilerin hangisine ulaşılabilir?",
-    "answers": [
-      "Kişiler, el yazması eserleri okumak yerine dinlemeyi tercih etmiştir.",
-      "Sözlü kültür döneminde hacimli kitapların okunmasından kaçınılmıştır. Ö",
-      "Matbaa ile birlikte, okumada bireyselliğe ortam hazırlanmıştır.",
-      "Birlikte okuma eyleminin yapıldığı dönemlerde fazla bilgi üretilmiştir.",
-      "Yazının icadı, okuma alışkanlığının gelişmesini sağlamıştır."
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2017 KPSS Genel sınavından alınmıştır. Doğru cevap C şıkkıdır: Matbaa ile birlikte, okumada bireyselliğe ortam hazırlanmıştır..",
-    "source": {
-      "year": 2017,
-      "questionNumber": 20,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2017/KPSS/SINAVSORULARI/2017KPSSALANGKGY.pdf"
-    }
-  },
-  {
-    "id": 20170022,
-    "examType": "kpss",
-    "subject": "genel",
-    "subcategory": "Genel",
-    "topic": "Çıkmış Soru (2017 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçadan hareketle Strauss’u özgün kılan özelliği aşağıdakilerden hangisidir?",
-    "answers": [
-      "Farklı dönemlerden yeni bir sentez çıkarması",
-      "Kendisine yapılaSn eleştirileri dikkate alması",
-      "Müzik kariyerine yeni türlerle başlaması",
-      "Çağdaşlarının işlemediği temaları kullanması",
-      "Bestelerini yaşadığı yüzyılın beğenileriyle yapması Ö"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2017 KPSS Genel sınavından alınmıştır. Doğru cevap A şıkkıdır: Farklı dönemlerden yeni bir sentez çıkarması.",
-    "source": {
-      "year": 2017,
-      "questionNumber": 22,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2017/KPSS/SINAVSORULARI/2017KPSSALANGKGY.pdf"
-    }
-  },
-  {
-    "id": 20170026,
-    "examType": "kpss",
-    "subject": "genel",
-    "subcategory": "Genel",
-    "topic": "Çıkmış Soru (2017 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada numaralanmış cümlelerin hangisinde tartışmalara rağmen kavram, tarih disiplininde geniş bir mecaz anlamda kullanılmış bir ifade yoktur? kabul görmüş ve pek çok araştırmanın yaklaşımını belirlemiştir. (VIII) Örneğin İngiltere'de 1972'de",
-    "answers": [
-      "I",
-      "II",
-      "III",
-      "IV",
-      "V uygulamaya konulaSn “Okullarda Tarih Öğretimi” başlıklı bir projede tarihsel empati, tarihi anlamanın en önemli yöntemlerinden biri olarak gösterilmiştir."
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "Bu soru 2017 KPSS Genel sınavından alınmıştır. Doğru cevap E şıkkıdır: V uygulamaya konulaSn “Okullarda Tarih Öğretimi” başlıklı bir projede tarihsel empati, tarihi anlama.",
-    "source": {
-      "year": 2017,
-      "questionNumber": 26,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2017/KPSS/SINAVSORULARI/2017KPSSALANGKGY.pdf"
-    }
-  },
-  {
     "id": 20170028,
     "examType": "kpss",
     "subject": "genel",
@@ -15312,52 +14829,6 @@
     "source": {
       "year": 2016,
       "questionNumber": 21,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2016/KPSS/2016KPSSGenelYetenekGenelKultur.pdf"
-    }
-  },
-  {
-    "id": 201600241,
-    "examType": "kpss",
-    "subject": "genel",
-    "subcategory": "Genel",
-    "topic": "Çıkmış Soru (2016 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçadakialtı çizili sözcükaşağıdakilerden hangisine gönderme yapmaktadır?",
-    "answers": [
-      "Dâhice yazılmış esere S",
-      "İnsanlığın yazgısına",
-      "Ulusların yaşamına",
-      "Ânı yakalamaya",
-      "Tarihî olayları kapsamaya Ö"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2016 KPSS Genel sınavından alınmıştır. Doğru cevap C şıkkıdır: Ulusların yaşamına.",
-    "source": {
-      "year": 2016,
-      "questionNumber": 24,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2016/KPSS/2016KPSSGenelYetenekGenelKultur.pdf"
-    }
-  },
-  {
-    "id": 20160025,
-    "examType": "kpss",
-    "subject": "genel",
-    "subcategory": "Genel",
-    "topic": "Çıkmış Soru (2016 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçadakiV. cümleden aşağıdakilerin hangisi kesin olarakçıkarılabilir?",
-    "answers": [
-      "Bireyler ve uluslar geçmişe ya da geleceğe değil, âna odaklanmalıdır.",
-      "Önüne çıkan tarihî fırsatları kaçıran milletler bir daha iflah olmazlar.",
-      "Karar anlarında yaşanan tereddütler, sonrasında pişmanlık doğurur.",
-      "Tarihte geç kalmaktansa erken davranmak daha yeğdir.",
-      "Tarihî ânı yakalayamama yaşamda ve kaderde izler bırakacaktır."
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2016 KPSS Genel sınavından alınmıştır. Doğru cevap B şıkkıdır: Önüne çıkan tarihî fırsatları kaçıran milletler bir daha iflah olmazlar..",
-    "source": {
-      "year": 2016,
-      "questionNumber": 25,
       "url": "https://dokuman.osym.gov.tr/pdfdokuman/2016/KPSS/2016KPSSGenelYetenekGenelKultur.pdf"
     }
   },
@@ -18168,29 +17639,6 @@
     }
   },
   {
-    "id": 20160022111111,
-    "examType": "kpss_ortaogretim",
-    "subject": "genel",
-    "subcategory": "KPSS Ortaöğretim",
-    "topic": "KPSS Ortaöğretim (2016 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
-    "answers": [
-      "Gerçek ile hayal dünyası arasındaki ilişkiler çocuğun hayatında büyük etkiye sahiptir.",
-      "Çocukların çizgi filmlere verdiği tepkiler gerçeği algılama süreçlerini de etkiler.",
-      "Çocukların televizyonu ebeveyn gözetimi altında izlemesi gelişimleri için gereklidir.",
-      "Televizyon karşısında geçirilen vakit arttıkça, çocuk üzerindeki olumsuz etki artar.",
-      "Çizgi filmler sayesinde ebeveynin çocuğun hayatı üzerindeki denetimi kolaylaşır. "
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2016 KPSS KPSS Ortaöğretim sınavından alınmıştır. Doğru cevap A şıkkıdır: Gerçek ile hayal dünyası arasındaki ilişkiler çocuğun hayatında büyük etkiye sahiptir..",
-    "source": {
-      "year": 2016,
-      "questionNumber": 22,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2016/KPSSORTON/2016KPSSOrtaogretimDuzeyiTemel20112016.pdf"
-    }
-  },
-  {
     "id": 20160027111,
     "examType": "kpss_ortaogretim",
     "subject": "genel",
@@ -18371,29 +17819,6 @@
     "source": {
       "year": 2016,
       "questionNumber": 7,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2016/KPSSORTON/2016KPSSOnLisansDuzeyiTemel16102016.pdf"
-    }
-  },
-  {
-    "id": 20160025111,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2016 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçada Sarı Irmak bölgesiyle ilgili olarak aşağıdakilerden hangisine değinilmemiştir?",
-    "answers": [
-      "Coğrafi konumuna",
-      "Görülen yağış biçimlerine",
-      "Su taşkınlarına",
-      "Toprak özelliklerine",
-      "Kullanılan tarım yöntemlerine"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2016 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap B şıkkıdır: Görülen yağış biçimlerine.",
-    "source": {
-      "year": 2016,
-      "questionNumber": 25,
       "url": "https://dokuman.osym.gov.tr/pdfdokuman/2016/KPSSORTON/2016KPSSOnLisansDuzeyiTemel16102016.pdf"
     }
   },
@@ -18716,29 +18141,6 @@
     "source": {
       "year": 2015,
       "questionNumber": 15,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2015/KPSS/SINAVSORULARI/2015KPSSALANGKGY.pdf"
-    }
-  },
-  {
-    "id": 20150024,
-    "examType": "kpss",
-    "subject": "genel",
-    "subcategory": "Genel",
-    "topic": "Çıkmış Soru (2015 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçada kare bulmacayla ilgili olarak aşağıdakilerden hangisine değinilmemiştir?",
-    "answers": [
-      "Kim tarafından bSulunduğuna",
-      "Hangi yayında kullanılmaya başlandığına",
-      "Kısa sürede yaygınlaştığına",
-      "Önceleri çocukların ilgisini çektiğine",
-      "Soruların zamanla zorlaştığına Ö"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2015 KPSS Genel sınavından alınmıştır. Doğru cevap C şıkkıdır: Kısa sürede yaygınlaştığına.",
-    "source": {
-      "year": 2015,
-      "questionNumber": 24,
       "url": "https://dokuman.osym.gov.tr/pdfdokuman/2015/KPSS/SINAVSORULARI/2015KPSSALANGKGY.pdf"
     }
   },
@@ -23159,52 +22561,6 @@
     }
   },
   {
-    "id": 2014002511,
-    "examType": "kpss_ortaogretim",
-    "subject": "genel",
-    "subcategory": "KPSS Ortaöğretim",
-    "topic": "KPSS Ortaöğretim (2014 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçadaki numaralandırılmış cümlelerin hangisi, söz konusu romana yönelik eleştirileri sonlandırma isteğinin göstergesi niteliğindedir?",
-    "answers": [
-      "II",
-      "III",
-      "IV",
-      "V",
-      "VI"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2014 KPSS KPSS Ortaöğretim sınavından alınmıştır. Doğru cevap B şıkkıdır: III.",
-    "source": {
-      "year": 2014,
-      "questionNumber": 25,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2014/KPSS/SINAVSORULARI/2014KPSSOrtaogretim.pdf"
-    }
-  },
-  {
-    "id": 20140026,
-    "examType": "kpss_ortaogretim",
-    "subject": "genel",
-    "subcategory": "KPSS Ortaöğretim",
-    "topic": "KPSS Ortaöğretim (2014 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçadaki numaralandırılmış cümlelerin hangisinde sebep-sonuç ilişkisi vardır?",
-    "answers": [
-      "II",
-      "III",
-      "IV",
-      "V",
-      "VI"
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "Bu soru 2014 KPSS KPSS Ortaöğretim sınavından alınmıştır. Doğru cevap E şıkkıdır: VI",
-    "source": {
-      "year": 2014,
-      "questionNumber": 26,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2014/KPSS/SINAVSORULARI/2014KPSSOrtaogretim.pdf"
-    }
-  },
-  {
     "id": 201400281111,
     "examType": "kpss_ortaogretim",
     "subject": "genel",
@@ -23527,75 +22883,6 @@
     }
   },
   {
-    "id": 2014002311,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2014 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçadaki numaralandırılmış cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
-    "answers": [
-      "I",
-      "II",
-      "III",
-      "IV",
-      "V"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "Bu soru 2014 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap D şıkkıdır: IV.",
-    "source": {
-      "year": 2014,
-      "questionNumber": 23,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2014/KPSS/SINAVSORULARI/2014KPSSOnlisans.pdf"
-    }
-  },
-  {
-    "id": 20140024111,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2014 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçadan aşağıdakilerin hangisine ulaşılamaz?",
-    "answers": [
-      "Organ bağışındaki artış, gereksinimi karşılayacak düzeyde değildir.",
-      "Organ bağışının artmasında hastanelerde yapılacak çalışmalar önemlidir. S",
-      "Ülkemizde organ nakli konusunda yeterli deneyime sahip uzman azdır.",
-      "Binlerce kişinin hayatı organ yetmezliği yüzünden sona ermektedir.",
-      "Beyin ölümü gerçekleşen kişilerin organları, Öbaşkalarına umut olabilir."
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2014 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap C şıkkıdır: Ülkemizde organ nakli konusunda yeterli deneyime sahip uzman azdır..",
-    "source": {
-      "year": 2014,
-      "questionNumber": 24,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2014/KPSS/SINAVSORULARI/2014KPSSOnlisans.pdf"
-    }
-  },
-  {
-    "id": 20140025111,
-    "examType": "kpss_onlisans",
-    "subject": "genel",
-    "subcategory": "KPSS Önlisans",
-    "topic": "KPSS Önlisans (2014 KPSS)",
-    "difficulty": 2,
-    "questionText": "Bu parçadaki numaralandırılmış cümlelerin hangilerinde karşılaştırma yoktur?",
-    "answers": [
-      "I ve II",
-      "I ve III",
-      "II ve IV",
-      "III ve V",
-      "IV ve V"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Bu soru 2014 KPSS KPSS Önlisans sınavından alınmıştır. Doğru cevap B şıkkıdır: I ve III.",
-    "source": {
-      "year": 2014,
-      "questionNumber": 25,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2014/KPSS/SINAVSORULARI/2014KPSSOnlisans.pdf"
-    }
-  },
-  {
     "id": 20140041,
     "examType": "kpss_onlisans",
     "subject": "genel",
@@ -23845,52 +23132,6 @@
     "source": {
       "year": 2013,
       "questionNumber": 1,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2013/KPSS1/CS.pdf"
-    }
-  },
-  {
-    "id": 20130024,
-    "examType": "kpss",
-    "subject": "genel",
-    "subcategory": "Genel",
-    "topic": "Çıkmış Soru (2013 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçadaki numaralandırılmış cümlelerin hangilerinde, kaplumbağanın temsil ettiği soyut kavramlardan söz edilmiştir?",
-    "answers": [
-      "I ve II",
-      "II ve IV",
-      "IV ve V",
-      "V ve VI",
-      "VI ve VII "
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Bu soru 2013 KPSS Genel sınavından alınmıştır. Doğru cevap C şıkkıdır: IV ve V.",
-    "source": {
-      "year": 2013,
-      "questionNumber": 24,
-      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2013/KPSS1/CS.pdf"
-    }
-  },
-  {
-    "id": 20130027,
-    "examType": "kpss",
-    "subject": "genel",
-    "subcategory": "Genel",
-    "topic": "Çıkmış Soru (2013 KPSS)",
-    "difficulty": 3,
-    "questionText": "Bu parçadaki numaralandırılmış cümlelerin güvenli hâle getirmesi bekleniyor. hangisinde bir karşılaştırmayapılmamıştır?",
-    "answers": [
-      "II",
-      "III",
-      "IV",
-      "V",
-      "VII"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Bu soru 2013 KPSS Genel sınavından alınmıştır. Doğru cevap A şıkkıdır: II.",
-    "source": {
-      "year": 2013,
-      "questionNumber": 27,
       "url": "https://dokuman.osym.gov.tr/pdfdokuman/2013/KPSS1/CS.pdf"
     }
   },

@@ -374,7 +374,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1432.9, y: 1000.0001}
+  m_AnchoredPosition: {x: 1432.9, y: 1000}
   m_SizeDelta: {x: 632.9, y: 150.9}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &904164609
@@ -593,6 +593,40 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MillionaireGame.UIManager
   mainCanvas: {fileID: 0}
+  gamesPanel: {fileID: 0}
+  gamesCloseButton: {fileID: 0}
+  gamesButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  gameButtonConfigs:
+  - buttonImage: {fileID: 6679147477695103234, guid: 816cda946d08e27418e03de45ec74faf, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.BlockPuzzle
+  - buttonImage: {fileID: -6202445854305379571, guid: 6a186dd2ce8781344b247ac687efa8cc, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.BlockBlastCrush
+  - buttonImage: {fileID: 3706381515108100492, guid: 96214f82c2d6c8d438f7f9b59a558359, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.BlockSlide
+  - buttonImage: {fileID: -1127332002790956400, guid: 1755e0108869041499b2a948af4d06b4, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.BubbleShooterPuzzle
+  - buttonImage: {fileID: -2278566297644842510, guid: 8a360a98d4a6a1f419089310fd0c1852, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.BlockMerge
+  - buttonImage: {fileID: 2015173866192010296, guid: dc89acd410600f0458cb912849db727e, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.IslamicQuiz
+  - buttonImage: {fileID: 1404028623067837608, guid: a705a6914ddff6e44844aa24849fb8a9, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.FruitMergePuzzle
+  - buttonImage: {fileID: 880783508192854218, guid: 2190c883262e3b04b9f4d686b6e6a49a, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.RoyalCatCrushMatch
+  - buttonImage: {fileID: -8688392260014441854, guid: 0bd27eb11a81efe498cf8804b6503b30, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.SnakeEscapePuzzle
+  - buttonImage: {fileID: 1153589033392776950, guid: 9b9a2255a9df792469f2a70d2ebbaf8c, type: 3}
+    storeUrl: https://play.google.com/store/apps/details?id=com.PencGames.WaterPuzzleSort
   _bgImg: {fileID: 0}
   languagePanel: {fileID: 0}
   languageButtons: []
@@ -600,12 +634,17 @@ MonoBehaviour:
   branchPanel: {fileID: 0}
   branchTitle: {fileID: 0}
   branchButtons: []
+  btnBranchBack: {fileID: 0}
+  btnOurGames: {fileID: 0}
   categoryPanel: {fileID: 0}
   categoryTitle: {fileID: 0}
   categorySubtitle: {fileID: 0}
   categoryButtons: []
+  btnCategoryBack: {fileID: 0}
   btnSettings: {fileID: 0}
+  btnGlobalBack: {fileID: 0}
   gamePanel: {fileID: 0}
+  btnGameBack: {fileID: 0}
   questionNumberText: {fileID: 0}
   questionText: {fileID: 0}
   answerButtons:
@@ -717,20 +756,21 @@ MonoBehaviour:
   _particlesWrong: {fileID: 0}
   _particlesNewQuestion: {fileID: 0}
   _backgroundSprites:
-  - {fileID: -9047424443484645767, guid: 26127e14eb1ca5c48ac4cf0a1b076e0f, type: 3}
-  - {fileID: -9047424443484645767, guid: 760a5f9c51412094098571e2e98f70bf, type: 3}
-  - {fileID: -6859248025391284338, guid: 54b1eebd7fe8efb45864cf394c333f58, type: 3}
-  - {fileID: 3937906742433804904, guid: 08eb2ad8a27381e4b95f6f809202e1df, type: 3}
-  - {fileID: -1193431590190313871, guid: a8b11e422cd9e644eb4eaa538ae4587e, type: 3}
-  - {fileID: -5112735883687780851, guid: d50c774d9f4488444b560b79badf179b, type: 3}
-  - {fileID: -7035099482295933066, guid: 7414085a9e6747c4f86ac4e8c8f8c232, type: 3}
-  - {fileID: -8508419163364099191, guid: 4b8edebfdea4a444888a3d9b0f6a8866, type: 3}
-  - {fileID: 7211992080854321411, guid: c22298df443b91b4e979b612e5224283, type: 3}
-  - {fileID: -2398763440084470259, guid: cbe7a50461ff69b4a88dd42f8aaa4833, type: 3}
-  - {fileID: -403058573272754957, guid: 6bbdc8027c69aab4c9f3d4d8cb70bb32, type: 3}
-  - {fileID: -1630972867650556732, guid: f0716688568f74d43b672a9409ef13da, type: 3}
-  - {fileID: -5759021531845455749, guid: 3146a51360850dc42ab1bfc9d9830310, type: 3}
-  - {fileID: 3202532173582511055, guid: 25910665abda4c34ab945a48bdc9edc8, type: 3}
+  - {fileID: -855298285791758126, guid: 2de11f5197f819246ab12210b11b5c4e, type: 3}
+  - {fileID: 6937817954938267909, guid: 2b292ef3b9f6a70469ef4ddee870ed5d, type: 3}
+  - {fileID: -6470460504253458178, guid: 32a7e641ae41fb446958ea0948458d32, type: 3}
+  - {fileID: -4178046375966092550, guid: 186a18c249361a84f998deca7e9e253c, type: 3}
+  - {fileID: 4130640169021434097, guid: 1c25bfdd156caeb4cbdf838cc5c96c9f, type: 3}
+  - {fileID: 3465286685962602723, guid: 1ac423064e7feff4bb9b3c78c8c0d37e, type: 3}
+  - {fileID: 7028616704906629411, guid: 56598ce0eaa383e49bc84cb81d783a31, type: 3}
+  - {fileID: 8288426215254106694, guid: 63b0de6633f892b428fb2ea94296ab11, type: 3}
+  - {fileID: 4113829005332862926, guid: c669f7d449c43fe4f8a9cbddeadf7f89, type: 3}
+  - {fileID: -5099292496197868168, guid: c29c03da8195a6d48a58a3435debdb7e, type: 3}
+  - {fileID: -2966200626249415253, guid: fd32af9a36e6d044eb0dd7ef98777875, type: 3}
+  - {fileID: -1540426309290004842, guid: 94ee8a716379fbb498617256d069dc4d, type: 3}
+  - {fileID: 8389134475083476877, guid: 7b1dc22f5456f9f4b8858e76772e7f6e, type: 3}
+  - {fileID: -6270953770400647376, guid: d73fca16ab2b66f4699f066543e12eeb, type: 3}
+  - {fileID: 4349915267927364619, guid: 3dbf12a4ae805b34f99f605fddee15e9, type: 3}
   _slideshowInterval: 6
   _audioPitch: 1.5
   _settingsButtonSprite: {fileID: 5904627132653970092, guid: c05b2e497afdae849b10925601ed5514, type: 3}
