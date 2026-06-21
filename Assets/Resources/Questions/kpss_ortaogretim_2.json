@@ -1729,25 +1729,6 @@
     "explanation": "'Onun için' burada 'bu nedenle' anlamında değil, 'onun hakkında' anlamı da olabilir. Ama Türkçe'de 'onun için' çoğunlukla 'onun hakkında' veya 'bu yüzden' olarak kullanılır. Cümlede 'hakkında' anlamı daha uygun."
   },
   {
-    "id": 2022094,
-    "examType": "kpss_ortaogretim",
-    "subject": "general_ability",
-    "subcategory": "Matematik",
-    "topic": "Mutlak Değer",
-    "difficulty": 3,
-    "questionText": "|-5| + |3| işleminin sonucu kaçtır?",
-    "questionLatex": null,
-    "answers": [
-      "2",
-      "5",
-      "8",
-      "-2",
-      "-8"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "|-5|=5, |3|=3, toplam 8."
-  },
-  {
     "id": 2022095,
     "examType": "kpss_ortaogretim",
     "subject": "general_ability",

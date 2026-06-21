@@ -27,18 +27,70 @@ namespace MillionaireGame
         // ─────────────────────────────────────────────
         // Initialization
         // ─────────────────────────────────────────────
-        // Helper to normalize category names
         private string NormalizeCategory(string cat)
         {
-            if (string.IsNullOrWhiteSpace(cat)) return cat;
-            var lower = cat.ToLowerInvariant();
-            // Standardize combined General Culture and General Ability
-            if (lower.Contains("genel kültür") && lower.Contains("genel yetenek"))
+            if (string.IsNullOrWhiteSpace(cat)) return string.Empty;
+
+            string raw = cat.Trim().ToLowerInvariant();
+
+            // Strip prefixes
+            raw = raw.Replace("kpss_ortaogretim_", "")
+                     .Replace("kpss_onlisans_", "")
+                     .Replace("kpss_lisans_", "")
+                     .Replace("kpss_oabt_", "")
+                     .Replace("dhbt_", "")
+                     .Replace("kpss_", "");
+
+            // Exact or substring matching
+            if (raw.Contains("genel_kultur") || raw.Contains("general_culture") || raw.Contains("general culture")) return "Genel Kültür";
+            if (raw.Contains("genel_yetenek") || raw.Contains("general_ability") || raw.Contains("general ability")) return "Genel Yetenek";
+            if (raw.Contains("egitim_bilimleri") || raw.Contains("educational_sciences") || raw.Contains("educational sciences")) return "Eğitim Bilimleri";
+            if (raw.Contains("turkce") || raw.Contains("turkish")) return "Türkçe";
+            if (raw.Contains("matematik") || raw.Contains("mathematics")) return "Matematik";
+            if (raw.Contains("tarih") || raw.Contains("history")) return "Tarih";
+            if (raw.Contains("cografya") || raw.Contains("geography")) return "Coğrafya";
+            if (raw.Contains("vatandaslik") || raw.Contains("citizenship") || raw.Contains("civics")) return "Vatandaşlık";
+            if (raw.Contains("din") || raw.Contains("religion")) return "Din Kültürü";
+            if (raw.Contains("guncel") || raw.Contains("güncel") || raw.Contains("general_knowledge")) return "Güncel Bilgiler";
+            if (raw.Contains("hukuk") || raw.Contains("law")) return "Hukuk";
+            if (raw.Contains("iktisat") || raw.Contains("economics")) return "İktisat";
+            if (raw.Contains("isletme") || raw.Contains("business")) return "İşletme";
+            if (raw.Contains("maliye") || raw.Contains("finance")) return "Maliye";
+            if (raw.Contains("muhasebe") || raw.Contains("accounting")) return "Muhasebe";
+            if (raw.Contains("istatistik") || raw.Contains("statistics")) return "İstatistik";
+            if (raw.Contains("kamu_yonetimi") || raw.Contains("public_administration")) return "Kamu Yönetimi";
+            if (raw.Contains("uluslararasi_iliskiler") || raw.Contains("international_relations")) return "Uluslararası İlişkiler";
+            if (raw.Contains("calisma_ekonomisi") || raw.Contains("labor_economics")) return "Çalışma Ekonomisi";
+            if (raw.Contains("geometri")) return "Geometri";
+
+            // Standardize combined General Culture + General Ability label
+            if (raw.Contains("genel kültür") && raw.Contains("genel yetenek"))
                 return "Genel Kültür ve Genel Yetenek";
-            // Standardize field categories for Önlisans
-            if (lower.Contains("alan dersleri") || lower.Contains("alan"))
+
+            // Standardize field/domain categories for Önlisans
+            if (raw == "alan dersleri" || raw == "alan")
                 return "Alan Dersleri";
-            return cat.Trim();
+
+            // Fallback: title-case the trimmed original string
+            string trimmed = cat.Trim();
+            if (trimmed.Length > 0)
+                trimmed = char.ToUpperInvariant(trimmed[0]) + trimmed.Substring(1);
+
+            return trimmed;
+        }
+
+        public string GetQuestionCategory(QuestionEntry q)
+        {
+            if (q == null) return string.Empty;
+            string raw = null;
+            if (!string.IsNullOrWhiteSpace(q.subcategory))
+                raw = q.subcategory;
+            else if (!string.IsNullOrWhiteSpace(q.subject))
+                raw = q.subject;
+            else if (!string.IsNullOrWhiteSpace(q.category))
+                raw = q.category;
+
+            return NormalizeCategory(raw);
         }
 
         public void LoadDatabase(string branchPrefix)
@@ -62,11 +114,6 @@ namespace MillionaireGame
                             {
                                 continue;
                             }
-
-                            if (string.IsNullOrEmpty(q.category))
-                            {
-                                q.category = !string.IsNullOrEmpty(q.subcategory) ? q.subcategory : (!string.IsNullOrEmpty(q.subject) ? q.subject : file.name);
-                            }
                         }
                         _database.questions.AddRange(dbPart.questions.Where(q =>
                             !isGlobalFile || string.Equals(q.examType, branchPrefix, System.StringComparison.OrdinalIgnoreCase)
@@ -77,17 +124,26 @@ namespace MillionaireGame
 
             if (_database.questions.Count > 0)
             {
-                // Discover all categories (subjects, subcategories, and legacy categories)
-                var subjects = _database.questions.Select(q => q.subject).Where(s => !string.IsNullOrEmpty(s));
-                var subcats = _database.questions.Select(q => q.subcategory).Where(s => !string.IsNullOrEmpty(s));
-                var cats = _database.questions.Select(q => q.category).Where(s => !string.IsNullOrEmpty(s));
-                // Combine and normalize category names
-                var allCategories = subjects.Concat(subcats).Concat(cats);
-                var normalized = allCategories.Select(cat => NormalizeCategory(cat));
-                AvailableCategories = normalized
-                    .Distinct()
+                // Collect unique categories based on the most specific field of loaded questions.
+                var seen = new HashSet<string>(System.StringComparer.OrdinalIgnoreCase);
+                var uniqueCategories = new List<string>();
+
+                foreach (var q in _database.questions)
+                {
+                    string cat = GetQuestionCategory(q);
+                    if (!string.IsNullOrEmpty(cat))
+                    {
+                        if (seen.Add(cat))
+                        {
+                            uniqueCategories.Add(cat);
+                        }
+                    }
+                }
+
+                AvailableCategories = uniqueCategories
                     .OrderBy(c => c)
                     .ToList();
+
                 // Add "All" option at the beginning
                 AvailableCategories.Insert(0, "All");
 
@@ -119,9 +175,7 @@ namespace MillionaireGame
             else
             {
                 _filteredPool = _database.questions
-                    .Where(q => (q.subject != null && q.subject.Equals(category, System.StringComparison.OrdinalIgnoreCase)) ||
-                                (q.subcategory != null && q.subcategory.Equals(category, System.StringComparison.OrdinalIgnoreCase)) ||
-                                (q.category != null && q.category.Equals(category, System.StringComparison.OrdinalIgnoreCase)))
+                    .Where(q => GetQuestionCategory(q).Equals(category, System.StringComparison.OrdinalIgnoreCase))
                     .ToList();
             }
 

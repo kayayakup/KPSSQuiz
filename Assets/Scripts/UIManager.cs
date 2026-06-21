@@ -15,7 +15,7 @@ namespace MillionaireGame
     public class UIManager : MonoBehaviour
     {
         public const int MaxAnswerCount = 5;
-        private static readonly string[] AnswerLetters = { "A", "B", "C", "D", "E" };
+        public static readonly string[] AnswerLetters = { "A", "B", "C", "D", "E" };
 
         // ══════════════════════════════════════════════
         //  PUBLIC REFERENCES
@@ -127,6 +127,18 @@ namespace MillionaireGame
         public TextMeshProUGUI reminderText;
         public Button reminderCloseButton;
 
+        // ── Explanation panel ──
+        public GameObject explanationPanel;
+        public TextMeshProUGUI explanationTitle;
+        public TextMeshProUGUI explanationText;
+        public Button explanationCloseButton;
+        public Button btnShowExplanation;
+
+        // ── Wrong Answer panel ──
+        public GameObject wrongAnswerPanel;
+        public Button btnShowCorrectAnswer;
+        public Button btnPassQuestion;
+
         // ── Gradient Palettes (Modernized/Lighter) ──
         private readonly Color[] _gradTop = new Color[] {
             new(110/255f, 133/255f, 183/255f, 1f), // Pastel Blue
@@ -164,7 +176,7 @@ namespace MillionaireGame
         private readonly Color32 _btnWrong = new(210, 50, 50, 255);
         private readonly Color32 _btnDisabled = new(60, 60, 80, 255);
         private readonly Color32 _ladderNormal = new(20, 30, 80, 255);
-        private readonly Color32 _ladderActive = new(255, 180, 0, 255);
+        private readonly Color32 _ladderActive = new(40, 200, 40, 255);
         private readonly Color32 _ladderSafe = new(80, 180, 255, 255);
         private readonly Color32 _white = new(255, 255, 255, 255);
         private readonly Color32 _borderColor = new(100, 100, 250, 180);
@@ -223,6 +235,8 @@ namespace MillionaireGame
             BuildResultPanel(canvasGO.transform);
             BuildSettingsPanel(canvasGO.transform);
             BuildReminderPanel(canvasGO.transform);
+            BuildExplanationPanel(canvasGO.transform);
+            BuildWrongAnswerPanel(canvasGO.transform);
             // Build Our Games panel after other UI elements
             BuildGamesPanel(canvasGO.transform);
 
@@ -263,6 +277,7 @@ namespace MillionaireGame
             resultPanel.SetActive(false);
             settingsPanel.SetActive(false);
             reminderPanel.SetActive(false);
+            if (gamesPanel != null) gamesPanel.SetActive(false);
             if (ladderOverlayPanel != null) ladderOverlayPanel.SetActive(false);
             btnSettings.gameObject.SetActive(false); // hidden until language is chosen
         }
@@ -507,12 +522,12 @@ namespace MillionaireGame
         {
             branchPanel = CreatePanel(parent, "BranchPanel", Vector2.zero, new Vector2(950, 1600));
 
-            branchTitle = CreateTMP(branchPanel.transform, "BranchTitle", "Select Branch", 58, TextAlignmentOptions.Center, new Vector2(0, 680), new Vector2(800, 80));
+            branchTitle = CreateTMP(branchPanel.transform, "BranchTitle", "Sınav Seçin", 58, TextAlignmentOptions.Center, new Vector2(0, 680), new Vector2(800, 80));
             branchTitle.color = _accentGold;
             branchTitle.fontStyle = FontStyles.Bold;
 
             btnOurGames = CreateButton(branchPanel.transform, "BtnOurGames", "Oyunlarımız", new Vector2(0, -220f), new Vector2(700, 110), 48);
-            btnOurGames.GetComponent<Image>().color = new Color32(230, 140, 10, 255);
+            btnOurGames.GetComponent<Image>().color = new Color32(120, 255, 10, 255);
             btnOurGames.onClick.AddListener(() =>
             {
                 AnimateButtonPress(btnOurGames);
@@ -550,11 +565,11 @@ namespace MillionaireGame
         {
             categoryPanel = CreatePanel(parent, "CategoryPanel", Vector2.zero, new Vector2(950, 1600));
 
-            categoryTitle = CreateTMP(categoryPanel.transform, "CategoryTitle", "Choose a Category", 58, TextAlignmentOptions.Center, new Vector2(0, 680), new Vector2(800, 80));
+            categoryTitle = CreateTMP(categoryPanel.transform, "CategoryTitle", "Kategori Seçin", 58, TextAlignmentOptions.Center, new Vector2(0, 680), new Vector2(800, 80));
             categoryTitle.color = _accentGold;
             categoryTitle.fontStyle = FontStyles.Bold;
 
-            categorySubtitle = CreateTMP(categoryPanel.transform, "Subtitle", "Religious Who Wants to Be a Millionaire?", 42, TextAlignmentOptions.Center, new Vector2(0, 600), new Vector2(800, 80));
+            categorySubtitle = CreateTMP(categoryPanel.transform, "Subtitle", "KPSS Sınavı", 42, TextAlignmentOptions.Center, new Vector2(0, 600), new Vector2(800, 80));
             categorySubtitle.color = _white;
             categorySubtitle.fontStyle = FontStyles.Italic;
 
@@ -616,49 +631,7 @@ namespace MillionaireGame
         private string FormatCategoryName(string cat)
         {
             if (cat == "All") return "Hepsi";
-
-            // If the category is already nicely formatted (like "ÖABT Matematik" or "DHBT" or "Genel Kültür")
-            // we can just return it. The heuristic below is for old raw strings.
-            if (cat.Contains("ÖABT") || cat.Contains("DHBT") || cat.Contains(" ") || cat.Contains("-"))
-            {
-                return cat;
-            }
-
-            string raw = cat.ToLower();
-            raw = raw.Replace("kpss_ortaogretim_", "").Replace("kpss_onlisans_", "").Replace("kpss_lisans_", "").Replace("kpss_oabt_", "").Replace("dhbt_", "").Replace("kpss_", "");
-
-            if (raw.Contains("genel_kultur") || raw.Contains("general_culture") || raw.Contains("general culture")) return "Genel Kültür";
-            if (raw.Contains("genel_yetenek") || raw.Contains("general_ability") || raw.Contains("general ability")) return "Genel Yetenek";
-            if (raw.Contains("egitim_bilimleri") || raw.Contains("educational_sciences") || raw.Contains("educational sciences")) return "Eğitim Bilimleri";
-            if (raw.Contains("turkce") || raw.Contains("turkish")) return "Türkçe";
-            if (raw.Contains("matematik") || raw.Contains("mathematics")) return "Matematik";
-            if (raw.Contains("tarih") || raw.Contains("history")) return "Tarih";
-            if (raw.Contains("cografya") || raw.Contains("geography")) return "Coğrafya";
-            if (raw.Contains("vatandaslik") || raw.Contains("citizenship")) return "Vatandaşlık";
-            if (raw.Contains("din") || raw.Contains("religion")) return "Din Kültürü";
-            if (raw.Contains("guncel") || raw.Contains("güncel")) return "Güncel Bilgiler";
-
-            // Alan Bilgisi (in pure Turkish)
-            if (raw.Contains("hukuk") || raw.Contains("law")) return "Hukuk";
-            if (raw.Contains("iktisat") || raw.Contains("economics")) return "İktisat";
-            if (raw.Contains("isletme") || raw.Contains("business")) return "İşletme";
-            if (raw.Contains("maliye") || raw.Contains("finance")) return "Maliye";
-            if (raw.Contains("muhasebe") || raw.Contains("accounting")) return "Muhasebe";
-            if (raw.Contains("istatistik") || raw.Contains("statistics")) return "İstatistik";
-            if (raw.Contains("kamu_yonetimi") || raw.Contains("public_administration")) return "Kamu Yönetimi";
-            if (raw.Contains("uluslararasi_iliskiler") || raw.Contains("international_relations")) return "Uluslararası İlişkiler";
-            if (raw.Contains("calisma_ekonomisi") || raw.Contains("labor_economics")) return "Çalışma Ekonomisi";
-
-            // Fallback: remove underscores and capitalize
-            string[] words = raw.Split('_');
-            for (int i = 0; i < words.Length; i++)
-            {
-                if (words[i].Length > 0)
-                {
-                    words[i] = char.ToUpper(words[i][0]) + words[i].Substring(1);
-                }
-            }
-            return string.Join(" ", words);
+            return cat;
         }
 
         private int GetCategorySortOrder(string cat)
@@ -828,8 +801,12 @@ namespace MillionaireGame
             }
 
             // Walk away button (placed just below options, leaving bottom free)
-            btnWalkAway = CreateButton(gamePanel.transform, "BtnWalkAway", "Walk Away", new Vector2(0, -735f), new Vector2(400, 75), 36);
+            btnWalkAway = CreateButton(gamePanel.transform, "BtnWalkAway", "Çekil", new Vector2(-220, -735f), new Vector2(400, 75), 36);
             btnWalkAway.GetComponent<Image>().color = new Color32(180, 50, 50, 255);
+
+            btnShowExplanation = CreateButton(gamePanel.transform, "BtnExplanation", "📺 Açıklamayı Gör", new Vector2(220, -735f), new Vector2(400, 75), 36);
+            btnShowExplanation.GetComponent<Image>().color = new Color32(50, 150, 50, 255);
+            btnShowExplanation.gameObject.SetActive(false); // Hidden by default until question is answered
 
             // ── Money Ladder Overlay Panel ──
             ladderOverlayPanel = new GameObject("LadderOverlayPanel", typeof(RectTransform));
@@ -861,6 +838,7 @@ namespace MillionaireGame
             // Panel container
             gamesPanel = CreatePanel(parent, "GamesPanel", Vector2.zero, new Vector2(950, 1600));
             gamesPanel.GetComponent<Image>().color = new Color32(15, 15, 60, 230); // dark semi‑transparent background
+            gamesPanel.SetActive(true);
 
             var titleText = CreateTMP(gamesPanel.transform, "GamesTitle", "Oyunlarımız", 58, TextAlignmentOptions.Center, new Vector2(0, 700), new Vector2(800, 80));
             titleText.color = _accentGold;
@@ -1020,6 +998,8 @@ namespace MillionaireGame
             if (resultPanel != null) resultPanel.SetActive(false);
             if (settingsPanel != null) settingsPanel.SetActive(false);
             if (reminderPanel != null) reminderPanel.SetActive(false);
+            if (explanationPanel != null) explanationPanel.SetActive(false);
+            if (wrongAnswerPanel != null) wrongAnswerPanel.SetActive(false);
             // Ensure games panel is hidden as well
             // Also hide global back button when all primary panels are hidden
             if (btnGlobalBack != null) btnGlobalBack.gameObject.SetActive(false);
@@ -1082,7 +1062,7 @@ namespace MillionaireGame
 
             audiencePanel = CreatePanel(parent, "AudiencePanel", Vector2.zero, new Vector2(800, 700));
 
-            CreateTMP(audiencePanel.transform, "AudTitle", "Audience Results", 50, TextAlignmentOptions.Center, new Vector2(0, 280), new Vector2(700, 60)).color = _accentGold;
+            CreateTMP(audiencePanel.transform, "AudTitle", "Seyirci Oyları", 50, TextAlignmentOptions.Center, new Vector2(0, 280), new Vector2(700, 60)).color = _accentGold;
 
             for (int i = 0; i < audienceSliders.Length; i++)
             {
@@ -1124,18 +1104,18 @@ namespace MillionaireGame
                 audiencePercentLabels[i] = CreateTMP(audiencePanel.transform, $"AudPct_{i}", "0%", 38, TextAlignmentOptions.Center, new Vector2(xPos, 220), new Vector2(120, 40));
             }
 
-            audienceCloseButton = CreateButton(audiencePanel.transform, "AudClose", "OK", new Vector2(0, -300), new Vector2(250, 70), 42);
+            audienceCloseButton = CreateButton(audiencePanel.transform, "AudClose", "Tamam", new Vector2(0, -300), new Vector2(250, 70), 42);
         }
 
         private void BuildPhonePanel(Transform parent)
         {
             phonePanel = CreatePanel(parent, "PhonePanel", Vector2.zero, new Vector2(800, 500));
 
-            CreateTMP(phonePanel.transform, "PhoneTitle", "📞 Phone a Friend", 50, TextAlignmentOptions.Center, new Vector2(0, 180), new Vector2(700, 60)).color = _accentGold;
+            CreateTMP(phonePanel.transform, "PhoneTitle", "📞 Telefon", 50, TextAlignmentOptions.Center, new Vector2(0, 180), new Vector2(700, 60)).color = _accentGold;
 
             phoneFriendText = CreateTMP(phonePanel.transform, "PhoneFriendText", "", 44, TextAlignmentOptions.Center, new Vector2(0, 20), new Vector2(750, 200));
 
-            phoneCloseButton = CreateButton(phonePanel.transform, "PhoneClose", "OK", new Vector2(0, -180), new Vector2(250, 70), 42);
+            phoneCloseButton = CreateButton(phonePanel.transform, "PhoneClose", "Tamam", new Vector2(0, -180), new Vector2(250, 70), 42);
         }
 
         private void BuildResultPanel(Transform parent)
@@ -1161,28 +1141,60 @@ namespace MillionaireGame
 
             resultMessage = CreateTMP(dialog.transform, "ResultMsg", "", 50, TextAlignmentOptions.Center, new Vector2(0, 60), new Vector2(800, 250));
 
-            resultMenuButton = CreateButton(dialog.transform, "ResultMenuBtn", "Main Menu", new Vector2(0, -220), new Vector2(400, 100), 46);
+            resultMenuButton = CreateButton(dialog.transform, "ResultMenuBtn", "Ana Menü", new Vector2(0, -220), new Vector2(400, 100), 46);
         }
 
         private void BuildReminderPanel(Transform parent)
         {
             reminderPanel = CreatePanel(parent, "ReminderPanel", Vector2.zero, new Vector2(900, 600));
 
-            reminderTitle = CreateTMP(reminderPanel.transform, "ReminderTitle", "Did You Know?", 56, TextAlignmentOptions.Center, new Vector2(0, 200), new Vector2(800, 80));
+            reminderTitle = CreateTMP(reminderPanel.transform, "ReminderTitle", "Hap Bilgi", 56, TextAlignmentOptions.Center, new Vector2(0, 200), new Vector2(800, 80));
             reminderTitle.color = _accentGold;
             reminderTitle.fontStyle = FontStyles.Bold;
 
             reminderText = CreateTMP(reminderPanel.transform, "ReminderText", "Reminder goes here", 46, TextAlignmentOptions.Center, new Vector2(0, 0), new Vector2(800, 300));
             reminderText.color = _white;
 
-            reminderCloseButton = CreateButton(reminderPanel.transform, "ReminderClose", "Start", new Vector2(0, -200), new Vector2(300, 80), 42);
+            reminderCloseButton = CreateButton(reminderPanel.transform, "ReminderClose", "Tamam", new Vector2(0, -200), new Vector2(300, 80), 42);
+        }
+
+        private void BuildExplanationPanel(Transform parent)
+        {
+            explanationPanel = CreatePanel(parent, "ExplanationPanel", Vector2.zero, new Vector2(900, 1100));
+            explanationPanel.SetActive(false);
+
+            explanationTitle = CreateTMP(explanationPanel.transform, "ExplanationTitle", "Açıklama", 56, TextAlignmentOptions.Center, new Vector2(0, 450), new Vector2(800, 80));
+            explanationTitle.color = _accentGold;
+            explanationTitle.fontStyle = FontStyles.Bold;
+
+            explanationText = CreateTMP(explanationPanel.transform, "ExplanationText", "...", 42, TextAlignmentOptions.TopLeft, new Vector2(0, 0), new Vector2(800, 800));
+            explanationText.color = _white;
+            explanationText.enableWordWrapping = true;
+
+            explanationCloseButton = CreateButton(explanationPanel.transform, "ExplanationClose", "Kapat", new Vector2(0, -450), new Vector2(300, 80), 42);
+        }
+
+        private void BuildWrongAnswerPanel(Transform parent)
+        {
+            wrongAnswerPanel = CreatePanel(parent, "WrongAnswerPanel", Vector2.zero, new Vector2(900, 600));
+            wrongAnswerPanel.SetActive(false);
+
+            var title = CreateTMP(wrongAnswerPanel.transform, "WrongAnswerTitle", "Yanlış Cevap!", 56, TextAlignmentOptions.Center, new Vector2(0, 150), new Vector2(800, 80));
+            title.color = _btnWrong;
+            title.fontStyle = FontStyles.Bold;
+
+            btnShowCorrectAnswer = CreateButton(wrongAnswerPanel.transform, "BtnShowCorrect", "📺 Doğru Cevabı Gör", new Vector2(0, -50), new Vector2(500, 80), 36);
+            btnShowCorrectAnswer.GetComponent<Image>().color = new Color32(50, 150, 50, 255);
+
+            btnPassQuestion = CreateButton(wrongAnswerPanel.transform, "BtnPass", "Geç", new Vector2(0, -180), new Vector2(500, 80), 36);
+            btnPassQuestion.GetComponent<Image>().color = new Color32(60, 60, 80, 255);
         }
 
         private void BuildSettingsPanel(Transform parent)
         {
             settingsPanel = CreatePanel(parent, "SettingsPanel", Vector2.zero, new Vector2(850, 950));
 
-            settingsTitle = CreateTMP(settingsPanel.transform, "SettingsTitle", "Settings", 56, TextAlignmentOptions.Center, new Vector2(0, 420), new Vector2(700, 70));
+            settingsTitle = CreateTMP(settingsPanel.transform, "SettingsTitle", "Ayarlar", 56, TextAlignmentOptions.Center, new Vector2(0, 420), new Vector2(700, 70));
             settingsTitle.color = _accentGold;
             settingsTitle.fontStyle = FontStyles.Bold;
 
@@ -1403,6 +1415,33 @@ namespace MillionaireGame
             }
         }
 
+        public void ShowExplanationPanel(string title, string text)
+        {
+            explanationTitle.text = title;
+            explanationText.text = text;
+            ShowPanel(explanationPanel);
+        }
+
+        public void HideExplanationPanel()
+        {
+            AnimateButtonPress(explanationCloseButton);
+            HidePanel(explanationPanel);
+        }
+
+        public void ShowWrongAnswerPanel()
+        {
+            ShowPanel(wrongAnswerPanel);
+        }
+
+        public void HideWrongAnswerPanel()
+        {
+            HidePanel(wrongAnswerPanel);
+        }
+
+        // ══════════════════════════════════════════════
+        //  ANIMATED LADDER OVERLAY
+        // ══════════════════════════════════════════════
+
         public void UpdateTimerUI(float seconds, bool active)
         {
             timerText.gameObject.SetActive(active);
@@ -1457,7 +1496,11 @@ namespace MillionaireGame
 
             // Reminder panel
             if (reminderCloseButton != null)
-                reminderCloseButton.GetComponentInChildren<TextMeshProUGUI>().text = LocalizationManager.Get("start");
+                reminderCloseButton.GetComponentInChildren<TextMeshProUGUI>().text = "Tamam";
+
+            // Explanation panel close button
+            if (explanationCloseButton != null)
+                explanationCloseButton.GetComponentInChildren<TextMeshProUGUI>().text = LocalizationManager.Get("ok");
         }
 
         public void ShowLanguageScreen(bool show)
@@ -1709,7 +1752,16 @@ namespace MillionaireGame
                 {
                     Tween.Color(ladderBackgrounds[i], (Color)_ladderActive, 0.4f);
                     ladderLabels[i].fontStyle = FontStyles.Bold;
-                    Tween.Scale(_ladderRowRTs[i], Vector3.one * 1.05f, 0.5f, cycles: -1, cycleMode: CycleMode.Yoyo);
+                    // Ensure the row is active before applying scale tween to avoid warnings
+                    if (_ladderRowRTs[i].gameObject.activeInHierarchy)
+                    {
+                        Tween.Scale(_ladderRowRTs[i], Vector3.one * 1.05f, 0.5f, cycles: -1, cycleMode: CycleMode.Yoyo);
+                    }
+                    else
+                    {
+                        // If inactive, just ensure default scale
+                        _ladderRowRTs[i].localScale = Vector3.one;
+                    }
                 }
                 else if (i == MoneyLadder.SafeHaven1 || i == MoneyLadder.SafeHaven2)
                 {

@@ -133,25 +133,6 @@
     "explanation": "2021 KPSS ÖABT Rehberlik Soru 7 - Cevap: E."
   },
   {
-    "id": 2021108,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Rehberlik",
-    "topic": "Soru 8",
-    "difficulty": 3,
-    "questionText": "",
-    "questionLatex": null,
-    "answers": [
-      "hangilerinde sorun olduğunu düşündürmektedir?",
-      "Yazı yazmayı",
-      "Katıldığı bir geziyi",
-      "Toplama işlemi yapmayı",
-      "Hediye paketlemeyi"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2021 KPSS ÖABT Rehberlik Soru 8 - Cevap: C."
-  },
-  {
     "id": 2021109,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -416,25 +397,6 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "2021 KPSS ÖABT Rehberlik Soru 23 - Cevap: C."
-  },
-  {
-    "id": 2021124,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Rehberlik",
-    "topic": "Soru 24",
-    "difficulty": 3,
-    "questionText": "25. İlkokul dördüncü sınıf öğrencisi Burcu, son altı aydır On ikinci sınıf öğrencisi Ceyda, okul psikolojik haftada en az bir veya iki kez öğretmeni tarafından danışmanından bir süredir psikolojik danışma yardımı rehberlik servisine yönlendirilmiştir. Burcu; öğretmeniyle almaktadır. Ceyda’nın temel problemi, kendisi hiç tartışmaya girdiğini, sık sık öfkelendiğini, sınıf istemediği hâlde annesinin istediği bölümü seçmek kurallarına uymayı reddettiğini, arkadaşlarını ve zorunda olması nedeniyle sınava çalışmayı öğretmenini bilerek kızdırdığını okul psikolojik istememesidir. Psikolojik danışma sürecinin ilerleyen danışmanı ile görüşmelerinde söylemiştir. Bununla aşamalarında kendisiyle ilgili derin farkındalıklar edindiği birlikte okul psikolojik danışmanı, Burcu’nun benzer hâlde değişim için adım atmamakta, değişime karşı davranış ve tutumları ev ve sosyal ilişkilerinde de savunmacı bir tutum sergilemektedir. Oturumlardan sergilediğini annesiyle yaptığı görüşmede öğrenmiştir. birinde okul psikolojik danışmanı, Ceyda’nın danışma sürecinde gösterdiği pasif direnme ile annesinin isteklerine karşı gösterdiği pasif direnme arasındaki Buna göre Burcu'nun gösterdiği belirtiler aşağıdaki benzerliğe ve bu iki durumda yaşadığı duyguların bozukluklardan hangisini düşündürmektedir?",
-    "questionLatex": null,
-    "answers": [
-      "bozukluğu”na örnek olarak verilebilir?",
-      "Konuşmaya açık davet",
-      "Problemin kişiselleştirilmesi",
-      "Bağlama",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Rehberlik Soru 24 - Cevap: E."
   },
   {
     "id": 2021125,
@@ -760,25 +722,6 @@
     "explanation": "2021 KPSS ÖABT Rehberlik Soru 41 - Cevap: E."
   },
   {
-    "id": 2021142,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Rehberlik",
-    "topic": "Soru 42",
-    "difficulty": 3,
-    "questionText": "44. Bir öğretim üyesi, grup çeşitleri ve bu grupların psikolojik Lise öğrencileriyle yürütülen bir grupla psikolojik destek amaçlı kullanımı ile ilgili özelliklerini anlattığı danışmaya katılan Tuna, başlangıçta yaşadığı sorunun dersinde, “Gruplar her zaman uzman bir lider tarafından çözülebileceğine inanmamış ve paylaşımda yönetilmemektedir. Bazen üyeler, ortak yaşantıları bulunmaktan çekinmiştir. İlerleyen oturumlarda, gruptaki bağlamında düzenli olarak bir araya gelerek ortak veya diğer üyelerin kendilerini açtıklarında sorunlarını farklı deneyimleri üzerinden birbirlerine yardımcı aşabildiklerini görünce Tuna'nın, sorunlarını paylaşarak olabilirler.” şeklinde bir açıklama yapmıştır. çözüm bulabileceğine ilişkin motivasyonu artmıştır. Buna göre öğretim üyesinin dersinde açıkladığı grup Grup süreciyle ilgili bu durum aşağıdaki çeşidi aşağıdakilerden hangisidir? kavramlardan hangisiyle açıklanır?",
-    "questionLatex": null,
-    "answers": [
-      "Maraton",
-      "Kendi kendine yardım",
-      "Konsültasyon",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Rehberlik Soru 42 - Cevap: D."
-  },
-  {
     "id": 2021143,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -853,25 +796,6 @@
     ],
     "correctAnswerIndex": 4,
     "explanation": "2021 KPSS ÖABT Rehberlik Soru 46 - Cevap: E."
-  },
-  {
-    "id": 2021147,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Rehberlik",
-    "topic": "Soru 47",
-    "difficulty": 3,
-    "questionText": "",
-    "questionLatex": null,
-    "answers": [
-      "Yetenek",
-      "İlgi",
-      "Ekonomik faktörler",
-      "Mesleki değer",
-      "Aile"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2021 KPSS ÖABT Rehberlik Soru 47 - Cevap: C."
   },
   {
     "id": 2021148,
@@ -1501,25 +1425,6 @@
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 7 - Cevap: C."
   },
   {
-    "id": 2021208,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 8",
-    "difficulty": 3,
-    "questionText": "",
-    "questionLatex": null,
-    "answers": [
-      "Talat Paşa",
-      "Reform Hareketleri sırasında Anglikanizm mezhebi,",
-      "Kâmil Paşa",
-      "Nazım Paşa",
-      "aşağıdaki ülkelerin hangisinde ortaya çıkmıştır?"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 8 - Cevap: A."
-  },
-  {
     "id": 2021209,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -1596,25 +1501,6 @@
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 12 - Cevap: E."
   },
   {
-    "id": 2021213,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 13",
-    "difficulty": 3,
-    "questionText": "16. Aşağıdakilerden hangisi Millî Mücadele Dönemi’nde XVIII. yüzyılda İngiltere’nin Amerikan kolonilerinin çıkan ayaklanmalardan biri değildir? bağımsızlığını tanıdığı antlaşma aşağıdakilerden",
-    "questionLatex": null,
-    "answers": [
-      "Washington",
-      "Londra",
-      "Versay",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 13 - Cevap: E."
-  },
-  {
     "id": 2021214,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -1632,25 +1518,6 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 14 - Cevap: D."
-  },
-  {
-    "id": 2021215,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 15",
-    "difficulty": 3,
-    "questionText": "Mehmet Akif Ersoy tarafından kahraman Türk ordusuna ithaf edilen İstiklâl Marşı, aşağıdaki",
-    "questionLatex": null,
-    "answers": [
-      "Kütahya - Eskişehir",
-      "İkinci İnönü",
-      "Birinci İnönü",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 15 - Cevap: E."
   },
   {
     "id": 2021216,
@@ -1748,25 +1615,6 @@
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 20 - Cevap: C."
   },
   {
-    "id": 2021221,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 21",
-    "difficulty": 3,
-    "questionText": "İkinci Dünya Savaşı’nın Müttefikler tarafından kazanılacağının kesinleşmesi üzerine toplanan ve Kurtulan Avrupa Hakkında Bildiri başlığı altında bir 23. Aşağıdakilerden hangisi mikroterm bitkiler arasında bildiri yayımlanan konferans aşağıdakilerden yer almaktadır?",
-    "questionLatex": null,
-    "answers": [
-      "fazla olması beklenir?",
-      "Aşağıdaki kayaçların hangisinde geçirimliliğin daha",
-      "Dumbarton Oaks",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 21 - Cevap: A."
-  },
-  {
     "id": 2021223,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -1803,25 +1651,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 24 - Cevap: B."
-  },
-  {
-    "id": 2021225,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 25",
-    "difficulty": 3,
-    "questionText": "27. Aşağıda aynı zamanda bir tarımsal işletme de olan Aşağıdaki haritada beş alan numaralandırılarak kırsal yerleşme türüne ait bazı bilgiler verilmiştir: gösterilmiştir.  İsrail’de geliştirilmiş kolektif tarım işletmeleridir.  Devlet, çiftliğin yönetimine karışmaz.  Ortak bir mülkiyeti olup birden fazla kimse tarafından işletilir.  Üretim ve pazarlama, çiftlik sahiplerinin ortak sorumluluğundadır.  İşletme üyelerinin her türlü ihtiyacı işletme yönetimi tarafından karşılanır. Hakkında bilgiler verilen bu yerleşme türü aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Sovhoz",
-      "Hamlet",
-      "nedeniyle nüfus yoğunluğu daha fazladır?",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 25 - Cevap: B."
   },
   {
     "id": 2021226,
@@ -2012,25 +1841,6 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 39 - Cevap: A."
-  },
-  {
-    "id": 2021240,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 40",
-    "difficulty": 3,
-    "questionText": "43. Kişinin devlet tarafından aşılamayacak ve Antik Yunan kentlerinin en yüksek kesiminde dokunulamayacak özel alanının sınırlarını çizen hak kurulan, önemli yapıların ve tapınakların bulunduğu ve hürriyetler aşağıdakilerden hangisiyle etrafı surlarla çevrili yukarı şehir olarak da adlandırılır? adlandırılan yerleşmelere verilen ad aşağıdakilerden",
-    "questionLatex": null,
-    "answers": [
-      "Aktif statü hakları",
-      "Üçüncü kuşak haklar",
-      "İsteme hakları",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 40 - Cevap: B."
   },
   {
     "id": 2021241,
@@ -2299,25 +2109,6 @@
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 55 - Cevap: A."
   },
   {
-    "id": 2021256,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 56",
-    "difficulty": 3,
-    "questionText": "",
-    "questionLatex": null,
-    "answers": [
-      "görülme olasılığı daha azdır?",
-      "Aşağıdaki ülkelerin hangisinde tektonik depremlerin",
-      "Alexander Fleming",
-      "Edmond Halley",
-      "William Harvey"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 56 - Cevap: B."
-  },
-  {
     "id": 2021258,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -2354,25 +2145,6 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 59 - Cevap: D."
-  },
-  {
-    "id": 2021260,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 60",
-    "difficulty": 3,
-    "questionText": "62. Aşağıdakilerden hangisi 2018 yılında yayımlanan Bir projenin çıktılarının uygun ve benzer başka Sosyal Bilgiler Dersi Öğretim Programı’nda yer alan durumlara uygulanabilir olması aşağıdaki proje öğrenme alanlarından biri değildir? hazırlama kurallarından hangisiyle daha fazla",
-    "questionLatex": null,
-    "answers": [
-      "Hedef ve faaliyet tutarlılığı",
-      "Özgünlük ve estetik",
-      "Hedeflere ulaşabilme",
-      "Sürdürülebilir olma",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 60 - Cevap: E."
   },
   {
     "id": 2021261,
@@ -2563,25 +2335,6 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 70 - Cevap: C."
-  },
-  {
-    "id": 2021271,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Soru 71",
-    "difficulty": 3,
-    "questionText": "I. Göç kavramını tanımlayınız? II. Beyin göçü kavramını açıklayınız? III. Beyin göçünü tersine çevirmek için neler önerirsiniz? Buna göre öğretmen dersinde hazırlamış olduğu IV. Göçün sosyolojik boyutları hakkındaki materyallerde, materyal hazırlama ilkelerinden düşünceleriniz nelerdir? hangisini dikkate almıştır?",
-    "questionLatex": null,
-    "answers": [
-      "I ve III",
-      "II ve III",
-      "II ve IV",
-      "III ve IV",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Sosyal Bilgiler Soru 71 - Cevap: E."
   },
   {
     "id": 2021272,
@@ -2888,25 +2641,6 @@
     "explanation": "2021 KPSS ÖABT Tarih Soru 14 - Cevap: B."
   },
   {
-    "id": 2021315,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 15",
-    "difficulty": 3,
-    "questionText": "17. Karluklar ile ilgili aşağıda verilen bilgilerden hangisi 374’te Doğu Gotları (Ostrogot) ardından 375’te Batı yanlıştır? Gotları (Vizigot) yenerek Kavimler Göçü’nün",
-    "questionLatex": null,
-    "answers": [
-      "Teoman",
-      "Rua",
-      "Balamir",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 15 - Cevap: E."
-  },
-  {
     "id": 2021316,
     "examType": "kpss_teacher",
     "subject": "history",
@@ -3192,25 +2926,6 @@
     "explanation": "2021 KPSS ÖABT Tarih Soru 30 - Cevap: B."
   },
   {
-    "id": 2021331,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 31",
-    "difficulty": 3,
-    "questionText": "34. Osmanlı Devleti'nde \"avârız\" vergisiyle ilgili Ziştovi Antlaşması’nın imzalanmasından hemen aşağıdakilerden hangisi yanlıştır? sonra yenileşme hareketlerine hız veren III. Selim",
-    "questionLatex": null,
-    "answers": [
-      "Klasik Dönem'de olağanüstü hâllerde toplanırdı.",
-      "Askerî sınıf bu vergiden muaftı.",
-      "sunan devlet adamı aşağıdakilerden hangisidir?",
-      "Sabit oran ve miktarda tahsil edilirdi.",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 31 - Cevap: E."
-  },
-  {
     "id": 2021332,
     "examType": "kpss_teacher",
     "subject": "history",
@@ -3228,25 +2943,6 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "2021 KPSS ÖABT Tarih Soru 32 - Cevap: C."
-  },
-  {
-    "id": 2021333,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 33",
-    "difficulty": 3,
-    "questionText": "",
-    "questionLatex": null,
-    "answers": [
-      "Yeniçeri Ağası",
-      "Silahtar Ağa",
-      "Sekbanbaşı",
-      "Sancakbeyi",
-      "Bostancıbaşı"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 33 - Cevap: D."
   },
   {
     "id": 2021334,
@@ -3287,25 +2983,6 @@
     "explanation": "2021 KPSS ÖABT Tarih Soru 35 - Cevap: A."
   },
   {
-    "id": 2021336,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 36",
-    "difficulty": 3,
-    "questionText": "39. Birinci Dünya Savaşı’nın sorumluluğunu üstlenmiş olan Aşağıdakilerden hangisi Osmanlı Devleti’nde İttihat ve Terakki Hükûmeti, 1918 yılı Ekim ayında XIX. yüzyılda taşra yönetimiyle ilgili yapılan görevden çekilmiş, yerine Mondros Mütarekesi’ni düzenlemelerden biri değildir?",
-    "questionLatex": null,
-    "answers": [
-      "Beylerbeylik Divanının kurulması",
-      "Ahali temsilcilerinin katıldığı meclislerin kurulması",
-      "Vilayet, liva, kaza, nahiye ve köy şeklinde idari",
-      "Vilayet ve livalarda belediye dairelerinin oluşturulması",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 36 - Cevap: E."
-  },
-  {
     "id": 2021337,
     "examType": "kpss_teacher",
     "subject": "history",
@@ -3323,25 +3000,6 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "2021 KPSS ÖABT Tarih Soru 37 - Cevap: D."
-  },
-  {
-    "id": 2021338,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 38",
-    "difficulty": 3,
-    "questionText": "",
-    "questionLatex": null,
-    "answers": [
-      "sonuçlarından biri değildir?",
-      "Bükreş Antlaşması’nın imzalanması",
-      "Bulgaristan’ın Trakya’da toprak kaybetmesi",
-      "Avusturya-Macaristan’ın Bosna Hersek’i ilhak etmesi",
-      "Osmanlı Devleti’nin Edirne’yi işgalden kurtarması"
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 38 - Cevap: E."
   },
   {
     "id": 2021339,
@@ -3591,25 +3249,6 @@
     "explanation": "2021 KPSS ÖABT Tarih Soru 51 - Cevap: D."
   },
   {
-    "id": 2021352,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 52",
-    "difficulty": 3,
-    "questionText": "Osmanlı Devleti’nin ev sahipliğinde bir araya gelen İngiltere, Fransa, Rusya, Almanya, İtalya, Avusturya-Macaristan ve İspanya’nın 29 Ekim 1888’de imzaladığı İstanbul Antlaşması ile geçiş ilkeleri belirlenen deniz yolu aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Çanakkale Boğazı",
-      "İstanbul Boğazı",
-      "Korint Kanalı",
-      "Süveyş Kanalı",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 52 - Cevap: E."
-  },
-  {
     "id": 2021353,
     "examType": "kpss_teacher",
     "subject": "history",
@@ -3665,44 +3304,6 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "2021 KPSS ÖABT Tarih Soru 55 - Cevap: A."
-  },
-  {
-    "id": 2021356,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 56",
-    "difficulty": 3,
-    "questionText": "58. İkinci Dünya Savaşı’nda Polonya’nın Alman ve Sovyet Aşağıdakilerden hangisi, Soğuk Savaş yıllarında orduları tarafından işgal edilmesi Avrupa ülkelerinde Yugoslavya’nın Sovyetler Birliği ile anlaşmazlık benzer bir işgale uğrama korkusu yaratmıştır. Bu korku yaşamasının nedenlerinden biri değildir?",
-    "questionLatex": null,
-    "answers": [
-      "ABD’nin Müttefikler tarafında savaşa katılması",
-      "Alman ve Bulgar ordularının Yunanistan’a girmesi",
-      "Savaşın Kuzey Afrika topraklarına sıçraması",
-      "Almanya’nın Sovyetler Birliği’ne saldırması",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 56 - Cevap: E."
-  },
-  {
-    "id": 2021357,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 57",
-    "difficulty": 3,
-    "questionText": "Aşağıdaki devletlerden hangisi, bir İngiliz sömürgesinin dinî nedenlerden dolayı yaşanan çatışmalar sonucunda bölünmesi üzerine",
-    "questionLatex": null,
-    "answers": [
-      "Mısır",
-      "Ürdün",
-      "Cezayir",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 57 - Cevap: D."
   },
   {
     "id": 2021358,
@@ -3836,25 +3437,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2021 KPSS ÖABT Tarih Soru 64 - Cevap: B."
-  },
-  {
-    "id": 2021365,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Soru 65",
-    "difficulty": 3,
-    "questionText": "",
-    "questionLatex": null,
-    "answers": [
-      "I ve II",
-      "I ve III",
-      "I, III ve IV",
-      "II, III ve IV",
-      "Bir öğretmen dersinde, 2018 Ortaöğretim 12. sınıf"
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Tarih Soru 65 - Cevap: E."
   },
   {
     "id": 2021366,
@@ -5092,25 +4674,6 @@
     "explanation": "2021 KPSS ÖABT Türkçe Soru 67 - Cevap: C."
   },
   {
-    "id": 2021468,
-    "examType": "kpss_teacher",
-    "subject": "turkish",
-    "subcategory": "Türkçe",
-    "topic": "Soru 68",
-    "difficulty": 3,
-    "questionText": "70. 2019 Türkçe Dersi Öğretim Programı’na göre aşağıdaki yetkinlik-kazanım eşleştirmelerinden hangisi uyumludur?",
-    "questionLatex": null,
-    "answers": [
-      "yorumlar.",
-      "yönergelerine uygun doldurur.",
-      "İnisiyatif alma ve girişimcilik – Yazdıklarını paylaşır.",
-      "Sosyal ve vatandaşlıkla ilgili yetkinlikler – Formları",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Türkçe Soru 68 - Cevap: E."
-  },
-  {
     "id": 2021469,
     "examType": "kpss_teacher",
     "subject": "turkish",
@@ -5567,25 +5130,6 @@
     "explanation": "2021 KPSS ÖABT Türk Dili ve Edebiyatı Soru 25 - Cevap: C."
   },
   {
-    "id": 2021530,
-    "examType": "kpss_teacher",
-    "subject": "turkish",
-    "subcategory": "Türk Dili ve Edebiyatı",
-    "topic": "Soru 30",
-    "difficulty": 3,
-    "questionText": "32. Yâr ile ağyârı gördüm oturur iken didüm Aşağıdakilerden hangisi Türk âşık edebiyatında rüya Ey melek-sûret nedür yanunda şeytânun mı var motifinin aşamaları arasında yer almaz?",
-    "questionLatex": null,
-    "answers": [
-      "aşağıdakilerin hangisinde vardır?",
-      "Sevgilinin kendisi veya resmi ile karşılaşma",
-      "Pir elinden bâde içme",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Türk Dili ve Edebiyatı Soru 30 - Cevap: A."
-  },
-  {
     "id": 2021531,
     "examType": "kpss_teacher",
     "subject": "turkish",
@@ -5869,25 +5413,6 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "2021 KPSS ÖABT Türk Dili ve Edebiyatı Soru 61 - Cevap: A."
-  },
-  {
-    "id": 2021562,
-    "examType": "kpss_teacher",
-    "subject": "turkish",
-    "subcategory": "Türk Dili ve Edebiyatı",
-    "topic": "Soru 62",
-    "difficulty": 3,
-    "questionText": "64. 2018 Türk Dili ve Edebiyatı Dersi Öğretim Programı'na göre aşağıdakilerden hangisi, “Metni yorumlar.” kazanımıyla ilgili öğrenciden beklenenler arasında yer almaz?",
-    "questionLatex": null,
-    "answers": [
-      "niteliklerindendir?",
-      "Metinde yazara özgü anlatım özelliklerini ifade etme",
-      "Metinle ilgili beğenisini metne dayanarak açıklama",
-      "Metinle ilgili güncellemelerini ifade etme",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Türk Dili ve Edebiyatı Soru 62 - Cevap: E."
   },
   {
     "id": 2021563,
@@ -6270,25 +5795,6 @@
     "explanation": "2021 KPSS ÖABT Fizik Soru 20 - Cevap: D."
   },
   {
-    "id": 2021621,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fizik",
-    "topic": "Soru 21",
-    "difficulty": 3,
-    "questionText": "22. Elektromotor kuvvetleri , iç dirençleri r olan özdeş piller Elektromotor kuvvetleri , iç dirençleri 2r, 3r ve 6r olan ile dirençleri r olan özdeş ampuller kullanılarak şekildeki üç pil ile direnci r olan bir lamba şekildeki gibi elektrik devreleri oluşturuluyor. bağlanıyor. K, L ve M ampullerinin parlaklıkları; PK, PL ve PM arasındaki ilişki aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "radyonun sinyali net olarak alması sağlanabilir?",
-      "",
-      "Buna göre lambanın uçları arasındaki potansiyel",
-      "farkın değeri kaç 'dur?",
-      ""
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2021 KPSS ÖABT Fizik Soru 21 - Cevap: B."
-  },
-  {
     "id": 2021627,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -6384,25 +5890,6 @@
     "explanation": "2021 KPSS ÖABT Fizik Soru 31 - Cevap: B."
   },
   {
-    "id": 2021634,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fizik",
-    "topic": "Soru 34",
-    "difficulty": 3,
-    "questionText": "35. Isı, sıcaklık ve iç enerji ile ilgili, Bir demir bilye, şekildeki gibi su dolu bir kabın üzerinden t = 0 anında serbest bırakılıyor. Bilye t1 anında suya giriyor ve bir süre sonra tamamen batıp suyun içerisinde yol alarak t2 anında kabın zeminine ulaşıyor. yargılarından hangileri kesinlikle doğrudur?",
-    "questionLatex": null,
-    "answers": [
-      "(Suyun öz ısısını 4 J/goC olarak alınız.)",
-      "dakikada 25 oC artırır?",
-      "",
-      "",
-      "günde yeryüzünde ortalama 1000 W'dir."
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Fizik Soru 34 - Cevap: A."
-  },
-  {
     "id": 2021635,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -6439,25 +5926,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2021 KPSS ÖABT Fizik Soru 38 - Cevap: B."
-  },
-  {
-    "id": 2021639,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fizik",
-    "topic": "Soru 39",
-    "difficulty": 3,
-    "questionText": "Havada ilerlemekte olan ses dalgaları suya girdiğinde sudaki; I. yayılma sürati, II. frekansı, III. genliği yargılarından hangileri doğru olabilir?",
-    "questionLatex": null,
-    "answers": [
-      "I ve III",
-      "II ve III",
-      "I, II ve III",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2021 KPSS ÖABT Fizik Soru 39 - Cevap: C."
   },
   {
     "id": 2021640,
@@ -6610,25 +6078,6 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "2021 KPSS ÖABT Fizik Soru 47 - Cevap: D."
-  },
-  {
-    "id": 2021649,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fizik",
-    "topic": "Soru 49",
-    "difficulty": 3,
-    "questionText": "Compton olayında 51. Bir x-ışını tüpünde belirli bir gerilim altında dalgaboylu x-ışını fotonu, durgun hızlandırılan elektronlar, metal hedefe çarptırıldığında ve serbest bir elektronla etkileşiyor ve bu etkileşim sadece sürekli spektrum x-ışınlarının elde edildiği sonucunda gözlenmektedir. dalgaboylu bir foton saçılıyor. Bu x-ışını tüpünde; Buna göre – farkının alabileceği en yüksek I. hızlandırıcı gerilimi artırmak, değer kaç 'dir? II. hedefe çarpan elektron sayısını artırmak, III. hedef metalin türünü değiştirmek (h: Planck sabiti, me: elektronun kütlesi, c: ışık hızı)",
-    "questionLatex": null,
-    "answers": [
-      "Yalnız III",
-      "I ve III",
-      "I, II ve III",
-      "",
-      "Yalnız II"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Fizik Soru 49 - Cevap: D."
   },
   {
     "id": 2021650,
@@ -7047,25 +6496,6 @@
     ],
     "correctAnswerIndex": 4,
     "explanation": "2021 KPSS ÖABT Fizik Soru 73 - Cevap: E."
-  },
-  {
-    "id": 2021674,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fizik",
-    "topic": "Soru 74",
-    "difficulty": 3,
-    "questionText": "75. Albert Einstein tarafından 1916 yılında Genel Görelilik Bir otomobil çarpışma testinde kullanılan iki otomobilden Kuramı ile önerilen kütleçekimsel dalgalar, ilk kez biri 2021, diğeri ise 1950 modeldir. Çarpışma testinde 14 Eylül 2015’te gelişmiş araç ve donanımlara sahip her iki otomobil de aynı süratle birbirlerine doğru olan Amerika'daki LIGO Gözlemevi’nde gözlemlenmiştir. gönderilmiş ve çarpışma çeşitli açılardan Dünya'dan yaklaşık 1,3 milyar ışık yılı uzaklıkta görüntülenmiştir. 2021 model aracın içindeki test Güneş'in kütlesinin 30 katı kadar büyüklüğündeki iki mankeni, hava yastıkları ve darbe emici gövde karadeliğin birbirleriyle çarpışması sonucu, sayesinde çarpışmada fazla hasar almazken 1950 uzay-zamanda oluşan kütleçekimsel dalgalara ait model otomobildeki test mankeninin büyük hasar aldığı sinyaller tespit edilmiştir. gözlenmiştir. Bu bilimsel süreçle ilgili, Buna göre çarpışma testinin sonuçları; I. Kütleçekimsel dalgaların varlığı hem kuramsal hem gözlemsel olarak desteklenmiştir. II. Kütleçekimsel dalgaların oluşacağı sonucunun çıkarılması ilk olarak kurgusal bir sürecin ürünüdür. III. Teknolojinin gelişmesi mevcut kuramsal bilginin desteklenmesine katkı sağlamıştır. çıkarımlarından hangileri yapılabilir?",
-    "questionLatex": null,
-    "answers": [
-      "II ve III",
-      "I, II ve III",
-      "gerekçelerinden hangileriyle açıklanabilir?",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Fizik Soru 74 - Cevap: E."
   },
   {
     "id": 2021675,
@@ -7524,25 +6954,6 @@
     "explanation": "2021 KPSS ÖABT Kimya Soru 27 - Cevap: D."
   },
   {
-    "id": 2021728,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Kimya",
-    "topic": "Soru 28",
-    "difficulty": 3,
-    "questionText": "Normal koşullar altında F2 ve Cl2 gaz, Br2 sıvı ve I2 katı 30. Lewis teorisine ve değerlik kabuğu elektron çifti hâlde bulunur. itme modeline göre PH3 molekülüyle ilgili, Halojenlerin normal koşullar altında farklı hâllerde bulunması, I. Moleküllerdeki toplam elektron sayıları farklıdır. II. Moleküller arasındaki London kuvvetlerinin büyüklükleri farklıdır. III. Molekül geometrileri doğrusaldır. ifadelerinden hangileri doğrudur? ifadelerinden hangileriyle açıklanabilir?",
-    "questionLatex": null,
-    "answers": [
-      "I ve II",
-      "I ve III",
-      "I, II ve III",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2021 KPSS ÖABT Kimya Soru 28 - Cevap: C."
-  },
-  {
     "id": 2021729,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -7752,25 +7163,6 @@
     "explanation": "2021 KPSS ÖABT Kimya Soru 40 - Cevap: B."
   },
   {
-    "id": 2021741,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Kimya",
-    "topic": "Soru 41",
-    "difficulty": 3,
-    "questionText": "Bir organik bileşiğin formülü aşağıda verilmiştir. Bu bileşiğin IUPAC kurallarına göre sistematik adı aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "6-Etil-6-metil-4-hepten-2-ol",
-      "5-Etil-1,5-dimetil-3-heksen-1-ol",
-      "6,6-Dimetil-4-okten-2-ol",
-      "3,3-Dimetil-4-okten-7-ol",
-      "2-Etil-2,6-dimetil-3-heksen-6-ol"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Kimya Soru 41 - Cevap: D."
-  },
-  {
     "id": 2021742,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -7788,44 +7180,6 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "2021 KPSS ÖABT Kimya Soru 42 - Cevap: A."
-  },
-  {
-    "id": 2021743,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Kimya",
-    "topic": "Soru 43",
-    "difficulty": 3,
-    "questionText": "45. bileşiğiyle ilgili, I. 2-Pentin olarak adlandırılır. II. Molekülünde sp2 hibritleşmesine sahip karbon atomu sayısı ikidir. Yukarıdaki tepkimelerde uygun koşullarda oluşması III. Uygun koşullarda aşırı miktarda Br2 ile tepkimeye beklenen ana ürünlerin hangilerinde kiral girdiğinde 2,2,3,3-tetrabromopentan oluşur. (stereojenik) karbon atomu bulunur?",
-    "questionLatex": null,
-    "answers": [
-      "I ve III",
-      "II ve III",
-      "I, II ve III",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Kimya Soru 43 - Cevap: E."
-  },
-  {
-    "id": 2021744,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Kimya",
-    "topic": "Soru 44",
-    "difficulty": 3,
-    "questionText": "Tepkimesinin gerçekleşmesi sırasında oluşacak ara ürün aşağıdakilerin hangisinde doğru olarak verilmiştir? ifadelerinden hangileri doğrudur?",
-    "questionLatex": null,
-    "answers": [
-      "aşağıdakilerden hangisidir?",
-      "",
-      "",
-      "",
-      "Bu tepkimede dietil eterin oluşma mekanizması"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2021 KPSS ÖABT Kimya Soru 44 - Cevap: C."
   },
   {
     "id": 2021745,
@@ -7904,25 +7258,6 @@
     "explanation": "2021 KPSS ÖABT Kimya Soru 48 - Cevap: C."
   },
   {
-    "id": 2021749,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Kimya",
-    "topic": "Soru 49",
-    "difficulty": 3,
-    "questionText": "Kapalı formülü C5H10 olan ve monoklorlanması tek ürün veren bileşik aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "CH3CH=CHCH2CH3",
-      "Buna göre 2 numaralı karbona bağlı hidrojenlerin",
-      "",
-      "",
-      "sinyali teorik olarak kaça yarılır?"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Kimya Soru 49 - Cevap: A."
-  },
-  {
     "id": 2021750,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -7959,25 +7294,6 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "2021 KPSS ÖABT Kimya Soru 51 - Cevap: D."
-  },
-  {
-    "id": 2021752,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Kimya",
-    "topic": "Soru 52",
-    "difficulty": 3,
-    "questionText": "53. Hückel kuralına göre aşağıdakilerden hangisi Aşağıda formülleri verilen bileşiklerden hangisinin aromatik değildir? normal kaynama noktası en yüksektir? (Molekül ve iyonların düzlemsel oldukları (1H, 6C, 8O) varsayılacaktır.)",
-    "questionLatex": null,
-    "answers": [
-      "ifadelerinden hangileri doğrudur?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Kimya Soru 52 - Cevap: D."
   },
   {
     "id": 2021754,
@@ -8246,25 +7562,6 @@
     "explanation": "2021 KPSS ÖABT Kimya Soru 67 - Cevap: B."
   },
   {
-    "id": 2021768,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Kimya",
-    "topic": "Soru 68",
-    "difficulty": 3,
-    "questionText": "Kimyasal değişimlere enerjinin eşlik ettiğini ve bazılarında gaz açığa çıktığını öğretmek isteyen bir kimya öğretmeni aşağıda denklemi verilen tepkimeyi içeren bir deney yapıyor. 70. Bir kimya öğretmeni, “9.4.3.2. Sıvılarda viskoziteyi etkileyen faktörleri açıklar.” kazanımı için yönlendirilmiş Na(k) + H2O(s) → NaOH(suda) +1/2H2(g) + ısı (rehberli) sorgulayıcı-araştırmaya dayalı bir öğretimi laboratuvar ortamında gerçekleştiriyor. Bunun için öğrencileri gruplara ayırıyor ve öğretim Güvenliği ön planda tutan bu öğretmen gösteri sürecinin başında bazı açıklamalarda bulunuyor. deneyi yaparken; I. Bu kimya öğretmeni açıklamasında aşağıdaki deney sırasında koruyucu gözlük kullanma, ifadelerden hangisini kullanmamalıdır? II. sodyum metalini keseceği tezgâhı ıslak bir bezle",
-    "questionLatex": null,
-    "answers": [
-      "Yalnız II",
-      "I ve II",
-      "I ve III",
-      "II ve III",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Kimya Soru 68 - Cevap: E."
-  },
-  {
     "id": 2021769,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -8320,25 +7617,6 @@
     ],
     "correctAnswerIndex": 4,
     "explanation": "2021 KPSS ÖABT Kimya Soru 71 - Cevap: E."
-  },
-  {
-    "id": 2021772,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Kimya",
-    "topic": "Soru 72",
-    "difficulty": 3,
-    "questionText": "Öğrencilerin kimya alanında sahip olduğu kavram yanılgılarının nedenlerinden biri maddenin makroskobik düzeydeki özelliklerini maddenin tanecik düzeyine aktarmalarıdır. Buna göre, Bu öğretmenin hazırladığı öz değerlendirme formunda, I. Maddeyi oluşturan atomlar içi dolu bölünmez küre şeklindedir. II. Metal bir çivi büküldüğünde çiviyi oluşturan atomların şekli değişir. III. Madde katı hâldeyse atomları da katıdır. öğrenci ifadelerinden hangileri yukarıda verilen duruma örnek gösterilebilir?",
-    "questionLatex": null,
-    "answers": [
-      "II ve III",
-      "I, II ve III",
-      "ifadelerinden hangileri yer almalıdır?",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Kimya Soru 72 - Cevap: D."
   },
   {
     "id": 2021773,
@@ -8417,25 +7695,6 @@
     "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 6 - Cevap: E."
   },
   {
-    "id": 2021809,
-    "examType": "kpss_teacher",
-    "subject": "mathematics",
-    "subcategory": "Matematik (Lise)",
-    "topic": "Soru 9",
-    "difficulty": 3,
-    "questionText": "11. Sürekli bir fonksiyonunun kısmi türevleri fonksiyonu veriliyor. Buna göre, olarak veriliyor. türevinin değeri kaçtır?",
-    "questionLatex": null,
-    "answers": [
-      "1",
-      "e",
-      "",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 9 - Cevap: D."
-  },
-  {
     "id": 2021810,
     "examType": "kpss_teacher",
     "subject": "mathematics",
@@ -8491,25 +7750,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 17 - Cevap: B."
-  },
-  {
-    "id": 2021820,
-    "examType": "kpss_teacher",
-    "subject": "mathematics",
-    "subcategory": "Matematik (Lise)",
-    "topic": "Soru 20",
-    "difficulty": 3,
-    "questionText": "22. Genel terimi Aşağıdaki tabloda s önermesinin bazı doğruluk değerleri; p, q ve r önermelerinin bazı doğruluk değerlerine bağlı olarak elde edilmiştir. olan dizisinin limiti kaçtır?",
-    "questionLatex": null,
-    "answers": [
-      "önermelerinden hangilerine denk olabilir?",
-      "",
-      "",
-      "Buna göre, s önermesi",
-      ""
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 20 - Cevap: A."
   },
   {
     "id": 2021821,
@@ -8702,44 +7942,6 @@
     "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 45 - Cevap: E."
   },
   {
-    "id": 2021848,
-    "examType": "kpss_teacher",
-    "subject": "mathematics",
-    "subcategory": "Matematik (Lise)",
-    "topic": "Soru 48",
-    "difficulty": 3,
-    "questionText": "50. diferansiyel denkleminin genel çözümü aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Şekilde D ve E noktaları BC kenarı üzerindedir.",
-      "Buna göre, x kaç birimdir?",
-      "",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 48 - Cevap: B."
-  },
-  {
-    "id": 2021849,
-    "examType": "kpss_teacher",
-    "subject": "mathematics",
-    "subcategory": "Matematik (Lise)",
-    "topic": "Soru 49",
-    "difficulty": 3,
-    "questionText": "Şekilde E ve F noktaları ABCD karesinin kenarları üzerindedir. Buna göre, boyalı bölgenin alanı kaç birimkaredir?",
-    "questionLatex": null,
-    "answers": [
-      "2",
-      "3",
-      "uzunluğu kaç birimdir?",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 49 - Cevap: D."
-  },
-  {
     "id": 2021853,
     "examType": "kpss_teacher",
     "subject": "mathematics",
@@ -8909,25 +8111,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 67 - Cevap: B."
-  },
-  {
-    "id": 2021869,
-    "examType": "kpss_teacher",
-    "subject": "mathematics",
-    "subcategory": "Matematik (Lise)",
-    "topic": "Soru 69",
-    "difficulty": 3,
-    "questionText": "Bir öğretmen, öğrencilerinden denkleminin çözüm kümesini bulmalarını istemiştir. Bir öğrencinin yaptığı çözüm aşağıda verilmiştir. olmak üzere, öğretmenin bu öğrenciye aşağıdakilerden hangisini hatırlatması en uygundur?",
-    "questionLatex": null,
-    "answers": [
-      "",
-      "",
-      "ise",
-      "ise",
-      "ve"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Matematik (Lise) Soru 69 - Cevap: A."
   },
   {
     "id": 2021870,
@@ -9403,25 +8586,6 @@
     ],
     "correctAnswerIndex": 4,
     "explanation": "2021 KPSS ÖABT Okul Öncesi Soru 21 - Cevap: E."
-  },
-  {
-    "id": 2021922,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Soru 22",
-    "difficulty": 3,
-    "questionText": "24. Beş yaş grubuyla çalışan bir okul öncesi öğretmeni Bir okul öncesi çocuğu olan Esma, sürekli arkadaşlarına çocuklara genellikle; vurmakta ve arkadaşlarını kendi isteklerini yerine getirmeleri için zorlamaktadır. Sıklıkla sınıftaki  oyuncaklara, kitaplara ve eşyalara kasıtlı olarak zarar “Hadi bir kez daha dene! Yapabileceğine vermektedir. Bütün bu davranışlarının olası sonuçları ile inanıyorum.”, ilgili herhangi bir kaygı duymamaktadır. Öğretmenleri,  Esma'nın davranışlarının bir önceki yıldan beri bu “Arkadaşlarının yanına gidip oyununuza katılabilir miyim? diye sorabilirsin.”, şekilde devam ettiğini belirtmiştir.  “Evet, bu materyallerle ne yapmaya karar verdin?” Esma'nın bu davranışları aşağıdakilerden hangisine işaret etmektedir? demektedir.",
-    "questionLatex": null,
-    "answers": [
-      "Güven",
-      "Girişkenlik",
-      "Yakınlık",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2021 KPSS ÖABT Okul Öncesi Soru 22 - Cevap: C."
   },
   {
     "id": 2021923,
@@ -10032,25 +9196,6 @@
     "explanation": "2021 KPSS ÖABT Okul Öncesi Soru 58 - Cevap: D."
   },
   {
-    "id": 2021959,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Soru 59",
-    "difficulty": 3,
-    "questionText": "I. 61. Ritmik şarkılar söyleme II. Kafiyeli kelimeler üretme III. Temel uyarı işaretlerini gösterme IV. Aynı sesle başlayan isimler türetme Yukarıdakilerden hangileri okul öncesi müzik etkinlikleri kapsamında yapılacak olan nefes açma Yukarıda verilen etkinliklerden hangileri erken çalışmalarında dikkat edilecek noktalar arasındadır? okuryazarlık becerilerinden fonolojik farkındalığa",
-    "questionLatex": null,
-    "answers": [
-      "I, II ve III",
-      "I, II ve IV",
-      "II, III ve IV",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Okul Öncesi Soru 59 - Cevap: D."
-  },
-  {
     "id": 2021960,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -10334,25 +9479,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2021 KPSS ÖABT Beden Eğitimi Soru 2 - Cevap: B."
-  },
-  {
-    "id": 20211005,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Beden Eğitimi",
-    "topic": "Soru 5",
-    "difficulty": 3,
-    "questionText": "7. Spor ve egzersiz psikoloğu; araştırmacı, eğitimci ve Spor eğitiminde programın ögelerini oluşturan hedefler, uygulamacı (danışman) olarak üç temel rol öğretme öğrenme etkinliklerini, değerlendirme üstlenmektedir. Uygulamacı spor psikologları eğitici ve aşamalarında yol gösterici olan farklı bakış açılarını ve klinik spor psikoloğu olarak iki farklı rol üstlenirler. Klinik bireylerin sporu yapma amaçlarını etkilemiş ya da spor psikologları, sporcuların yaşadıkları istenmeyen yürütülen tarzlar spora farklı bir bakış açısı duygu durumları ve performansın önündeki engeller ile oluşturmuştur. Buna göre oyun, eğitim sürecinin önemli ilgilenirken eğitici spor psikologları bunun yerine bir parçası olarak kabul edilir ve oyunun çocuğun sporculara, katılımcılara ve antrenörlere psikolojik doğrudan ilgisinin sonucu olarak istendik toplumsal becerileri öğretme ve geliştirme konuları ile ilgilenirler. davranışların kazanılmasının başlangıç noktası olduğuna inanılır. Oyun yoluyla çocuğun etkileşiminin artacağı ve okuldan ayrıldığı zaman gerekli olacak Buna göre aşağıdakilerden hangisi klinik spor toplumsal davranışları kazanacağı varsayılır. psikologlarının çalışma alanlarından biri değildir?",
-    "questionLatex": null,
-    "answers": [
-      "Realizm",
-      "Natüralizm",
-      "Varoluşçuluk",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2021 KPSS ÖABT Beden Eğitimi Soru 5 - Cevap: C."
   },
   {
     "id": 20211006,
@@ -11362,25 +10488,6 @@
     "explanation": "2021 KPSS ÖABT Beden Eğitimi Soru 63 - Cevap: D."
   },
   {
-    "id": 20211065,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Beden Eğitimi",
-    "topic": "Soru 65",
-    "difficulty": 3,
-    "questionText": "Beden eğitimi ve spor öğretiminde tümevarım akıl yürütme yolunun kullanıldığı ve etkin katılımın desteklendiği öğretim modeli aşağıdakilerden Buna göre öğretmenin derste kullandığı yöntem hangisidir? aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Akran öğretimi",
-      "Doğrudan öğretim",
-      "Bireyselleşmiş öğretim",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Beden Eğitimi Soru 65 - Cevap: D."
-  },
-  {
     "id": 20211067,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -12141,25 +11248,6 @@
     "explanation": "2021 KPSS ÖABT Biyoloji Soru 34 - Cevap: B."
   },
   {
-    "id": 20211135,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Biyoloji",
-    "topic": "Soru 35",
-    "difficulty": 3,
-    "questionText": "CAM bitkileri ile ilgili, 37. I. Yüksek yapılı bitkilerin kloroplastlarının stromasında Karboksilasyon ve dekarboksilasyon tepkimeleri, gerçekleşen Calvin döngüsünde; aynı hücrede farklı zamanlarda gerçekleşir. II. Geceleri mezofil hücrelerinin vakuollerinde malik asit depolanır. III. Fosfoenol pirüvatın karboksilasyonu ve bunun sonucunda oluşan malatın dekarboksilasyonu kloroplastlarda gerçekleşir. moleküllerinden hangileri kullanılır?",
-    "questionLatex": null,
-    "answers": [
-      "Yalnız III",
-      "I ve II",
-      "I, II ve III",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Biyoloji Soru 35 - Cevap: D."
-  },
-  {
     "id": 20211136,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -12863,25 +11951,6 @@
     "explanation": "2021 KPSS ÖABT Biyoloji Soru 75 - Cevap: C."
   },
   {
-    "id": 20211203,
-    "examType": "kpss_teacher",
-    "subject": "geography",
-    "subcategory": "Coğrafya",
-    "topic": "Soru 3",
-    "difficulty": 3,
-    "questionText": "5. Atmosferde miktarı değişen gazlar içerisinde; Dağılış haritalarının çiziminde uygulanan yöntemlerden biri de çizime konu olan unsurun akım çizgileri ile gösterilmesidir. Bu haritalarda unsurların çıkış ve varış yerine doğru çizilen çizgilerin kalınlıkları, unsura ait değer veya miktarların artışıyla orantılı olarak artar. Örneğin Dünya Hava Ulaşım Haritası, Dünya Göç Haritası ve Türkiye Kara Yolları Yoğunluk Haritası gibi haritalar bu yöntem ile çizilmektedir. gazlarından hangileri yer alır? Bu harita çizim yöntemi aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Koroplet",
-      "Dinamik",
-      "Kalitatif",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2021 KPSS ÖABT Coğrafya Soru 3 - Cevap: B."
-  },
-  {
     "id": 20211204,
     "examType": "kpss_teacher",
     "subject": "geography",
@@ -13146,25 +12215,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2021 KPSS ÖABT Coğrafya Soru 25 - Cevap: B."
-  },
-  {
-    "id": 20211226,
-    "examType": "kpss_teacher",
-    "subject": "geography",
-    "subcategory": "Coğrafya",
-    "topic": "Soru 26",
-    "difficulty": 3,
-    "questionText": "",
-    "questionLatex": null,
-    "answers": [
-      "yer alır?",
-      "Pozitivizm",
-      "Realizm",
-      "Pragmatizm",
-      "İdealizm"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Coğrafya Soru 26 - Cevap: A."
   },
   {
     "id": 20211228,
@@ -13697,25 +12747,6 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "2021 KPSS ÖABT Coğrafya Soru 60 - Cevap: C."
-  },
-  {
-    "id": 20211261,
-    "examType": "kpss_teacher",
-    "subject": "geography",
-    "subcategory": "Coğrafya",
-    "topic": "Soru 61",
-    "difficulty": 3,
-    "questionText": "Coğrafya derslerinde cinsiyete ve yaş gruplarına göre farklı ülkelerin çeşitli yıllara ait nüfus verileri kullanılarak nüfus piramitleri oluşturulabilir. Öğrenciler bu piramitleri oluştururken ülkelerin nüfus yapısı hakkında 63. Bir coğrafya öğretmeni, yakın çevrede yaşanan çevre değerlendirmelerde bulunabilir ve farklı ülke nüfuslarını problemleri konusunda öğrencilerini çevrede bulunan bir birbiri ile kıyaslayabilirler. göle geziye götürmüştür. Gölde oluşan kirliliğin nedenlerini ve ortaya çıkan sonuçları yerinde gözlem Bu işlemler sırasında öğrencilerin; yaptırdıktan sonra sınıf ortamında öğrencilerin I. değerlendirmelerde bulunmalarını sağlamıştır. tablo, diyagram ve grafik okuma, II. değişim ve sürekliliği algılama, Buna göre öğretmen aşağıdaki öğretim yöntem veya tekniklerinden hangisini kullanmıştır? III. zamanı algılama",
-    "questionLatex": null,
-    "answers": [
-      "Yalnız III",
-      "I ve II",
-      "Yalnız II",
-      "I, II ve III",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Coğrafya Soru 61 - Cevap: E."
   },
   {
     "id": 20211262,
@@ -14381,25 +13412,6 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "2021 KPSS ÖABT Din Kültürü Soru 29 - Cevap: D."
-  },
-  {
-    "id": 20211334,
-    "examType": "kpss_teacher",
-    "subject": "civics",
-    "subcategory": "Din Kültürü",
-    "topic": "Soru 34",
-    "difficulty": 3,
-    "questionText": "36. Rivayete göre Hz. Muhammed, ölümünden kısa süre Halifeliğinin son yıllarında Hz. Osman'ın bazı önce yaşadığı hastalık sırasında “Bana bir divit ve kâğıt uygulamalarına karşı eleştiri ve söylentiler artmıştır. Bu getirin de size bir şey yazdırayım ki benden sonra durum karşısında Halife, 654 yılı hac dönüşünde valileri yanlışlığa düşmeyesiniz.” demiştir. Bunun üzerine orada Medine’ye çağırarak bir toplantı yapmıştır. Bu toplantıda bulunanlar aralarında tartışmaya başlamışlardır. valilerden, kendisine iletilen şikâyetlere ilişkin çözüm Hz. Muhammed bu tartışmalar üzerine isteğinden önerilerini sunmalarını istemiştir. Bunun üzerine valiler vazgeçmiş ve daha sonra da bu konuyu tekrar gündeme şikâyetlerin bir tertip olduğunu ileri sürerek geçici ve getirmemiştir. sorunların temeline inmeyen öneriler sunmuşlardır. Bu olay İslam tarihinde aşağıdakilerden hangisiyle Aşağıdakilerden hangisi bu öneriler arasında isimlendirilmektedir? yer almaz?",
-    "questionLatex": null,
-    "answers": [
-      "Cemel Vakası",
-      "Garanik Hadisesi",
-      "Gadir-i Hum Olayı",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Din Kültürü Soru 34 - Cevap: A."
   },
   {
     "id": 20211336,
@@ -15124,25 +14136,6 @@
     "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 6 - Cevap: C."
   },
   {
-    "id": 20211409,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fen Bilimleri",
-    "topic": "Soru 9",
-    "difficulty": 3,
-    "questionText": "11. Celsius (oC), Fahrenheit (oF) ve Kelvin (K) sıcaklık ölçeklerine göre suyun donma ve kaynama sıcaklıkları aşağıdaki tabloda verilmiştir: Başlangıçta oda sıcaklığında bulunan özdeş üç metal Şekildeki devrede K-L noktaları arasındaki eşdeğer paradan; direnç kaç R'dir?",
-    "questionLatex": null,
-    "answers": [
-      "3",
-      "12",
-      "",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 9 - Cevap: D."
-  },
-  {
     "id": 20211410,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -15217,25 +14210,6 @@
     ],
     "correctAnswerIndex": 4,
     "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 13 - Cevap: E."
-  },
-  {
-    "id": 20211415,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fen Bilimleri",
-    "topic": "Soru 15",
-    "difficulty": 3,
-    "questionText": "16. Bir dalga leğeninin ucundaki motor, doğrusal dalgalar Ceyda; su ile dolu, derinliği sabit havuza bir taş atıyor. üretmektedir. Bu dalgalar KL noktaları arasından Bu esnada Ayşe de taşın suya düştüğü bölgenin geçtikten sonra dalgaların üstten görünümü şekildeki fotoğraflarını çekiyor. Ayşe’nin 5 s aralıkla aynı gibi oluyor. konumdan çektiği fotoğraflar Şekil 1 ve Şekil 2’deki gibidir. Ortam derinlikleri, dalga hızına etki edecek seviyelerde olduğuna göre K ve L arasındaki ortamın derinliği (D: derin, S: sığ) ve şekli aşağıdakilerden hangisi olabilir? Buna göre Şekil 1 ve Şekil 2’de verilen dairesel su",
-    "questionLatex": null,
-    "answers": [
-      "yargılarından hangileri doğrudur?",
-      "süratleri (sırasıyla v1 ile v2) arasındaki ilişkiler",
-      "",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 15 - Cevap: C."
   },
   {
     "id": 20211416,
@@ -15371,44 +14345,6 @@
     "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 26 - Cevap: A."
   },
   {
-    "id": 20211427,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fen Bilimleri",
-    "topic": "Soru 27",
-    "difficulty": 3,
-    "questionText": "50 mL 0,01 M SO4 29. Sabit sıcaklıkta kapalı bir kapta bulunan O2 ve H2 gaz 2- çözeltisi hazırlamak için kaç karışımının toplam basıncı 1,6 atm’dir. gram katı CuSO4. 5 H2O gereklidir? O2 nin kısmi basıncı 0,4 atm ve mol sayısı 0,3 (CuSO4. 5 H2O = 249 g/mol) olduğuna göre karışımdaki H2 nin mol sayısı kaçtır?",
-    "questionLatex": null,
-    "answers": [
-      "1,245",
-      "0,494",
-      "(Gazların ideal gaz olarak davrandığı varsayılacaktır.)",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 27 - Cevap: A."
-  },
-  {
-    "id": 20211428,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fen Bilimleri",
-    "topic": "Soru 28",
-    "difficulty": 3,
-    "questionText": "400 g suda 22,2 g 30. Tamamen ısıl yalıtılmış bir kaba 100 oC'de 10 g su nin çözünmesiyle buharı, 0 oC'de 100 g buz ve 20 oC'de 100 g su hazırlanan çözeltinin 1 atm dış basınçta kaynamaya konuluyor. başladığı sıcaklık kaç oC'dir? Sistem, ısıl dengeye ulaştığına göre aşağıdaki (H2O'nun normal kaynama sıcaklığı 100 oC'dir; ifadelerden hangisi doğrudur? (Su için He = 330 J/g, Hb = 2260 J/g, CaCl2 nin suda tamamen iyonlaştığı varsayılacaktır; csu = 4,18 J/g oC)",
-    "questionLatex": null,
-    "answers": [
-      "99,50",
-      "100,75",
-      "101,00",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 28 - Cevap: D."
-  },
-  {
     "id": 20211430,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -15426,25 +14362,6 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 30 - Cevap: C."
-  },
-  {
-    "id": 20211431,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fen Bilimleri",
-    "topic": "Soru 31",
-    "difficulty": 3,
-    "questionText": "33. Kapalı bir kapta gerçekleşen; Kapalı bir sistemde aşağıdaki tepkime %100 verimle gerçekleşiyor. denge tepkimesinin belirli bir sıcaklıktaki basınç cinsinden denge sabiti (Kp) değeri 0,23'tür. Buna göre, Aynı sıcaklıkta bu tepkimenin derişim cinsinden denge sabitinin (Kc) değeri aşağıdakilerden hangisidir? (Gazların ideal gaz olarak davrandığı varsayılacaktır. R ideal gaz sabiti (atm L mol-1 K-1 ), T sıcaklık (K)’dir.)",
-    "questionLatex": null,
-    "answers": [
-      "0,23 x RT",
-      "0,23 x (RT) 2",
-      "(KO2 = 71 g/mol, CO2 = 44 g/mol)",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 31 - Cevap: A."
   },
   {
     "id": 20211432,
@@ -15521,25 +14438,6 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 36 - Cevap: D."
-  },
-  {
-    "id": 20211437,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fen Bilimleri",
-    "topic": "Soru 37",
-    "difficulty": 3,
-    "questionText": "Bir organik bileşiğin formülü aşağıda verilmiştir: Bu bileşiğin IUPAC kurallarına göre sistematik adı aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "6-Bromo-1-klorosikloheksen",
-      "1-Bromo-2-kloro-2-sikloheksen",
-      "1-Kloro-2-bromo-6-sikloheksen",
-      "2-Kloro-3-bromosikloheksen",
-      "3-Bromo-2-klorosikloheksen"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 37 - Cevap: A."
   },
   {
     "id": 20211438,
@@ -15901,25 +14799,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 60 - Cevap: B."
-  },
-  {
-    "id": 20211461,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Fen Bilimleri",
-    "topic": "Soru 61",
-    "difficulty": 3,
-    "questionText": "2018 yılında yayımlanan Fen Bilimleri Dersi Öğretim Programı ile ilgili, I. Araştırma-sorgulamaya dayalı öğrenme yaklaşımına vurgu yapar. II. Öğrenme sürecinin değerlendirilmesine önem verir. konu içeriklerinin öğrenciye veriliş sırası aşağıdakilerden hangisidir? III. Fen okuryazarı bireyler yetiştirmeyi amaçlar.",
-    "questionLatex": null,
-    "answers": [
-      "I ve III",
-      "II ve III",
-      "I, II ve III",
-      "",
-      ""
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2021 KPSS ÖABT Fen Bilimleri Soru 61 - Cevap: E."
   },
   {
     "id": 20211463,

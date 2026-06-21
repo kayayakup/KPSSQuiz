@@ -11,6 +11,12 @@ namespace MillionaireGame
         public static int SafeHaven2 { get; private set; }
         public static int TotalSteps => PrizeLabels != null ? PrizeLabels.Length : 0;
 
+        private static readonly string[] ClassicPrizes = {
+            "500", "1,000", "2,000", "3,000", "5,000",
+            "7,500", "15,000", "30,000", "60,000", "125,000",
+            "250,000", "500,000", "1,000,000", "2,500,000", "5,000,000"
+        };
+
         static MoneyLadder()
         {
             // Default initialization
@@ -39,26 +45,39 @@ namespace MillionaireGame
 
             for (int i = 0; i < steps; i++)
             {
-                PrizeLabels[i] = "Soru " + (i + 1);
+                if (steps == 15 && i < ClassicPrizes.Length)
+                {
+                    PrizeLabels[i] = "₺" + ClassicPrizes[i];
+                }
+                else
+                {
+                    PrizeLabels[i] = "Soru " + (i + 1);
+                }
             }
 
-            SafeHaven1 = -1; // No safe havens in exam mode
-            SafeHaven2 = -1;
-        }
-
-        private static int ParsePrize(string text)
-        {
-            return 0; // Not needed
-        }
-
-        private static string FormatPrize(int amount)
-        {
-            return amount.ToString();
+            if (steps == 15)
+            {
+                SafeHaven1 = 4; // Step 5 (index 4)
+                SafeHaven2 = 9; // Step 10 (index 9)
+            }
+            else
+            {
+                SafeHaven1 = -1;
+                SafeHaven2 = -1;
+            }
         }
 
         public static string GetGuaranteedPrize(int currentStep)
         {
-            return "";
+            if (SafeHaven2 != -1 && currentStep > SafeHaven2)
+            {
+                return PrizeLabels[SafeHaven2];
+            }
+            if (SafeHaven1 != -1 && currentStep > SafeHaven1)
+            {
+                return PrizeLabels[SafeHaven1];
+            }
+            return "₺0";
         }
     }
 }

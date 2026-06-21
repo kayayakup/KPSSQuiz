@@ -285,25 +285,6 @@
     "explanation": "2020 KPSS ÖABT Tarih Soru 3 - Cevap: A."
   },
   {
-    "id": 2020022,
-    "examType": "kpss_teacher",
-    "subject": "turkish",
-    "subcategory": "Türkçe",
-    "topic": "Ses Bilgisi",
-    "difficulty": 3,
-    "questionText": "“katun > kadın” örneğindeki ünsüzde görülen ses olayı aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Ötümsüzleşme",
-      "Artdamaksılaşma",
-      "Ötümlüleşme",
-      "Akıcılaşma",
-      "Öndamaksılaşma"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2020 KPSS ÖABT Türkçe Soru 22 - Cevap: C."
-  },
-  {
     "id": 2020040,
     "examType": "kpss_teacher",
     "subject": "turkish",
@@ -608,25 +589,6 @@
     "explanation": "2020 KPSS ÖABT Türkçe Soru 38 - Cevap: A."
   },
   {
-    "id": 2020043,
-    "examType": "kpss_teacher",
-    "subject": "turkish",
-    "subcategory": "Türkçe",
-    "topic": "Türkçe Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "43. Sefil baykuş viranede seslenir Koç yiğitler gurbet ele yaslanır Bu parçada dile getirilen düşünceler aşağıdaki Her türlü çiçekle kırlar süslenir şairlerden hangisinin şiir anlayışını yansıtır? Yeşil yaprak giyer dumanlı dağlar",
-    "questionLatex": null,
-    "answers": [
-      "Orhan Veli Kanık",
-      "Faruk Nafiz Çamlıbel",
-      "Konusu doğa güzelliğidir.",
-      "Mehmet Âkif",
-      "Teşhis sanatı yapılmıştır."
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2020 KPSS ÖABT Türkçe Soru 43 - Cevap: C."
-  },
-  {
     "id": 2020046,
     "examType": "kpss_teacher",
     "subject": "turkish",
@@ -722,23 +684,6 @@
     "explanation": "2020 KPSS ÖABT Türkçe Soru 60 - Cevap: D."
   },
   {
-    "id": 2020064,
-    "examType": "kpss_teacher",
-    "subject": "turkish",
-    "subcategory": "Türkçe",
-    "topic": "Türkçe Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "64. Aşağıdakilerden hangisi söz varlığını geliştirmeye 66. Türkçe öğretmeni, öğrencilerine ünlü ve ünsüz seslerin yönelik yapılacak uygulamalardan biri değildir? çıkış noktalarını kavratmayı amaçlar. Öğretmen, bu sesleri çıkarırken ağzının hareketlerini öğrencilerinden",
-    "questionLatex": null,
-    "answers": [
-      "Yeni öğrenilen kelimelerden sözlük defteri oluşturma\n                                                                             izlemelerini ve sesletim yapmadan aynı ağız",
-      "Metin türlerine göre farklılaşan kelimeleri ayırt etme              dünyadaki benzer seslerin neler olabileceğini\n                                                                  ",
-      "Yeni öğrenilen kalıp ifadelerin günlük hayatta                      taklit etmelerini söyler."
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2020 KPSS ÖABT Türkçe Soru 64 - Cevap: B."
-  },
-  {
     "id": 2020070,
     "examType": "kpss_teacher",
     "subject": "turkish",
@@ -756,25 +701,6 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "2020 KPSS ÖABT Türkçe Soru 70 - Cevap: C."
-  },
-  {
-    "id": 2020073,
-    "examType": "kpss_teacher",
-    "subject": "turkish",
-    "subcategory": "Türkçe",
-    "topic": "Türkçe Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "73. Aşağıdakilerin hangisinde okuma metninin 75. Türkçe öğretmeni, öğrencilerinden okuma metnine anlaşılma düzeyinin metin içi ögelerden hareketle yönelik aşağıdaki soruları cevaplamalarını istemiştir: ölçülmesi beklenemez?  Ali neden arkadaşlarına yardım etmiş olabilir?",
-    "questionLatex": null,
-    "answers": [
-      "Metnin yazarı hakkında bilgi edinme\n                                                                          “Sonunda, böylece, özellikle” ifadeleri metne nasıl",
-      "Metnin anahtar kelimelerini belirleme                                bir anlam kazandırmıştır?\n                                                                          Metindeki ",
-      "Özü yitirmeden metni özetleme                                        olabilir?\n                                                                          Metinde abartma belirten h",
-      "Metni farklı bir sonla yeniden oluşturma\n                                                                          Metinde benzetme belirten ifadelere örnekler",
-      "Serim, düğüm, çözüm paragraflarını karşılaştırma                     veriniz."
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2020 KPSS ÖABT Türkçe Soru 73 - Cevap: A."
   },
   {
     "id": 2020202,
@@ -832,41 +758,6 @@
     ],
     "correctAnswerIndex": 4,
     "explanation": "2020 KPSS ÖABT Rehberlik Soru 6 - Cevap: E."
-  },
-  {
-    "id": 2020210,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Rehberlik",
-    "topic": "Rehberlik ve Psikolojik Danışma",
-    "difficulty": 3,
-    "questionText": "10. Ela Hanım kırk altı yaşındadır ve bir şirkette yönetici olarak çalışmaktadır. Yaşamı boyunca istediği ve 12. Analitik Psikoloji, psişe olarak adlandırılan psikolojik kendisine çok uygun olduğunu düşündüğü işi yapının merkezinde egonun yer aldığını belirtir. Ego, yapmaktadır. Dokuz yıllık mutlu bir evliliği ve bir çocuğu “ben” veya “benim olan” demektir ve bireyin farkında vardır. Yaşamı boyunca oluşturduğu kimlikten ve sahip olduğu yönlerini kapsar. Kişiliğin bu yönü bilinçlilik olduklarından memnundur. durumudur ve sosyal ortamlarda dış dünyaya gösterdikleridir. Aynı zamanda bu özellik sosyal açıdan Erikson’un Psikososyal Gelişim Kuramı'na göre uygun görülen bir ego olarak hareket eder. aşağıdakilerden hangisi Ela Hanım’ın yaşamının bu döneminde kendisine sorduğu sorulardan biridir? Jung’un Analitik Psikoloji Yaklaşım'ı dikkate",
-    "questionLatex": null,
-    "answers": [
-      "Yaşamım boyunca yaptıklarımdan ve yaşadıklarımdan                 alındığında açıklaması verilen bu kavram\n       memnun muyum?                                                     ",
-      "Kişisel gölge",
-      "Kollektif bilinç dışı",
-      "Hangi insanlarla daha fazla paylaşımda bulunmak\n       isterim?\n\n\n\n\n                                                                 3"
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2020 KPSS ÖABT Rehberlik Soru 10 - Cevap: E."
-  },
-  {
-    "id": 2020213,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Rehberlik",
-    "topic": "Rehberlik ve Psikolojik Danışma",
-    "difficulty": 3,
-    "questionText": "13. “İnsanı; geçmişinin ve çevresinin etkisinde kalan bir 15. Üniversitenin psikolojik danışma merkezinde bireysel varlık olarak görmek, davranışlarını bir nesneyi tanımlar psikolojik danışma yardımı alan Öykü ile psikolojik şekilde açıklamak, onun kişisel özgünlüğünü, danışman arasında geçen diyalog aşağıda verilmiştir: seçimlerini, sorumluluğunu ve doğal olarak iradesini kullanmasını engeller. Böyle bir durum aynı zamanda Psikolojik danışman: Bir önceki oturumda üniversite kişiyi derin çatışmalara sürükleyebilir.” görüşünü ortamına alışmakta zorlandığını, sınıf arkadaşlarınla ve savunan bir psikolojik danışman aşağıdaki danışma derslerle ilgili sorunlar yaşadığını söylemiştin. Hayatında yaklaşımlarından hangisini benimsemiştir? iyi giden tek şeyin nişanlınla ilişkin olduğunu belirtmiştin. Peki geçen oturumdan bu yana neler yaşıyorsun?",
-    "questionLatex": null,
-    "answers": [
-      "Varoluşçu",
-      "Psikanalitik\n                                                                         Öykü: (Gülerek",
-      "Sistematik                     ayrıldım. Konuşmak için beni çağırdı ve bu ilişkiyi\n                                                                         sürdürmek istemediğini s"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2020 KPSS ÖABT Rehberlik Soru 13 - Cevap: A."
   },
   {
     "id": 2020214,
@@ -1095,24 +986,6 @@
     ],
     "correctAnswerIndex": 4,
     "explanation": "2020 KPSS ÖABT Rehberlik Soru 37 - Cevap: E."
-  },
-  {
-    "id": 2020238,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Rehberlik",
-    "topic": "Rehberlik ve Psikolojik Danışma",
-    "difficulty": 3,
-    "questionText": "38. Psikodrama ile ilgili aşağıdakilerden hangisi doğru değildir?",
-    "questionLatex": null,
-    "answers": [
-      "Psikodramatik sahnelerde katılımcıların iç dünyaları\n       eyleme dönüşür.",
-      "Gerçeğin dramatizasyon ile yeniden keşfedilmesine\n       olanak sağlar.",
-      "Spontane tiyatrodan yararlanılarak ruhsal gelişime ve\n       tedaviye katkı sağlar.",
-      "Katılımcıları, eylemlerini sürdürmede ve bunları\n       sonuçlandırmada cesaretlendirir."
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2020 KPSS ÖABT Rehberlik Soru 38 - Cevap: E."
   },
   {
     "id": 2020241,
@@ -1530,23 +1403,6 @@
     "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 12 - Cevap: B."
   },
   {
-    "id": 2020313,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Sosyal Bilgiler Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "13. Avrupa’da feodalite sistemi içerisinde; soylular arasındaki kişisel bağlılık ilişkilerinde, bir senyöre yeminle bağlanan ve ondan elde ettikleri karşılığında, özellikle askerî hizmetle yükümlü olan 16. Türkiye Cumhuriyeti, uluslararası yargıya taşınan kişiler, aşağıdakilerden hangisiyle adlandırılır? Bozkurt-Lotus Davası’nda aşağıdaki devletlerden hangisiyle karşı karşıya gelmiştir?",
-    "questionLatex": null,
-    "answers": [
-      "Yunanistan",
-      "İngiltere",
-      "Fief\n\n\n\n\n                                                                    17. Orta"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 13 - Cevap: A."
-  },
-  {
     "id": 2020318,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -1566,23 +1422,6 @@
     "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 18 - Cevap: A."
   },
   {
-    "id": 2020320,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Sosyal Bilgiler Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "20. Aşağıdakilerden hangisi İkinci Dünya Savaşı yıllarında Müttefik Devletlerin katılımıyla toplanan Yukarıdaki ağaç türlerinden hangileri koniferler konferanslardan biri değildir? içerisinde yer almaz?",
-    "questionLatex": null,
-    "answers": [
-      "II ve III",
-      "Kazablanka",
-      "III ve IV"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 20 - Cevap: C."
-  },
-  {
     "id": 2020328,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -1599,40 +1438,6 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 28 - Cevap: A."
-  },
-  {
-    "id": 2020332,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Sosyal Bilgiler Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "32. Aşağıdaki haritada beş alan numaralandırılarak 35.  Samuel Huntington tarafından ileri sürülmüştür. gösterilmiştir.  Francis Fukuyama’nın Tarihin Sonu Teorisine tepki olarak çıkmıştır.  Gelecekte, bölgesel ekonomik blokların öneminin artacağını öngörmektedir. Bu bilgiler aşağıdaki jeopolitik teorilerden hangisine aittir?",
-    "questionLatex": null,
-    "answers": [
-      "Medeniyetler Çatışması Teorisi",
-      "Kenar Kuşak Hâkimiyet Teorisi\n      etkisi nedeniyle daha az nüfuslanmıştır?",
-      "Medeniyetler"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 32 - Cevap: B."
-  },
-  {
-    "id": 2020333,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Sosyal Bilgiler Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "33. Türkiye’de iklim şartlarının uygun olduğu alanlarda buğday hasadından sonra bazı bitkiler ikinci ürün olarak yetiştirilmektedir. 36. Türkiye’nin sınır aşan akarsularıyla ilgili, Aşağıdakilerden hangisi bu ikinci ürünlerden biridir? I. Fırat Nehri; Türkiye sınırını geçtikten sonra Suriye, ardından da Irak topraklarından geçerek Basra",
-    "questionLatex": null,
-    "answers": [
-      "Şeker pancarı",
-      "Tütün                          Körfezi'ne dökülür.",
-      "Çeltik                          II. Çoruh Nehri; Türkiye sınırını geçtikten sonra\n                                                                                Gürcistan’ın"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 33 - Cevap: D."
   },
   {
     "id": 2020334,
@@ -1839,23 +1644,6 @@
     "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 53 - Cevap: A."
   },
   {
-    "id": 2020354,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Sosyal Bilgiler Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "54. Bir çiftçi elma bahçesinde çalıştığı ilk saatte toplam 5 kg elma toplamaktadır. İkinci saat sonunda topladığı toplam elma miktarı 8 kg’ye, üçüncü saat sonunda 10 kg’ye ulaşmaktadır. Bu ifade üretim fonksiyonunun aşağıdaki özelliklerinden hangisiyle ilişkilidir?",
-    "questionLatex": null,
-    "answers": [
-      "Ölçeğe göre artan getiri",
-      "Ölçeğe göre sabit getiri",
-      "Ölçeğe göre azalan getiri"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 54 - Cevap: D."
-  },
-  {
     "id": 2020357,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -1913,23 +1701,6 @@
     "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 62 - Cevap: B."
   },
   {
-    "id": 2020363,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Sosyal Bilgiler Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "63. Aşağıda 2018 yılında yayımlanan 5. sınıf Sosyal Bilgiler Dersi Öğretim Programı’nda yer alan bazı öğrenme 65. Bir sosyal bilgiler öğretmeni, 2018 yılında yayımlanan alanları ve bu öğrenme alanlarında kazandırılması 5. sınıf Sosyal Bilgiler Dersi Öğretim Programı öngörülen değerler verilmiştir. ‘‘Kültür ve Miras’’ öğrenme alanında yer alan “Günlük yaşamdaki kültürel unsurların tarihî gelişimini ÖĞRENME ALANI DEĞER değerlendirir.” kazanımı doğrultusunda öğrencilerini, bir millete ait belge, eşya, maddi kültür ve sanat ögelerini I Üretim, Dağıtım ve Tüketim  Sorumluluk içeren bir müzeye götürmeyi planlamaktadır.  Özgürlük Buna göre öğretmenin, öğrencilerini aşağıdaki müze II Bilim, Teknoloji ve Toplum türlerinden hangisine götürmesi beklenir?  Bağımsızlık",
-    "questionLatex": null,
-    "answers": [
-      "Panoramik Müze",
-      "Planetaryum\n                                            ",
-      "V\n\n\n\n\n                                                                13"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 63 - Cevap: A."
-  },
-  {
     "id": 2020366,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -1947,23 +1718,6 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 66 - Cevap: D."
-  },
-  {
-    "id": 2020367,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Sosyal Bilgiler Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "67. Bir sosyal bilgiler öğretmeni, 2018 yılında yayımlanan Sosyal Bilgiler Dersi Öğretim Programı 5. sınıfta yer alan “Sanal ortamda ulaştığı bilgilerin doğruluk ve güvenilirliğini sorgular.” kazanımı doğrultusunda dersine bir afiş getirmiş ve öğrencilerden afişi inceleyerek “Bu afişi kim oluşturmuştur?, Bu afişte verilen mesajın 1. Ülkemizdeki ortak miras ögeleri kaç numaralı hedefinde kimler vardır?, Bu afişteki mesaj ne zaman, kutucuklarda yer alır? neden ve nasıl üretilmiştir?'' gibi soruları yanıtlamalarını istemiştir. 2. Ülkemiz dışındaki ortak miras ögeleri kaç numaralı kutucuklarda yer alır? Buna göre, öğretmen dersinde aşağıdaki medya okuryazarlığıyla ilgili becerilerden hangisini Buna göre öğretmenin kullandığı ölçme aracı geliştirmeye çalışmıştır? aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Farkındalık",
-      "Yapılandırılmış grid",
-      "Sınıflama haritası\n\n\n\n\n                                                                   14"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 67 - Cevap: C."
   },
   {
     "id": 2020370,
@@ -2002,23 +1756,6 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 71 - Cevap: C."
-  },
-  {
-    "id": 2020375,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Sosyal Bilgiler",
-    "topic": "Sosyal Bilgiler Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "75. Bir sosyal bilgiler öğretmeni, 2018 yılında yayımlanan 7. sınıf Sosyal Bilgiler Dersi Öğretim Programı’nda yer alan “Arkadaşlarıyla birlikte küresel sorunların çözümüne yönelik fikir önerileri geliştirir.” kazanımı doğrultusunda dersin girişinde güncel örneklerle kısa açıklamalar yaptıktan sonra öğrencilerine slogan bul etkinliği yaptırmak ister. Bunun için ilk olarak tahtaya \"İnsanların dikkatini küresel sorunlara çekmek için nasıl bir slogan kullanırdınız?\" sorusunu yazar. Daha sonra öğrenciler akıllarına gelen sloganları belirtilen süre içinde ifade ederler. Üretilen sloganlar bir öğrenci tarafından tahtaya yazılır. Etkinliğin sonunda öğrenciler birbirlerini yargılamadan sloganları değerlendirirler. Buna göre öğretmenin kullanmış olduğu yöntem/teknik aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Görüş geliştirme",
-      "Mikro öğretim",
-      "Philips 66\n\n\n\n\n                                                                                       T"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2020 KPSS ÖABT Sosyal Bilgiler Soru 75 - Cevap: B."
   },
   {
     "id": 2020102,
@@ -2096,23 +1833,6 @@
     "explanation": "2020 KPSS ÖABT Tarih Soru 17 - Cevap: D."
   },
   {
-    "id": 2020118,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Tarih Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "18. Aşağıdakilerden hangisi Türkler tarafından kutsal kabul edilen Orhun-Ötügen bölgesinde kurulan veya burayı egemenliği altına almak için mücadele eden Türk devletlerinden biri değildir?",
-    "questionLatex": null,
-    "answers": [
-      "Göktürkler",
-      "Kırgızlar",
-      "Türgişler\n\n\n\n\n                                                            4"
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2020 KPSS ÖABT Tarih Soru 18 - Cevap: E."
-  },
-  {
     "id": 2020122,
     "examType": "kpss_teacher",
     "subject": "history",
@@ -2169,23 +1889,6 @@
     "explanation": "2020 KPSS ÖABT Tarih Soru 24 - Cevap: B."
   },
   {
-    "id": 2020128,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Tarih Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "28. Aşağıdakilerden hangisi Osmanlı Devleti’nin 31. XVI. yüzyılın sonlarına doğru Osmanlı ülkesinde XIV. yüzyılda Balkanlarda yaptığı savaşlardan biri seyahat eden bir seyyah, yol boyunca uğradığı değildir? eyaletlerden alınan vergiler arasında bazı farklılıklara rastlamıştır. Uğradığı ilk eyalette merkeze salyane",
-    "questionLatex": null,
-    "answers": [
-      "Sırpsındığı",
-      "Niğbolu\n                                                                  denilen yıllık verginin gönderildiğini, ikincisinde köylünün\n                                             ",
-      "Pelekanon"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2020 KPSS ÖABT Tarih Soru 28 - Cevap: C."
-  },
-  {
     "id": 2020129,
     "examType": "kpss_teacher",
     "subject": "history",
@@ -2203,40 +1906,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2020 KPSS ÖABT Tarih Soru 29 - Cevap: B."
-  },
-  {
-    "id": 2020133,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Tarih Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "33. “Büyük soğukların öncesinde ilkbahara kadar olan altı 36. Osmanlı Devleti’nde tüm vatandaşları kapsayacak aylık dönemde, koyun etinin 250 dirhemi 1 akçeden şekilde düzenlenen Aile Hukuku Kararnamesi, satılsın, yazın ilk iki ayında koyun etinin 300 dirhemi aşağıdaki dönemlerin hangisinde yürürlüğe 1 akçeden; yazın son ayıyla sonbaharın ilk iki ayında girmiştir? 350 dirhemi 1 akçeden ve sonbaharın son iki ayında 300 dirhemi 1 akçeden satılsın.”",
-    "questionLatex": null,
-    "answers": [
-      "I. Meşrutiyet",
-      "II. Meşrutiyet",
-      "Millî Mücadele"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2020 KPSS ÖABT Tarih Soru 33 - Cevap: A."
-  },
-  {
-    "id": 2020135,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Tarih Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "35. Osmanlı ülkesinde aşağıdaki isyanlardan hangisi, XVII. yüzyıl başlarında Suriye ve Lübnan bölgesindeki nüfuz mücadelesi sonucunda 38. İkinci Balkan Savaşı sonunda, Balkan devletleri çıkmıştır? arasındaki sınırları belirleyen çok taraflı antlaşma",
-    "questionLatex": null,
-    "answers": [
-      "Kavalalı Mehmet",
-      "Tepedelenli",
-      "Karayazıcı İsyanı\n\n\n\n\n                                                              7"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2020 KPSS ÖABT Tarih Soru 35 - Cevap: C."
   },
   {
     "id": 2020140,
@@ -2274,23 +1943,6 @@
     ],
     "correctAnswerIndex": 4,
     "explanation": "2020 KPSS ÖABT Tarih Soru 41 - Cevap: E."
-  },
-  {
-    "id": 2020145,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Tarih Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "45. Aşağıdakilerden hangisi Atatürk Dönemi’nde 47. Bizans Devleti’nin yıkılması ve Ortodoks dünyasının devletçilik ilkesi doğrultusunda atılan adımlardan kutsal alanlarının Türklerin eline geçmesinin biri değildir? ardından başkentini “Üçüncü Roma” olarak ilan eden",
-    "questionLatex": null,
-    "answers": [
-      "Yunanistan",
-      "Sırbistan",
-      "Maden Tetkik"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2020 KPSS ÖABT Tarih Soru 45 - Cevap: D."
   },
   {
     "id": 2020146,
@@ -2348,23 +2000,6 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "2020 KPSS ÖABT Tarih Soru 51 - Cevap: A."
-  },
-  {
-    "id": 2020152,
-    "examType": "kpss_teacher",
-    "subject": "history",
-    "subcategory": "Tarih",
-    "topic": "Tarih Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "52. Sanayi Devrimi sürecinde İngiltere’de görülen ve",
-    "questionLatex": null,
-    "answers": [
-      "Vichy Hükûmeti\n    çıkmıştır?",
-      "Üçüncü Reich",
-      "Konvansiyon Hükûmeti"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "2020 KPSS ÖABT Tarih Soru 52 - Cevap: C."
   },
   {
     "id": 2020156,
@@ -2593,41 +2228,6 @@
     "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 5 - Cevap: A."
   },
   {
-    "id": 2020406,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Okul Öncesi Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "6. Aşağıdakilerden hangisi insan vücudunda olduğu bağışıklık, pasif bağışıklığa örnek oluşturur? sentezlenebilir?",
-    "questionLatex": null,
-    "answers": [
-      "Yalnız II",
-      "Yalnız III",
-      "II ve III",
-      "Kolesterol"
-    ],
-    "correctAnswerIndex": 4,
-    "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 6 - Cevap: E."
-  },
-  {
-    "id": 2020407,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Okul Öncesi Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "7. Aşağıdakilerden hangisi hormon içerikli aile D) İlk 12 ay E) İlk 15 ay planlaması yöntemlerindendir?",
-    "questionLatex": null,
-    "answers": [
-      "İlk 12 ay",
-      "İlk 15 ay\n   planlaması yöntemlerindendir?",
-      "Spermisitler"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 7 - Cevap: B."
-  },
-  {
     "id": 2020411,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -2664,23 +2264,6 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 12 - Cevap: B."
-  },
-  {
-    "id": 2020413,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Okul Öncesi Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "13. Arkadaşlarının evine ziyarete giden Okan ve Ebru; evlerine döndüklerinde oğulları Metin'in, misafir oldukları evdeki bilgisayarın araba şeklindeki faresini izin almadan cebine koyup eve getirdiğini fark etmişlerdir. Okan ve Ebru, çocuklarına başkalarının eşyalarını izinsiz almaması gerektiğini bildiği hâlde bunu neden yaptığını sorduklarında Metin \"Ama ben onlara bilgisayarla oynamak istediğimi kaç kere söyledim, yine de bana bilgisayarı açmadılar.\" demiştir. Buna göre, Metin'in kullandığı savunma mekanizması aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Mantığa bürüme",
-      "Yer değiştirme",
-      "Yadsıma\n\n\n\n\n                                                                  3"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 13 - Cevap: A."
   },
   {
     "id": 2020416,
@@ -2737,23 +2320,6 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 20 - Cevap: C."
-  },
-  {
-    "id": 2020421,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Okul Öncesi Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "21. Dedeleri Efe’ye sarı, Merve’ye yeşil saat almıştır. Merve 23. Aşağıdaki erken çocukluk dönemine ait örnek ilk önce dedesinin aldığı saati beğense de sonradan durumlardan hangisi, yanında belirtilen cinsel kimlik Efe’nin sarı saatini almak istemiştir. Efe kendi saatini kazanım sürecinin tamamlanmadığını gösterir? vermek istememiştir. Bunun üzerine Merve ağlayarak kendini yere atmıştır. Kardeşinin üzülmesine",
-    "questionLatex": null,
-    "answers": [
-      "Kişiler arası uyum",
-      "Toplumsal sistem ve vicdan                                          çıkıp asar.” demiştir. -",
-      "Toplumsal sözleşme yönelimi"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 21 - Cevap: D."
   },
   {
     "id": 2020424,
@@ -2870,23 +2436,6 @@
     "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 34 - Cevap: D."
   },
   {
-    "id": 2020435,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Okul Öncesi Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "35. Hande Hanım,12 aylık olan kızı Ece’nin farklı D) Süreçte çocukların rol oynamalarını sağlamıştır. dokulardaki materyallere dokunmaktan hoşlandığını; renkli, parlak, ses çıkaran ve hareket eden cisimlere ilgi duyduğunu fark etmiştir. Bu nedenle, kitapçıdan kızının E) Değerlendirme aşamasında tek bir etkinlik bütün duyu organlarını etkili şekilde kullanabileceği bir kullanmıştır. kitap önermesini istemiştir. Buna göre, kitapçının Hande Hanım'a önerdiği kitap çeşidi aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Süreçte çocukların rol oynamalarını sağlamıştır.\n    dokulardaki materyallere dokunmaktan hoşlandığını;\n    renkli, parlak, ses çıkaran ve hareket eden cisimlere ilgi\n    duyduğunu",
-      "Özel nitelikli",
-      "Tanıma ve algılama"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 35 - Cevap: B."
-  },
-  {
     "id": 2020438,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -2962,23 +2511,6 @@
     "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 48 - Cevap: A."
   },
   {
-    "id": 2020449,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Okul Öncesi Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "49. Tuna Öğretmen insandaki kan dolaşımını anlatmak için su şebekesi maketi hazırlar. Etkinlik sırasında kan dolaşımı ile su şebekesinin ilgisinin olup olmadığını çocuklarla tartışır. Sohbet sırasında Tuna Öğretmen çocukların her iki sistemi karşılaştırarak benzer özelliklerini bulmalarına rehberlik eder. Buna göre, Tuna Öğretmen uyguladığı fen etkinliğinde aşağıdaki öğretim yöntem veya tekniklerinden hangisine yer vermiştir?",
-    "questionLatex": null,
-    "answers": [
-      "Soru cevap",
-      "Örnek olay",
-      "Problem çözme"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 49 - Cevap: A."
-  },
-  {
     "id": 2020451,
     "examType": "kpss_teacher",
     "subject": "general_culture",
@@ -3013,23 +2545,6 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 54 - Cevap: A."
-  },
-  {
-    "id": 2020455,
-    "examType": "kpss_teacher",
-    "subject": "general_culture",
-    "subcategory": "Okul Öncesi",
-    "topic": "Okul Öncesi Öğretmenliği",
-    "difficulty": 3,
-    "questionText": "55. Eşi Ahmet Bey’in işten çıkarılmasının ardından Aysu Hanım evlere temizliğe gitmeye başlamıştır ve 5 yaşındaki oğlu Burak ile çok daha az vakit geçirmektedir. Günün büyük kısmını baba ile evde geçiren Burak daha stresli görünmekte ve saldırgan davranışlar sergilemektedir. 57. Okumayı “daha önceki bilgileri temel alarak gelişen bir tahmin etme ve yapılandırma süreci” olarak Bu durum, Aile Sistemleri Kuramının hangi tanımlayan dil ve erken okuryazarlık kuramı varsayımını doğrular niteliktedir? aşağıdakilerden hangisidir?",
-    "questionLatex": null,
-    "answers": [
-      "Psikolinguistik Kuram",
-      "Psikanalitik Kuram\n       oluşmuştur, bu ilişkiler bütünü içinde sistemin sınırları\n       ve çevresi bulunmaktadır.",
-      "Sosyokültürel Gelişim Kuramı\n       mesajlar kullanarak, üyelerin davranışlarını istendik\n       kalıplara sokmaktadır."
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "2020 KPSS ÖABT Okul Öncesi Soru 55 - Cevap: A."
   },
   {
     "id": 2020458,

@@ -713,6 +713,14 @@ MonoBehaviour:
   reminderTitle: {fileID: 0}
   reminderText: {fileID: 0}
   reminderCloseButton: {fileID: 0}
+  explanationPanel: {fileID: 0}
+  explanationTitle: {fileID: 0}
+  explanationText: {fileID: 0}
+  explanationCloseButton: {fileID: 0}
+  btnShowExplanation: {fileID: 0}
+  wrongAnswerPanel: {fileID: 0}
+  btnShowCorrectAnswer: {fileID: 0}
+  btnPassQuestion: {fileID: 0}
 --- !u!1 &991039139
 GameObject:
   m_ObjectHideFlags: 0
@@ -898,8 +906,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a8afbad123e89498244c3e7992335a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoogleAdMobController
-  bannerID: ca-app-pub-3940256099942544/6300978111
-  interstitialID: ca-app-pub-3940256099942544/1033173712
+  bannerID: ca-app-pub-5398339005079750/6534926249
+  interstitialID: ca-app-pub-5398339005079750/1408768245
+  rewardedID: ca-app-pub-5398339005079750/2627470821
 --- !u!4 &1611564419
 Transform:
   m_ObjectHideFlags: 0

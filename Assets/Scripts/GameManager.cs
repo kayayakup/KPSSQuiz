@@ -49,7 +49,7 @@ namespace MillionaireGame
         [SerializeField] private float _slideshowInterval = 10f;
 
         [Header("Anti-Copyright Settings")]
-        [SerializeField] [Range(0.5f, 1.5f)] private float _audioPitch = 0.92f;
+        [SerializeField][Range(0.5f, 1.5f)] private float _audioPitch = 0.92f;
 
         [Header("UI Customization")]
         [SerializeField] private Sprite _settingsButtonSprite;
@@ -75,6 +75,7 @@ namespace MillionaireGame
         private int _consecutiveLosses = 0;
         private int _correctAnswersCount = 0;
         private int _wrongAnswersCount = 0;
+        private bool _isViewingExplanation = false;
 
         private ReminderDatabase _reminderDB;
 
@@ -87,7 +88,7 @@ namespace MillionaireGame
             // Create manager components on this same GameObject
             _questionMgr = gameObject.AddComponent<QuestionManager>();
             _lifelineMgr = gameObject.AddComponent<LifelineManager>();
-            _uiMgr       = GetComponent<UIManager>();
+            _uiMgr = GetComponent<UIManager>();
             if (_uiMgr == null) _uiMgr = gameObject.AddComponent<UIManager>();
             _uiMgr.timerFont = timerFont;
 
@@ -119,20 +120,9 @@ namespace MillionaireGame
             if (_backgroundSprites != null && _backgroundSprites.Length > 0)
                 _slideshowCoroutine = StartCoroutine(SlideshowRoutine());
 
-            // Check if language was previously selected
-            if (PlayerPrefs.HasKey(PREF_LANGUAGE))
-            {
-                // Returning user – skip language screen, go straight to categories
-                string savedLang = PlayerPrefs.GetString(PREF_LANGUAGE, "EN");
-                _uiMgr.SetSettingsButtonVisible(true);   // show gear immediately
-                ApplyLanguageAndShowCategories(savedLang);
-            }
-            else
-            {
-                // First launch – show language selection (gear hidden until language chosen)
-                _uiMgr.PopulateLanguageButtons(LocalizationManager.AvailableLanguages, OnFirstLanguageSelected);
-                _uiMgr.ShowLanguageScreen(true);
-            }
+            // Force TR language and skip language screen
+            _uiMgr.SetSettingsButtonVisible(true);
+            ApplyLanguageAndShowCategories("TR");
 
             // Also wire up branch buttons in Start
             _uiMgr.PopulateBranchButtons(OnBranchSelected);
@@ -188,21 +178,13 @@ namespace MillionaireGame
             ApplyAudioSettings(_uiMgr.musicVolumeSlider.value, _uiMgr.sfxVolumeSlider.value, muted);
         }
 
-        /// <summary>Called only on first launch from language panel buttons.</summary>
-        private void OnFirstLanguageSelected(string language)
-        {
-            PlayClickSound();
-            PlayerPrefs.SetString(PREF_LANGUAGE, language);
-            PlayerPrefs.Save();
-            _uiMgr.SetSettingsButtonVisible(true);   // reveal gear after first-time selection
-            ApplyLanguageAndShowCategories(language);
-        }
+
 
         /// <summary>Loads the localized text and shows Branch screen.</summary>
         private void ApplyLanguageAndShowCategories(string language)
         {
             _currentLanguage = language;
-            
+
             _reminderDB = JsonLoader.LoadReminders("Reminders/Reminders");
 
             // Apply localized text to UI
@@ -224,7 +206,8 @@ namespace MillionaireGame
                 string closeLabel = LocalizationManager.Get("continue");
                 _uiMgr.reminderCloseButton.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = closeLabel;
 
-                _uiMgr.ShowReminderScreen(rTitle, rText, () => {
+                _uiMgr.ShowReminderScreen(rTitle, rText, () =>
+                {
                     _uiMgr.ShowBranchScreen(true);
                 });
             }
@@ -239,7 +222,7 @@ namespace MillionaireGame
             PlayClickSound();
             Debug.Log($"[GameManager] Branch selected: {branchCode}");
             _questionMgr.LoadDatabase(branchCode);
-            
+
             if (!_questionMgr.IsReady)
             {
                 Debug.LogError($"[GameManager] QuestionManager failed to load branch {branchCode}!");
@@ -288,7 +271,7 @@ namespace MillionaireGame
             _uiMgr.ShowResult(title, $"{msg}" + GenerateKPSSResultReport());
         }
 
-        private void HandleLoss()
+        private void HandleLoss(System.Action onComplete = null)
         {
             _consecutiveLosses++;
             if (_consecutiveLosses >= 3)
@@ -296,26 +279,16 @@ namespace MillionaireGame
                 _consecutiveLosses = 0;
                 if (GoogleAdMobController.Instance != null)
                 {
-                    GoogleAdMobController.Instance.ShowInterstitialAd();
+                    // Reklam kapandığında (veya gösterilemezse) onComplete çağrılır
+                    GoogleAdMobController.Instance.ShowInterstitialAd(onComplete);
+                    return; // onComplete interstitial callback'inden çağrılacak
                 }
             }
+            // Reklam eşiğine ulaşılmadıysa veya AdMob yoksa hemen devam et
+            onComplete?.Invoke();
         }
 
-        /// <summary>Called when language is changed via settings dropdown.</summary>
-        private void OnLanguageChangedFromSettings(int index)
-        {
-            if (index < 0 || index >= LocalizationManager.AvailableLanguages.Count) return;
-            string lang = LocalizationManager.AvailableLanguages[index].code;
-            if (lang == _currentLanguage) return;
 
-            PlayerPrefs.SetString(PREF_LANGUAGE, lang);
-            PlayerPrefs.Save();
-
-            ApplyLanguageAndShowCategories(lang);
-            _uiMgr.HideSettingsPanel();
-        }
-
-        // ═══════════════════════════════════════════════
         //  BUTTON WIRING
         // ═══════════════════════════════════════════════
 
@@ -340,38 +313,53 @@ namespace MillionaireGame
             // Walk away
             _uiMgr.btnWalkAway.onClick.AddListener(() => { PlayClickSound(); OnWalkAway(); });
 
+            // Explanation
+            _uiMgr.btnShowExplanation.onClick.AddListener(() => { PlayClickSound(); OnShowExplanationClicked(); });
+            _uiMgr.explanationCloseButton.onClick.AddListener(() =>
+            {
+                PlayClickSound();
+                _uiMgr.HideExplanationPanel();
+                _isViewingExplanation = false;
+            });
+
+            // Wrong Answer Panel
+            _uiMgr.btnShowCorrectAnswer.onClick.AddListener(() => { PlayClickSound(); OnShowCorrectAnswerClicked(); });
+            _uiMgr.btnPassQuestion.onClick.AddListener(() => { PlayClickSound(); OnPassQuestionClicked(); });
+
             // Result → Main menu
             _uiMgr.resultMenuButton.onClick.AddListener(() => { PlayClickSound(); ReturnToMenu(); });
 
             // Persistent settings gear button (canvas-level, always visible after language chosen)
             _uiMgr.btnSettings.onClick.AddListener(() => { PlayClickSound(); _uiMgr.ShowSettingsPanel(); });
             _uiMgr.settingsCloseButton.onClick.AddListener(() => { PlayClickSound(); _uiMgr.HideSettingsPanel(); });
-            _uiMgr.languageDropdown.onValueChanged.AddListener(OnLanguageChangedFromSettings);
+            // _uiMgr.languageDropdown.onValueChanged.AddListener(OnLanguageChangedFromSettings);
 
             _uiMgr.musicVolumeSlider.onValueChanged.AddListener(OnMusicVolumeChanged);
             _uiMgr.sfxVolumeSlider.onValueChanged.AddListener(OnSFXVolumeChanged);
             _uiMgr.muteToggle.onValueChanged.AddListener(OnMuteToggled);
 
-            // Geri butonları
-            _uiMgr.SetBranchBackAction(() => {
-                // Branch panelden geri gelince dil seçimine dön
-                _uiMgr.ShowLanguageScreen(true);
-                _uiMgr.SetSettingsButtonVisible(false);
+            _uiMgr.SetBranchBackAction(() =>
+            {
+                // Return to menu or do nothing since language is removed
+                ReturnToMenu();
             });
 
-            _uiMgr.SetCategoryBackAction(() => {
+            _uiMgr.SetCategoryBackAction(() =>
+            {
                 // Category panelden geri gelince branch paneline dön
                 _uiMgr.ShowBranchScreen(true);
                 _uiMgr.SetSettingsButtonVisible(false);
             });
 
-            _uiMgr.SetGameBackAction(() => {
+            _uiMgr.SetGameBackAction(() =>
+            {
                 // Oyun panelinden geri gelince kategori seçimine dön
                 // Oyunu sıfırla
                 ReturnToMenu();
             });
 
-            _uiMgr.SetGamesCloseAction(() => {
+            _uiMgr.SetGamesCloseAction(() =>
+            {
                 // Games panelinden çıkınca branch paneline dön
                 PlayClickSound();
                 _uiMgr.ShowBranchScreen(true);
@@ -410,14 +398,17 @@ namespace MillionaireGame
 
             // Start at step 0
             _currentStep = 0;
-            
+
             // Set bulk timer: 60 seconds per question in the test
             _timer = MoneyLadder.TotalSteps * 60f;
             _timerActive = false; // Pause timer during the initial ladder overlay
 
             _uiMgr.UpdateLadder(_currentStep);
-            _timerActive = true;
-            ShowCurrentQuestion();
+            _uiMgr.ShowLadderOverlay(() =>
+            {
+                _timerActive = true;
+                ShowCurrentQuestion();
+            });
         }
 
         private IEnumerator AutoDismissLadder(float delay, System.Action onDismiss)
@@ -493,8 +484,6 @@ namespace MillionaireGame
             if (!correct)
             {
                 _wrongAnswersCount++;
-                // Also show the correct one
-                _uiMgr.ShowCorrectAnswer(_currentQuestion.correctAnswerIndex);
                 PlayAudio(audioWrong);
                 SpawnParticles(_particlesWrong);
             }
@@ -511,29 +500,56 @@ namespace MillionaireGame
 
         private IEnumerator ProcessAnswerAfterDelay(bool correct, int chosenIndex)
         {
+            if (correct && !string.IsNullOrEmpty(_currentQuestion.explanation))
+            {
+                _uiMgr.btnShowExplanation.gameObject.SetActive(true);
+            }
+
             yield return new WaitForSeconds(1.5f);
 
+            while (_isViewingExplanation)
+            {
+                yield return null;
+            }
+
+            _uiMgr.btnShowExplanation.gameObject.SetActive(false);
+
+            if (!correct)
+            {
+                PlayAudio(audioWrong);
+                _uiMgr.ShowWrongAnswerPanel();
+                yield break;
+            }
+
+            GoToNextQuestionOrWin();
+        }
+
+        private void GoToNextQuestionOrWin()
+        {
             _currentStep++;
 
             if (_currentStep >= MoneyLadder.TotalSteps)
             {
                 PlayAudio(audioWin);
                 bool isTurk = (_currentLanguage == "TR");
-                string title = isTurk ? "Sınav Bitti" : "Exam Completed";
-                string text = isTurk ? "Tüm soruları tamamladınız." : "You have completed all questions.";
-                
+                string title = isTurk ? "Tebrikler!" : "Congratulations!";
+                string prize = MoneyLadder.PrizeLabels[MoneyLadder.TotalSteps - 1];
+                string text = isTurk ? $"Büyük Ödülü Kazandınız: {prize}" : $"You won the grand prize: {prize}";
+
                 _uiMgr.ShowResult(
                     title,
-                    text + GenerateKPSSResultReport()
+                    text
                 );
                 _consecutiveLosses = 0; // Reset losses on win
             }
             else
             {
-                // Go to next question without intermediate screen
                 _uiMgr.UpdateLadder(_currentStep);
-                _timerActive = true;
-                ShowCurrentQuestion();
+                _uiMgr.ShowLadderOverlay(() =>
+                {
+                    _timerActive = true;
+                    ShowCurrentQuestion();
+                });
             }
         }
 
@@ -548,13 +564,92 @@ namespace MillionaireGame
             _timerActive = false;
 
             bool isTurk = (_currentLanguage == "TR");
-            string title = isTurk ? "Sınavı Bitirdiniz" : "Exam Finished";
-            string text = isTurk ? "Sınavı erken bitirmeyi seçtiniz." : "You chose to finish the exam early.";
+            string title = isTurk ? "Çekildiniz" : "Walked Away";
+            string prize = _currentStep > 0 ? MoneyLadder.PrizeLabels[_currentStep - 1] : "₺0";
+            string text = isTurk ? $"Oyundan çekildiniz.\nKazandığınız Ödül: {prize}" : $"You walked away.\nYou won: {prize}";
 
             _uiMgr.ShowResult(
                 title,
-                text + GenerateKPSSResultReport()
+                text
             );
+        }
+
+        private void OnShowExplanationClicked()
+        {
+            if (_currentQuestion == null || string.IsNullOrEmpty(_currentQuestion.explanation)) return;
+
+            _isViewingExplanation = true;
+            _uiMgr.btnShowExplanation.gameObject.SetActive(false);
+
+            if (GoogleAdMobController.Instance != null)
+            {
+                GoogleAdMobController.Instance.ShowRewardedAd((bool success) =>
+                {
+                    _uiMgr.ShowExplanationPanel("Açıklama", _currentQuestion.explanation);
+                });
+            }
+            else
+            {
+                _uiMgr.ShowExplanationPanel("Açıklama", _currentQuestion.explanation);
+            }
+        }
+
+        private void OnPassQuestionClicked()
+        {
+            _uiMgr.HideWrongAnswerPanel();
+            // Önce HandleLoss'u çağır; reklam varsa biter bitmez sonraki soruya geç
+            HandleLoss(() => GoToNextQuestionOrWin());
+        }
+
+        private void OnShowCorrectAnswerClicked()
+        {
+            _uiMgr.HideWrongAnswerPanel();
+
+            // Snapshot the current question before the async ad call —
+            // _currentQuestion could theoretically change while the ad is playing.
+            var questionSnapshot = _currentQuestion;
+
+            if (GoogleAdMobController.Instance != null)
+            {
+                GoogleAdMobController.Instance.ShowRewardedAd((bool success) =>
+                {
+                    StartCoroutine(ShowCorrectAnswerAndExplanationCoroutine(questionSnapshot));
+                });
+            }
+            else
+            {
+                StartCoroutine(ShowCorrectAnswerAndExplanationCoroutine(questionSnapshot));
+            }
+        }
+
+        private IEnumerator ShowCorrectAnswerAndExplanationCoroutine(QuestionEntry question = null)
+        {
+            // Use provided snapshot or fall back to current question
+            var q = question ?? _currentQuestion;
+            if (q == null) yield break;
+
+            _uiMgr.ShowCorrectAnswer(q.correctAnswerIndex);
+
+            // Construct correct answer text and explanation
+            string correctOptionLetter = UIManager.AnswerLetters[q.correctAnswerIndex];
+            string correctOptionText = q.answers[q.correctAnswerIndex];
+            string correctMsg = $"Doğru Cevap: {correctOptionLetter}) {correctOptionText}";
+
+            string panelText = correctMsg;
+            if (!string.IsNullOrEmpty(q.explanation))
+            {
+                panelText += $"\n\n{q.explanation}";
+            }
+
+            _isViewingExplanation = true;
+            _uiMgr.ShowExplanationPanel("Doğru Cevap", panelText);
+
+            while (_isViewingExplanation)
+            {
+                yield return null;
+            }
+
+            HandleLoss(() => GoToNextQuestionOrWin());
         }
 
         // ═══════════════════════════════════════════════
@@ -632,11 +727,11 @@ namespace MillionaireGame
         {
             float net = _correctAnswersCount - (_wrongAnswersCount / 4.0f);
             if (net < 0) net = 0;
-            
+
             float scoreMultiplier = MoneyLadder.TotalSteps > 0 ? (50f / MoneyLadder.TotalSteps) : 0f;
             float kpssScore = 50f + (net * scoreMultiplier);
             if (kpssScore > 100f) kpssScore = 100f;
-            
+
             bool isTurk = (_currentLanguage == "TR");
             if (isTurk)
             {
